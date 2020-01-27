@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Public Sans', Arial, sans-serif;
+    background: #FAFAFA
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'HCo Ringside Narrow SSm', Arial, sans-serif;
+}
+.containing-element {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.page-content {
+    flex-grow: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+}
