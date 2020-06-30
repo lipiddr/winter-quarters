@@ -1,0 +1,663 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 27 Jan 2006
+2 TIME 09:32:24
+1 FILE bethlehem.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I1@ INDI
+1 NAME William Buchanon /Corbitt/
+2 SURN Corbitt
+2 GIVN William Buchanon
+2 _AKA Willey R.; Wylie; Willie
+1 SEX M
+1 BIRT
+2 DATE 2 Apr 1808
+2 PLAC Nashville, Davidson, Tennesee
+2 SOUR @S6@
+1 DEAT
+2 DATE 19 Jun 1889
+2 PLAC Morgan, Morgan, Utah
+2 SOUR @S2@
+1 BURI
+2 PLAC Morgan, Morgan, Utah
+2 SOUR @S3@
+1 _UID 113713B7BBD79040918127DB389091280999
+1 FAMS @F2@
+1 FAMC @F1@
+1 NOTE *FamilySearch, IGI Ordinance Record of Wilie Buchon Corbit lists his birth as 29 Apr 1808. (
+2 CONC I think this is a mistake.)
+2 CONT *FamilySearch, IGI Ordinance Record of Wylie Buchan Corbitt lists his death as 13 Jun 1889. (
+2 CONC this could be the actual death date and the 19th is the burial date.)
+2 CONT *FamilySearch, AF Individual Record of Wiley Buchanon CORBIT lists his burial in Farmington
+2 CONC , Davis, Utah
+2 CONT *The source under "individual source" is my source for W.B. Corbitt's name.
+2 CONT 
+2 CONT Listed as a physician in the 1880 U. S. Census.
+1 SOUR @S9@
+1 CHAN
+2 DATE 12 Sep 2005
+3 TIME 09:39:49
+0 @I2@ INDI
+1 NAME Harrison /Corbitt/
+2 SURN Corbitt
+2 GIVN Harrison
+1 SEX M
+1 _UID 4C2926BE44172E4A95C23554E33ABE381F3A
+1 FAMS @F1@
+1 SOUR @S2@
+1 CHAN
+2 DATE 7 Sep 2005
+3 TIME 08:41:25
+0 @I3@ INDI
+1 NAME Christine /Copeland/
+2 SURN Copeland
+2 GIVN Christine
+1 SEX F
+1 _UID BA4CAB6A839E33429DA871EB7A770796E0BC
+1 FAMS @F1@
+1 NOTE *Eliza's mother is also listed as Christine Copeland
+1 SOUR @S2@
+1 CHAN
+2 DATE 7 Sep 2005
+3 TIME 08:52:54
+0 @I4@ INDI
+1 NAME Elzira /Shelton/
+2 SURN Shelton
+2 GIVN Elzira
+1 SEX F
+1 BIRT
+2 DATE 12 Nov 1830
+2 PLAC , Overton, Tennesee
+2 SOUR @S6@
+1 DEAT
+2 DATE 4 May 1901
+2 PLAC Morgan, Morgan, Utah
+2 SOUR @S4@
+1 BURI
+2 PLAC Morgan, Morgan, Utah
+2 SOUR @S3@
+1 _UID 48A5EDB02C7A5D4B920808998E9B7FCC876C
+1 FAMS @F2@
+1 FAMC @F3@
+1 NOTE *Bethlehem Branch records her name as Alzira.
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 18:08:40
+0 @I5@ INDI
+1 NAME William /Shelton/
+2 SURN Shelton
+2 GIVN William
+1 SEX M
+1 _UID 1E85EE847DF0EF4DA20D5EB9E1D49C340942
+1 FAMS @F3@
+1 SOUR @S4@
+1 CHAN
+2 DATE 7 Sep 2005
+3 TIME 08:49:12
+0 @I6@ INDI
+1 NAME Christine /Copeland/
+2 SURN Copeland
+2 GIVN Christine
+1 SEX F
+1 _UID 52108023AF4CA74E950405665AAC40ACEB0B
+1 FAMS @F3@
+1 NOTE *Wiley's mother is also listed as Christine Copeland
+1 SOUR @S4@
+1 CHAN
+2 DATE 7 Sep 2005
+3 TIME 08:53:29
+0 @I7@ INDI
+1 NAME Elzira /Corbitt/
+2 SURN Corbitt
+2 GIVN Elzira
+1 SEX F
+1 BIRT
+2 DATE 23 Nov 1855
+2 PLAC , Andrew, Missouri
+1 DEAT
+2 DATE 2 Nov 1903
+2 PLAC Lyman, Uinta, Wyoming
+2 SOUR @S5@
+1 BURI
+2 DATE Nov 1903
+2 PLAC Lyman, Uinta, Wyoming
+2 SOUR @S5@
+1 _UID A729B4DB158C1C4F965EC934CA1ED71B36F4
+1 FAMC @F2@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 18:14:03
+0 @I8@ INDI
+1 NAME Martha Dinah /Corbitt/
+2 SURN Corbitt
+2 GIVN Martha Dinah
+1 SEX F
+1 BIRT
+2 DATE 20 Dec 1856
+2 PLAC Florence, Douglas, Nebraska Territory
+2 SOUR @S6@
+1 DEAT
+2 DATE 20 May 1923
+2 PLAC Kelseyville, Lake, California
+2 SOUR @S7@
+1 BURI
+2 PLAC Kelseyville, Lake, California
+2 SOUR @S7@
+1 _UID 775699FB30834742A2C4B5270007AA9727FD
+1 FAMC @F2@
+1 NOTE *Birthplace of Martha listed by Bethlehem Branch is Florence, N. T. (assumed to mean Nebrask
+2 CONC a Territory)
+2 CONT *Bethlehem Branch lists her name as D. Me.
+2 CONT *
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 18:38:05
+0 @I9@ INDI
+1 NAME Margaret Eliza /Corbitt/
+2 SURN Corbitt
+2 GIVN Margaret Eliza
+1 SEX F
+1 BIRT
+2 DATE 18 May 1857
+2 PLAC Cresent City, Pottawattamie, Iowa
+1 DEAT
+2 DATE 14 Mar 1940
+2 PLAC Farmington, Davis, Utah
+2 SOUR @S8@
+1 BURI
+2 DATE 17 Mar 1940
+2 PLAC Farmington, Davis, Utah
+2 SOUR @S3@
+1 _UID FCAF1470C3D08E40B5416D5CF8424A73461F
+1 FAMC @F2@
+1 NOTE *Margaret's birth is less than 9 mon. away from Martha's birth.
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 18:38:25
+0 @I10@ INDI
+1 NAME Sarah Ann /Corbitt/
+2 SURN Corbitt
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1848
+2 PLAC Alton, Madison, Illinois
+2 SOUR @S6@
+1 DEAT
+2 DATE 13 Dec 1848
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 19325EBC9AF4D34590277124B7EEBFFAB596
+1 FAMC @F2@
+1 NOTE *The extractioner lists this person as L.A., but looking at the author's handwriting of Tenne
+2 CONC see leads me to believe the person's initials are T. A.
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 18:36:11
+0 @I11@ INDI
+1 NAME George William /Crouch/
+2 SURN Crouch
+2 GIVN George William
+1 SEX M
+1 BIRT
+2 DATE 12 Mar 1834
+2 PLAC , McDonough, Illinois
+2 SOUR @S6@
+1 DEAT
+2 DATE Apr 1893
+2 PLAC Utah
+1 _UID 3A0332616153274B9D7C3461F075235985E3
+1 FAMS @F7@
+1 FAMC @F8@
+1 NOTE *Probably head of household as G.W. is first on the list
+2 CONT 
+2 CONT *believed to be male; possibly George.  First on list therefore assumed to be head of househo
+2 CONC ld.
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:17:34
+0 @I12@ INDI
+1 NAME Emileu /Judson/
+2 SURN Judson
+2 GIVN Emileu
+2 _AKA Emily
+1 SEX F
+1 BIRT
+2 DATE 18 Apr 1835
+2 PLAC Howorth, Yorkshire, England
+2 SOUR @S6@
+3 PAGE 1922 item 2
+2 SOUR @S11@
+2 SOUR @S12@
+1 CHR
+2 DATE 19 Jul 1835
+2 PLAC Howorth, Yorkshire, England
+2 SOUR @S12@
+1 DEAT
+2 DATE 18 Feb 1867
+2 PLAC Fillimore, Millard, Utah
+2 SOUR @S18@
+3 PAGE 1239575/ ref. # 5248
+1 BURI
+2 DATE 20 Feb 1867
+2 PLAC Fillimore, Millard, Utah
+1 _UID D00667405D8216458C6D9DFDD5B44927439A
+1 FAMS @F4@
+1 FAMC @F6@
+1 NOTE *Bethlehem Branch records her birthplace as "Heworth Par. Yirk co. Eng"  Assumed to mean Howo
+2 CONC rth Parish, York County, England.
+2 CONT *Birthdate of Emily is also said to be 30 Apr 1835 in "Emilia or Emily JUDSON, AF" source.
+2 CONT *death date also recorded in IGI (another source) to be "18 Feb 1967" I assume that to be a t
+2 CONC yping error meaning 1867.
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:23:41
+0 @I13@ INDI
+1 NAME James /Howorth/
+2 SURN Howorth
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 1 Aug 1831
+2 PLAC Northowram, Halifax, Yorkshire, England
+2 SOUR @S6@
+3 PAGE 1922 item 2
+2 SOUR @S10@
+1 DEAT
+2 DATE 4 May 1903
+2 PLAC Vernal, Uintah, Utah
+2 SOUR @S10@
+1 BURI
+2 PLAC Vernal, Uintah, Utah
+2 SOUR @S10@
+1 _UID 2316CC9B95C5854FAD16A4A24B45340BA65F
+1 FAMS @F4@
+1 FAMC @F5@
+1 NOTE *Bethlehem Branch records James' birthplace as "Halifax par. Yirk co. Eng"  Assumed to be Hal
+2 CONC ifax Parish York County, England.
+1 CHAN
+2 DATE 12 Sep 2005
+3 TIME 09:17:09
+0 @I14@ INDI
+1 NAME E.S. /Crouch/
+2 SURN Crouch
+2 GIVN E.S.
+1 SEX U
+1 BIRT
+2 DATE 8 Nov 1856
+1 CHR
+2 PLAC Arkansas
+2 SOUR @S6@
+3 PAGE 1922 item 2
+1 _UID D850B5242F5CE045A7515D75607695E6CC17
+1 NOTE *unsure of meaning of birthplace: "Arks. Chr. N. Pea Vine" Assumed to mean Christened in Arka
+2 CONC nsas. (does this include the date as well?)
+1 CHAN
+2 DATE 9 Sep 2005
+3 TIME 08:40:30
+0 @I15@ INDI
+1 NAME M.A. /Crouch/
+2 SURN Crouch
+2 GIVN M.A.
+1 SEX U
+1 BIRT
+2 DATE Oct 1834
+1 _UID 3D675803FBB652478FB5052A52F1EE9380FE
+1 NOTE *could this person be the spouse to head of household??
+1 CHAN
+2 DATE 9 Sep 2005
+3 TIME 08:44:16
+0 @I16@ INDI
+1 NAME A.E. (N.E.) /Crouch/
+2 SURN Crouch
+2 GIVN A.E. (N.E.)
+1 SEX U
+1 BIRT
+2 DATE 14 Aug 1854
+1 CHR
+2 PLAC Arkansas
+2 SOUR @S6@
+3 PAGE 1922 item 2
+1 _UID BAFCB483AF9A8247BE0CB95203E091FF4749
+1 NOTE *The list given me from Dr. Anderson lists this person as A.E., but after looking at the orig
+2 CONC ional (Bethlehem Branch (Iowa)) it looks more like N.E.
+2 CONT *unsure of the scribes meaning of birthplace: "Arks. Chr. N. Pea Vine"  Assumed to mean chris
+2 CONC tened in Arkansas (does this include the date???)
+1 CHAN
+2 DATE 9 Sep 2005
+3 TIME 08:38:57
+0 @I17@ INDI
+1 NAME LIVING
+1 SEX F
+1 _UID 177F9471C9A6E944B4A6D00E79F1BE23BA68
+0 @I18@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 4F0ECD6F4DD20D449161B70426B9A05E9311
+0 @I19@ INDI
+1 NAME LIVING
+1 SEX F
+1 _UID EBB6475CE89FFA4C99B4C756ECBFFE94B896
+0 @I20@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 3AF1C009A5CDF545911EA6E214C6FDE08E62
+0 @I21@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 214CB1630546C0468A805A1053754B53AC3D
+0 @I22@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 75B8A810EFD0194FBD896C1962DBF6AFB95D
+0 @I23@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 19DFDA63EC6A944BBFB328C54A8A2E07D26C
+0 @I24@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 03974B199A204245858E7F4B5CFF861B1810
+0 @I25@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 91092B2E0F32904988AFF61D80757E4D1758
+0 @I26@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 85951D81915C2541BAE0B3AEEECAB5AF2260
+0 @I27@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID BF5C43B9E92B3947BE21B93E1385FF80989D
+0 @I28@ INDI
+1 NAME LIVING
+1 SEX U
+1 _UID A38CCF992E3C6740AFF9762104045990D88B
+0 @I29@ INDI
+1 NAME LIVING
+1 SEX U
+1 _UID 1FAD226173803542A992EC4499A1696C33CB
+0 @I30@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID 693F21202B5737459C4D3B9030E8ADE242E4
+0 @I31@ INDI
+1 NAME Joseph /Judson/
+2 SURN Judson
+2 GIVN Joseph
+1 SEX M
+1 _UID 4F8749184AAD274292341C6518286F9421B5
+1 FAMS @F6@
+1 CHAN
+2 DATE 9 Sep 2005
+3 TIME 09:40:00
+0 @I32@ INDI
+1 NAME Nancy /Farrer/
+2 SURN Farrer
+2 GIVN Nancy
+1 SEX F
+1 _UID BF5F1A5615F1C846945239D43DE76AFD20BA
+1 FAMS @F6@
+1 CHAN
+2 DATE 9 Sep 2005
+3 TIME 09:40:24
+0 @I33@ INDI
+1 NAME Richard /Howarth/
+2 SURN Howarth
+2 GIVN Richard
+1 SEX M
+1 _UID 178E08D556E1024E8BB95270AA1D5AB4E472
+1 FAMS @F5@
+1 SOUR @S13@
+2 PAGE 183046
+1 CHAN
+2 DATE 12 Sep 2005
+3 TIME 08:49:49
+0 @I34@ INDI
+1 NAME Sarah /Crossley/
+2 SURN Crossley
+2 GIVN Sarah
+1 SEX F
+1 _UID F78D3462ED8F9C4C9D2B5216B7B24071C8DC
+1 FAMS @F5@
+1 SOUR @S13@
+2 PAGE 183046
+1 CHAN
+2 DATE 12 Sep 2005
+3 TIME 08:49:27
+0 @I35@ INDI
+1 NAME Margaret Amelia /Fought/
+2 SURN Fought
+2 GIVN Margaret Amelia
+1 SEX F
+1 BIRT
+2 DATE 11 Oct 1834
+1 DEAT
+2 DATE 1863
+1 _UID C28B779F4C288947BFACFA5D84911A8820D3
+1 FAMS @F7@
+1 FAMC @F9@
+1 NOTE Family came to Utah with the Warren Walling Company (1860)
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:19:29
+0 @I36@ INDI
+1 NAME Elizabeth Probley /Oliver/
+2 SURN Oliver
+2 GIVN Elizabeth Probley
+1 SEX F
+1 BIRT
+2 DATE ABT 1804
+2 PLAC Tennessee
+1 _UID 7F7B1E8A5AC3B0429C989D8899F35A66564B
+1 FAMS @F8@
+1 NOTE Found in Prairie township in Washington County, Arkansas.
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:07:14
+0 @I37@ INDI
+1 NAME Nancy Elizabeth /Crouch/
+2 SURN Crouch
+2 GIVN Nancy Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 14 Aug 1854
+2 PLAC Pen Vine, Cherokee Nation, Indian Territory
+1 DEAT
+2 DATE 22 Jun 1910
+1 _UID 91D66F1B13C87247A294FE519E3CB82FCBEA
+1 FAMC @F7@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:12:24
+0 @I38@ INDI
+1 NAME Eliza Roxey Snow /Crouch/
+2 SURN Crouch
+2 GIVN Eliza Roxey Snow
+1 SEX F
+1 BIRT
+2 DATE 9 Nov 1857
+2 PLAC Pen Vine, Cherokee Nation, Indian Territory
+1 DEAT
+2 DATE 1 Oct 1931
+2 PLAC Scipio, Millard, Utah
+1 BURI
+2 PLAC Scipio, Millard, Utah
+1 _UID A911A963C4D9814A9C56B1DC689572CDE9B7
+1 FAMC @F7@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:13:03
+0 @I39@ INDI
+1 NAME Sanford /Crouch/
+2 SURN Crouch
+2 GIVN Sanford
+1 SEX M
+1 BIRT
+2 DATE ABT 1800
+1 _UID 14E504FC26B2A442961C0A4E26C4CA69DEEE
+1 FAMS @F8@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:09:45
+0 @I40@ INDI
+1 NAME Edmund /Crouch/
+2 SURN Crouch
+2 GIVN Edmund
+1 SEX M
+1 BIRT
+2 DATE 1828
+2 PLAC Tennessee
+1 _UID 9D968EFF21FF8A40B665449DAA722CC3B1AB
+1 FAMC @F8@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:10:29
+0 @I41@ INDI
+1 NAME John /Crouch/
+2 SURN Crouch
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1831
+2 PLAC Tennessee
+1 _UID D7E00D7024F9FC47884593F642FBE2060FD6
+1 FAMC @F8@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:10:52
+0 @I42@ INDI
+1 NAME Charlie /Fought/
+2 SURN Fought
+2 GIVN Charlie
+1 SEX M
+1 _UID 4C261A0B8984AE43A887227B0290ACE07F48
+1 FAMS @F9@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:11:37
+0 @I43@ INDI
+1 NAME Nancy //
+2 GIVN Nancy
+1 SEX F
+1 _UID 62D65F36C2267A40AC4F285962536AA2AC85
+1 FAMS @F9@
+1 CHAN
+2 DATE 28 Oct 2005
+3 TIME 19:11:52
+0 @F1@ FAM
+1 _UID 317EEA865D4C9945A8C0B281412A25AE7FBE
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+0 @F2@ FAM
+1 _UID BB748BA661FEDF4CA7522F681DB1CA798B88
+1 HUSB @I1@
+1 WIFE @I4@
+1 CHIL @I10@
+1 CHIL @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+0 @F3@ FAM
+1 _UID B7387B2E43AAEF40859D32192C4E87B7D94B
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I4@
+0 @F4@ FAM
+1 _UID 9EC28042905CAC4AA7B1D2E809E28B67F368
+1 HUSB @I13@
+1 WIFE @I12@
+1 MARR
+2 DATE 20 Jan 1857
+2 PLAC Northowram, Halifax, Yorkshire, England
+2 SOUR @S11@
+2 SOUR @S10@
+2 SOUR @S16@
+0 @F5@ FAM
+1 _UID 664DEFAEE4F9F7419AF20AA5423D710A9AAB
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I13@
+0 @F6@ FAM
+1 _UID 6D5B3EA8EB86E54EA12E1EE0EC9CF50EAA61
+1 HUSB @I31@
+1 WIFE @I32@
+1 CHIL @I12@
+0 @F7@ FAM
+1 _UID C1C9084870710D4DAE267BB787055786848F
+1 HUSB @I11@
+1 WIFE @I35@
+1 CHIL @I37@
+1 CHIL @I38@
+1 MARR
+2 DATE 23 Oct 1853
+2 PLAC Washington, Hempstead, Arkansas
+0 @F8@ FAM
+1 _UID 2F74F7043FF31148A1398AF50644B8D85CD1
+1 HUSB @I39@
+1 WIFE @I36@
+1 CHIL @I40@
+1 CHIL @I41@
+1 CHIL @I11@
+0 @F9@ FAM
+1 _UID 2DBB57DB20FAB543BC9C46F8D6EF94D1EC0F
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I35@
+0 @S2@ SOUR
+1 TITL Wiley Buchanon CORBIT, AF
+1 PUBL FamilySearch, 
+0 @S3@ SOUR
+1 TITL Cemetery Burials Database
+1 PUBL Utah State History
+1 CALN http://histroy.utah.gov/apps/burials/execute/searchburials
+0 @S4@ SOUR
+1 TITL Eliza Elvira SHELTON, AF
+1 PUBL FamilySearch
+0 @S5@ SOUR
+1 TITL Elzira CORBITT, AF
+1 PUBL FamilySearch
+0 @S6@ SOUR
+1 TITL Bethlehem Branch (Iowa)
+1 PUBL The Church of Jesus Christ of Latter-day Saints
+0 @S7@ SOUR
+1 TITL Martha Dinah CORBITT, AF
+1 PUBL FamilySearch
+0 @S8@ SOUR
+1 TITL Margaret Eliza CORBITT, AF
+1 PUBL FamilySearch
+0 @S9@ SOUR
+1 TITL "Utah Pioneer Biographies"
+1 AUTH Workman, Mary E. (interview)
+1 PUBL 44 vols, 30:177-179
+1 TEXT 14. Who was the leader of your company or train?  14. Willey [William] B. [R.] Corbitt. 
+0 @S10@ SOUR
+1 TITL James HOWARTH, AF
+1 PUBL FamilySearch
+0 @S11@ SOUR
+1 TITL Emily JUDSON, AF
+1 PUBL FamilySearch
+0 @S12@ SOUR
+1 TITL Emilia or Emily JUDSON, AF
+1 PUBL FamilySearch
+0 @S13@ SOUR
+1 TITL James HOWARTH, IGI
+1 PUBL FamilySearch
+0 @S16@ SOUR
+1 TITL Emily JUDSON, IGI
+1 PUBL FamilySearch
+0 @S18@ SOUR
+1 TITL Emily JUDSON, IGI 3
+1 PUBL FamilySearch
+0 TRLR

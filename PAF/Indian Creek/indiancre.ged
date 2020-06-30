@@ -1,0 +1,738 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 25 Jul 2013
+2 TIME 11:36:42
+1 FILE indiancre.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I1@ INDI
+1 NAME Alvin /NICHOLS/
+2 SURN NICHOLS
+2 GIVN Alvin
+1 SEX M
+1 BIRT
+2 DATE 19 Aug 1819
+2 PLAC Bastard, Leeds, Ontario, Canada
+2 SOUR @S1@
+3 NOTE Name: Alvin Nichols
+4 CONT Birth date: 19 Aug 1819
+4 CONT Birth place: Bastard (now Portland), Leeds, Ontario, Canada
+3 DATA
+4 DATE last updated 3/22/1999
+1 DEAT
+2 DATE 18 Sep 1899
+2 PLAC Brigham City, Box Elder, Utah
+1 BURI
+2 DATE 21 Sep 1899
+2 PLAC Brigham City, Box Elder, Utah
+2 SOUR @S1@
+3 NOTE Burial Place: Brigham City Cemetery, Brigham City, Box Elder, Utah
+1 _UID 454AECFA556C95468D224F3DEB748EE61F93
+1 FAMS @F1@
+1 FAMC @F2@
+1 SOUR @S2@
+2 NOTE Name: Alvin Nichols
+3 CONT Company: John B. Walker Company (1852)
+3 CONT Birth Date: 19 Aug 1819
+3 CONT Pioneer Information: wife and 3 children
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 101, image 204
+2 NOTE Dwelling # 596 Household # 594
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Alvin Nichols
+3 CONT Age: 31 Gender: Male
+3 CONT Occupation: Carpenter
+3 CONT Birthplace: L.C.
+2 DATA
+3 DATE 3 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 12:42:59
+0 @I2@ INDI
+1 NAME Lucy Ann /OLNEY/
+2 SURN OLNEY
+2 GIVN Lucy Ann
+1 SEX F
+1 BIRT
+2 DATE 28 Dec 1830
+2 PLAC Bastard, Leeds, Ontario, Canada
+2 SOUR @S1@
+3 NOTE Name: Lucy Ann OLNEY
+4 CONT Birth Date: 28 Dec 1899
+4 CONT Birth Place Listed: Bastard, Portland, Leeds, Ontario
+1 DEAT
+2 DATE 16 Nov 1909
+2 PLAC Brigham City, Box Elder, Utah
+1 BURI
+2 DATE 19 Nov 1909
+2 PLAC Brigham City, Box Elder, Utah
+2 SOUR @S1@
+3 NOTE Burial Place: Brigham City Cemetery, Brigham City, Box Elder, Utah
+1 _UID 9306E1E807BD604DB7BAD0F9E56F22DD6015
+1 FAMS @F1@
+1 FAMC @F3@
+1 SOUR @S2@
+2 NOTE Name Listed: Lucy Anna Olney Nichols
+3 CONT Company: John B. Walker Company (1852)
+3 CONT Birth Date: 28 Dec 1830
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 101, image 204
+2 NOTE Dwelling # 596, Household # 594
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Lucy Nichols
+3 CONT Age: 21 Gender: Female
+3 CONT Birthplace: L.C.
+2 DATA
+3 DATE 3 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 12:42:42
+0 @I3@ INDI
+1 NAME Sheldon /NICHOLS/
+2 SURN NICHOLS
+2 GIVN Sheldon
+1 SEX M
+1 _UID 8D15A335E9B59048A3B485F8B6918B7A1096
+1 FAMS @F2@
+1 SOUR @S1@
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 12:46:40
+0 @I4@ INDI
+1 NAME Susannah /CHIPMAN/
+2 SURN CHIPMAN
+2 GIVN Susannah
+1 SEX F
+1 _UID FB9640F8B788AF4FAF9986ED6B438AA69F36
+1 FAMS @F2@
+1 SOUR @S1@
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 12:46:32
+0 @I5@ INDI
+1 NAME Davis Mc /OLNEY/
+2 SURN OLNEY
+2 GIVN Davis Mc
+1 SEX M
+1 _UID E75EB67FACBCDA4CAC650E2611726652889A
+1 FAMS @F3@
+1 SOUR @S1@
+1 CHAN
+2 DATE 25 Jan 2008
+3 TIME 14:48:20
+0 @I6@ INDI
+1 NAME Lucy Sally /DOWNEY/
+2 SURN DOWNEY
+2 GIVN Lucy Sally
+1 SEX F
+1 _UID B8BE6CF4AD30C84896361C8E92A9CF3B7E26
+1 FAMS @F3@
+1 SOUR @S1@
+1 CHAN
+2 DATE 25 Jan 2008
+3 TIME 14:48:28
+0 @I7@ INDI
+1 NAME Lucy Almeda /NICHOLS/
+2 SURN NICHOLS
+2 GIVN Lucy Almeda
+1 SEX F
+1 BIRT
+2 DATE 12 Dec 1851
+2 PLAC Indian Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 23 Apr 1919
+2 PLAC Los Angeles, Los Angeles, California
+1 BURI
+2 DATE 26 Apr 1919
+2 PLAC Brigham City, Box Elder, Utah
+1 _UID ED47F16B53F61042827F2A5C2480C5203B09
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name: Lucy Almeda Nichols
+3 CONT Birth date: 12 Dec 1851
+1 SOUR @S2@
+2 NOTE Name: Lucy Almeda Nichols
+3 CONT Company: John B. Walker Company (1852)
+3 CONT Birth Date: 12 Dec 1851
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 12:20:39
+0 @I8@ INDI
+1 NAME Lovina Ruth /NICHOLS/
+2 SURN NICHOLS
+2 GIVN Lovina Ruth
+1 SEX F
+1 BIRT
+2 DATE 29 Dec 1848
+2 PLAC Kanesville, Pottawattamie, Iowa
+2 SOUR @S1@
+3 NOTE Name: Lovina Ruth Nichols
+4 CONT Birth Date: 29 Dec 1848
+4 CONT Birth Place Listed: Kanesville, Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 9 Apr 1929
+2 PLAC San Diego, San Diego, California
+1 _UID D6C0F20A58768D4A8FEAD78579BD78CD8705
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name: Lovina Ruth Nichols
+3 CONT Birth Date: 29 Dec 1848
+1 SOUR @S2@
+2 NOTE Name: Lovina Ruth Nichols
+3 CONT Company: John B. Walker Company (1852)
+3 CONT Birth Date: 29 Dec 1848
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 101, image 204
+2 NOTE Dwelling #396, Household #394
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Ruth Nichols
+3 CONT Age: 1 Gender: Female
+3 CONT Birthplace: Iowa
+2 DATA
+3 DATE 3 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 12:44:31
+0 @I9@ INDI
+1 NAME John /SEDDON/
+2 SURN SEDDON
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1818
+2 PLAC England 
+2 SOUR @S4@
+3 NOTE Name: John Seddon
+4 CONT Pin # 916532
+4 CONT Birth date: abt 1818 or abt 1827 per film 471027
+4 CONT Emigration: 1848
+4 CONT Arrived in US: 3 Jul 1850
+1 DEAT
+2 DATE 12 Aug 1850
+2 PLAC Indian Creek, Pottawattamie, Iowa
+1 _UID E0B333070DA11C45AD3C37F081D575DB92FC
+1 FAMS @F4@
+1 SOUR @S4@
+2 NOTE Name: John Seddon
+3 CONT Pin # 916532
+3 CONT Birth Date: abt 1818 or abt 1827
+3 CONT Death Date: 12 Aug 1850
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 117, image 235
+2 NOTE Dwelling #848, Household #848
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: John Sedon
+3 CONT Age: 32 Gender: Male
+3 CONT Occupation: None
+3 CONT Birthplace: England
+2 DATA
+3 DATE 22 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:33:20
+0 @I10@ INDI
+1 NAME Alice /GARRETT/
+2 SURN GARRETT
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 DATE 24 Dec 1822
+2 PLAC Bolton, Lacanstershire, England
+2 SOUR @S4@
+3 NOTE Name: Alice Garrett
+4 CONT Pin #914501
+4 CONT Birth: 24 Dec 1822
+4 CONT Birthplace: Bolton, Lancastershire, England
+4 CONT Arrived in US: 28 Apr 1848 (New Orleans, Louisiana)
+4 CONT Immigration: 1849 (New York, New York)
+4 CONT 
+1 DEAT
+2 DATE 14 Feb 1908
+2 PLAC Cass Township, Shelby, Iowa
+1 BURI
+2 DATE 16 Feb 1908
+2 PLAC Cass Township, Shelby, Iowa
+1 _UID 79DBC7D1A759EF409499658D54DAEF1168DC
+1 FAMS @F4@
+1 FAMC @F5@
+1 SOUR @S4@
+2 NOTE Name: Alice Garrett
+3 CONT Pin # 914501
+3 CONT Birth Date: 24 Dec 1822
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 117, image 235
+2 NOTE Dwelling #848, Household #848
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Alice Sedon
+3 CONT Age: 27, Gender: Female
+3 CONT Birthplace: England
+2 DATA
+3 DATE 22 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:19:53
+0 @I11@ INDI
+1 NAME Margaret //
+2 GIVN Margaret
+1 SEX F
+1 _UID D43A31256889B94E9E668695D08BDBD1821F
+1 FAMS @F5@
+1 SOUR @S4@
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:06:50
+0 @I12@ INDI
+1 NAME Joseph /SEDDON/
+2 SURN SEDDON
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 28 Dec 1848
+2 PLAC Lancashire, England
+1 _UID B6CAF543D182A042880CD61E6B0BAC851CCF
+1 FAMC @F4@
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 117, image 235
+2 NOTE Dwelling #848, Household #848
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Joseph Sedon 
+3 CONT Age: 2 Gender: Male
+3 CONT Birthplace: England
+2 DATA
+3 DATE 22 Oct 1850
+1 SOUR @S5@
+2 NOTE See p.757-758 of 1891 Harrison County Iowa History
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:28:47
+0 @I13@ INDI
+1 NAME J Rachael /SEDDON/
+2 SURN SEDDON
+2 GIVN J Rachael
+1 SEX F
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Missouri
+1 _UID B61A5C0C5DDB9B41AEBB853CC5EDCC160A06
+1 FAMC @F4@
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 117, image 235
+2 NOTE Dwelling #848, Household #848
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: J Rachael Sedon
+3 CONT Age: 6/12 (6 months) Gender: Female
+3 CONT Birthplace: Missouri
+2 DATA
+3 DATE 22 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:24:40
+0 @I14@ INDI
+1 NAME George /FOSTER/
+2 SURN FOSTER
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE 10 Aug 1810
+2 PLAC Castlederg, Tyrone, Ireland
+1 DEAT
+2 DATE 1 Jun 1888
+2 PLAC Whitney, Franklin, Idaho
+1 BURI
+2 DATE 3 Jun 1888
+2 PLAC Logan, Cache, Utah
+1 _UID C2BAD47D20785E4B9766E9A1254DFD111591
+1 FAMS @F7@
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: George Foster
+3 CONT Birth Date: 10 Aug 1810
+1 SOUR @S2@
+2 NOTE Name: George Foster
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 10 Aug 1810
+3 CONT Age: 42
+3 CONT Pioneer Information: Family of 10
+3 CONT see website for sources
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Geo Foster
+3 CONT Age: 40 Gender: Male
+3 CONT Occupation: Laborer
+3 CONT Birthplace: Ireland
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:16:31
+0 @I15@ INDI
+1 NAME George /FOSTER/
+2 SURN FOSTER
+2 GIVN George
+1 SEX M
+1 _UID 095B26882D201F419C7F08A67432FDB9E4BC
+1 FAMS @F6@
+1 SOUR @S1@
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:37:57
+0 @I16@ INDI
+1 NAME Mary /WALLOHENE/
+2 SURN WALLOHENE
+2 GIVN Mary
+1 SEX F
+1 _UID 03E83C0EF73AB04E98E6152C41093B913900
+1 FAMS @F6@
+1 SOUR @S1@
+2 NOTE Name: Mary or Molly Wallohene
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:38:53
+0 @I17@ INDI
+1 NAME Jane /McCULLOUGH/
+2 SURN McCULLOUGH
+2 GIVN Jane
+1 SEX F
+1 BIRT
+2 DATE 4 Mar 1819
+2 PLAC Cookstown, Tyrone, Ireland
+1 DEAT
+2 DATE 10 Jul 1852
+2 PLAC Plum Creek, Gardenspring, Nebraska
+2 SOUR @S1@
+3 NOTE Name: Jane Mc Cullough
+4 CONT Death: 10 Jul 1852
+4 CONT Cause of death: cholera
+1 BURI
+2 DATE 11 Jul 1852
+2 PLAC Plum Creek, Gardenspring, Nebraska
+1 _UID AE920FA534F98C40ACEDEC5835966FAAAEB5
+1 FAMS @F7@
+1 FAMC @F8@
+1 SOUR @S1@
+2 NOTE Name: Jane McCullough
+3 CONT Birth Date: 4 Mar 1819
+1 SOUR @S2@
+2 NOTE Name: Jane McCullough
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 4 Mar 1819
+3 CONT Age: 33
+3 CONT Pioneer Information: She died of cholera en route
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Jane Foster
+3 CONT Age: 36, Gender: Female
+3 CONT Birthplace: Ireland
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:17:39
+0 @I18@ INDI
+1 NAME Joseph /McCULLOUGH/
+2 SURN McCULLOUGH
+2 GIVN Joseph
+1 SEX M
+1 _UID 4354E086844D9A4C91180BE90CDE67751765
+1 FAMS @F8@
+1 SOUR @S1@
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:49:18
+0 @I19@ INDI
+1 NAME Matilda /HUTCHINSON/
+2 SURN HUTCHINSON
+2 GIVN Matilda
+1 SEX F
+1 _UID E5FE42A8E96A8E40981E62800F9FE17F9454
+1 FAMS @F8@
+1 SOUR @S1@
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 13:49:34
+0 @I20@ INDI
+1 NAME Mary Ellen /FOSTER/
+2 SURN FOSTER
+2 GIVN Mary Ellen
+1 SEX F
+1 BIRT
+2 DATE 24 Dec 1837
+2 PLAC Cincinnati, Hamilton, Ohio
+1 DEAT
+2 DATE 2 Nov 1907
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 PLAC Provo, Utah, Utah
+1 _UID E4602F2BC69243419A99996F3F4CF6F12793
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Mary Ellen Foster
+3 CONT Birth Date: 24 Dec 1837
+1 SOUR @S2@
+2 NOTE Name: Mary Elln Foster
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 24 Dec 1837
+3 CONT Age: 14
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Mary Foster
+3 CONT Age: 13, Gender: Female
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:22:07
+0 @I21@ INDI
+1 NAME Sarah Jane /FOSTER/
+2 SURN FOSTER
+2 GIVN Sarah Jane
+1 SEX F
+1 BIRT
+2 DATE 31 Jul 1836
+2 PLAC Cincinnati, Hamilton, Ohio
+1 DEAT
+2 DATE 26 Jan 1910
+2 PLAC Logan, Cache, Utah
+1 BURI
+2 PLAC Logan, Cache, Utah
+1 _UID 3FB52F1554F28642AA7FA1669043C3535F81
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Sarah Jane Foster
+3 CONT Birth Date: 31 Jul 1836
+1 SOUR @S2@
+2 NOTE Name: Sarah Jane Foster
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 31 Jul 1836
+3 CONT Age: 15
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Sarah Foster
+3 CONT Age: 14, Gender: Female
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:19:00
+0 @I22@ INDI
+1 NAME Margaret Ann /FOSTER/
+2 SURN FOSTER
+2 GIVN Margaret Ann
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1840
+2 PLAC Cincinnati, Hamilton, Ohio
+1 DEAT
+2 DATE 20 Sep 1883
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 PLAC Provo, Utah, Utah
+1 _UID 5F84E6D6AAF4B94991920AEB3A4F6EB4021B
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Margaret Ann Foster
+3 CONT Birth Date: 23 Jan 1840
+1 SOUR @S2@
+2 NOTE Name: Margaret Ann Foster
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 23 Jan 1840
+3 CONT Age: 12
+1 SOUR @S3@
+2 PAGE Roll: M 432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Margaret Foster
+3 CONT Age: 10, Gender: Female
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:23:48
+0 @I23@ INDI
+1 NAME Eliza Arnetta /FOSTER/
+2 SURN FOSTER
+2 GIVN Eliza Arnetta
+1 SEX F
+1 BIRT
+2 DATE 13 Nov 1841
+2 PLAC Cincinnati, Hamilton, Ohio
+1 DEAT
+2 DATE 5 Sep 1880
+2 PLAC Provo, Utah, Utah
+2 SOUR @S1@
+3 NOTE Name: Eliza Arnetta Foster
+4 CONT Death Date: 5 Sep 1880
+4 CONT Death Place: Center Ward, Provo, Utah, Utah
+1 BURI
+2 DATE Sep 1880
+2 PLAC Provo, Utah, Utah
+1 _UID 3CDA411D6FA7854DAE0828649BC0F30CF8FF
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Eliza Arnetta Foster
+3 CONT Birth Date: 13 Nov 1831
+1 SOUR @S2@
+2 NOTE Name: Eliza Arnetta Foster
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 13 Nov 1841
+3 CONT Age: 10
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Eliza Foster
+3 CONT Age: 8, Gender: Female
+3 CONT Birthplace: 
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:25:47
+0 @I24@ INDI
+1 NAME Joseph /FOSTER/
+2 SURN FOSTER
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 10 Mar 1898
+2 PLAC Fairview, Graham, Arizona
+1 BURI
+2 DATE 12 Mar 1898
+2 PLAC Pima, Graham, Arizona
+1 _UID A45EFBCE617071438ED0C4A252DE7346FD03
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Joseph Foster
+3 CONT Birth Date: 12 Sep 1844
+1 SOUR @S2@
+2 NOTE Name: Joseph Foster
+3 CONT Company: John Tidwell Company (1852)
+3 CONT Birth Date: 12 Sep 1844
+3 CONT Age: 7
+1 SOUR @S3@
+2 PAGE Roll: M432_188, page 100, image 202
+2 NOTE Dwelling #578, Household #578
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Joseph Foster
+3 CONT Age: 7, Gender: Male
+3 CONT Birthplace: Illinois
+2 DATA
+3 DATE 2 Oct 1850
+1 CHAN
+2 DATE 28 Jan 2008
+3 TIME 14:26:47
+0 @F1@ FAM
+1 _UID 52B6138F7034B543AE2B464774ED7CA62FD9
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I8@
+1 CHIL @I7@
+1 MARR
+2 DATE 3 Jan 1847
+2 PLAC Kanesville, Pottawattamie, Iowa
+2 SOUR @S1@
+3 NOTE Husband's Name: Alvin Nichols
+4 CONT Husband's Birthdate: 19 Aug 1819
+4 CONT Marriage Place Listed: Kanesville, Council Bluffs, Pottawattamie, Iowa
+0 @F2@ FAM
+1 _UID 57679F20AB3A534B9FFC91FF81C3BF48767E
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I1@
+0 @F3@ FAM
+1 _UID CF0F5B71F0718E46A521BDAA1D7612B36421
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I2@
+0 @F4@ FAM
+1 _UID 5C560049672A2C43AA78D36E14A81C2B618F
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I12@
+1 CHIL @I13@
+1 MARR
+2 DATE 14 Nov 1847
+2 PLAC <Worsley>, Lancastershire, England
+2 SOUR @S4@
+3 NOTE Wife Name: Alice Garrett
+4 CONT Pin #914501
+4 CONT Marriage Place: <Worsley>, Lancastershire, England
+0 @F5@ FAM
+1 _UID 9F7C4BFA9E4E854783DA374550B45696E1C2
+1 WIFE @I11@
+1 CHIL @I10@
+0 @F6@ FAM
+1 _UID 667A34F04A69D54297C2030BC43B7532DB59
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I14@
+0 @F7@ FAM
+1 _UID 8E2499DE44509741B805D67D25B796DBF287
+1 HUSB @I14@
+1 WIFE @I17@
+1 CHIL @I21@
+1 CHIL @I20@
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+1 MARR
+2 DATE 25 Jul 1835
+2 PLAC Cincinnati, Hamilton, Ohio
+2 SOUR @S1@
+3 NOTE Husband's Name: George Foster
+4 CONT Marriage Date: 25 Jul 1835
+0 @F8@ FAM
+1 _UID F13BD6A90CD8A347BBF1C353DABDC6D87026
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I17@
+0 @S1@ SOUR
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL (c) 1999-2005 Intellectual Reserve, Inc.
+1 CALN familysearch.com
+0 @S2@ SOUR
+1 TITL Mormon Pioneer Overland Travel
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL (c) 2008 Intellectual Reserve Inc.
+1 CALN http://www.lds.org/churchhistory/library/pioneercompanysearch/1,15773,3966-1,00.html
+0 @S3@ SOUR
+1 TITL 1850 United States Federal Census [database on-line].
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005.
+1 CALN ancestry.com
+1 NOTE United States of America, Bureau of the Census. Seventh Census of the United States, 1850. Wa
+2 CONC shington, D.C.: National Archives and Records Administration, 1850. M432, 1,009 rolls.
+0 @S4@ SOUR
+1 TITL Pedigree Resource File
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL (c) 1999-20005, Intellectual Reserve, Inc.
+1 CALN familysearch.org
+0 @S5@ SOUR
+1 TITL Harrison County Iowa Biographies/Harrison County Iowa History 1891
+1 PUBL (c) 1996-2008, Dennis Walsh
+1 CALN www.rootsweb.com/~iaharris/bio/geneal41.htm
+0 TRLR

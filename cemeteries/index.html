@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+
+<html lang="en" id="html">
+
+<head>
+    <script async src="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.css"
+        media="all">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/site.css" rel="stylesheet">
+    <title>Winter Quarters</title>
+    <style>
+        #cemeteries-table {
+            border-collapse: collapse;
+            padding-right: 8px;
+            padding-left: 8px;
+        }
+
+        #cemeteries-table a,
+        #cemeteries-table a:visited {
+            text-decoration: none;
+            color: #0062B8;
+        }
+
+
+
+        #cemeteries-table thead {
+            background-color: #002E5D;
+            color: white;
+            padding: 0 12px;
+            font-weight: bold;
+        }
+
+        #cemeteries-table tbody {
+            font-size: 12px;
+        }
+
+        tr td:first-child {
+            padding-left: 16px;
+        }
+
+        tr td:last-child {
+            padding-right: 16px;
+        }
+
+        #cemeteries-table tbody tr {
+            border: 1px solid lightgray;
+            border-top: none;
+            padding: 0 8px;
+        }
+
+        #cemeteries-table tbody tr td {
+            height: 24px;
+        }
+
+        .styled-input {
+            border: 1px solid grey;
+            margin-bottom: 8px;
+            position: relative;
+            border-radius: 4px;
+            padding-top: 8px;
+            box-sizing: border-box;
+            width: 240px;
+        }
+
+        .styled-input input {
+            border: none;
+            width: 100%;
+            font-size: 14px;
+            padding-left: 10px;
+            box-sizing: border-box;
+        }
+
+        .styled-input span {
+            position: absolute;
+            left: 6px;
+            top: -8px;
+            background-color: white;
+            padding: 0 4px;
+            font-size: 12px;
+            color: grey;
+        }
+
+        #reach-for-the-skies {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        .show-the-thing {
+            display: flex !important;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="containing-element">
+        <byu-header>
+            <span slot="site-title">Winter Quarters</span>
+
+            <byu-menu slot="nav">
+                <a href="/index.html">Home</a>
+                <a href="/about/">About</a>
+                <a href="/deaths/">Deaths</a>
+                <a href="/cemeteries/" class="active">Cemeteries</a>
+                <a href="/settlements/">Settlements</a>
+                <a href="/links/index.html">Links</a>
+                <a href="/maps/index.html">Maps</a>
+                <a href="/videos/index.html">Videos</a>
+            </byu-menu>
+        </byu-header>
+        <div id="dnn_ctr13041_ContentPane" class="containerContentPane page-content">
+            <h1 class="moduleTitle">
+                <span id="dnn_ctr13041_dnnTITLE_titleLabel" class="none">Cemeteries</span>
+            </h1>
+            <!-- Start_Module_13041 -->
+            <div id="dnn_ctr13041_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                <div id="dnn_ctr13041_HtmlModule_lblContent" class="Normal">
+                    <script language="JavaScript" type="text/JavaScript">
+</script>
+                    <h3>Filter by Cemetery</h3>
+                    <div class="cemeteries-drop">
+                        <select name="drop" class="cemeteries-select">
+                            <option value="All">All</option>
+                            <option value="8 Mile Grove">8 Mile Grove</option>
+                            <option value="Bigler's Grove">Bigler's Grove</option>
+                            <option value="Belknap">Belknap</option>
+                            <option value="Bethel">Bethel</option>
+                            <option value="Branson">Branson</option>
+                            <option value="Buckham">Buckham</option>
+                            <option value="Buckner">Buckner</option>
+                            <option value="Butler">Butler</option>
+                            <option value="Clark">Clark</option>
+                            <option value="Conyers">Conyers</option>
+                            <option value="Cox">Cox</option>
+                            <option value="Crawford">Crawford</option>
+                            <option value="Crescent">Crescent</option>
+                            <option value="Crook">Crook</option>
+                            <option value="Cutler's Park">Cutler's Park</option>
+                            <option value="Dawson">Dawson</option>
+                            <option value="Deloit">Deloit</option>
+                            <option value="Downsville">Downsville</option>
+                            <option value="East Liberty">East Liberty</option>
+                            <option value="Evan's">Evan's</option>
+                            <option value="Fairview">Fairview</option>
+                            <option value="Farm Creek">Farm Creek</option>
+                            <option value="Fisher">Fisher</option>
+                            <option value="Fountainbleau">Fountainbleau</option>
+                            <option value="Galland's Grove">Galland's Grove</option>
+                            <option value="Grove">Grove</option>
+                            <option value="Grove or Manteno">Grove or Manteno</option>
+                            <option value="Harris Grove">Harris Grove</option>
+                            <option value="Hawkins">Hawkins</option>
+                            <option value="Heine">Heine</option>
+                            <option value="Hodges Purcell">Hodges Purcell</option>
+                            <option value="Judd">Judd</option>
+                            <option value="Keg Creek">Keg Creek</option>
+                            <option value="King">King</option>
+                            <option value="Larpentuer">Larpentuer</option>
+                            <option value="Lewis Oakland">Lewis Oakland</option>
+                            <option value="Lewis Oakwood">Lewis Oakwood</option>
+                            <option value="Linwood">Linwood</option>
+                            <option value="Lytle">Lytle</option>
+                            <option value="Mackey">Mackey</option>
+                            <option value="Manti">Manti</option>
+                            <option value="Mefford">Mefford</option>
+                            <option value="Mormon (Macedonia)">Mormon (Macedonia)</option>
+                            <option value="Mt. Hope">Mt. Hope</option>
+                            <option value="Mt. Olive">Mt. Olive</option>
+                            <option value="Nauvoo">Nauvoo</option>
+                            <option value="Newtown">Newtown</option>
+                            <option value="North Grove">North Grove</option>
+                            <option value="Noyes">Noyes</option>
+                            <option value="Oak Grove">Oak Grove</option>
+                            <option value="Old Town">Old Town</option>
+                            <option value="Olson">Olson</option>
+                            <option value="Reels">Reels</option>
+                            <option value="Reno">Reno</option>
+                            <option value="Ruffcorn">Ruffcorn</option>
+                            <option value="Shipley">Shipley</option>
+                            <option value="Silver Hill">Silver Hill</option>
+                            <option value="Spears Graybill">Spears Graybill</option>
+                            <option value="Springwell">Springwell</option>
+                            <option value="Stoker-Graybill">Stoker-Graybill</option>
+                            <option value="Valley View">Valley View</option>
+                            <option value="Washington">Washington</option>
+                            <option value="Waubonsie">Waubonsie</option>
+                            <option value="Wheeler Grove">Wheeler Grove</option>
+                            <option value="Winter Quarters">Winter Quarters</option>
+                        </select><br>
+                        <br>
+                        <span>For more information on how to locate a cemetery, click on<br>
+                            its name under the Cemetery row in the table below</span>
+                    </div>
+                    <br>
+                    <!-- <sh3>Search by First or Last Name</h3> -->
+                    <div class="styled-input">
+                        <input id="search-box">
+                        <span>Search by First or Last Name</span>
+                    </div>
+
+                    <table id="cemeteries-table">
+                        <thead>
+                            <tr>
+                                <td style="min-width: 120px">
+                                    <h4>Last Name</h4>
+                                </td>
+                                <td style="min-width: 120px">First Name</h4>
+                                </td>
+                                <td>
+                                    <h4>Birth Date</h4>
+                                </td>
+                                <td>
+                                    <h4>Death Date</h4>
+                                </td>
+                                <td>
+                                    <h4>Relationship</h4>
+                                </td>
+                                <td>
+                                    <h4>Other Information</h4>
+                                </td>
+                                <td>
+                                    <h4>Cemetery</h4>
+                                </td>
+                                <td>
+                                    <h4>Picture</h4>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                        </tbody>
+                    </table>
+
+                </div>
+            </div><!-- End_Module_13041 -->
+        </div>
+    </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <byu-footer></byu-footer>
+    <div id="reach-for-the-skies">
+        <img src="https://media.giphy.com/media/SPS84YSBBtWo0/giphy.gif">
+    </div>
+</body>
+
+
+<script>
+
+    const getData = () => {
+        const url = '../cemeteries.json'
+        const head = {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        }
+        return fetch(url, head)
+            .then(b => b.json())
+    }
+
+    searchData = word => {
+
+        if (word === 'reach for the skies') {
+            document.getElementById('reach-for-the-skies').classList.add('show-the-thing')
+            setTimeout(() => { document.getElementById('reach-for-the-skies').classList.remove('show-the-thing') }, 4000)
+        }
+
+        const cemetery = document.querySelector('.cemeteries-select').value
+        const data = searchByCemetery(cemetery)
+
+        const arr = []
+        data.forEach(item => {
+            const firstName = item['First Name']
+            const lastName = item['Last Name']
+
+            const testOne = firstName.toLowerCase().includes(word.toLowerCase())
+            const testTwo = lastName.toLowerCase().includes(word.toLowerCase())
+
+            if (testOne || testTwo)
+                arr.push(item)
+        })
+
+        fillTable(arr)
+    }
+
+    fillTable = data => {
+        const table = document.querySelector('tbody')
+        table.innerHTML = ''
+
+        if (!data) {
+            const row = document.createElement('tr')
+            row.innerHTML = '<td></td><td></td><td></td><td></td><td><h4>No Matching Results</h4></td>'
+            table.append(row)
+            return
+
+        }
+        if (data.length < 1) {
+            const row = document.createElement('tr')
+            row.innerHTML = '<td></td><td></td><td></td><td></td><td><h4>No Matching Results</h4></td>'
+            table.append(row)
+            return
+        }
+
+        data.forEach(rowData => {
+            const row = document.createElement('tr')
+
+            for (const val in rowData) {
+                const td = document.createElement('td')
+
+                if (val === 'Photo') {
+                    if (rowData[val]) {
+                        const link = document.createElement('a')
+                        link.href = rowData[val]
+                        link.innerText = 'Photo'
+                        link.target = "_blank"
+                        td.append(link)
+                    }
+                }
+
+                else if (val === 'Cemetery') {
+                    const link = document.createElement('a')
+                    link.href = 'cemetery-locations.html#' + rowData[val]
+                    link.innerText = rowData[val]
+                    td.append(link)
+                }
+
+                else
+                    td.innerHTML = rowData[val]
+
+                row.append(td)
+            }
+            table.append(row)
+        })
+    }
+
+    const searchByCemetery = word => {
+        const data = JSON.parse(localStorage['cemeteryData'])
+
+        if (!word) word = 'All'
+
+        if (word === 'All') return data
+
+        const arr = []
+        data.forEach(item => {
+            if (item['Cemetery'] === word)
+                arr.push(item)
+        })
+        return arr
+    }
+
+    window.onload = async () => {
+
+        getData()
+            .then(data => {
+                data.sort((a, b) => {
+                    if (a.Cemetery > b.Cemetery) return 1;
+                    if (a.Cemetery === b.Cemetery) {
+                        if (a["Last Name"] > b["Last Name"])
+                            return 1;
+                        if (a["Last Name"] === b["Last Name"])
+                            return a["First Name"] > b["First Name"] ? 1 : -1;
+                    }
+                    return -1;
+                });
+                localStorage['cemeteryData'] = JSON.stringify(data);
+                fillTable(data);
+            })
+
+        const searchBox = document.getElementById('search-box')
+        const selectBox = document.querySelector('.cemeteries-select')
+
+        searchBox.addEventListener('keyup', e => searchData(e.target.value))
+        selectBox.addEventListener('change', e => searchData(searchBox.value))
+    }
+</script>
+
+</html>

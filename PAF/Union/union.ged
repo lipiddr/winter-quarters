@@ -1,0 +1,2679 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 25 Jul 2013
+2 TIME 10:12:12
+1 FILE union.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Heather Padilla
+1 EMAIL hpadilla@byu.net
+0 @I1@ INDI
+1 NAME Moses Andrews /Vance/
+2 SURN Vance
+2 GIVN Moses Andrews
+2 _AKA /Vince/
+1 SEX M
+1 BIRT
+2 DATE 29 Oct 1809
+2 PLAC Litchfield, Herkimer, New York
+1 DEAT
+2 DATE 20 Dec 1859
+2 PLAC Moroni, Sanpete, Utah
+1 _UID 81E573BF93A30048A8C5A218CA717BC2B5FF
+1 FAMS @F1@
+1 FAMC @F2@
+1 SOUR @S2@
+2 PAGE p 14
+2 NOTE Vince, Moses
+1 SOUR @S1@
+2 NOTE Individual Record of Moses Andrews VINCE; 
+3 CONT Family Group Record of Moses Andrews VINCE and Jenette BROOM
+1 SOUR @S3@
+2 NOTE Moses Andrews Vance 
+1 SOUR @S4@
+2 DATA
+3 TEXT Vince, Moses
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unkown
+4 CONT Gender: Male
+4 CONT Age: 43
+4 CONT Company: David Wood Company (1852)
+4 CONT Pioneer Information: with 2 males, 2 females
+4 CONT Sources: 
+4 CONT    see website
+1 SOUR @S5@
+2 NOTE lines 17-20; dwelling: 480; family: 480; head of household: Moses Vince
+2 DATA
+3 TEXT 17   480   480   Moses Vince      44   M             Grocer              N. York
+4 CONT 18                       Jeneta      "          3
+4 CONC 8   F                                         Scotland \
+4 CONT 19                        William     "        1
+4 CONC 4    M                                       Ar
+4 CONT 20                       Bets
+4 CONC y       "           1      F                                        Mo.
+3 DATE 24 Sep 1850
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:24:39
+0 @I2@ INDI
+1 NAME Jenette /Broom/
+2 SURN Broom
+2 GIVN Jenette
+1 SEX F
+1 BIRT
+2 DATE 10 Mar 1811
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 DEAT
+2 DATE 23 Dec 1900
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 PLAC Lehi, Utah, Utah
+1 _UID 2C2CCB7F4EE60848803B442402F15EC7618A
+1 FAMS @F4@
+1 FAMS @F5@
+1 FAMS @F1@
+1 FAMC @F3@
+1 SOUR @S1@
+2 NOTE Family Group Record of Moses Andrews VINCE and Jenette BROOM 
+1 SOUR @S5@
+2 NOTE lines 17-20; dwelling: 480; family: 480; head of household: Moses Vince
+2 DATA
+3 TEXT 17   480   480   Moses Vince      44   M             Grocer              N. York
+4 CONT 18                       Jeneta      "          3
+4 CONC 8   F                                         Scotland \
+4 CONT 19                        William     "        1
+4 CONC 4    M                                       Ar
+4 CONT 20                       Bets
+4 CONC y       "           1      F                                        Mo.
+3 DATE 24 Sep 1850
+1 SOUR @S3@
+2 NOTE Family: Vance/Broom (F8968)
+1 SOUR @S4@
+2 DATA
+3 TEXT Vince, Jeneta [or Jenette]
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 41
+4 CONT Company: David Wood Company (1852)
+4 CONT Pioneer Information: 
+4 CONT given name is "Jenette" in Ancestral File
+4 CONT There are no sources listed for pioneer Vince, Jeneta [or Jenette].
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:14:00
+0 @I3@ INDI
+1 NAME Betsy /Vance/
+2 SURN Vance
+2 GIVN Betsy
+2 _AKA /Vince/
+1 SEX F
+1 BIRT
+2 DATE 11 May 1847
+2 PLAC Weston, Platte, Missouri
+1 DEAT
+2 DATE 6 Aug 1888
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 PLAC Lehi, Utah, Utah
+2 SOUR @S6@
+3 NOTE Vince, Jennety Broon
+1 _UID E8135B61ADAF9148A48F5B5B602CD830692D
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Family Group Record of Moses Andrews VINCE and Jenette BROOM 
+1 SOUR @S5@
+2 NOTE lines 17-20; dwelling: 480; family: 480; head of household: Moses Vince
+2 DATA
+3 TEXT 17   480   480   Moses Vince      44   M             Grocer              N. York
+4 CONT 18                       Jeneta      "          3
+4 CONC 8   F                                         Scotland \
+4 CONT 19                        William     "        1
+4 CONC 4    M                                       Ar
+4 CONT 20                       Bets
+4 CONC y       "           1      F                                        Mo.
+3 DATE 24 Sep 1850
+1 SOUR @S4@
+2 DATA
+3 TEXT Vince, Betsy
+4 CONT Birth Date: Unkown
+4 CONT Death Date: Unkown
+4 CONT Gender: Female
+4 CONT Age: 4
+4 CONT Company: David Wood Company (1852)
+4 CONT There are no sources listed for pioneer Vince, Betsy.
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:24:47
+0 @I4@ INDI
+1 NAME Moses /Vance/
+2 SURN Vance
+2 GIVN Moses
+2 _AKA /Vince/
+1 SEX M
+1 _UID 35E66D9AF505DD408660E907F5B5C27EF985
+1 FAMS @F2@
+1 SOUR @S1@
+2 NOTE Family Group Record of Moses Andrews VINCE and Jenette BROOM 
+1 SOUR @S3@
+2 NOTE Family: Vance/Broom (F8968)
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:24:56
+0 @I5@ INDI
+1 NAME Betsy /Andrews/
+2 SURN Andrews
+2 GIVN Betsy
+1 SEX F
+1 _UID 77738140540EA6479702D4BF7D477EA60EE4
+1 FAMS @F2@
+1 SOUR @S1@
+2 NOTE Family Group Record of Moses Andrews VINCE and Jenette BROOM 
+1 SOUR @S3@
+2 NOTE Family: Vance/Broom (F8968)
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:24:16
+0 @I6@ INDI
+1 NAME Robert /Broom/
+2 SURN Broom
+2 GIVN Robert
+1 SEX M
+1 _UID DA2B28762AB1BB4AB86ACE0A5684D95C8C6C
+1 FAMS @F3@
+1 SOUR @S1@
+2 NOTE Family Group Record of Moses Andrews VINCE and Jenette BROOM 
+1 SOUR @S3@
+2 NOTE Family: Vance/Broom (F8968)
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:25:25
+0 @I7@ INDI
+1 NAME Jenette /Gavin/
+2 SURN Gavin
+2 GIVN Jenette
+2 _AKA Jennette
+1 SEX F
+1 _UID 79E76E951A79BB4E9A8AFD7FE2545E86B9EA
+1 FAMS @F3@
+1 SOUR @S1@
+2 NOTE Family Group Record of Moses Andrews VINCE and Jenette BROOM 
+1 SOUR @S3@
+2 NOTE Family: Vance/Broom (F8968)
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:26:03
+0 @I8@ INDI
+1 NAME Alexander /Hill/
+2 SURN Hill
+2 GIVN Alexander
+1 SEX M
+1 BIRT
+2 DATE 15 Jun 1819
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 _UID B53AEBCDD7FFCA4FB1900F17B789B943391E
+1 FAMS @F4@
+1 SOUR @S1@
+2 NOTE Family Group Record of Alexander HILL and Jenette BROOM 
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:35:10
+0 @I9@ INDI
+1 NAME Mary /Hill/
+2 SURN Hill
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1838
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 DEAT
+2 DATE CHILD
+1 _UID DFF1EFDEF7118B4FA3DE1A9049F6C3B35FC0
+1 FAMC @F4@
+1 SOUR @S1@
+2 NOTE Family Group Record of Alexander HILL and Jenette BROOM 
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:36:42
+0 @I10@ INDI
+1 NAME William Brown (Broom) /Hill/
+2 SURN Hill
+2 GIVN William Brown (Broom)
+1 SEX M
+1 BIRT
+2 DATE 19 Oct 1836
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 DEAT
+2 DATE 22 Sep 1883
+2 PLAC Mesa, Maricopa, Arizona
+1 BURI
+2 PLAC Mesa, Maricopa, Arizona
+1 _UID 4DFEE8EF3272AC44AD57115EAB0BD813CA74
+1 FAMC @F4@
+1 SOUR @S1@
+2 NOTE Family Group Record of Alexander HILL and Jenette BROOM 
+1 SOUR @S5@
+2 NOTE lines 17-20; dwelling: 480; family: 480; head of household: Moses Vince
+2 DATA
+3 TEXT 17   480   480   Moses Vince      44   M             Grocer              N. York
+4 CONT 18                       Jeneta      "          3
+4 CONC 8   F                                         Scotland \
+4 CONT 19                        William     "        1
+4 CONC 4    M                                       Ar
+4 CONT 20                       Bets
+4 CONC y       "           1      F                                        Mo.
+3 DATE 24 Sep 1850
+1 SOUR @S4@
+2 DATA
+3 TEXT Vince, William
+4 CONT Birth Date: Unkown
+4 CONT Death Date: Unkown
+4 CONT Gender: Male
+4 CONT Age: 16
+4 CONT Company: David Wood Company (1852)
+4 CONT There are no sources listed for pioneer Vince, William.
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:42:25
+0 @I11@ INDI
+1 NAME William /Spears/
+2 SURN Spears
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 4 May 1793
+2 PLAC , , Scotland
+1 DEAT
+2 DATE 7 Mar 1847
+2 PLAC Winter Quarters, Douglas, Nebraska
+1 _UID 466D45C274D9254481D16A394E00C98703A5
+1 FAMS @F5@
+1 SOUR @S1@
+2 NOTE Family Group Record of William SPEARS and Jenette BROOM 
+1 SOUR @S3@
+2 NOTE Family: Spears/Broom (F10671)
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:40:38
+0 @I12@ INDI
+1 NAME Mary /Spears/
+2 SURN Spears
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 2 Nov 1846
+2 PLAC Winter Quarters, Douglas, Nebraska
+1 DEAT
+2 DATE 7 Nov 1846
+2 PLAC Winter Quarters, Douglas, Nebraska
+1 BURI
+2 PLAC Winter Quarters, Douglas, Nebraska
+1 _UID 971154EB6A226D49842EF511CDB9B393AD04
+1 FAMC @F5@
+1 SOUR @S1@
+2 NOTE Family Group Record of William SPEARS and Jenette BROOM 
+1 CHAN
+2 DATE 4 Apr 2006
+3 TIME 11:41:52
+0 @I13@ INDI
+1 NAME Margaret Elsie /Meeks/
+2 SURN Meeks
+2 GIVN Margaret Elsie
+1 SEX F
+1 BIRT
+2 DATE 2 Aug 1804
+2 PLAC , Grayson, Kentucky
+1 DEAT
+2 DATE 21 Jan 1889
+2 PLAC San Bernardino, San Bernardino, California
+1 BURI
+2 PLAC , San Bernardino, California 
+1 _UID 9C0527BF6735B949B98B55C6761E5745B45C
+1 FAMS @F6@
+1 FAMS @F13@
+1 FAMC @F8@
+1 NOTE 1. Buried in the Pioneer Memorial Cemetary in San Bernardino, San Bernardino, California.
+2 CONT 2. More than likely she traveld west in 1852 with her son(s).
+1 SOUR @S1@
+2 NOTE Individual Record of "Margaret Elsie or Elizabeth MEEKS"
+1 SOUR @S3@
+2 NOTE Margarette Elsie Meeks
+1 SOUR @S7@
+2 NOTE Margaret Elsie Meeks
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 SOUR @S9@
+2 NOTE Parowan, Iron, Utah.  lines 38-40,1-8.  dwelling 1654; family 1327; head of household: Barne
+3 CONC y Carter.
+2 DATA
+3 TEXT 38   1654   1327   Barney Carter      28      M                                      Indiana
+4 CONT 39                            Oliv
+4 CONC e                       2       F                                          NY
+4 CONT 40                            Oliv
+4 CONC e                        3      "                                           U.T.
+4 CONT        [next page]
+4 CONT 1                              Delema               7/1
+4 CONC 2    F                                             "
+4 CONT 2                              Margt Carter         5
+4 CONC 8     "                                           Kentucky
+4 CONT 3                              Enoch Davis         35     M          DLabr                 In
+4 CONC diana
+4 CONT 4                             Ath Carter              2
+4 CONC 4     "                                               "
+4 CONT 5                             Elizth                      1
+4 CONC 9      F                                          England
+4 CONT 6                             Jon Marti
+4 CONC n              2      M                                            U.T.
+4 CONT 7                            Josh Littlefield       22      "            F Lab
+4 CONC r                Unkown
+4 CONT 8                            Susanna Carter     1
+4 CONC 5    F                                            Ill.
+3 DATE 7 Aug 1860
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 08:19:15
+0 @I14@ INDI
+1 NAME James /Davis/
+2 SURN Davis
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE ABT 1800
+2 PLAC , , Wales
+1 DEAT
+2 DATE 1 May 1829
+2 PLAC , Spencer, Indiana
+1 _UID F96A8D1917126448A10A89B1EC5C268CBDA0
+1 FAMS @F6@
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Family Group Record of James DAVIS and Margaret Elsie Or Elizabeth MEEKS 
+1 SOUR @S3@
+2 NOTE Family: Davis/Meeks (F3064)
+1 SOUR @S7@
+2 NOTE James Davis
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 07:13:30
+0 @I15@ INDI
+1 NAME William Luce /Davis/
+2 SURN Davis
+2 GIVN William Luce
+1 SEX M
+1 BIRT
+2 DATE 4 May 1822
+2 PLAC Luce, Spencer, Indiana
+1 DEAT
+2 DATE 5 Jul 1852
+2 PLAC Platt River, , Nebraska 
+1 _UID 2BE5D581C9F419408D7E4A306FED29098FD4
+1 FAMS @F9@
+1 FAMC @F6@
+1 NOTE 1. Ancestral File lists birthdate as 14 May 1821
+2 CONT 2. Died while Crossing the Plains
+1 SOUR @S2@
+2 PAGE p 14
+2 NOTE Davis, William L.
+1 SOUR @S1@
+2 NOTE Family Group Record of James DAVIS and Margaret Elsie Or Elizabeth MEEKS 
+3 CONT Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Meeks (F3062)
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, None Stated.  lines 6- 10; dwelling 28; family 28; head of household: Willia
+3 CONC m Davis
+2 DATA
+3 TEXT 6   28   28   William Davis      28   M   I [ Color: White, Black, or Mulatto]   Farme
+4 CONC r      Ia
+4 CONT 7                  America                2
+4 CONC 5   F    I                                                                                Ky
+4 CONT 8                  Margaret
+4 CONC t M          5     F    I                                                                    
+4 CONC             Ills
+4 CONT 9                  Jame
+4 CONC s                   3      M  I                                                              
+4 CONC                    Iowa
+4 CONT 10               Enoc
+4 CONC h                     2    M    I                                                            
+4 CONC                     Io
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:08:19
+0 @I16@ INDI
+1 NAME John Meeks /Davis/
+2 SURN Davis
+2 GIVN John Meeks
+1 SEX M
+1 BIRT
+2 DATE 9 Sep 1823
+2 PLAC Luce, Spencer, Indiana
+1 DEAT
+2 DATE 16 Feb 1896
+2 PLAC Vernal, Uintah, Utah
+1 BURI
+2 DATE 18 Feb 1896
+2 PLAC Vernal, Uintah, Utah
+1 _UID 7B00427FB57E534B98F66D5FB79B29D7B93F
+1 FAMS @F11@
+1 FAMC @F6@
+1 NOTE 1.  OneWorldTree lists birthplace as Wales Luve Twnsh, Spencer, IN, USA
+2 CONT 2.  Buried in Memorial Park Cemetery
+2 CONT 3. He was in Utah for the birth of his son John Spencer in 1853, so he probably travled wes
+2 CONC t with his brother William Luce Spencer.
+1 SOUR @S1@
+2 NOTE Family Group Record of James DAVIS and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S3@
+2 NOTE Family: Davis/Meeks (F3064)
+1 SOUR @S7@
+2 NOTE John Meeks Davis
+1 SOUR @S5@
+2 NOTE lines 15-18; dwelling 1192; family 1192; head of household: John Davis
+2 DATA
+3 TEXT 15   1192   1192   John Davis      33   M            " [none]                      Ia [Indian
+4 CONC a]
+4 CONT                                 Elizabeth   "     2
+4 CONC 5   F                                                         "
+4 CONT                                 Marth
+4 CONC a     "        4      "                                                   Io. [Iowa]
+4 CONT                                 Enoch    "          2
+4 CONC 7   M                   "                           Ia. 
+3 DATE 19 Nov 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:37:22
+0 @I17@ INDI
+1 NAME Enoch /Davis/
+2 SURN Davis
+2 GIVN Enoch
+1 SEX M
+1 BIRT
+2 DATE ABT 1827
+2 PLAC Spencer, Luce, Indiana
+1 _UID B8BA0BB01B6F3A429DC5007999D7B5C6F950
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Family Group Record of "James DAVIS" and "Margaret Elsie Or Elizabeth MEEKS"
+1 SOUR @S7@
+2 NOTE Enoch Davis 
+1 SOUR @S5@
+2 NOTE lines 15-18; dwelling 1192; family 1192; head of household: John Davis
+2 DATA
+3 TEXT 15   1192   1192   John Davis      33   M            " [none]                      Ia [Indian
+4 CONC a]
+4 CONT                                 Elizabeth   "     2
+4 CONC 5   F                                                         "
+4 CONT                                 Marth
+4 CONC a     "        4      "                                                   Io. [Iowa]
+4 CONT                                 Enoch    "          2
+4 CONC 7   M                   "                           Ia. 
+3 DATE 19 Nov 1850
+1 SOUR @S9@
+2 NOTE Parowan, Iron, Utah.  lines 38-40,1-8.  dwelling 1654; family 1327; head of household: Barne
+3 CONC y Carter.
+2 DATA
+3 TEXT 38   1654   1327   Barney Carter      28      M                                      Indiana
+4 CONT 39                            Oliv
+4 CONC e                       2       F                                          NY
+4 CONT 40                            Oliv
+4 CONC e                        3      "                                           U.T.
+4 CONT        [next page]
+4 CONT 1                              Delema               7/1
+4 CONC 2    F                                             "
+4 CONT 2                              Margt Carter         5
+4 CONC 8     "                                           Kentucky
+4 CONT 3                              Enoch Davis         35     M          DLabr                 In
+4 CONC diana
+4 CONT 4                             Ath Carter              2
+4 CONC 4     "                                               "
+4 CONT 5                             Elizth                      1
+4 CONC 9      F                                          England
+4 CONT 6                             Jon Marti
+4 CONC n              2      M                                            U.T.
+4 CONT 7                            Josh Littlefield       22      "            F Lab
+4 CONC r                Unkown
+4 CONT 8                            Susanna Carter     1
+4 CONC 5    F                                            Ill.
+3 DATE 7 Aug 1860
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 08:21:28
+0 @I18@ INDI
+1 NAME James /Davis/
+2 SURN Davis
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE ABT 1829
+2 PLAC Spencer, Luce, Indiana
+1 _UID 21EF5AB59F058A498CE26760F0D081F3FFCB
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Family Group Record of "James DAVIS" and "Margaret Elsie Or Elizabeth MEEKS"
+1 SOUR @S7@
+2 NOTE James Davis 
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 07:31:59
+0 @I19@ INDI
+1 NAME William /Davis/
+2 SURN Davis
+2 GIVN William
+1 SEX M
+1 _UID 689098E8AAB34C4EAE38B9FABBFEA87FE84C
+1 FAMS @F7@
+1 NOTE 1. Early Latter-day Saints only has a father listed for James and it is Spencer Davis
+1 SOUR @S1@
+2 NOTE Family Group Record of "James DAVIS" and "Margaret Elsie Or Elizabeth MEEKS"
+1 SOUR @S3@
+2 NOTE Family: Davis/Meeks (F3064)
+1 SOUR @S7@
+2 NOTE James Davis
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 07:34:13
+0 @I20@ INDI
+1 NAME Sarah /Luce/
+2 SURN Luce
+2 GIVN Sarah
+1 SEX F
+1 _UID 19EFC93057BCB64C8866BE8F73226871BFAB
+1 FAMS @F7@
+1 SOUR @S1@
+2 NOTE Family Group Record of "James DAVIS" and "Margaret Elsie Or Elizabeth MEEKS"
+1 SOUR @S7@
+2 NOTE James Davis
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 07:33:59
+0 @I21@ INDI
+1 NAME Athe /Meeks/
+2 SURN Meeks
+2 GIVN Athe
+1 SEX M
+1 _UID 265D356787CCCB419C51702E1B335A1ACBB3
+1 FAMS @F8@
+1 SOUR @S1@
+2 NOTE Family Group Record of "James DAVIS" and "Margaret Elsie Or Elizabeth MEEKS"
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 07:34:46
+0 @I22@ INDI
+1 NAME Virginia /Sneed/
+2 SURN Sneed
+2 GIVN Virginia
+2 _AKA Margaret?
+1 SEX F
+1 _UID 2DFAEA04E6F6B348A8221180F26CD06BE081
+1 FAMS @F8@
+1 SOUR @S1@
+2 NOTE Family Group Record of "James DAVIS" and "Margaret Elsie Or Elizabeth MEEKS"
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 07:35:24
+0 @I23@ INDI
+1 NAME America Jane /Overlin/
+2 SURN Overlin
+2 GIVN America Jane
+1 SEX F
+1 BIRT
+2 DATE 11 Feb 1824
+2 PLAC Grayson, Warren, Kentucky 
+1 DEAT
+2 DATE 19 Sep 1877
+2 PLAC Wallsburg, Wasatch, Utah
+1 BURI
+2 PLAC Wallsburg, Wasatch, Utah
+1 _UID F2369D6D4088204B810CE1F19E47463D2C91
+1 FAMS @F9@
+1 FAMC @F10@
+1 NOTE 1. Ancestral File lists deathyear as 1872
+2 CONT 2. America was about 5 months pregnant while crossing the plains.
+1 SOUR @S2@
+2 NOTE Davis, Merica Jane 
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce Davis and America Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, None Stated.  lines 6- 10; dwelling 28; family 28; head of household: Willia
+3 CONC m Davis
+2 DATA
+3 TEXT 6   28   28   William Davis      28   M   I [ Color: White, Black, or Mulatto]   Farme
+4 CONC r      Ia
+4 CONT 7                  America                2
+4 CONC 5   F    I                                                                                Ky
+4 CONT 8                  Margaret
+4 CONC t M          5     F    I                                                                    
+4 CONC             Ills
+4 CONT 9                  Jame
+4 CONC s                   3      M  I                                                              
+4 CONC                    Iowa
+4 CONT 10               Enoc
+4 CONC h                     2    M    I                                                            
+4 CONC                     Io
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:08:13
+0 @I24@ INDI
+1 NAME Margaret Maria /Davis/
+2 SURN Davis
+2 GIVN Margaret Maria
+2 _MARNM Gurr
+1 SEX F
+1 BIRT
+2 DATE 11 Feb 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 27 Jan 1920
+2 PLAC Vernal, Uintah, Utah 
+1 BURI
+2 PLAC Vernal, Uintah, Utah 
+1 _UID EEBBB25BF226324DA6E88E564F0AFE0218B5
+1 FAMC @F9@
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, None Stated.  lines 6- 10; dwelling 28; family 28; head of household: Willia
+3 CONC m Davis
+2 DATA
+3 TEXT 6   28   28   William Davis      28   M   I [ Color: White, Black, or Mulatto]   Farme
+4 CONC r      Ia
+4 CONT 7                  America                2
+4 CONC 5   F    I                                                                                Ky
+4 CONT 8                  Margaret
+4 CONC t M          5     F    I                                                                    
+4 CONC             Ills
+4 CONT 9                  Jame
+4 CONC s                   3      M  I                                                              
+4 CONC                    Iowa
+4 CONT 10               Enoc
+4 CONC h                     2    M    I                                                            
+4 CONC                     Io
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:08:30
+0 @I25@ INDI
+1 NAME James /Davis/
+2 SURN Davis
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 15 Sep 1847
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 9 Feb 1936
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID E94606BDC5E1724596DEF3BDE622246B0A35
+1 FAMC @F9@
+1 NOTE 1. Alternate birthplace: Garden Grove, Decator, Iowa
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, None Stated.  lines 6- 10; dwelling 28; family 28; head of household: Willia
+3 CONC m Davis
+2 DATA
+3 TEXT 6   28   28   William Davis      28   M   I [ Color: White, Black, or Mulatto]   Farme
+4 CONC r      Ia
+4 CONT 7                  America                2
+4 CONC 5   F    I                                                                                Ky
+4 CONT 8                  Margaret
+4 CONC t M          5     F    I                                                                    
+4 CONC             Ills
+4 CONT 9                  Jame
+4 CONC s                   3      M  I                                                              
+4 CONC                    Iowa
+4 CONT 10               Enoc
+4 CONC h                     2    M    I                                                            
+4 CONC                     Io
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:08:42
+0 @I26@ INDI
+1 NAME Enoch William /Davis/
+2 SURN Davis
+2 GIVN Enoch William
+1 SEX M
+1 BIRT
+2 DATE 11 Mar 1849
+2 PLAC Garden Grove, Decatur, Iowa 
+1 DEAT
+2 DATE 12 Jun 1895
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 971D4774F1510F40881E2DB35F04F8B89955
+1 FAMC @F9@
+1 SOUR @S2@
+2 NOTE Davis, Enoch  - possible that this could be WIlliam Luce's brother and not his son. (Willia
+3 CONC m has both a brother and a son named Enoch.)
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, None Stated.  lines 6- 10; dwelling 28; family 28; head of household: Willia
+3 CONC m Davis
+2 DATA
+3 TEXT 6   28   28   William Davis      28   M   I [ Color: White, Black, or Mulatto]   Farme
+4 CONC r      Ia
+4 CONT 7                  America                2
+4 CONC 5   F    I                                                                                Ky
+4 CONT 8                  Margaret
+4 CONC t M          5     F    I                                                                    
+4 CONC             Ills
+4 CONT 9                  Jame
+4 CONC s                   3      M  I                                                              
+4 CONC                    Iowa
+4 CONT 10               Enoc
+4 CONC h                     2    M    I                                                            
+4 CONC                     Io
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:08:52
+0 @I27@ INDI
+1 NAME Elijah /Davis/
+2 SURN Davis
+2 GIVN Elijah
+1 SEX M
+1 BIRT
+2 DATE 15 Aug 1850
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 22 Aug 1922
+2 PLAC Wallsburg, Wasatch, Utah
+1 BURI
+2 DATE 26 Aug 1922
+2 PLAC Wallsburg, Wasatch, Utah
+1 _UID 46AF3622B4DF044F948DD34B307D4E82EF7C
+1 FAMC @F9@
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:08:48
+0 @I28@ INDI
+1 NAME William L. /Overland/
+2 SURN Overland
+2 GIVN William L.
+2 _AKA William I. /Overlin/
+1 SEX M
+1 _UID 128B48070CC286489ACC8E97A9AE1E66EE35
+1 FAMS @F10@
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:07:29
+0 @I29@ INDI
+1 NAME Maria /Wilson/
+2 SURN Wilson
+2 GIVN Maria
+1 SEX F
+1 _UID 56F757FBD2440146A14B9648E6126F467391
+1 FAMS @F10@
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:12:54
+0 @I30@ INDI
+1 NAME Elizabeth /Abshire/
+2 SURN Abshire
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 28 Dec 1826
+2 PLAC Luce, Spencer, Indiana
+1 DEAT
+2 DATE 31 Jul 1899
+2 PLAC Vernal, Uintah, Utah 
+1 BURI
+2 DATE 2 Aug 1899
+2 PLAC Vernal, Uintah, Utah 
+1 _UID D90F810CF1A33643996BDC959FD8683006A9
+1 FAMS @F11@
+1 FAMC @F12@
+1 NOTE 1.  buried in Memorial Park Cemetery
+1 SOUR @S2@
+2 NOTE Davis, Elizabeth 
+1 SOUR @S1@
+2 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 SOUR @S3@
+2 NOTE Family: Davis/Abshire (F7700)
+1 SOUR @S5@
+2 NOTE lines 15-18; dwelling 1192; family 1192; head of household: John Davis
+2 DATA
+3 TEXT 15   1192   1192   John Davis      33   M            " [none]                      Ia [Indian
+4 CONC a]
+4 CONT                                 Elizabeth   "     2
+4 CONC 5   F                                                         "
+4 CONT                                 Marth
+4 CONC a     "        4      "                                                   Io. [Iowa]
+4 CONT                                 Enoch    "          2
+4 CONC 7   M                   "                           Ia. 
+3 DATE 19 Nov 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:32:59
+0 @I31@ INDI
+1 NAME Martha Jane /Davis/
+2 SURN Davis
+2 GIVN Martha Jane
+2 _MARNM Ms. James Marshall Jackson; Mrs. David Henry Toyn
+1 SEX F
+1 BIRT
+2 DATE 27 Jun 1847
+2 PLAC Council Bluffs, Pottawattamie, Iowa 
+1 DEAT
+2 DATE 30 Sep 1925
+2 PLAC Grouse Creek, Box Elder, Utah
+1 BURI
+2 DATE 2 Oct 1925
+2 PLAC Grouse Creek, Box Elder, Utah
+1 _UID 5A11A9931921C047858FE5571E030B56BAF9
+1 FAMC @F11@
+1 NOTE 1. Alternate birthdate: 26 June 1847
+1 SOUR @S2@
+2 NOTE Davis, Martha Jane
+1 SOUR @S1@
+2 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 SOUR @S3@
+2 NOTE Family : Davis/Absire (F7700)
+1 SOUR @S5@
+2 NOTE lines 15-18; dwelling 1192; family 1192; head of household: John Davis
+2 DATA
+3 TEXT 15   1192   1192   John Davis      33   M            " [none]                      Ia [Indian
+4 CONC a]
+4 CONT                                 Elizabeth   "     2
+4 CONC 5   F                                                         "
+4 CONT                                 Marth
+4 CONC a     "        4      "                                                   Io. [Iowa]
+4 CONT                                 Enoch    "          2
+4 CONC 7   M                   "                           Ia. 
+3 DATE 19 Nov 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:32:51
+0 @I32@ INDI
+1 NAME Margaret Elsie /Davis/
+2 SURN Davis
+2 GIVN Margaret Elsie
+1 SEX F
+1 BIRT
+2 DATE 1849
+2 PLAC Council Bluffs, Pottawattamie, Iowa 
+1 DEAT
+2 DATE INFANT
+1 _UID BAA4C4B752CBDE47900B1307008789200024
+1 FAMC @F11@
+1 NOTE 1. Conflict within the deathdate given by Ancestral File:  
+2 CONT                     Born:             1849  Place: Winter Quarters, Council Bluffs, Potmie, I
+2 CONC a
+2 CONT                     Died: 19 Jul 1931  Place: Infant
+2 CONT       If Margaret was still alive in 1931, she would not be an infant.  Because Margaret wa
+2 CONC s not found listed on the 1850 Census with her family, I will assume she died as an infant.
+1 SOUR @S1@
+2 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:28:11
+0 @I33@ INDI
+1 NAME Anniel /Davis/
+2 SURN Davis
+2 GIVN Anniel
+2 _AKA Anne
+2 _MARNM Mrs. Winfield Scott Hullinger
+1 SEX F
+1 BIRT
+2 DATE 2 Oct 1851
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 19 Jul 1931
+2 PLAC Vernal, Uintah, Utah 
+1 BURI
+2 DATE 22 Jul 1931
+2 PLAC Vernal, Uintah, Utah 
+1 _UID 8AB39C67C644D6439D777339B5D6886FA598
+1 FAMC @F11@
+1 SOUR @S1@
+2 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:32:03
+0 @I34@ INDI
+1 NAME Abraham James /Abshire/
+2 SURN Abshire
+2 GIVN Abraham James
+1 SEX M
+1 _UID FB1D86281FF50740988AE97813ABCFC0F13F
+1 FAMS @F12@
+1 SOUR @S1@
+2 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:33:26
+0 @I35@ INDI
+1 NAME Elsie /Harris/
+2 SURN Harris
+2 GIVN Elsie
+2 _AKA Else
+1 SEX F
+1 _UID 9C6D63D3B7225A4E978B359C1203C88F1FCF
+1 FAMS @F12@
+1 SOUR @S1@
+2 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 08:33:55
+0 @I36@ INDI
+1 NAME Thomas /Carter/
+2 SURN Carter
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 19 Feb 1806
+2 PLAC , Nelson, Kentucky
+1 DEAT
+2 DATE 30 Aug 1854
+2 PLAC Parowan, Iron, Utah
+1 _UID B84B59241EEC2549A3537A99B4AE65733B73
+1 FAMS @F13@
+1 FAMC @F14@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas CARTER" and "Margaret Elsie Or Elizabeth MEEKS" 
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:40:06
+0 @I37@ INDI
+1 NAME Charles /Carter/
+2 SURN Carter
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 11 May 1829
+2 PLAC , Spencer, Indiana
+1 DEAT
+2 DATE 1873 or later
+1 _UID 7F6DBDB46EC335428363944065C2209096E9
+1 FAMC @F13@
+1 NOTE 1. We know he was alive at least until 1873 because he had a child born in 1874
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 10:45:04
+0 @I38@ INDI
+1 NAME Barnabas /Carter/
+2 SURN Carter
+2 GIVN Barnabas
+1 SEX M
+1 BIRT
+2 DATE 18 Jan 1832
+2 PLAC , Spencer, Indiana
+1 DEAT
+2 DATE 15 Oct 1886
+1 _UID E801DC2884C0CA48A021AD87EA7C26773BF2
+1 FAMC @F13@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Barnabas Carter
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 SOUR @S9@
+2 NOTE Parowan, Iron, Utah.  lines 38-40,1-8.  dwelling 1654; family 1327; head of household: Barne
+3 CONC y Carter.
+2 DATA
+3 TEXT 38   1654   1327   Barney Carter      28      M                                      Indiana
+4 CONT 39                            Oliv
+4 CONC e                       2       F                                          NY
+4 CONT 40                            Oliv
+4 CONC e                        3      "                                           U.T.
+4 CONT        [next page]
+4 CONT 1                              Delema               7/1
+4 CONC 2    F                                             "
+4 CONT 2                              Margt Carter         5
+4 CONC 8     "                                           Kentucky
+4 CONT 3                              Enoch Davis         35     M          DLabr                 In
+4 CONC diana
+4 CONT 4                             Ath Carter              2
+4 CONC 4     "                                               "
+4 CONT 5                             Elizth                      1
+4 CONC 9      F                                          England
+4 CONT 6                             Jon Marti
+4 CONC n              2      M                                            U.T.
+4 CONT 7                            Josh Littlefield       22      "            F Lab
+4 CONC r                Unkown
+4 CONT 8                            Susanna Carter     1
+4 CONC 5    F                                            Ill.
+3 DATE 7 Aug 1860
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 08:19:26
+0 @I39@ INDI
+1 NAME Margaret Jane /Carter/
+2 SURN Carter
+2 GIVN Margaret Jane
+1 SEX F
+1 BIRT
+2 DATE 11 Nov 1833
+2 PLAC , Spencer, Indiana
+1 DEAT
+2 DATE 18 Aug 1909
+1 _UID AD786BF9597F4C40A1A3A5B26F2E8B21D182
+1 FAMC @F13@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Margaret Jane Carter
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 08:06:25
+0 @I40@ INDI
+1 NAME Athe /Carter/
+2 SURN Carter
+2 GIVN Athe
+1 SEX M
+1 BIRT
+2 DATE 9 Dec 1835
+2 PLAC , Spencer, Indiana
+1 DEAT
+2 DATE 13 Jan 1926
+1 _UID 8CC19D156BDF8E45B6252B7F8C06EB769406
+1 FAMC @F13@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Athe Carter 
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 SOUR @S9@
+2 NOTE Parowan, Iron, Utah.  lines 38-40,1-8.  dwelling 1654; family 1327; head of household: Barne
+3 CONC y Carter.
+2 DATA
+3 TEXT 38   1654   1327   Barney Carter      28      M                                      Indiana
+4 CONT 39                            Oliv
+4 CONC e                       2       F                                          NY
+4 CONT 40                            Oliv
+4 CONC e                        3      "                                           U.T.
+4 CONT        [next page]
+4 CONT 1                              Delema               7/1
+4 CONC 2    F                                             "
+4 CONT 2                              Margt Carter         5
+4 CONC 8     "                                           Kentucky
+4 CONT 3                              Enoch Davis         35     M          DLabr                 In
+4 CONC diana
+4 CONT 4                             Ath Carter              2
+4 CONC 4     "                                               "
+4 CONT 5                             Elizth                      1
+4 CONC 9      F                                          England
+4 CONT 6                             Jon Marti
+4 CONC n              2      M                                            U.T.
+4 CONT 7                            Josh Littlefield       22      "            F Lab
+4 CONC r                Unkown
+4 CONT 8                            Susanna Carter     1
+4 CONC 5    F                                            Ill.
+3 DATE 7 Aug 1860
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 08:20:01
+0 @I41@ INDI
+1 NAME Sarah Ann /Carter/
+2 SURN Carter
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 15 Feb 1838
+2 PLAC , Spencer, Indiana
+1 DEAT
+2 DATE 4 Feb 1919
+2 PLAC , Kern, California 
+1 _UID CDB9C3062538C4438B9E9401AA6A59C6A44B
+1 FAMC @F13@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Sarah Ann Carter 
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:34:51
+0 @I42@ INDI
+1 NAME Mary E. /Carter/
+2 SURN Carter
+2 GIVN Mary E.
+1 SEX F
+1 BIRT
+2 DATE 1839
+2 PLAC , Spencer, Indiana
+1 _UID 91AE9E0F7C446F4D9CB166BC25FC1EB6CCB1
+1 FAMC @F13@
+1 NOTE 1. Ancestral File says she was born somewhere in Illinois.
+2 CONT 2. not with her family in the 1850 U.S. Census
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Mary E Carter
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:48:03
+0 @I43@ INDI
+1 NAME Sasilda /Carter/
+2 SURN Carter
+2 GIVN Sasilda
+1 SEX F
+1 BIRT
+2 DATE 1839
+2 PLAC , Spencer, Indiana
+1 _UID 71CA7E300DAC5A419FF328C291001CEA50C4
+1 FAMC @F13@
+1 SOUR @S2@
+2 NOTE Carter, Sarilda
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Sasilda Carter 
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:38:08
+0 @I44@ INDI
+1 NAME Susanna /Carter/
+2 SURN Carter
+2 GIVN Susanna
+2 _MARNM Mrs. Austin Moroni Voorhees
+1 SEX F
+1 BIRT
+2 DATE 27 Aug 1844
+2 PLAC , , Illinois
+1 DEAT
+2 DATE 11 Jul 1922
+2 PLAC Gunnishon, Sanpete, Utah
+1 BURI
+2 PLAC Mayfield, Sanpete, Utah
+1 _UID D9E86C247B991E4687D1C9CDD7FAFA850746
+1 FAMC @F13@
+1 SOUR @S2@
+2 NOTE Carter, Susanna
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Susanna Carter
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 SOUR @S9@
+2 NOTE Parowan, Iron, Utah.  lines 38-40,1-8.  dwelling 1654; family 1327; head of household: Barne
+3 CONC y Carter.
+2 DATA
+3 TEXT 38   1654   1327   Barney Carter      28      M                                      Indiana
+4 CONT 39                            Oliv
+4 CONC e                       2       F                                          NY
+4 CONT 40                            Oliv
+4 CONC e                        3      "                                           U.T.
+4 CONT        [next page]
+4 CONT 1                              Delema               7/1
+4 CONC 2    F                                             "
+4 CONT 2                              Margt Carter         5
+4 CONC 8     "                                           Kentucky
+4 CONT 3                              Enoch Davis         35     M          DLabr                 In
+4 CONC diana
+4 CONT 4                             Ath Carter              2
+4 CONC 4     "                                               "
+4 CONT 5                             Elizth                      1
+4 CONC 9      F                                          England
+4 CONT 6                             Jon Marti
+4 CONC n              2      M                                            U.T.
+4 CONT 7                            Josh Littlefield       22      "            F Lab
+4 CONC r                Unkown
+4 CONT 8                            Susanna Carter     1
+4 CONC 5    F                                            Ill.
+3 DATE 7 Aug 1860
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 08:19:47
+0 @I45@ INDI
+1 NAME William L. /Carter/
+2 SURN Carter
+2 GIVN William L.
+1 SEX M
+1 BIRT
+2 DATE 1847
+2 PLAC , Decatur, Iowa 
+1 _UID 861F5D8D9122184795A5E759BF4C2DDB2E88
+1 FAMC @F13@
+1 NOTE 1. not on the 1850 U.S. Census with his family.
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE William L Carter
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:44:17
+0 @I46@ INDI
+1 NAME Angeline /Carter/
+2 SURN Carter
+2 GIVN Angeline
+1 SEX F
+1 BIRT
+2 DATE 1847
+2 PLAC , Decatur, Iowa 
+1 _UID 84BB12A2E90FE7489AC31637B328B13E8E2A
+1 FAMC @F13@
+1 SOUR @S2@
+2 NOTE Carter, Aryaline
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S8@
+2 NOTE Iowa, Decatur, Not Stated.  lines 11-20; dwelling 29; family 29; head of household: Thomas Ca
+3 CONC rter
+2 DATA
+3 TEXT 11   20   20   Thomas Carter          46   M   I [Color: White, Black or Mullato]   Do [Farme
+4 CONC r]    Ky      / [person over 20 yr's of age 
+4 CONT 12                   Margaret                    4
+4 CONC 6   F    I                                                                                   
+4 CONC  Ia         /   who cannot read or write] 
+4 CONT 13                   Charles                      2
+4 CONC 1  M   I                                                         Do [Farmer]       I
+4 CONC a        /
+4 CONT 14                   Barnabas                   1
+4 CONC 8  M    I                                                         Do                      Do 
+4 CONT 15                  Margaret J.                 1
+4 CONC 7  F    I                                                                                    
+4 CONC   Do
+4 CONT 16                   Atha                            1
+4 CONC 5  M   I                                                         Do                     D
+4 CONC o     / [Attended School within the
+4 CONT 17                  Sarah A.                      1
+4 CONC 3  F    I                                                                                    
+4 CONC  Do   /   year]                                       18                  Sasild
+4 CONC a                        1
+4 CONC 1  F   I                                                                                   D
+4 CONC o        
+4 CONT 19                  Susann
+4 CONC a                     6    F    I                                                            
+4 CONC                         Ill
+4 CONT 20                   Angelin
+4 CONC e                    3    F   I                                                              
+4 CONC                         Iowa  
+3 DATE 30 Oct 1850
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:45:06
+0 @I47@ INDI
+1 NAME Harriet /Carter/
+2 SURN Carter
+2 GIVN Harriet
+1 SEX F
+1 BIRT
+2 DATE 1848
+2 PLAC Parowan, Iron, Utah
+1 DEAT
+2 DATE 4 Jul 1854
+1 _UID 830C2B4F74098344A30D703C9C9F5D478823
+1 FAMC @F13@
+1 NOTE 1. not on the 1850 Census with her family
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Harriet Carter
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:47:22
+0 @I48@ INDI
+1 NAME Joseph A. /Carter/
+2 SURN Carter
+2 GIVN Joseph A.
+1 SEX M
+1 BIRT
+2 DATE 1849
+2 PLAC Garden Grove, Decatur, Iowa 
+1 DEAT
+2 DATE 1850
+2 PLAC , Decatur, Iowa 
+1 _UID B835DE5AAE722B4B9F2D6041740D34B99680
+1 FAMC @F13@
+1 NOTE 1. Not on 1850 U.S. Census with his family.
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas CARTER and Margaret Elsie Or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Joseph A Carter
+1 CHAN
+2 DATE 6 Apr 2006
+3 TIME 13:47:06
+0 @I49@ INDI
+1 NAME Barnabas /Carter/
+2 SURN Carter
+2 GIVN Barnabas
+2 _AKA Barnabus
+1 SEX M
+1 _UID 7A4E29ED42082A4797F85D7E3E99BDCB6238
+1 FAMS @F14@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas CARTER" and "Margaret Elsie Or Elizabeth MEEKS"
+1 SOUR @S7@
+2 NOTE Barnabus Carter
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 07:36:32
+0 @I50@ INDI
+1 NAME Sarah /Clayton/
+2 SURN Clayton
+2 GIVN Sarah
+1 SEX F
+1 _UID BA33F67A7158DE409DB9BF313948B510D0DF
+1 FAMS @F14@
+1 SOUR @S1@
+2 NOTE Family Group Record Thomas CARTER and Margaret Elsie or Elizabeth MEEKS
+1 SOUR @S7@
+2 NOTE Sarah Clayton
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 07:40:23
+0 @I51@ INDI
+1 NAME Nicholas /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Nicholas
+1 SEX M
+1 BIRT
+2 DATE 26 Jan 1820
+2 PLAC Connersville, Fayette, Indiana
+1 DEAT
+2 DATE 26 Dec 1897
+2 PLAC Smithfield, Cache, Utah
+1 BURI
+2 PLAC Smithfield, Cache, Utah
+2 SOUR @S6@
+3 NOTE Smithfield Cemetery, B_54_2
+1 _UID 94A3FC715C728D4AB81FBCD19465C49F0960
+1 FAMS @F15@
+1 FAMC @F16@
+1 NOTE 1.   Ancestral File lists birthplace as "Connerville, Rytt, Indiana", the closest I could fin
+2 CONC d to this was "Connersville, Fayette, Indiana"
+2 CONT 2.   Nicholas' continued to have children in Iowa until the year 1860.  In 1865, Frances wa
+2 CONC s married in Salt Lake City, Elvira in 1868, George in 1876, and Edwin in 1881, So the famil
+2 CONC y probably moved west sometime between 1860 and 1865.
+1 SOUR @S2@
+2 NOTE Hendrickson, Nickoles
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+3 CONT Family Group Record of Corenlius HENDRICKSON and Elabeth Mary THOMAS
+1 SOUR @S3@
+2 NOTE Family: Hendrickson/Kelsey (F535)
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:55:12
+0 @I52@ INDI
+1 NAME Diana Elizabeth /Kelsey/
+2 SURN Kelsey
+2 GIVN Diana Elizabeth
+2 _AKA Dianna
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1827
+2 PLAC , Maurey, Tennessee
+1 DEAT
+2 DATE 11 Mar 1900
+2 PLAC Smithfield, Cache, Utah
+1 BURI
+2 PLAC Smithfield, Cache, Utah
+1 _UID 172EFF1F62A49D4CAF29D2EC0F804A5112D9
+1 FAMS @F15@
+1 FAMC @F17@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 SOUR @S3@
+2 NOTE Family: Hendrickson/Kelsey (F535)
+1 SOUR @S6@
+2 NOTE Smithfield Cemetery, B_54_1
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:30:44
+0 @I53@ INDI
+1 NAME Frances Anna /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Frances Anna
+2 _MARNM Mrs. Ezekiel Hopkins
+1 SEX F
+1 BIRT
+2 DATE 11 Dec 1848
+2 PLAC Quincy, Adams, Illinois
+1 DEAT
+2 DATE 21 Dec 1925
+2 PLAC Twin Falls, Twin Falls, Idaho
+1 _UID 3E349EDCE8462E44AE2AB41EBA504A3AC4D8
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:44:17
+0 @I54@ INDI
+1 NAME Elvira Eliza /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Elvira Eliza
+2 _MARNM Mrs. Robert Gravatt Hopkins
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 1850
+2 PLAC Garden Grove, Decatur, Iowa 
+1 DEAT
+2 DATE 15 Apr 1926
+2 PLAC Tetonia, Teton, Idaho
+1 _UID 8727ACD133026A469DE728237637D6B31586
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:44:53
+0 @I55@ INDI
+1 NAME Antenita Emily /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Antenita Emily
+1 SEX F
+1 BIRT
+2 DATE 16 May 1852
+2 PLAC Council Bluffs, Pottawattamie, Iowa 
+1 DEAT
+2 DATE 17 Feb 1854
+2 PLAC , Pottawattamie, Iowa 
+1 _UID 9DC8D87D39FE934594B9A95618DBB79857BC
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:44:34
+0 @I56@ INDI
+1 NAME Jannette /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Jannette
+2 _MARNM Mrs. Edwin Ruthven Miles
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 1854
+2 PLAC Mosquito Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 6 May 1923
+2 PLAC Smithfield, Cache, Utah
+2 CAUS Encephalitis
+1 BURI
+2 DATE 9 May 1923
+2 PLAC Smithfield, Cache, Utah
+1 _UID 2600665C5967B146A7A11548FF5B0C2DD770
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 SOUR @S6@
+2 NOTE Smithfield Cemetery, B_35_5a.  Cause of Death: Encephalitis
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:45:09
+0 @I57@ INDI
+1 NAME Samuel Thomas /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Samuel Thomas
+1 SEX M
+1 BIRT
+2 DATE 30 Dec 1855
+2 PLAC Mt. Pisgah, Pottawattamie, Iowa
+1 DEAT
+2 DATE 8 Oct 1878
+2 PLAC Smithfield, Cache, Utah
+1 BURI
+2 PLAC Smithfield, Cache, Utah
+1 _UID 15FAD0A6E17E0E4B8345995D9E923C71D862
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 SOUR @S6@
+2 NOTE Smithfield Cemetery, B_54_3
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:41:46
+0 @I58@ INDI
+1 NAME George Washington /Hendrickson/
+2 SURN Hendrickson
+2 GIVN George Washington
+1 SEX M
+1 BIRT
+2 DATE 7 Jan 1858
+2 PLAC Mt. Pisgah, Pottawattamie, Iowa
+1 DEAT
+2 DATE 13 Jul 1936
+2 PLAC LaGrande, Union, Oregon
+1 BURI
+2 DATE 17 Jul 1936
+2 PLAC LaGrande, Union, Oregon
+1 _UID D4C6C7332FAAD14DB1956197F2DBFF0DA2EC
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:43:07
+0 @I59@ INDI
+1 NAME David /Hendrickson/
+2 SURN Hendrickson
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 29 Aug 1860
+2 PLAC Mt. Pisgah, Pottawattamie, Iowa
+1 DEAT
+2 DATE 31 Aug 1860
+2 PLAC Mt. Pisgah, Pottawattamie, Iowa
+1 _UID 78860085C27DD54EA6EFE7DA7F6EDC060A0B
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:43:46
+0 @I60@ INDI
+1 NAME Cornelius /Hendrickson/
+2 SURN Hendrickson
+2 GIVN Cornelius
+1 SEX M
+1 _UID 14CB9BBDD37C094FB925314F31E669AB6700
+1 FAMS @F16@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:45:32
+0 @I61@ INDI
+1 NAME Elizabeth Mary /Thomas/
+2 SURN Thomas
+2 GIVN Elizabeth Mary
+1 SEX F
+1 _UID 58B247C9E82F1942BFD8AC974A0F4F717F75
+1 FAMS @F16@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:45:51
+0 @I62@ INDI
+1 NAME Samuel Alexander Pagan /Kelsey/
+2 SURN Kelsey
+2 GIVN Samuel Alexander Pagan
+2 _AKA Samuel Alexander Pagon
+1 SEX M
+1 _UID 229700B752385E46A5C454DFB06ADE72A4A9
+1 FAMS @F17@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 SOUR @S3@
+2 NOTE Family: Hendrickson/Kelsey (F535)
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:47:30
+0 @I63@ INDI
+1 NAME Jannett /Averett/
+2 SURN Averett
+2 GIVN Jannett
+1 SEX F
+1 _UID B5433B3831A4C9409783495F16EE59218994
+1 FAMS @F17@
+1 SOUR @S1@
+2 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+1 SOUR @S3@
+2 NOTE Family: Hendrickson/Kelsey (F353)
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 15:47:09
+0 @I64@ INDI
+1 NAME James /Hendrickson/
+2 SURN Hendrickson
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 12 Nov 1822
+2 PLAC Fulton, Hamilton, Ohio
+1 DEAT
+2 DATE 24 Mar 1888
+2 PLAC Afton, Lincoln, Wyoming
+1 _UID 994CD1F5E70DB441AD168572CDAE74F4310B
+1 FAMS @F18@
+1 FAMC @F16@
+1 NOTE 1.  James was a private in Company "C" of the Mormon Battalion.
+2 CONT 2.  James and Martha had ten children between the years 1855 - 1875 (all but one were born i
+2 CONC n Iowa). One of them was born in 1864 in Iowa and another in 1868 was born in Wanship, Summit
+2 CONC , Utah.  But by 1870 they were back in Harrison County, Iowa for the birth of their 8th child
+2 CONC .  
+2 CONT    So, they came west sometime between Sep 1864 and Aug 1868.
+2 CONT 3.   After the death of James, Martha joined the Reorganized Church in 1904 while living in I
+2 CONC daho.
+1 SOUR @S2@
+2 NOTE Hendrickson, James 
+1 SOUR @S1@
+2 NOTE Family Group Record of Corenlius HENDRICKSON and Elabeth Mary THOMAS
+1 SOUR @S3@
+2 NOTE James Thomas Hendrickson
+1 SOUR @S8@
+2 NOTE District 14, Decatur, Iowa.  lines 23-27. dwelling 5, family 5.  head of household: Corneliu
+3 CONC s Henderson.
+2 DATA
+3 TEXT 23   5   5   Cornelius Henderson   55   M   I [color]      Farmer      Wales
+4 CONT 24              Elizabeth                         5
+4 CONC 5   F    I                                     Ct                               /  [person ov
+4 CONC er 20 yr's of age who cannot
+4 CONT 25              James                              23   M   I                Coope
+4 CONC r       O                                      read or write]
+4 CONT 26              Cornelius                        17   M   I                 Farmer       M
+4 CONC o                          /    [Attended School within the year.]
+4 CONT 27              Lucinda                           1
+4 CONC 5   F    I                                       O                           / 
+4 CONT 
+4 CONT  
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 16:08:21
+0 @I65@ INDI
+1 NAME Martha Jane /Langley/
+2 SURN Langley
+2 GIVN Martha Jane
+1 SEX F
+1 BIRT
+2 DATE 17 Mar 1835
+2 PLAC , , Tennessee
+1 DEAT
+2 DATE 25 Jul 1915
+2 PLAC Felt, Teton, Idaho
+1 _UID A74FD67B53E3B447BFB88F2F6A126174FE89
+1 FAMS @F18@
+1 SOUR @S3@
+2 NOTE James Thomas Hendrickson
+1 SOUR @S7@
+2 NOTE Martha Jane Langley
+1 CHAN
+2 DATE 7 Apr 2006
+3 TIME 16:01:07
+0 @I66@ INDI
+1 NAME Catharine /Barton/
+2 SURN Barton
+2 GIVN Catharine
+2 _AKA Catherine
+1 SEX F
+1 BIRT
+2 DATE 9 Nov 1805
+2 PLAC Northumberland, Northumberland, Pennsylvania
+1 DEAT
+2 DATE 1877
+1 _UID E69E28DDB32A8647A085D1B4ABCCB3D3DA4E
+1 FAMS @F19@
+1 FAMC @F20@
+1 NOTE 1. Ancestral File gives alternate birthplace: Shamokin, Northumberland, Pennsylvania
+1 SOUR @S2@
+2 NOTE Mendenhall, Catherine
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas MENDENHALL and Catharine BARTON 
+3 CONT (no children)
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Barton (F1456)
+1 SOUR @S7@
+2 NOTE Catharine Barton
+1 SOUR @S4@
+2 DATA
+3 TEXT Mendenhall, Cathern
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 47
+4 CONT Company: David Wood Company (1852)
+4 CONT There are no sources listed for pioneer Mendenhall, Cathern.
+1 SOUR @S5@
+2 NOTE lines 21-26. dwelling 1247, family 1247 head of household: Thos. Mendinhal
+2 DATA
+3 TEXT 21   1247   1247   Thos. Mendinhal    45   M      Laborer            Del
+4 CONT 22                            Cathern       "           4
+4 CONC 5   F                                  Pa.
+4 CONT 23                            Susanah      "          1
+4 CONC 6     "                                Del
+4 CONT 24                            Geo.          "              1
+4 CONC 4    "                                   "
+4 CONT 25                            Louis         "              1
+4 CONC 1   "                                   "
+4 CONT 26                            Tho
+4 CONC s           "             6     "                                  O
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:24:33
+0 @I67@ INDI
+1 NAME Thomas /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 10 Mar 1806
+2 PLAC Wilmington, New Castle, Delaware
+1 DEAT
+2 DATE 2 Sep 1888
+2 PLAC Dayton, Franklin, Idaho
+1 BURI
+2 PLAC Dayton, Franklin, Idaho
+1 _UID 4261E01795D4334AAE953B391DED2350B4BD
+1 FAMS @F19@
+1 FAMS @F22@
+1 FAMC @F21@
+1 NOTE 1.   Ancestral File gives birthplace as Mill Creek, Wilmington, New Castle, Delaware
+1 SOUR @S1@
+2 NOTE Individual Record of Thomas MENDENHALL
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Barton (F1456)
+1 SOUR @S5@
+2 NOTE lines 21 - 26.  dwelling 1247; family 1247; head of household: Thos Mendinhal
+2 DATA
+3 TEXT 21 1247   1247   Thos Mendinhal    45   M  Laborer       Del
+4 CONT 22                          Cathern   "              45   F                         Pa.
+4 CONT 23                          Susanah    "            16   "                         Del
+4 CONT 24                          Geo.         "              14   M                          "
+4 CONT 25                          Louis      "                11    "                          "
+4 CONT 26                          Thos       "                 6     "                          O
+4 CONT   
+1 SOUR @S4@
+2 DATA
+3 TEXT Mendenhall, Thomas
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 46
+4 CONT Company: David Wood Company (1852)
+4 CONT Pioneer Information: 
+4 CONT   with 4 males, 2 females
+4 CONT Sources:
+4 CONT see website
+1 SOUR @S5@
+2 NOTE lines 21-26. dwelling 1247, family 1247 head of household: Thos. Mendinhal
+2 DATA
+3 TEXT 21   1247   1247   Thos. Mendinhal    45   M      Laborer            Del
+4 CONT 22                            Cathern       "           4
+4 CONC 5   F                                  Pa.
+4 CONT 23                            Susanah      "          1
+4 CONC 6     "                                Del
+4 CONT 24                            Geo.          "              1
+4 CONC 4    "                                   "
+4 CONT 25                            Louis         "              1
+4 CONC 1   "                                   "
+4 CONT 26                            Tho
+4 CONC s           "             6     "                                  O
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:24:19
+0 @I68@ INDI
+1 NAME Noah /Barton/
+2 SURN Barton
+2 GIVN Noah
+1 SEX M
+1 _UID 6AE3228AB4011649B0F58E7B736980EF0697
+1 FAMS @F20@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas MENDENHALL and Catharine BARTON
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Barton (F1456)
+1 SOUR @S7@
+2 NOTE Noah Barton
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:26:09
+0 @I69@ INDI
+1 NAME Mary /Cooley/
+2 SURN Cooley
+2 GIVN Mary
+1 SEX F
+1 _UID 11B5601A0575014C8D61145D96310B3C74CB
+1 FAMS @F20@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas MENDENHALL and Catharine BARTON
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Barton (F1456)
+1 SOUR @S7@
+2 NOTE Mary Cooley
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:26:39
+0 @I70@ INDI
+1 NAME Abraham /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Abraham
+1 SEX M
+1 _UID 0BC03B5FA6B294439B280C7AD447B514C1CB
+1 FAMS @F21@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas MENDENHALL and Catharine BARTON
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Barton (F1456)
+1 SOUR @S7@
+2 NOTE Abraham Mendenhall
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:30:10
+0 @I71@ INDI
+1 NAME Elizabeth /Wells/
+2 SURN Wells
+2 GIVN Elizabeth
+2 _AKA /Wallis/
+1 SEX F
+1 _UID 95D3FED9D756E14EA1F9FCACD3D3E4B2193E
+1 FAMS @F21@
+1 SOUR @S1@
+2 NOTE Family Group Record of Thomas MENDENHALL and Catharine BARTON
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Barton (F1456)
+1 SOUR @S7@
+2 NOTE Elizabeth Wells
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:29:47
+0 @I72@ INDI
+1 NAME Mary Ann /Sinex/
+2 SURN Sinex
+2 GIVN Mary Ann
+2 _AKA /Synex/
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 1812
+2 PLAC Christiana, New Castle, Delaware
+1 DEAT
+2 DATE 27 Apr 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa 
+1 BURI
+2 PLAC Council Bluffs, Pottawattamie, Iowa 
+1 _UID 3F1B8E985995A143800F3F146160BED68976
+1 FAMS @F22@
+1 FAMC @F23@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE Mary Ann Sinex
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:52:55
+0 @I73@ INDI
+1 NAME Susanah /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Susanah
+1 SEX F
+1 BIRT
+2 DATE 26 Sep 1834
+2 PLAC , New Castle, Delaware 
+1 DEAT
+2 DATE 4 May 1909
+2 PLAC Moroni, Sanpete, Utah
+1 BURI
+2 DATE 6 May 1909
+2 PLAC Moroni, Sanpete, Utah
+1 _UID 3F63100769645F4D8E4227B5F15F9D34FF9B
+1 FAMC @F22@
+1 NOTE 1. OneWorldTree and Ancestral File both give birthdate as 20 Sep 1834
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE Susannah Mendenhall
+1 SOUR @S4@
+2 DATA
+3 TEXT Mendenhall, Susanah
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 18
+4 CONT Company: David Wood Company (1852)
+4 CONT There are no sources listed for pioneer Mendenhall, Susanah.
+1 SOUR @S5@
+2 NOTE lines 21-26. dwelling 1247, family 1247 head of household: Thos. Mendinhal
+2 DATA
+3 TEXT 21   1247   1247   Thos. Mendinhal    45   M      Laborer            Del
+4 CONT 22                            Cathern       "           4
+4 CONC 5   F                                  Pa.
+4 CONT 23                            Susanah      "          1
+4 CONC 6     "                                Del
+4 CONT 24                            Geo.          "              1
+4 CONC 4    "                                   "
+4 CONT 25                            Louis         "              1
+4 CONC 1   "                                   "
+4 CONT 26                            Tho
+4 CONC s           "             6     "                                  O
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:52:42
+0 @I74@ INDI
+1 NAME George Madison /Mendenhall/
+2 SURN Mendenhall
+2 GIVN George Madison
+1 SEX M
+1 BIRT
+2 DATE 29 Sep 1836
+2 PLAC Wilmington, New Castle, Delaware 
+1 DEAT
+2 DATE 1 May 1917
+2 PLAC Dayton, Franklin, Idaho
+1 BURI
+2 DATE 4 May 1917
+2 PLAC Dayton, Franklin, Idaho
+1 _UID B1AAF30F2F441E41BEC2C7545FFCF0CEE352
+1 FAMC @F22@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE George Madison Mendenhall
+1 SOUR @S4@
+2 DATA
+3 TEXT Mendenhall, George
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 16
+4 CONT Company: David Wood Company (1852)
+4 CONT There are no sources listed for pioneer Mendenhall, George
+1 SOUR @S5@
+2 NOTE lines 21-26. dwelling 1247, family 1247 head of household: Thos. Mendinhal
+2 DATA
+3 TEXT 21   1247   1247   Thos. Mendinhal    45   M      Laborer            Del
+4 CONT 22                            Cathern       "           4
+4 CONC 5   F                                  Pa.
+4 CONT 23                            Susanah      "          1
+4 CONC 6     "                                Del
+4 CONT 24                            Geo.          "              1
+4 CONC 4    "                                   "
+4 CONT 25                            Louis         "              1
+4 CONC 1   "                                   "
+4 CONT 26                            Tho
+4 CONC s           "             6     "                                  O
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 12:56:41
+0 @I75@ INDI
+1 NAME Lewis Henry /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Lewis Henry
+1 SEX M
+1 BIRT
+2 DATE 26 Dec 1838
+2 PLAC Wilmington, New Castle, Delaware 
+1 DEAT
+2 DATE 12 Aug 1867
+2 PLAC Franklin, Franklin, Idaho
+1 BURI
+2 PLAC Franklin, Franklin, Idaho
+1 _UID 66780F65299BBF49AFCD61D11378AADADB47
+1 FAMC @F22@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE Lewis Henry Mendenhall
+1 SOUR @S4@
+2 DATA
+3 TEXT Mendenhall, Lewis
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 13
+4 CONT Company: David Wood Company (1852)
+1 SOUR @S5@
+2 NOTE lines 21-26. dwelling 1247, family 1247 head of household: Thos. Mendinhal
+2 DATA
+3 TEXT 21   1247   1247   Thos. Mendinhal    45   M      Laborer            Del
+4 CONT 22                            Cathern       "           4
+4 CONC 5   F                                  Pa.
+4 CONT 23                            Susanah      "          1
+4 CONC 6     "                                Del
+4 CONT 24                            Geo.          "              1
+4 CONC 4    "                                   "
+4 CONT 25                            Louis         "              1
+4 CONC 1   "                                   "
+4 CONT 26                            Tho
+4 CONC s           "             6     "                                  O
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:00:56
+0 @I76@ INDI
+1 NAME Edmund /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Edmund
+2 _AKA Edmond
+1 SEX M
+1 BIRT
+2 DATE 29 Sep 1841
+2 PLAC Wilmington, New Castle, Delaware 
+1 DEAT
+2 DATE 22 Jul 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 BURI
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID DFD7372A2B02EB41B7EC34125ED7DE7EEA33
+1 FAMC @F22@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE Edmund Mendenhall
+1 SOUR @S10@
+2 PAGE p 52
+2 NOTE Mendenhall, Edmond.
+2 DATA
+3 TEXT Mendenhall, Edmond.  22 July 1845 at Nauvoo; 3 years and 10 months old; whooping cough.  (N
+4 CONC N 30 July 1845; NSR p 28)
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:15:04
+0 @I77@ INDI
+1 NAME Thomas /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 18 Feb 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 21 Mar 1909
+2 PLAC Logan, Cache, Utah
+1 BURI
+2 DATE 25 Mar 1909
+2 PLAC Franklin, Franklin, Idaho
+1 _UID F47A899E7C21294F8558C5798A40D994FC3F
+1 FAMC @F22@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE Thomas Mendenhall
+1 SOUR @S4@
+2 DATA
+3 TEXT Mendenhall, Thomas
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknonw
+4 CONT Gender: Male
+4 CONT Age: 8
+4 CONT Company: David Wood Company (1852)
+4 CONT There are no sources listed for pioneer Mendenhall, Thomas 
+1 SOUR @S5@
+2 NOTE lines 21-26. dwelling 1247, family 1247 head of household: Thos. Mendinhal
+2 DATA
+3 TEXT 21   1247   1247   Thos. Mendinhal    45   M      Laborer            Del
+4 CONT 22                            Cathern       "           4
+4 CONC 5   F                                  Pa.
+4 CONT 23                            Susanah      "          1
+4 CONC 6     "                                Del
+4 CONT 24                            Geo.          "              1
+4 CONC 4    "                                   "
+4 CONT 25                            Louis         "              1
+4 CONC 1   "                                   "
+4 CONT 26                            Tho
+4 CONC s           "             6     "                                  O
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:05:52
+0 @I78@ INDI
+1 NAME Elizabeth /Mendenhall/
+2 SURN Mendenhall
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE Feb 1847
+1 DEAT
+2 DATE 27 Apr 1847
+1 _UID ED74FCBBCADF454F9C73F77F818C390222CF
+1 FAMC @F22@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S3@
+2 NOTE Family: Mendenhall/Synix (F8235)
+1 SOUR @S7@
+2 NOTE Elizabeth Mendenhall
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:12:04
+0 @I79@ INDI
+1 NAME John /Sinex/
+2 SURN Sinex
+2 GIVN John
+1 SEX M
+1 _UID F454975AF791214CBD5DA981625F26DB347F
+1 FAMS @F23@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S7@
+2 NOTE Mary Ann Sinex
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:17:50
+0 @I80@ INDI
+1 NAME Susannah /Stedham/
+2 SURN Stedham
+2 GIVN Susannah
+1 SEX F
+1 _UID C4B724258DE1784895908342D88F6460077A
+1 FAMS @F23@
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas MENDENHALL" and "Mary Ann SINEX OR SYNEX"
+1 SOUR @S7@
+2 NOTE Mary Ann Sinex
+1 CHAN
+2 DATE 10 Apr 2006
+3 TIME 13:18:39
+0 @F1@ FAM
+1 _UID 585DB32D913EA744AAE96219E7F84F35C035
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+0 @F2@ FAM
+1 _UID 8AE9075BF4DF694EA5935065DAA5F413D27D
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I1@
+0 @F3@ FAM
+1 _UID 6388DA6DB470084B89F5B72CE39FE418883A
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I2@
+0 @F4@ FAM
+1 _UID 561BFC3BAD58734B8E0209DAC3E3AC407004
+1 HUSB @I8@
+1 WIFE @I2@
+1 CHIL @I9@
+1 CHIL @I10@
+1 MARR
+2 DATE 10 Oct 1834
+2 SOUR @S1@
+3 NOTE Family Group Record of Alexander HILL and Jenette BROOM 
+0 @F5@ FAM
+1 _UID 2593289D6EE5D340B91298CD9C0866A2BF60
+1 HUSB @I11@
+1 WIFE @I2@
+1 CHIL @I12@
+1 MARR
+2 DATE 1846
+2 PLAC Winter Quarters, Douglas, Nebraska
+2 SOUR @S1@
+3 NOTE Family Group Record of William SPEARS and Jenette BROOM 
+0 @F6@ FAM
+1 _UID 2CFD5FEA6A29554AB3060506C536C8739E05
+1 HUSB @I14@
+1 WIFE @I13@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+1 MARR
+2 DATE 19 Apr 1821
+2 PLAC , Warrick, Indiana
+2 SOUR @S1@
+3 NOTE Family Group Record of James DAVIS and Margaret Elsie Or Elizabeth MEEKS 
+1 NOTE OneWorldTree lists Marriage: 14 May 1821 in [city], Wrrck, IN, USA 
+0 @F7@ FAM
+1 _UID 07AD943CAF08D94AA70F8D4E59FDFD478968
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I14@
+0 @F8@ FAM
+1 _UID AC4768939342AD4896E7A54FBBC52E885F9D
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I13@
+0 @F9@ FAM
+1 _UID 43C4B2FE6737774F8DEF2A146952E52297C3
+1 HUSB @I15@
+1 WIFE @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 MARR
+2 DATE 6 Feb 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S3@
+2 NOTE Family: Davis/Overlin (F5482)
+1 SOUR @S1@
+2 NOTE Family Group Record of William Luce DAVIS and American Jane OVERLIN (OVERLUND)
+0 @F10@ FAM
+1 _UID 48D2F10655B34849B307626AEF40AD29357E
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I23@
+0 @F11@ FAM
+1 _UID 99C57D8ACBA0AA4CAF7F4B89826B0F08CC76
+1 HUSB @I16@
+1 WIFE @I30@
+1 CHIL @I31@
+1 CHIL @I32@
+1 CHIL @I33@
+1 MARR
+2 DATE 20 Aug 1846
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S1@
+3 NOTE Family Group Record of John Meeks DAVIS and Elizabeth ABSHIRE
+1 SOUR @S3@
+2 NOTE Family: Davis/Abshire (F7700)
+0 @F12@ FAM
+1 _UID 0A590F9A44B8CA45AEFC4DC4FE8CC9A6CBAE
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I30@
+0 @F13@ FAM
+1 _UID FD5DA70A244A0A4EBEA31D4D65A41A500F7F
+1 HUSB @I36@
+1 WIFE @I13@
+1 CHIL @I37@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+1 CHIL @I41@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 CHIL @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 MARR
+2 DATE 11 Jun 1829
+2 PLAC , Spencer, Indiana
+1 SOUR @S1@
+2 NOTE Family Group Record of "Thomas CARTER" and "Margaret Elsie Or Elizabeth MEEKS" 
+0 @F14@ FAM
+1 _UID B79939DA4EA5794D9411F4D32AC4812017C9
+1 HUSB @I49@
+1 WIFE @I50@
+1 CHIL @I36@
+0 @F15@ FAM
+1 _UID 6CA6A6D72DFCBD4AA0BEA6E98198DECB6E5B
+1 HUSB @I51@
+1 WIFE @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 MARR
+2 DATE 8 Mar 1848
+2 PLAC Quincy, Adams, Illinois
+2 SOUR @S1@
+3 NOTE Family Group Record of Nicholas HENDRICKSON and Diana Elizabeth KELSEY
+0 @F16@ FAM
+1 _UID 2175E685DB0D38489AC2D3BEA1ECB6821BC7
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I51@
+1 CHIL @I64@
+0 @F17@ FAM
+1 _UID BBD09AA5C941C542B44919C1D978FCDEDD84
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I52@
+0 @F18@ FAM
+1 _UID CCD597D422BA3D47A84B0989823D7CE00C7F
+1 HUSB @I64@
+1 WIFE @I65@
+1 MARR
+2 DATE 6 Jun 1854
+2 PLAC , Harrison, Iowa 
+1 SOUR @S7@
+2 NOTE Martha Jane Langley and James Thomas Hendrickson
+0 @F19@ FAM
+1 _UID 4838F1A4B8E094459DCC7C35FA7D62A41DF3
+1 HUSB @I67@
+1 WIFE @I66@
+1 MARR
+2 DATE 1826
+2 PLAC Wilmington, New Castle, Delaware 
+2 SOUR @S1@
+3 NOTE Thomas MENDENHALL and Catharine BARTON 
+0 @F20@ FAM
+1 _UID C7143D70137EBD44A3F98A82FEDE693037F7
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I66@
+0 @F21@ FAM
+1 _UID 9BEA996630F47D4686BB482483EF54F8D630
+1 HUSB @I70@
+1 WIFE @I71@
+1 CHIL @I67@
+0 @F22@ FAM
+1 _UID B80A94239F25AE4BB404A303A1C1C1F8AF4D
+1 HUSB @I67@
+1 WIFE @I72@
+1 CHIL @I73@
+1 CHIL @I74@
+1 CHIL @I75@
+1 CHIL @I76@
+1 CHIL @I77@
+1 CHIL @I78@
+1 MARR
+2 DATE 5 Sep 1833
+2 PLAC Wilmington, New Castle, Delaware 
+0 @F23@ FAM
+1 _UID 45BA07ED537C1F4C9BAED140266F914EFBD0
+1 HUSB @I79@
+1 WIFE @I80@
+1 CHIL @I72@
+0 @S1@ SOUR
+1 TITL Ancestral File 
+1 PUBL Church of Jesus Christ of Latter-day Saints
+1 CALN www.familysearch.org
+0 @S2@ SOUR
+1 TITL Iowa Branches Members Index: 1839-1859
+1 AUTH Ronald G. Watt
+1 PUBL Historical Department of the Church of Jesus Chirst of Latter-day Saints, 1991
+1 NOTE Volume Two: Members Listed in Units
+2 CONT p. 14 Buoyo and Union Branch
+0 @S3@ SOUR
+1 TITL Early Latter-day Saints
+1 AUTH Darrin Lythgoe
+1 PUBL Sandy, Utah: The Next Generation of Genealogy Sitebuilding, 2001-2005
+1 CALN www.earlylds.com
+0 @S4@ SOUR
+1 TITL Mormon Pioneer Overland Travel
+1 PUBL Church of Jesus Christ of Latter-day Saints
+1 CALN www.lds.org/churchhistory/library/pioneercompanysearch
+0 @S5@ SOUR
+1 TITL 1850 U.S. Federal Census - Iowa 
+1 AUTH District 21, Pottawattamie, Iowa
+1 PUBL Ancestry.com
+1 CALN www.ancestry.com
+0 @S6@ SOUR
+1 TITL Utah Cemetery Burials Database
+1 PUBL Utah State History
+1 CALN www.history.utah.gov
+0 @S7@ SOUR
+1 TITL OneWorldTree
+1 PUBL Ancestry.com
+0 @S8@ SOUR
+1 TITL 1850 U.S. Federal Census
+1 PUBL Ancestry.com
+1 CALN www.ancestry.com
+0 @S9@ SOUR
+1 TITL 1860 U.S. Federal Census 
+1 PUBL Ancestry.com
+0 @S10@ SOUR
+1 TITL Nauvoo Deaths and Marriages: 1839-1845
+1 AUTH Lyndon W. Cook
+1 PUBL Orem, Utah: Grandin Book Company
+0 TRLR

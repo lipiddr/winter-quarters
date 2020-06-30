@@ -1,0 +1,2786 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 29 Jul 2013
+2 TIME 15:01:02
+1 FILE oldagency.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I1@ INDI
+1 NAME Daniel Mark /Burbank/
+2 SURN Burbank
+2 GIVN Daniel Mark
+1 SEX M
+1 BIRT
+2 DATE 3 Dec 1814
+2 PLAC Delhi, Delaware, New York
+1 DEAT
+2 DATE 13 Jan 1894
+2 PLAC Brigham City, Box Elder, Utah
+1 BURI
+2 DATE 15 Jan 1894
+2 PLAC Brigham City, Box Elder, Utah
+1 _UID 9834D82E779F664598B24E6FE4E9B81B3AF7
+1 FAMS @F1@
+1 FAMS @F4@
+1 FAMC @F2@
+1 SOUR @S1@
+2 NOTE Name: Daniel Marcus Burbank
+3 CONT Birth date: 3 Dec 1814
+1 SOUR @S2@
+2 NOTE Name mentioned: Daniel Mark Burbank
+1 SOUR @S4@
+2 NOTE Birthplace: Dephi County [sic], New York
+3 CONT Profession: Carpenter/River Boat Pilot
+1 SOUR @S7@
+2 NOTE Name: Daniel Mark Burbank
+3 CONT Birth: 2 Dec 1814
+3 CONT Death: 13 Jan 1894
+3 CONT Gender: Male, Age: 38
+3 CONT Company: John B. Walker Company (1852)
+3 CONT Pioneer Information: Captain of Ten.  He came with his wife and 4 children.  His wife Abigai
+3 CONC l died of cholera.  He married Sarah Southworth on 10 Sep at South Pass, Wyoming
+3 CONT See website for sources
+1 SOUR @S9@
+2 PAGE Roll:M432_188, page 101, image 203
+2 NOTE Dwelling # 586, Household # 586
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Daniel Burbanks
+3 CONT Age: 35, Gender: Male
+3 CONT Occupation: Laborer
+3 CONT Birthplace: New York
+2 DATA
+3 DATE 2 Oct 1850
+1 SOUR @S10@
+2 PAGE Roll: IA_118
+2 NOTE Iowa 1851 Census
+3 CONT Name: Daniel M Burbank
+3 CONT Age: 36
+2 DATA
+3 DATE 1851
+1 CHAN
+2 DATE 1 May 2008
+3 TIME 10:25:15
+0 @I2@ INDI
+1 NAME Lydia /VanBlaricom/
+2 SURN VanBlaricom
+2 GIVN Lydia
+1 SEX F
+1 BIRT
+2 DATE 10 Dec 1816
+2 PLAC Switzerland County, Indiana
+2 SOUR @S1@
+3 NOTE Name: Lydia VanBlaricom
+4 CONT Birthdate: 10 Sep 1816
+2 SOUR @S3@
+3 NOTE Birthdate: 10 Dec 1816
+2 SOUR @S2@
+3 NOTE Birthdate: 10 Dec 1816
+2 SOUR @S4@
+3 NOTE Birthdate: 10 Dec 1816
+1 DEAT
+2 DATE 18 Sep 1838
+2 PLAC Naples, Morgan, Illinois
+2 SOUR @S2@
+3 NOTE Death: 18 Sep 1838
+4 CONT Place: Naples, Scott, Illinois
+4 CONT *Scott county was not formed until Feb 1839
+2 SOUR @S4@
+3 NOTE Death: 15 Sep 1838
+4 CONT Place: Naples, Scott, Illinois
+4 CONT *Scott county was not formed until Feb 1839
+2 SOUR @S1@
+3 NOTE Death: 18 Sep 1838
+4 CONT Place: Naples, Scott, Illinois
+4 CONT *Scott county was not formed until Feb 1839
+1 _UID 594337CD7D26C942A031C30DFE1930E61C45
+1 FAMS @F1@
+1 FAMC @F3@
+1 SOUR @S1@
+2 NOTE Name: Lydia VanBlaricom
+3 CONT Birthdate: 10 Sep 1816
+1 SOUR @S3@
+2 NOTE Birthdate: 10 Dec 1816
+1 SOUR @S4@
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:21:10
+0 @I3@ INDI
+1 NAME Daniel /Burbank/
+2 SURN Burbank
+2 GIVN Daniel
+1 SEX M
+1 _UID AC466896A521414A97BC2602228790E8DD62
+1 FAMS @F2@
+1 SOUR @S1@
+1 SOUR @S4@
+1 CHAN
+2 DATE 7 Feb 2008
+3 TIME 16:23:11
+0 @I4@ INDI
+1 NAME Margaret /Pynchon/
+2 SURN Pynchon
+2 GIVN Margaret
+1 SEX F
+1 _UID 526FF1868756994985225B7A8BD03C050FE1
+1 FAMS @F2@
+1 SOUR @S1@
+1 SOUR @S4@
+1 CHAN
+2 DATE 7 Feb 2008
+3 TIME 16:23:39
+0 @I5@ INDI
+1 NAME Peter /VanBlaricom/
+2 SURN VanBlaricom
+2 GIVN Peter
+1 SEX M
+1 _UID 578572D377B3A84BAD4BA92AC1517D7C1450
+1 FAMS @F3@
+1 SOUR @S1@
+1 SOUR @S4@
+1 SOUR @S2@
+1 CHAN
+2 DATE 7 Feb 2008
+3 TIME 16:25:35
+0 @I6@ INDI
+1 NAME Mary L. //
+2 GIVN Mary L.
+1 SEX F
+1 _UID 8D4472D0791C09469763D75F32AD1CE70988
+1 FAMS @F3@
+1 SOUR @S1@
+1 SOUR @S4@
+1 SOUR @S2@
+1 CHAN
+2 DATE 7 Feb 2008
+3 TIME 16:25:16
+0 @I7@ INDI
+1 NAME Augustus Ripley /Burbank/
+2 SURN Burbank
+2 GIVN Augustus Ripley
+1 SEX M
+1 BIRT
+2 DATE 12 Jan 1838
+2 PLAC Naples, Scott, Illinois
+1 DEAT
+2 DATE 28 Sep 1838
+2 SOUR @S1@
+3 NOTE Death: 18 Sep 1838
+2 SOUR @S3@
+3 NOTE said to have died 10 days after his mother (15 or 18 Sep 1838)
+2 SOUR @S2@
+3 NOTE Death: 28 Sep 1838
+1 _UID 57B962D010340D49888F0A441AAE4FDF37EA
+1 FAMC @F1@
+1 SOUR @S1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S4@
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:34:28
+0 @I8@ INDI
+1 NAME Abigail /Blodgett/
+2 SURN Blodgett
+2 GIVN Abigail
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1811
+2 PLAC Tynsborough, Middlesex, Massachusetts
+1 DEAT
+2 DATE 20 Jul 1852
+2 PLAC Sweetwater, Buffalo, Nebraska
+2 SOUR @S5@
+3 NOTE Died "beside the Platte River, near Sweet Water Nebraska"
+4 CONT Died of cholera
+2 SOUR @S1@
+3 NOTE Death Place: Near Sweetwater, Buffalo, Nebraska
+2 SOUR @S2@
+3 NOTE Died of cholera while crossing the plains to Utah Territory
+1 _UID 2C316E31259FE74AB0713B53FBB0ADA49CE3
+1 FAMS @F4@
+1 FAMC @F5@
+1 SOUR @S5@
+1 SOUR @S1@
+1 SOUR @S2@
+1 SOUR @S7@
+2 NOTE Name: Abigail Burbank
+3 CONT Death Date: 20 July 1852
+3 CONT Gender: Female, Age: 31
+3 CONT Company: John B. Walker Company (1852)
+3 CONT Pioneer Information:
+3 CONT Died en route of cholera
+3 CONT See website for sources
+1 SOUR @S9@
+2 PAGE Roll:  M432_188, page 101, image 203
+2 NOTE Dwelling # 586, Household # 586
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Abigail Burbanks
+3 CONT Age: 39, Gender: Female
+3 CONT Birthplace: Massachusetts
+2 DATA
+3 DATE 2 Oct 1850
+1 SOUR @S10@
+2 PAGE Roll:IA_118
+2 NOTE 1851 Iowa Census
+3 CONT Name: Abigail Burbank
+3 CONT Age: 38
+2 DATA
+3 DATE 1851
+1 CHAN
+2 DATE 8 Feb 2008
+3 TIME 14:26:28
+0 @I9@ INDI
+1 NAME Thadeus /Blodgett/
+2 SURN Blodgett
+2 GIVN Thadeus
+1 SEX M
+1 _UID D303E29CCDB6B046920E24A735E3954B3068
+1 FAMS @F5@
+1 SOUR @S5@
+1 SOUR @S1@
+2 NOTE Name Listed: Thaddeus Blodgett
+1 CHAN
+2 DATE 7 Feb 2008
+3 TIME 16:55:09
+0 @I10@ INDI
+1 NAME Hannah /Marshall/
+2 SURN Marshall
+2 GIVN Hannah
+1 SEX F
+1 _UID AF4CA19F6DF3984D823EB0603F4CE3723051
+1 FAMS @F5@
+1 SOUR @S1@
+1 CHAN
+2 DATE 7 Feb 2008
+3 TIME 16:55:29
+0 @I11@ INDI
+1 NAME Joseph Smith /Burbank/
+2 SURN Burbank
+2 GIVN Joseph Smith
+1 SEX M
+1 BIRT
+2 DATE 13 Jul 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 6 Jul 1848
+2 PLAC Iowa
+2 SOUR @S1@
+3 NOTE Name: Joseph Smith Burbank
+4 CONT Death: 6 Jul 1848
+2 SOUR @S9@
+3 PAGE Roll: M432_919, page 101, image 203
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #586, Family #586 
+4 CONT Name: Joseph Burbank
+4 CONT Age:6, Gender: Male
+4 CONT Birthplace: Illinois
+4 CONT *It seems that the family chose to include Joseph in the census eventhough other evidence sho
+4 CONC ws that he had passed away in 1848.
+3 DATA
+4 DATE 2 Oct 1850
+2 SOUR @S2@
+3 NOTE Name: Joseph Smith Burbank
+4 CONT Death: 6 Jul 1848
+4 CONT Place: one part mentions it occurred while crossing the plains to Utah Territory, near Winte
+4 CONC r Quarters, but another part states that it was while they were crossing from Farmington, Iow
+4 CONC a to Council Bluffs, Iowa.  He died in an accident with a wagon.
+2 SOUR @S25@
+3 NOTE Name: Joseph Smith Burbank
+4 CONT Deat: 6 Jul 1848
+4 CONT Note: Some records indicate death 12 or 16 Jul 1848
+1 _UID 0612318716F8494BB9DFFE0621DF06BFD303
+1 FAMC @F4@
+1 SOUR @S1@
+2 NOTE Name: Joseph Smith Burbank
+3 CONT Birth: 13 Jul 1842
+3 CONT Death: 6 Jul 1848
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 101, image 203
+2 NOTE Dwelling # 586, Household # 586
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Joseph Burbanks
+3 CONT Age: 6, Gender: Male
+3 CONT Birthplace: Illinois
+2 DATA
+3 DATE 2 Oct 1850
+1 SOUR @S5@
+1 SOUR @S25@
+2 NOTE Name: Joseph Smith Burbank
+3 CONT Birth: 13 Jul 1842
+3 CONT Place: Nauvoo, Hancock, Illinois
+3 CONT Note: Some records indicate birth in 1839
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:07:40
+0 @I12@ INDI
+1 NAME Mary Lydia /Burbank/
+2 SURN Burbank
+2 GIVN Mary Lydia
+1 SEX F
+1 BIRT
+2 DATE 30 Jun 1844
+2 PLAC Alton, Madison, Illinois
+2 SOUR @S1@
+3 NOTE Name: Mary Lydia Burbank
+4 CONT Birth: 30 Jun 1844
+4 CONT Place: Alton, Madison, Illinois
+2 SOUR @S2@
+3 NOTE Birth: 30 Jan 1844
+4 CONT Place: Alton, Madison, Illinois
+2 SOUR @S5@
+3 NOTE Birthplace: Nauvoo
+2 SOUR @S24@
+3 NOTE Name: Mary Lydia Burbank
+4 CONT Birth: 30 Jan 1844
+4 CONT Place: Alton Junction, Madison, Illinois
+1 DEAT
+2 DATE 11 Jun 1928
+2 PLAC Deweyville, Box Elder, Utah
+1 BURI
+2 DATE 13 Jun 1928
+2 PLAC Deweyville, Box Elder, Utah
+1 _UID 216BAB6C0A390E41AC48899BBA4015CC281E
+1 FAMC @F4@
+1 SOUR @S1@
+2 NOTE Name: Mary Lydia Burbank
+3 CONT Birth: 30 Jun 1844
+3 CONT Birthplace: Alton, Madison, Illinois
+3 CONT Death: 11 Jun 1928
+1 SOUR @S9@
+2 PAGE Roll:M432_188, page 101, image 203
+2 NOTE Dwelling # 586, Household # 586
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Mary Burbanks
+3 CONT Age: 5, Gender: Female
+3 CONT Birthplace: Illinois
+2 DATA
+3 DATE 2 Oct 1850
+1 SOUR @S10@
+2 PAGE Roll: IA_188
+2 NOTE 1851 Iowa Census
+3 CONT Name: Mary L. Burbank
+3 CONT Age: 7 or 9 [looks more like 9, but 7 makes more sense]
+2 DATA
+3 DATE 1851
+1 SOUR @S7@
+2 NOTE Name: Mary Lydia Burbank
+3 CONT Birth Date: 30 Jun 1844
+3 CONT Death Date: 11 Jun 1928
+3 CONT Gender: Female, Age: 8
+3 CONT Company: John B. Walker Company (1852)
+3 CONT see website for sources
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:07:39
+0 @I13@ INDI
+1 NAME Daniel Mark /Burbank/
+2 SURN Burbank
+2 GIVN Daniel Mark
+1 SEX M
+1 BIRT
+2 DATE 10 Jun 1846
+2 PLAC Farmington, Van Buren, Iowa
+1 DEAT
+2 DATE 12 Feb 1931
+2 PLAC Bennington, Bear Lake, Idaho
+1 BURI
+2 DATE 15 Feb 1931
+2 PLAC Bennington, Bear Lake, Idaho
+2 SOUR @S26@
+3 NOTE Name: Daniel Mark Burbank, Jr.
+4 CONT Buried in Bennington Cemetery, Bear Lake County, Idaho, Sec 1, Lot 256
+1 _UID 3BEFAD8F3039354EB3F27C4A8FBD540865A0
+1 FAMC @F4@
+1 SOUR @S1@
+2 NOTE Name: Daniel Marcus Junior Burbank
+3 CONT Birth: 10 Jun 1846
+3 CONT Birthplace: -, Farmington, Van Buren, Iowa
+3 CONT Death: 12 Feb 1931
+3 CONT Death place: -, Bennington, Bear Lake, Idaho
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 101, image 203
+2 NOTE Dwelling # 586, Household # 586
+3 CONT Location: District 21, Pottawattamie, Iowa
+3 CONT Name: Daniel Burbanks
+3 CONT Age: 4, Gender: Male
+3 CONT Birthplace: Iowa
+2 DATA
+3 DATE 2 Oct 1850
+1 SOUR @S10@
+2 PAGE Roll: IA_188
+2 NOTE 1851 Iowa Census
+3 CONT Name: Daniel Burbank
+3 CONT Age: 5
+2 DATA
+3 DATE 1851
+1 SOUR @S2@
+2 NOTE Name: Daniel Mark Burbank, Jr.
+3 CONT Birth: 10 Jun 1846
+1 SOUR @S5@
+1 SOUR @S7@
+2 NOTE Name: Daniel Mark, Jr. or Daniel Marcus Burbank
+3 CONT Birth Date: 10 Jun 1846
+3 CONT Death Date: 12 Feb 1931
+3 CONT Gender: Male, Age: 6
+3 CONT Company: John B. Walker Company (1852)
+3 CONT See website for sources
+1 SOUR @S26@
+2 NOTE Name: Daniel Mark Burbank, Jr.
+3 CONT Birth: 10 Jun 1846
+3 CONT Death: 12 Feb 1931
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:07:36
+0 @I14@ INDI
+1 NAME Harrison /Oliver/
+2 SURN Oliver
+2 GIVN Harrison
+1 SEX M
+1 BIRT
+2 DATE 29 Mar 1800
+2 PLAC West Centerville, Fairfax, Viriginia
+2 SOUR @S1@
+3 NOTE Name: Harrison Oliver
+4 CONT Birth: 29 Mar 1800
+4 CONT Birthplace: West Centerville, Fairfox, Virginia
+2 SOUR @S6@
+3 NOTE Name: Harrison Oliver
+4 CONT Birth: 29 Mar 1800
+4 CONT Birthplace: Centerville, Fairfax, Viriginia
+2 SOUR @S8@
+3 NOTE Name: Harrison Oliver
+4 CONT Birth: 29 Mar 1800
+4 CONT Birthplace: W. Centerville, Fairfax, Virginia
+1 DEAT
+2 DATE 9 May 1881
+2 PLAC San Bernardino, San Bernardino, California
+1 BURI
+2 DATE 10 May 1881
+2 PLAC San Bernardino, San Bernardino, California
+2 SOUR @S1@
+3 NOTE Name: Harrison Oliver
+4 CONT Burial Place: Pioneer Cemetery, San Bernardino, San Bernardino, California
+1 _UID D36F4AFFA1576D43891D826AA69B366BA707
+1 FAMS @F7@
+1 FAMS @F6@
+1 FAMC @F8@
+1 SOUR @S8@
+2 NOTE Name: Harrison Oliver
+3 CONT Birth: 29 Mar 1800
+1 SOUR @S11@
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling # 637[?], Household #637[?]
+3 CONT Name: Harrison Oliver
+3 CONT Age: 51, Gender: Male
+3 CONT Occupation: Farmer
+3 CONT Birthplace: Virginia
+1 SOUR @S7@
+2 NOTE Name: Harrison Oliver
+3 CONT Birth: 29 Mar 1800
+3 CONT Death: 9 May 1881
+3 CONT Gender: Male, Age: 50
+3 CONT Company: James Pace Company (1850)
+3 CONT see website for sources
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 15:12:43
+0 @I15@ INDI
+1 NAME Hannah /Martin/
+2 SURN Martin
+2 GIVN Hannah
+1 SEX F
+1 BIRT
+2 DATE 27 Jan 1812
+2 PLAC Lincoln, Harrison, Kentucky
+2 SOUR @S1@
+3 NOTE Birthplace: Lickin, Harrison, Kentucky
+2 SOUR @S8@
+3 NOTE Birthplace: Lincoln, Harrison, Kentucky
+2 SOUR @S6@
+3 NOTE Birthplace: Maryland, USA
+1 DEAT
+2 DATE 24 Jan 1853
+2 PLAC Salt Lake City, Salt Lake, Utah
+2 SOUR @S1@
+3 NOTE Death: 24 Jan 1853
+4 CONT Place: Salt Lake City, Salt Lake, Utah
+2 SOUR @S7@
+3 NOTE Death: 24 Jan 1853
+4 CONT Place: Salt Lake City, Salt Lake, Utah
+2 SOUR @S8@
+3 NOTE Death: 9 Oct 1852
+4 CONT Place: Salt Lake Territory
+2 SOUR @S7@
+3 NOTE Name: Hannah Martin Oliver
+4 CONT Death: 24 Jan 1853
+1 BURI
+2 DATE Jan 1853
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID BE1AB36205C1F848A48D08FEE71E7DDB87D5
+1 FAMS @F6@
+1 SOUR @S1@
+2 NOTE Name: Hannah Martin
+3 CONT Birth: 27 Jan 1812
+3 CONT Birthplace: Lickin, Harrison, Ky
+1 SOUR @S8@
+2 NOTE Name: Hannah Martin
+3 CONT Birth: 27 Jan 1812
+3 CONT Birthplace: Lincoln, Harrison, Kentucky
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #637[?], Household #637[?]
+3 CONT Name: Hannah Oliver
+3 CONT Age: 39, Gender: Female
+3 CONT Birthplace: Kentucky
+1 SOUR @S7@
+2 NOTE Name: Hannah Martin Oliver
+3 CONT Birth: 27 Jan 1812
+3 CONT Death: 24 Jan 1853
+3 CONT Gender: Female, Age: 38
+3 CONT Company: James Pace Company (1850)
+3 CONT Pioneer Information: Her mother, Hannah Adams Martin, also came with her family.
+3 CONT see website for sources
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 16:37:26
+0 @I16@ INDI
+1 NAME Dorothy /Martin/
+2 SURN Martin
+2 GIVN Dorothy
+1 SEX F
+1 BIRT
+2 DATE 27 Jun 1804
+2 PLAC Louisville, Jefferson, Kentucky
+2 SOUR @S1@
+3 NOTE Name: Dorothy Martin
+4 CONT Birth: 27 Jun 1804
+4 CONT Birthplace: Of Louisville, Jefferson, Kentucky
+1 DEAT
+2 DATE 12 Sep 1831
+2 PLAC Louisville, Jefferson, Kentucky
+2 SOUR @S1@
+3 NOTE Name: Dorothy Martin
+4 CONT Death: 12 Sep 1831
+2 SOUR @S8@
+3 NOTE Name: Dorothy Martin
+4 CONT Death: 12 Sep 1831
+2 SOUR @S6@
+3 NOTE Name: Dorothy Martin
+4 CONT Death: abt. 1828
+1 _UID 913C247B96E0104E8A48244F5CB29BACDAE4
+1 FAMS @F7@
+1 FAMC @F9@
+1 SOUR @S11@
+1 SOUR @S6@
+2 NOTE Name: Dorothy Martin
+3 CONT Birth: abt 1804
+1 CHAN
+2 DATE 11 Feb 2008
+3 TIME 15:40:43
+0 @I17@ INDI
+1 NAME Samual N.F. /Oliver/
+2 SURN Oliver
+2 GIVN Samual N.F.
+1 SEX M
+1 _UID 9825BE130B8A3F458D8E026C73513E0E4016
+1 FAMS @F8@
+1 SOUR @S1@
+2 NOTE Name: Samual N.F. Oliver
+1 CHAN
+2 DATE 8 Feb 2008
+3 TIME 14:53:50
+0 @I18@ INDI
+1 NAME Milly /Pash/
+2 SURN Pash
+2 GIVN Milly
+1 SEX F
+1 _UID 5E026634078A7E4999D58127964FFFBA0656
+1 FAMS @F8@
+1 SOUR @S1@
+2 NOTE Name: Milly Pash
+1 CHAN
+2 DATE 8 Feb 2008
+3 TIME 14:54:08
+0 @I19@ INDI
+1 NAME William /Martin/
+2 SURN Martin
+2 GIVN William
+1 SEX M
+1 _UID CF1E0AD95993CE438BBD29173CE2A4FC13ED
+1 FAMS @F9@
+1 SOUR @S1@
+2 NOTE Name: William Martin
+1 CHAN
+2 DATE 8 Feb 2008
+3 TIME 14:54:24
+0 @I20@ INDI
+1 NAME Hannah /Adams/
+2 SURN Adams
+2 GIVN Hannah
+1 SEX F
+1 _UID A8D8188F19BDA44DAAF8B89C897986EC581E
+1 FAMS @F9@
+1 SOUR @S1@
+2 NOTE Name: Hannah (Fanny) Adams
+1 CHAN
+2 DATE 8 Feb 2008
+3 TIME 14:54:47
+0 @I21@ INDI
+1 NAME Sarah /Oliver/
+2 SURN Oliver
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 1831
+2 PLAC Louisville, Jefferson, Kentucky
+1 DEAT
+2 DATE 1831
+2 PLAC Louisville, Jefferson, Kentucky
+1 _UID 0AEFA89E49AF1C4BBEF2A13A981011E3C58E
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Sarah Oliver
+3 CONT Birth: 1831
+1 SOUR @S8@
+2 NOTE Name: Sarah Oliver
+3 CONT Birth: Abt 1831
+3 CONT Death: Infant
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 13:47:09
+0 @I22@ INDI
+1 NAME William /Oliver/
+2 SURN Oliver
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 30 Oct 1829
+2 PLAC Louisville, Jefferson, Kentucky
+1 DEAT
+2 DATE 30 Oct 1829
+2 PLAC Louisville, Jefferson, Kentucky
+1 _UID 3EED0955138A3B4D87648521A7680FB10EC1
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: William Oliver
+3 CONT Was a twin to Martin Oliver
+1 SOUR @S8@
+2 NOTE Death - Stillborn
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:31:13
+0 @I23@ INDI
+1 NAME Martin /Oliver/
+2 SURN Oliver
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 30 Oct 1829
+2 PLAC Louisville, Jefferson, Kentucky
+1 DEAT
+2 DATE 30 Oct 1829
+2 PLAC Louisville, Jefferson, Kentucky
+2 SOUR @S1@
+3 NOTE Name: Martin Oliver
+4 CONT Death: 30 Oct 1829
+2 SOUR @S8@
+3 NOTE Name: Martin Oliver
+4 CONT Death: 7 Feb 1850
+1 _UID A408EA732D21E94BA15E53099BD6E4AAE5B8
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Martin Twin Oliver
+3 CONT Twin to William Oliver
+1 CHAN
+2 DATE 11 Feb 2008
+3 TIME 15:08:43
+0 @I24@ INDI
+1 NAME Samuel N.F. /Oliver/
+2 SURN Oliver
+2 GIVN Samuel N.F.
+1 SEX M
+1 BIRT
+2 DATE 3 Aug 1827
+2 PLAC Louisville, Jefferson, Kentucky
+1 DEAT
+2 DATE Feb 1850
+1 _UID 5E7274A5B4799140BE16303B60545DBDF498
+1 FAMC @F7@
+1 SOUR @S1@
+2 NOTE Name: Samuel N.F. Oliver
+3 CONT Birth: 3 Aug 1827
+1 SOUR @S8@
+2 NOTE Name: Samuel N.F. Oliver
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 13:47:01
+0 @I25@ INDI
+1 NAME William Temple /Oliver/
+2 SURN Oliver
+2 GIVN William Temple
+1 SEX M
+1 BIRT
+2 DATE 27 May 1833
+2 PLAC Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 25 Jun 1909
+2 PLAC Showlow, Navajo, Arizon
+1 BURI
+2 DATE 30 Jun 1909
+2 PLAC Showlow, Navajo, Arizon
+1 _UID F0C676C7E6371443A738E3F120475B18F45B
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: William Temple Oliver
+3 CONT Birth: 27 May 1833
+3 CONT Place: Danville, Vermin [Vermilion], Illinois
+1 SOUR @S8@
+2 NOTE Name: William Temple Oliver
+3 CONT Birth: 27 May 1833
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #637[?], Household #637[?]
+3 CONT Name: William Oliver
+3 CONT Age: 17, Gender: Male
+3 CONT Occupation: Laborer
+3 CONT Birthplace: Illinois
+1 SOUR @S7@
+2 NOTE Name: William Temple Oliver
+3 CONT Birth: 27 May 1833
+3 CONT Death: 25 Jun 1909
+3 CONT Gender: Male, Age: 17
+3 CONT Company: James Pace Company (1850)
+3 CONT see website for sources
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:30:02
+0 @I26@ INDI
+1 NAME Edward McClelland /Oliver/
+2 SURN Oliver
+2 GIVN Edward McClelland
+1 SEX M
+1 BIRT
+2 DATE 20 Jul 1835
+2 PLAC Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 3 May 1860
+1 _UID 4970BF4EB1581146AE32575F5FAEBCFC8169
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: Edward Mcclelland Oliver
+3 CONT Birth: 20 Jul 1835
+1 SOUR @S8@
+2 NOTE Name: Edward McClelland Oliver
+3 CONT Birth: 20 Jul 1835
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #637[?], Household #637[?]
+3 CONT Name: Edward Oliver
+3 CONT Age: 15, Gender: Male
+3 CONT Birthplace: Illinois
+1 SOUR @S7@
+2 NOTE Name: Edwards McClelland Oliver
+3 CONT Birth: 20 Jul 1835
+3 CONT Death: 3 May 1860
+3 CONT Gender: Male, Age: 14
+3 CONT Company: James Pace Company (1850)
+3 CONT see website for sources
+1 CHAN
+2 DATE 12 Feb 2008
+3 TIME 15:12:10
+0 @I27@ INDI
+1 NAME Lamira Jane /Oliver/
+2 SURN Oliver
+2 GIVN Lamira Jane
+1 SEX F
+1 BIRT
+2 DATE 28 May 1837
+2 PLAC Danville, Vermilion, Illinois
+2 SOUR @S1@
+3 NOTE Listed twice in Harrison Oliver family:
+4 CONT 1. Lamira Jane Oliver
+4 CONT Birthplace: Vermillion, Vermillion, Illinois
+4 CONT 2. Lamara or Lamaria Jane Oliver
+4 CONT Birthplace: Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 22 Aug 1858
+1 _UID C0EFA549C08F914CB796AAD47810FE122C47
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name(s}: Lamira Jane Oliver, Lamara or Lamaria Jane Oliver
+3 CONT Birth: 28 May 1837
+1 SOUR @S8@
+2 NOTE Name: Lamira Jane Oliver
+3 CONT Spouse: George Allen
+1 SOUR @S9@
+2 PAGE Roll: 432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #637[?], Household #637[?]
+3 CONT Name: Lamira Oliver
+3 CONT Age: 13, Gender: Female
+3 CONT Birthplace: Illinois
+1 SOUR @S7@
+2 NOTE Name: Lamira Jane Oliver
+3 CONT Birth: 28 May 1837
+3 CONT Death: 22 Aug 1858
+3 CONT Gender: Female, Age: 13
+3 CONT Company: James Pace Company (1850)
+3 CONT see website for sources
+1 CHAN
+2 DATE 12 Feb 2008
+3 TIME 15:13:57
+0 @I28@ INDI
+1 NAME Arabella /Oliver/
+2 SURN Oliver
+2 GIVN Arabella
+1 SEX F
+1 BIRT
+2 DATE 24 Feb 1839
+2 PLAC Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 27 Aug 1858
+2 PLAC Utah
+2 SOUR @S1@
+3 NOTE Death: 27 Aug 1858
+2 SOUR @S8@
+3 NOTE Death: 22 Aug 1842
+4 CONT *Most likely incorrect because there is an Orra Oliver on the Mormon Pioneer Overland Trave
+4 CONC l List for the 1850 James Pace Company, which is thought to be Arrabella OIiver.  There is al
+4 CONC so an Orra Oliver in the 1850 US Census for Utah.  And there is an Arabella Oliver listed i
+4 CONC n the "7th Ward GSL City" in 1856 (ancestry.com, Utah Census, 1850-90)
+1 _UID E6B453D8A00D7C42B9D59790E632B1B563E1
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: Arabella Oliver
+3 CONT Birth: 24 Feb 1839
+1 SOUR @S8@
+2 NOTE Name: Arabella Oliver
+3 CONT Birth: 24 Feb 1839
+1 SOUR @S7@
+2 NOTE Name: Orra Oliver
+3 CONT Birth: ca. 1838
+3 CONT Death: Unknown
+3 CONT Gender: Male [?], Age: 12
+3 CONT Company: James Pace Company (1850)
+1 SOUR @S9@
+2 PAGE Roll: 432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #6, Family #6
+3 CONT Name: Orra Oliver
+3 CONT Age: 12, Gender: Male [?]
+3 CONT Birthplace: Illinois
+1 SOUR @S11@
+2 NOTE Name: Arabella Oliver
+3 CONT Birth: 1839
+3 CONT Place: Illinois
+1 SOUR @S6@
+2 NOTE Name: Arbelle Oliver
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:29:03
+0 @I29@ INDI
+1 NAME Nancy Ann /Oliver/
+2 SURN Oliver
+2 GIVN Nancy Ann
+1 SEX F
+1 BIRT
+2 DATE 28 May 1841
+2 PLAC Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 10 Apr 1842
+2 PLAC Danville, Vermilion, Illinois
+2 SOUR @S1@
+3 NOTE Name: Nancy Ann Oliver
+4 CONT Death: 10 Apr 1842
+4 CONT Place: Myton, Utah ----> According to records, Nancy did not go to Utah, but probably did di
+4 CONC e in 1842.  In this year her family was living in Danville, Vermilion, Illinois. 
+1 _UID CAD8EB75029AD948B2C359F6B292D75DFB1D
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: Nancy Ann Oliver
+3 CONT Birth: Danville, Vermilion, Illinois
+3 CONT Death: Myton, Utah
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 13:29:31
+0 @I30@ INDI
+1 NAME Emily Frances /Oliver/
+2 SURN Oliver
+2 GIVN Emily Frances
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1843
+2 PLAC Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 15 Dec 1927
+2 PLAC Myton, Duchesne, Utah
+2 SOUR @S1@
+3 NOTE Name: Emily Frances Oliver
+4 CONT Death Place: Van Fullmer Ranch, Myton, Duchesne, Utah
+1 _UID 642D6B056B9688459F4176015FAAE05B6A4E
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: Emily Frances Oliver
+3 CONT Birth: 10 Jan 1843
+1 SOUR @S8@
+2 NOTE Name: Emily Francis Oliver
+3 CONT Birth: 10 Jan 1843
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 111, image 226
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #637[?], Household #637[?]
+3 CONT Name: Emily Oliver
+3 CONT Age: 8, Gender: Female
+3 CONT Birthplace: Illinois
+1 SOUR @S7@
+2 NOTE Name: Emily Frances Oliver
+3 CONT Birth: 10 Jan 1843
+3 CONT Death: 15 Dec 1927
+3 CONT Gender: Female, Age: 7
+3 CONT Company: Jame Pace Company (1850)
+3 CONT see website for sources
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 13:46:08
+0 @I31@ INDI
+1 NAME Dorothy W. /Oliver/
+2 SURN Oliver
+2 GIVN Dorothy W.
+1 SEX F
+1 BIRT
+2 DATE 25 Jan 1845
+2 PLAC Danville, Vermilion, Illinois
+2 SOUR @S1@
+3 NOTE Name: Dorothy W. Oliver
+4 CONT Birth: 25 Jan 1845
+2 SOUR @S8@
+3 NOTE Name: Dorothy W. Oliver
+4 CONT Birth: 25 Feb 1842
+1 DEAT
+2 DATE 1845
+2 SOUR @S1@
+3 NOTE Death: 1845, infant
+2 SOUR @S8@
+3 NOTE Death: Child
+1 BURI
+2 PLAC Illinois
+1 _UID 4CC81212BACF4F4E8029D18220B6ED90AD6A
+1 FAMC @F6@
+1 CHAN
+2 DATE 11 Feb 2008
+3 TIME 16:41:57
+0 @I32@ INDI
+1 NAME Polly /Oliver/
+2 SURN Oliver
+2 GIVN Polly
+1 SEX F
+1 BIRT
+2 DATE 1847
+2 PLAC Danville, Vermilion, Illinois
+1 DEAT
+2 DATE 1847
+1 _UID 971E1B9A295EC248A76A34DAEF5EC92C5CBC
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name: Polly Oliver
+3 CONT Birth: 1847
+1 CHAN
+2 DATE 11 Feb 2008
+3 TIME 16:44:09
+0 @I33@ INDI
+1 NAME Christian /Clapper/
+2 SURN Clapper
+2 GIVN Christian
+1 SEX M
+1 BIRT
+2 DATE 19 Feb 1805
+2 PLAC Washington County, Maryland
+2 SOUR @S1@
+3 NOTE Name: Chritian Clapper
+4 CONT Birth: 19 Feb 1805
+4 CONT Place: Washington County, Maryland
+2 SOUR @S13@
+3 NOTE Place of Birth: Ohio
+2 SOUR @S6@
+3 NOTE Name: J. Christian Clapper
+4 CONT Birth: 31 Aug 1802
+4 CONT Place: Washington County, Maryland
+2 SOUR @S15@
+3 PAGE Roll:M653_321, page 28, image 69
+3 NOTE Location: Scott Township, Fremont, Iowa
+4 CONT Dwelling #215, Household #186
+4 CONT Name: Christian Clapper
+4 CONT Age: 50, Gender: Male
+4 CONT Occupation: Farmer
+4 CONT Birthplace: Pennsylvania
+3 DATA
+4 DATE 7 Jun 1860
+1 CHR
+2 DATE 21 Jun 1805
+2 PLAC Hagerstown, Washington, Maryland
+1 DEAT
+2 DATE 29 Mar 1880
+2 PLAC Thurman, Fremont, Iowa
+1 BURI
+2 PLAC Thurman, Fremont, Iowa
+2 SOUR @S1@
+3 NOTE Buried: Thurman Cemetery, Thurman, Fremont, Iowa
+1 _UID 1EC4D7CB78B68B4EB09FFECECA5029DFC827
+1 FAMS @F10@
+1 FAMS @F11@
+1 NOTE Washington County in part borders southern Pennsylvania.  This may be the reason for the cont
+2 CONC radictory birthplace information.  Hagerstown, Maryland is about 8 miles from the Pennsylvani
+2 CONC a border.
+1 SOUR @S14@
+2 NOTE Birth place: Washington County, Maryland
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Christian Clopper [Clapper]
+3 CONT Age: 45, Gender: Male
+3 CONT Occupation: Laborer 
+3 CONT Birthplace: Pennsylvania
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Christian Clapper
+3 CONT Birth: Unknown
+3 CONT Death: Unknown
+3 CONT Gender: Male, Age: 52
+3 CONT Company: Henry Ettleman Company (1852)
+3 CONT see website for sources
+1 CHAN
+2 DATE 13 Feb 2008
+3 TIME 12:56:33
+0 @I34@ INDI
+1 NAME Catherine /Miller/
+2 SURN Miller
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE 1 Sep 1799
+2 PLAC Washington County, Maryland
+1 DEAT
+2 DATE 6 Dec 1848
+2 PLAC Egypt, Mills, Iowa
+1 _UID E6F69B19206F6640B08D54278A5BD144773F
+1 FAMS @F10@
+1 SOUR @S1@
+2 NOTE Name: Catherine Miller
+3 CONT Birth: 1 Sep 1799
+3 CONT Place: Washington County, Maryland
+1 SOUR @S6@
+2 NOTE Name: Catharine Miller
+3 CONT Birth: 1 Sep 1799
+1 CHAN
+2 DATE 13 Feb 2008
+3 TIME 12:10:44
+0 @I35@ INDI
+1 NAME Mathias /Clapper/
+2 SURN Clapper
+2 GIVN Mathias
+1 SEX M
+1 BIRT
+2 DATE 25 Feb 1828
+2 PLAC Jackson, Stark, Ohio
+2 SOUR @S1@
+3 NOTE Birth place: Jackson Township, Stark, Ohio
+2 SOUR @S6@
+3 NOTE Birth place: Jackson, Pike, Ohio
+1 DEAT
+2 DATE 8 Jul 1896
+2 PLAC Little Souix, Harrison, Iowa
+1 BURI
+2 PLAC Little Souix, Harrison, Iowa
+1 _UID 9F6BFD5A095324418107DEF41C5EA66400B6
+1 FAMC @F10@
+1 CHAN
+2 DATE 12 Feb 2008
+3 TIME 16:53:49
+0 @I36@ INDI
+1 NAME Henry Christian /Clapper/
+2 SURN Clapper
+2 GIVN Henry Christian
+1 SEX M
+1 BIRT
+2 DATE 16 Apr 1830
+2 PLAC Jackson, Stark, Ohio
+1 DEAT
+2 DATE 23 Sep 1873
+2 PLAC Idaho
+1 BURI
+2 PLAC Idaho
+1 _UID 9A91A6263B529043A3F28195029B88335A27
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name: Henry Christian Clapper
+3 CONT Birth: 16 Apr 1830
+3 CONT Place: Jackson Township, Stark, Ohio
+1 SOUR @S6@
+2 NOTE Name: Henry Clapper
+3 CONT Birth: 16 Apr 1830
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Henry Clopper [Clapper]
+3 CONT Age: 20, Gender: Male
+3 CONT Occupation: Laborer
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Henry Clapper
+3 CONT Birth: 16 Apr 1830
+3 CONT Death: 23 Sep 1873
+3 CONT Gender: Male, Age: 23
+3 CONT Company: Henry Ettleman Company (1853)
+3 CONT see website for sources
+1 CHAN
+2 DATE 13 Feb 2008
+3 TIME 13:00:33
+0 @I37@ INDI
+1 NAME Joseph /Clapper/
+2 SURN Clapper
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 21 May 1832
+2 PLAC Jackson, Stark, Ohio
+1 DEAT
+2 DATE 8 Apr 1903
+2 PLAC Dutch Hollow, Fremont, Iowa
+1 BURI
+2 PLAC Thurman, Fremont, Iowa
+1 _UID A5CF9BBB3D3276439A08F7D98D4213C80E5A
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name: Joseph Clapper 
+3 CONT Birth: 21 May 1832
+3 CONT Place: Jackson Township, Stark, Ohio
+1 SOUR @S6@
+2 NOTE Name: Joseph Clapper
+3 CONT Birth: 21 May 1832
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Joseph Clopper [Clapper]
+3 CONT Age: 18, Gender: Male
+3 CONT Occupation: Laborer
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Joseph Clapper
+3 CONT Birth: Unknown
+3 CONT Death: Unknown
+3 CONT Gender: Male, Age: 21
+3 CONT Company: Henry Ettleman Company (1853)
+3 CONT see website for sources
+1 CHAN
+2 DATE 13 Feb 2008
+3 TIME 13:01:35
+0 @I38@ INDI
+1 NAME Mary Ann /Clapper/
+2 SURN Clapper
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 3 Oct 1834
+2 PLAC Jackson, Stark, Ohio
+1 DEAT
+2 PLAC Latrobe, El Dorado, California
+1 _UID DFCFA032AA501F4196438CE923F550FC8CA3
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name: Mary Ann Clapper
+3 CONT Birth: 3 Oct 1834
+3 CONT Place: Jackson Township, Stark, Ohio
+1 SOUR @S6@
+2 NOTE Name: Mary Ann Clapper
+3 CONT Birth: 3 Oct 1834
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Mary Clopper [Clapper]
+3 CONT Age: 15, Gender: Female
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Mary Ann Clapper
+3 CONT Birth: Unknown
+3 CONT Death: Unkown
+3 CONT Gender: Female, Age: 18
+3 CONT Company: Henry Ettleman Company (1853)
+3 CONT see website for sources
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:35:18
+0 @I39@ INDI
+1 NAME Elizabeth /Clapper/
+2 SURN Clapper
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 4 Sep 1837
+2 PLAC Ray County, Missouri
+1 DEAT
+2 DATE 17 Apr 1921
+2 PLAC Parowan, Iron, Utah
+1 BURI
+2 DATE Apr 1921
+2 PLAC Parowan, Iron, Utah
+1 _UID 899535DE3E694E44AA49A745B723A2A2670F
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name: Elizabeth Clapper
+3 CONT Birth: 4 Sep 1837
+3 CONT Place: Ray County, Missouri
+1 SOUR @S6@
+2 NOTE Name: Elizabeth Clapper
+3 CONT Birth: 4 Sep 1837
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Elizabeth Clopper [Clapper]
+3 CONT Age: 13, Gender: Female
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Elizabeth Clapper
+3 CONT Birth: Unknown
+3 CONT Death: Unknown
+3 CONT Gender: Female, Age: 16
+3 CONT Company: Henry Ettleman Company
+3 CONT see website for sources
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:35:33
+0 @I40@ INDI
+1 NAME Susann /Clapper/
+2 SURN Clapper
+2 GIVN Susann
+1 SEX F
+1 BIRT
+2 DATE 9 Apr 1842
+2 PLAC Hancock County, Illinois
+1 DEAT
+2 DATE 24 Jun 1919
+2 PLAC Glenwood, Mills, Iowa
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+1 _UID A35BCBDB2605F74D8CEB35F9C1D24D069E1A
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name: Susann Clapper
+3 CONT Birth: 9 Apr 1842
+3 CONT Place: Hancock, Illinois
+1 SOUR @S6@
+2 NOTE Name: Susann Clapper
+3 CONT Birth: 9 Apr 1842
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Susannah Clopper [Clapper]
+3 CONT Age: 9, Gender: Female
+3 CONT Birthplace: Illinois
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Susan Clapper
+3 CONT Birth: Unknown
+3 CONT Death: Unknown
+3 CONT Gender: Female, Age: 11
+3 CONT Company: Henry Ettleman Company (1853)
+3 CONT see website for sources
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:35:47
+0 @I41@ INDI
+1 NAME Margaret /Smith/
+2 SURN Smith
+2 GIVN Margaret
+2 _MARNM Ettleman
+1 SEX F
+1 BIRT
+2 DATE 10 Mar 1800
+2 PLAC Ellgau, Bavaria, Germany
+2 SOUR @S1@
+3 NOTE Name: Margaret Smith Ettleman
+4 CONT Birth: 10 Mar 1800
+4 CONT Place: Germany
+2 SOUR @S6@
+3 NOTE Name: Margaret Smith
+4 CONT Birth: 10 Mar 1800
+4 CONT Place: Ellgau, Bavaria, Germany
+2 SOUR @S15@
+3 PAGE Roll: M653_321, page 28, image 69
+3 NOTE Location: Scott Township, Fremont, Iowa
+4 CONT Dwelling #215, Household #186
+4 CONT Name: Margaret Clapper
+4 CONT Age: 54, Gender: Female
+4 CONT Birthplace: Hanover, Germany
+3 DATA
+4 DATE 7 Jun 1860
+2 SOUR @S14@
+3 NOTE Name: Margaret Smith Ettleman
+4 CONT Birth: 10 Mar 1800
+4 CONT Place: Gertray
+1 DEAT
+2 DATE 11 Feb 1898
+2 PLAC Neola, Pottawattamie, Iowa
+1 BURI
+2 PLAC Neola, Pottawattamie, Iowa
+1 _UID EDA475D5F28A5F498E7B5C8C164715A002D8
+1 FAMS @F11@
+1 NOTE First husband was: Jacob Fredrick Ettleman (married about 1831)
+1 SOUR @S1@
+2 NOTE Name: Margaret Smith Ettleman
+3 CONT Birth: 10 Mar 1800
+3 CONT Place: Germany
+1 SOUR @S6@
+2 NOTE Name: Margaret Smith
+3 CONT Birth: 10 Mar 1800
+3 CONT Place: Ellgau, Bavaria, Germany
+1 SOUR @S15@
+2 PAGE Roll: M653_321, page 28, image 69
+2 NOTE Location: Scott Township, Fremont, Iowa
+3 CONT Dwelling #215, Household #186
+3 CONT Name: Margaret Clapper
+3 CONT Age: 54, Gender: Female
+3 CONT Birthplace: Hanover, Germany
+2 DATA
+3 DATE 7 Jun 1860
+1 SOUR @S14@
+2 NOTE Name: Margare Smith Ettleman or Margaret Smith Ettleman
+3 CONT Birth: 10 Mar 1800
+3 CONT Death: 11 Feb 1898
+1 SOUR @S9@
+2 PAGE Roll: M432_188, page 90, image 181
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #404, Household #404
+3 CONT Name: Margaret Clopper [Clapper]
+3 CONT Age: 50, Gender: Female
+3 CONT Birthplace: Germany
+2 DATA
+3 DATE 20 Sep 1850
+1 SOUR @S7@
+2 NOTE Name: Margaret Clapper
+3 CONT Birth: Unknown
+3 CONT Death: Unknown
+3 CONT Gender: Female, Age: 44
+3 CONT Company: Henry Ettleman Company (1853)
+3 CONT see website for sources
+1 CHAN
+2 DATE 13 Feb 2008
+3 TIME 13:01:43
+0 @I42@ INDI
+1 NAME Robert Cowan /Petty/
+2 SURN Petty
+2 GIVN Robert Cowan
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1812
+2 PLAC Pine River, Dickson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: Robert Cowan Petty
+4 CONT Birth: 20 Nov 1812
+4 CONT Place: Pine River, Dickson, Tennessee
+2 SOUR @S19@
+3 NOTE Name: Robert Cowen Petty
+4 CONT Age: 38
+4 CONT Birth: 21 Nov 1812
+4 CONT Place: Tennessee
+2 SOUR @S7@
+3 NOTE Name: Robert Cown Petty
+4 CONT Birth: 20 Nov 1812
+4 CONT Death: 6 Feb 1856
+4 CONT Gender: Male, Age: 38
+4 CONT Company: Wilford Woodruff Company (1850)
+4 CONT Pioneer Information: Captain of 1st Hundred
+4 CONT see website for sources
+1 DEAT
+2 DATE 6 Feb 1856
+2 PLAC Grand River, Oklahoma
+1 BURI
+2 DATE Feb 1856
+2 PLAC Grand River, Oklahoma
+1 _UID B78D725549DC5845A49252745752109C1E59
+1 FAMS @F12@
+1 FAMC @F17@
+1 SOUR @S1@
+2 NOTE Name: Robert Cowan Petty
+3 CONT Birth: 20 Nov 1812
+3 CONT Place: Pine River, Dickson, Tennessee
+1 SOUR @S7@
+2 NOTE Name: Robert Cown Petty
+3 CONT Birth: 20 Nov 1812
+3 CONT Death: 6 Feb 1856
+3 CONT Gender: Male, Age: 38
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT Pioneer Information: Captain of 1st Hundred
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image 72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling # 178, Family # 178
+3 CONT Name: Robert Petty
+3 CONT Age: 38, Gender: Male
+3 CONT Occuptaion: Farmer
+3 CONT Birthplace: Tennessee
+1 CHAN
+2 DATE 15 Feb 2008
+3 TIME 15:56:32
+0 @I43@ INDI
+1 NAME Margaret Jefferson /Wells/
+2 SURN Wells
+2 GIVN Margaret Jefferson
+1 SEX F
+1 BIRT
+2 DATE 2 Mar 1806
+2 PLAC Edgecombe, Edgecombe, North Carolina
+2 SOUR @S7@
+3 NOTE Name: Margaret Jefferson Wells Petty
+4 CONT Birth: 2 Mar 1806
+4 CONT Death: 20 Jan 1890
+4 CONT Gender: Female, Age: 44
+4 CONT Company: Wilford Woodruff Company (1850)
+4 CONT see website for sources
+2 SOUR @S1@
+3 NOTE Name: Margaret Jefferson Wells
+4 CONT Birth: 2 Mar 1806
+4 CONT Place: Edgecombe, Edgecombe, North Carolina
+2 SOUR @S19@
+3 NOTE Name: Margaret T.W. Petty
+4 CONT Age: 44
+4 CONT Birth: 22 Mar 1806
+4 CONT Place: North Carolina
+1 DEAT
+2 DATE 20 Jan 1890
+2 PLAC Lewiston, Cache, Utah
+1 BURI
+2 DATE Jan 1890
+2 PLAC Richmond, Cache, Utah
+1 _UID 1FCFD346CC4E994C809254A8005764DFAEA3
+1 FAMS @F12@
+1 FAMC @F18@
+1 SOUR @S1@
+2 NOTE Name: Margaret Jefferson Wells
+3 CONT Birth: 2 Mar 1806
+3 CONT Place: Edgecombe, Edgecombe, North Carolina
+1 SOUR @S7@
+2 NOTE Name: Margaret Jefferson Wells Petty
+3 CONT Birth: 2 Mar 1806
+3 CONT Death: 20 Jan 1890
+3 CONT Gender: Female, Age: 44
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image # 72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Margaret Petty
+3 CONT Age: 44, Gender: Female
+3 CONT Birthplace: North Carolina
+1 CHAN
+2 DATE 15 Feb 2008
+3 TIME 15:58:49
+0 @I44@ INDI
+1 NAME Mary Pryann /Petty/
+2 SURN Petty
+2 GIVN Mary Pryann
+1 SEX F
+1 BIRT
+2 DATE 3 Jun 1833
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: Mary Pryann Petty
+4 CONT Birth: 3 Jun 1833
+4 CONT Place: Nashville, Dickson, Tennessee
+2 SOUR @S19@
+3 NOTE Name: Mary Mryannah Petty
+4 CONT Age: 17
+4 CONT Birth: 3 Jan 1833
+2 SOUR @S7@
+3 NOTE Name: Mary Pyrann Petty
+4 CONT Birth: 3 Jun 1833
+4 CONT Death: 26 Mar 1901
+4 CONT Gender: Female, Age: 17
+4 CONT Company: Wilford Woodruff Company (1850)
+4 CONT see website for sources
+1 DEAT
+2 DATE 26 Mar 1901
+2 PLAC Plano, Madison, Idaho
+1 BURI
+2 DATE Mar 1901
+2 PLAC Plano, Madison, Idaho
+1 _UID FEC82C8F4837A34DB02731DFAB079A8AADA4
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Mary Pryann Petty
+3 CONT Birth: 3 Jun 1833
+1 SOUR @S7@
+2 NOTE Name: Mary Pyrann Petty
+3 CONT Birth: 3 Jun 1833
+3 CONT Death: 26 Mar 1901
+3 CONT Gender: Female, Age: 17
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Mary P. Petty
+3 CONT Age: 17, Gender: Female
+3 CONT Birthplace: Tennessee
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:22
+0 @I45@ INDI
+1 NAME Jane Caroline /Petty/
+2 SURN Petty
+2 GIVN Jane Caroline
+1 SEX F
+1 BIRT
+2 DATE 8 Jul 1835
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: Jane Caroline Petty
+4 CONT Birth: 8 Jul 1835
+4 CONT Place: Nashville, Dickson, Tennessee
+1 DEAT
+2 DATE 2 Apr 1909
+2 PLAC Benjamin, Utah, Utah
+1 BURI
+2 DATE 4 Apr 1909
+2 PLAC Spanish Fork, Utah, Utah
+1 _UID 34DFC40500427242BA6F95718AFA221FC6EB
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Jane Collins Petty
+3 CONT Birth: 8 Jul 1835
+3 CONT Place: Nashville, Dickson, Tennessee
+1 SOUR @S7@
+2 NOTE Name: Jane Caroline Petty
+3 CONT Birth: 8 Jul 1835
+3 CONT Death: 2 Apr 1909
+3 CONT Gender: Female, Age: 14
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Jane Petty
+3 CONT Age: 16, Gender: Female
+3 CONT Birthplace: Tennessee
+1 SOUR @S19@
+2 NOTE Name: Jane Caroline Petty
+3 CONT Age: 15
+3 CONT Birth: 8 Jul 1835
+3 CONT Place: Tennessee
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:23
+0 @I46@ INDI
+1 NAME Keziah Albine /Petty/
+2 SURN Petty
+2 GIVN Keziah Albine
+1 SEX F
+1 BIRT
+2 DATE 8 Jul 1835
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: Keziah Abline Petty
+4 CONT Birth: 8 Jul 1835
+4 CONT Place: Nashville, Benton, Tennessee
+1 DEAT
+2 DATE 23 Apr 1907
+2 PLAC West Jordan, Salt Lake, Utah
+2 SOUR @S16@
+3 NOTE Name: Keziah A P Beckstead
+4 CONT Birth: 8 Jul 1836
+4 CONT Death: 23 Apr 1836
+4 CONT Place: West Jordan, Salt Lake, UT
+4 CONT Accessed 13 Feb 2008
+2 SOUR @S1@
+3 NOTE Name: Kesiah Albine Petty
+4 CONT Death: 4 Apr 1907
+4 CONT Place: West Jordan, Salt Lake, Utah
+1 BURI
+2 DATE 26 Apr 1907
+2 PLAC South Jordan, Salt Lake, Utah
+2 SOUR @S1@
+3 NOTE Burial Date: 26 Apr 1907
+4 CONT Place: South Jordan, Salt Lake, Utah
+2 SOUR @S16@
+3 NOTE Name: Keziah A P Beckstead
+4 CONT Burial Date: 26 Apr 1907
+4 CONT Place: South Jordan Memorial Park
+4 CONT see website for more information
+4 CONT accessed 13 Feb 2008
+1 _UID B00E8FFAE909304C9D6EF7A154544A4F9939
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Kesiah Albine Petty
+3 CONT Birth: 8 Jul 1835
+1 SOUR @S16@
+2 NOTE Name: Keziah A P Beckstead
+3 CONT Birth: 8 Jul 1835
+3 CONT accessed 13 Feb 2008
+1 SOUR @S7@
+2 NOTE Name: Keziah Albine Petty
+3 CONT Birth: 8 July 1835
+3 CONT Death: 4 Apr 1807
+3 CONT Gender: Female, Age: 14
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Keziah Petty
+3 CONT Age: 15, Gender: Female
+3 CONT Birthplace: Tennessee
+1 SOUR @S19@
+2 NOTE Name: Raisia Albini Petty
+3 CONT Age: 15
+3 CONT Birth: 8 Jul 1835
+3 CONT Place: Tennessee
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:24
+0 @I47@ INDI
+1 NAME Martha Narcissa /Petty/
+2 SURN Petty
+2 GIVN Martha Narcissa
+1 SEX F
+1 BIRT
+2 DATE 8 Nov 1837
+2 PLAC Benton County, Tennessee
+1 DEAT
+2 DATE 21 Mar 1905
+2 PLAC Lewiston, Cache, Utah
+1 BURI
+2 DATE 23 Mar 1905
+2 PLAC Lewiston, Cache, Utah
+1 _UID 2ACDDCB8D94E5143AE45896F0C05E8CAF49B
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Martha Narcissa Petty
+3 CONT Birth: 8 Nov 1837
+1 SOUR @S7@
+2 NOTE Name: Martha Narcissa Petty
+3 CONT Birth: 8 Nov 1837
+3 CONT Death: 21 Mar 1905
+3 CONT Gender: Female, Age: 12
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for source
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Martha N. Petty
+3 CONT Age: 13, Gender: Female
+3 CONT Birthplace: Tennessee
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:25
+0 @I48@ INDI
+1 NAME Louise Minerivia /Petty/
+2 SURN Petty
+2 GIVN Louise Minerivia
+1 SEX F
+1 BIRT
+2 DATE 27 Dec 1839
+2 SOUR @S1@
+3 NOTE Name: Louise Minerivia Petty
+4 CONT Birth: 27 Dec 1839
+4 CONT Place: Salt Lake City, Salt Lake, Utah
+1 DEAT
+2 DATE 19 Feb 1891
+2 PLAC West Jordan, Salt Lake, Utah
+1 BURI
+2 DATE 23 Feb 1891
+2 PLAC West Jordan, Salt Lake, Utah
+2 SOUR @S1@
+3 NOTE Name: Louise Minerivia Petty
+4 CONT Burial Date: 23 Feb 1891
+4 CONT Place: West Jordan Cemetery, West Jordan, Salt Lake, Utah
+1 _UID 38DDEC7D56AE0B44ACC65DAC8671A02D1034
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Louise Minerivia Petty
+3 CONT Birth: 27 Dec 1839
+3 CONT Place: Salt Lake City, Salt Lake, Utah [incorrect]
+1 SOUR @S7@
+2 NOTE Name: Louisa M Petty
+3 CONT Birth: 27 Dec 1839
+3 CONT Death: 19 Feb 1891
+3 CONT Gender: Female, Age: 10
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Louisa M. Petty
+3 CONT Age: 10, Gender: Female
+3 CONT Birthplace: Tennessee
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:26
+0 @I49@ INDI
+1 NAME Robert Thomas /Petty/
+2 SURN Petty
+2 GIVN Robert Thomas
+1 SEX M
+1 BIRT
+2 DATE 22 Sep 1842
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: Robert Thomas Petty
+4 CONT Birth: 22 Sep 1842
+4 CONT Place: Nashville, Benton, Tennessee
+1 DEAT
+2 DATE 23 Aug 1904
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE Aug 1904
+2 PLAC Richmond, Cache, Utah
+1 _UID C4D4451E0F57B44F89E5F08F73E1A41F6804
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Robert Thomas Petty
+3 CONT Birth: 22 Sep 1842
+3 CONT Place: Nashville, Benton, Tennessee
+1 SOUR @S7@
+2 NOTE Name: Robert Thomas Petty
+3 CONT Birth: 22 Sep 1842
+3 CONT Death: 23 Aug 1904
+3 CONT Gender: Male, Age: 7
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Thomas Petty
+3 CONT Age: 8, Gender: Male
+3 CONT Birthplace: Tennessee
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:27
+0 @I50@ INDI
+1 NAME George Albert /Petty/
+2 SURN Petty
+2 GIVN George Albert
+1 SEX M
+1 BIRT
+2 DATE 14 Feb 1844
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: George Albert Petty
+4 CONT Birth: 14 Feb 1844
+4 CONT Place: Nashville, Benton, Tennessee
+1 DEAT
+2 DATE 1854
+1 _UID 1EF34104F6075B4D90521317D0B1E069D116
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: George Albert Petty
+3 CONT Birth: 14 Feb 1844
+3 CONT Death: 1854
+3 CONT Gender: Male, Age: 6
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S7@
+2 NOTE Name: George Albert 
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:28
+0 @I51@ INDI
+1 NAME Lewis James /Petty/
+2 SURN Petty
+2 GIVN Lewis James
+1 SEX M
+1 BIRT
+2 DATE 11 Jan 1845
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: Lewis James Petty
+4 CONT Birth: 11 Jan 1845
+4 CONT Place: Near Nashville, Benton, Tennessee
+1 DEAT
+2 DATE 29 Aug 1936
+2 PLAC Oxford, Bannock, Idaho
+1 BURI
+2 DATE 1 Sep 1936
+2 PLAC Oxford, Bannock, Idaho
+1 _UID 70EDF37F5F59DA4E9A16CFE82D83EE1ACE28
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Lewis James Petty
+3 CONT Birth: 11 Jan 1845
+3 CONT Death: 29 Aug 1936
+1 SOUR @S7@
+2 NOTE Name: Lewis James Petty
+3 CONT Birth: 11 Jan 1845
+3 CONT Death: 29 Aug 1936
+3 CONT Gender: Male, Age: 5
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 36, image #72
+2 NOTE Location: Great Salt Lake, Utah Territory
+3 CONT Dwelling #178, Family #178
+3 CONT Name: Lewis J. Petty 
+3 CONT Age: 5, Gender: Male
+3 CONT Birthplace: Iowa
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:30
+0 @I52@ INDI
+1 NAME Sarah Abigail /Petty/
+2 SURN Petty
+2 GIVN Sarah Abigail
+1 SEX F
+1 BIRT
+2 DATE 9 Oct 1851
+2 PLAC Little Cottonwood, Salt Lake, Utah
+2 SOUR @S1@
+3 NOTE Name: Sarah Abigail Petty
+4 CONT Birth: 9 Oct 1847
+4 CONT Place: Salt Lake City, Salt Lake, Utah [not correct]
+2 SOUR @S17@
+3 PAGE Roll: T9_1337, Family History Film: 1255337, page: 290.1000, Enumeration District: 58
+3 NOTE Location: Silver, Salt Lake, Utah Territory
+4 CONT Dwelling #159, Family #159
+4 CONT Name: Sarah A. Cherry
+4 CONT Gender: Female, Age at last birthday before 1 Jun 1880: 30
+4 CONT Occupation: Keeping House
+4 CONT Birthplace: Utah
+4 CONT Birthplace of Father: Pennsylvania
+4 CONT Birthplace of Mother: Tennesse
+3 DATA
+4 DATE 16 Jun 1880
+2 SOUR @S18@
+3 PAGE Roll: T623 234, Page2A, Enumeration District: 96
+3 NOTE Location: Franklin, Oneida, Idaho
+4 CONT Dwelling #18, Family #20
+4 CONT Name: Sarah A. Cherry
+4 CONT Age at last birthday: 48
+4 CONT Date of birth: Oct 1851
+4 CONT Father's Birthplace: Tennessee
+4 CONT Mother's Birthplace: North Carolina
+3 DATA
+4 DATE 4 Jun 1900
+1 DEAT
+2 DATE 30 Oct 1928
+2 PLAC Ashton, Fremont, Idaho
+1 _UID E41BCB90EE4B0A43A93C0CEBBFA0A4F9B847
+1 FAMC @F12@
+1 NOTE It seems that the 1900 Census is probably more accurate in ages, birthplaces than the 1880 Ce
+2 CONC nsus.
+1 SOUR @S1@
+2 NOTE Name: Sarah Abigail Petty
+3 CONT Birth: 9 Oct 1847
+3 CONT Death: 30 Oct 1928
+1 SOUR @S7@
+2 NOTE Name: Sarah Abigail Petty
+3 CONT Birth: 9 Oct 1847
+3 CONT Death: 30 Oct 1928
+3 CONT Gender: Female, Age: 2
+3 CONT Company: Wilford Woodruff Company (1850)
+3 CONT see website for sources
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:34
+0 @I53@ INDI
+1 NAME John /Petty/
+2 SURN Petty
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 20 Mar 1848
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name: John Petty
+4 CONT Birth: 20 Mar 1848
+4 CONT Place: Nashville, Benton, Tennessee
+2 SOUR @S27@
+3 NOTE Name: John Petty
+4 CONT Birth: 20 Mar 1848
+4 CONT Places Listed: Nashville, Benton, Tennessee
+4 CONT Nashville, Dickson, Tennessee
+4 CONT Nashville, Davidson, Tennessee
+4 CONT Tennessee
+1 DEAT
+2 DATE 1850
+2 SOUR @S1@
+3 NOTE Name: John Petty
+4 CONT Death: Before 1850
+2 SOUR @S27@
+3 NOTE Name: John Petty
+4 CONT Birth: 20 Mar 1848
+4 CONT Death: 1850
+2 SOUR @S7@
+3 NOTE Is not listed in the records, therefore he probably died before his family left in June 1850
+1 _UID 2DE2DACB10D6624FA12606B36AC22459741A
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: John Petty
+3 CONT Birth: 20 Mar 1848
+3 CONT Death: Before 1850
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:06:37
+0 @I54@ INDI
+1 NAME Margaret Jefferson /Petty/
+2 SURN Petty
+2 GIVN Margaret Jefferson
+1 SEX M
+1 BIRT
+2 DATE 13 Sep 1849
+2 SOUR @S1@
+3 NOTE Name: Margaret Jefferson Petty
+4 CONT Birth: 13 Sep 1849
+4 CONT Place: Pottawattamie, Fremont, Iowa
+1 DEAT
+2 DATE 22 Mar 1922
+2 PLAC Newdale, Fremont, Idaho
+1 BURI
+2 DATE 31 Mar 1922
+2 PLAC Richmond, Cache, Utah
+1 _UID 16E05785E2B6C249A5EE472AE036172BD133
+1 FAMC @F12@
+1 SOUR @S1@
+2 NOTE Name: Margaret Jefferson Petty
+3 CONT Birth: 13 Sep 1849
+3 CONT Death: 22 Mar 1922
+1 CHAN
+2 DATE 26 Feb 2008
+3 TIME 16:03:33
+0 @I55@ INDI
+1 NAME Andrew Jackson /Stewart/
+2 SURN Stewart
+2 GIVN Andrew Jackson
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1819
+2 PLAC Jackson Township, Monroe, Ohio
+2 SOUR @S1@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Birth: 12 Sep 1819
+4 CONT Place: Jackson, Monroe County, Ohio
+2 SOUR @S20@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Birth: 12 Sep 1819
+4 CONT Place: Jackson Township, Monroe, Ohio
+2 SOUR @S16@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Birth: 1819
+4 CONT Place: Madison County, Ohio
+2 SOUR @S22@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Birth: 12 Sep 1819
+4 CONT Place: Jackson Township, Monroe, Ohio
+1 DEAT
+2 DATE 7 Dec 1911
+2 PLAC Benjamin, Utah, Utah
+2 SOUR @S1@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Death: 18 Dec 1911
+4 CONT Place: Benjamin, Utah, Utah
+2 SOUR @S16@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Death: 7 Dec 1911
+4 CONT Place: Benjamin, Utah, Utah
+1 BURI
+2 DATE 8 Dec 1911
+2 PLAC Provo, Utah, Utah
+2 SOUR @S16@
+3 NOTE Name: Andrew J. Stewart
+4 CONT Burial: 7 Dec 1911
+4 CONT Place: Provo City Cemetery, Provo, Utah, Utah (Block 1, Lot 107)
+2 SOUR @S1@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Burial: 8 Dec 1911
+4 CONT Place: Provo Cemetery, Provo, Utah, Utah
+1 _UID 9F5F0355AE2AEF469943AE89458EA6D7C6FD
+1 FAMS @F13@
+1 FAMC @F14@
+1 SOUR @S1@
+2 NOTE Name: Andrew Jackson Stewart
+3 CONT Birth: 12 Sep 1819
+3 CONT Death: 18 Dec 1911
+1 SOUR @S16@
+2 NOTE Name: Andrew Jackson Stewart
+3 CONT Birth: 1819, Madison County, Ohio
+3 CONT Death: 7 Dec 1911, Benjamin, Utah, Utah
+1 SOUR @S20@
+2 NOTE Name: Andrew Jackson Stewart
+3 CONT Birth: 12 Sep 1819
+3 CONT Death: 7 Dec 1911
+1 SOUR @S7@
+2 NOTE Name: Andrew Jackson Stewart
+3 CONT Birth: Sep 1819
+3 CONT Death: Unknown
+3 CONT Gender: Male, Age: 30
+3 CONT Company: Justus Morse Company (1850)
+3 CONT Pioneer Information: He was captain of the third division and started traveling in Morse's co
+3 CONC mpany as a counselor, but then associated with the Roundy company [Shadrach Roundy Company, 1
+3 CONC 850]
+3 CONT See website for sources.
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 72, image 144
+2 NOTE Location Great Salt Lake, Utah Territory
+3 CONT Dwelling #7, Family #7
+3 CONT Name: Andrew J. Stewart
+3 CONT Age: 32, Gender: Male
+3 CONT Occupation: Surveyor
+3 CONT Birthplace: Ohio
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 122, image 246
+2 NOTE Location: Utah, Utah Territory
+3 CONT Dwelling #45, Family #45
+3 CONT Name: Andrew J. Stewart
+3 CONT Age: 30, Gender: Male
+3 CONT Occupation: Surveyor
+3 CONT Birthplace: Ohio
+3 CONT *Two listings in 1850 Census, listed with two different families (had more than one family
+1 SOUR @S22@
+2 NOTE accessed: 21 Feb 2008
+3 CONT Birth: 12 Sep 1819
+1 CHAN
+2 DATE 10 Apr 2008
+3 TIME 10:02:29
+0 @I56@ INDI
+1 NAME Eunice Pease /Quimby/
+2 SURN Quimby
+2 GIVN Eunice Pease
+1 SEX F
+1 BIRT
+2 DATE 12 Jul 1825
+2 PLAC Marietta, Washington, Ohio
+1 DEAT
+2 DATE 29 Jun 1868
+2 PLAC Provo, Utah, Utah
+2 SOUR @S1@
+3 NOTE Name: Eunice Peace Quimby
+4 CONT Death: 29 Jun 1868
+4 CONT Place: Provo, Utah, Utah
+2 SOUR @S20@
+3 NOTE Name: Eunice Pease Quimby
+4 CONT Death: 30 Jun 1868
+4 CONT Place: Provo, Utah, Utah
+2 SOUR @S7@
+3 NOTE Name: Eunice Peace Quimby Stewart
+4 CONT Death: 29 Jun 1868
+1 BURI
+2 DATE 30 Jun 1868
+2 PLAC Provo, Utah, Utah
+1 _UID F315BF7FEC1184439396DEBCBD72D2B381D1
+1 FAMS @F13@
+1 FAMC @F15@
+1 NOTE Eunice Pease Quimby was born July 12, 1825 to Eunice Catherine Floyd Pease and Dr. Ephraim Qu
+2 CONC imby. Her parents were later divorced and she was adopted by her stepfather, Elijah Hawes/Haw
+2 CONC s.
+2 CONT (source: Diane's Den, "Eunice Pease Quimby", http://www.dijoninc.com/dianesden/epq.htm, acces
+2 CONC sed 21 Feb 2008)
+1 SOUR @S1@
+2 NOTE Name: Eunice Peace Quimby
+3 CONT Birth: 12 Jul 1825
+3 CONT Death: 29 Jun 1868
+1 SOUR @S20@
+2 NOTE Name: Eunice Pease Quimby
+3 CONT Birth: 12 Jul 1825
+3 CONT Death: 30 Jun 1868
+1 SOUR @S7@
+2 NOTE Name: Eunice Peace Quimby Stewart
+3 CONT Birth: 12 Jul 1825
+3 CONT Death: 29 Jun 1868
+3 CONT Gender: Female, Age: 25
+3 CONT Company: Shadrach Roundy Company (1850)
+3 CONT see website for sources
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 122, image 246
+2 NOTE Location: Utah, Utah Territory
+3 CONT Dwelling #45, Family #45
+3 CONT Name: Eunice P. Stewart
+3 CONT Age: 24, Gender: Female
+3 CONT Birthplace: Ohio
+1 SOUR @S23@
+2 NOTE Name: Eunice Pease Quimby
+3 CONT Birth: 12 Jul 1825
+3 CONT Death: 1868
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 16:35:05
+0 @I57@ INDI
+1 NAME Sarah Catherine /Stewart/
+2 SURN Stewart
+2 GIVN Sarah Catherine
+1 SEX F
+1 BIRT
+2 DATE 17 Dec 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 CHR
+2 DATE 8 Jan 1845
+1 DEAT
+2 DATE 13 Mar 1854
+2 PLAC Utah County, Utah
+1 _UID E5F34DC10033DE49AED48C33F64FD3E982D5
+1 FAMC @F13@
+1 SOUR @S1@
+2 NOTE Name: Sarah Catherine Stewart
+3 CONT Birth: 17 Dec 1844
+3 CONT Death: 13 Mar 1854
+1 SOUR @S20@
+2 NOTE Name: Sarah Catherine Stewart
+3 CONT Birth: 17 Dec 1844, Nauvoo, Hancock, Illinois
+3 CONT Death: 1854
+1 SOUR @S7@
+2 NOTE Name: Sarah Catherine Stewart
+3 CONT Birth: ca. 1845
+3 CONT Death: Unknown
+3 CONT Gender: Female, Age: 5
+3 CONT Company: Shadrach Roundy Company (1850)
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 122, image 246
+2 NOTE Location: Utah, Utah Territory
+3 CONT Dwelling #45, Family #45
+3 CONT Name: Sarah C. Stewart
+3 CONT Age: 6, Gender: Female
+3 CONT Birthplace: Illinois
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 16:03:17
+0 @I58@ INDI
+1 NAME Andrew Jackson /Stewart/ Jr.
+2 SURN Stewart
+2 GIVN Andrew Jackson
+2 NSFX Jr.
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1846
+2 PLAC Keg Creek, Iowa
+2 SOUR @S1@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Birth: 8 Oct 1846
+4 CONT Place: Keg Creek, Council Bluffs, Pottawattomie, Iowa
+2 SOUR @S7@
+3 NOTE Name: Andrew Jackson Stewart, Jr.
+4 CONT Birth: ca. 1847
+2 SOUR @S16@
+3 NOTE Name: Andrew J. Stewart, Jr. 
+4 CONT Birth: 8 Oct 1846
+4 CONT Place: Keg Creek, Iowa
+2 SOUR @S20@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Birth: 8 Oct 1846
+4 CONT Place: Keg Creek, Iowa
+1 DEAT
+2 DATE 31 Oct 1918
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE 5 Nov 1918
+2 PLAC Provo, Utah, Utah
+2 SOUR @S1@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Burial: 5 Noc 1918
+4 CONT Place: Provo City Cemetery, Provo, Utah, Utah
+2 SOUR @S16@
+3 NOTE Name: Andrew J. Stewart, Jr.
+4 CONT Burial: 31 Oct 1918
+4 CONT Place: Provo City Cemetery, Provo, Utah, Utah (Block 1, Lot 107)
+1 _UID 4542509BB9C8E8499F18EDB6BDC612C0D338
+1 FAMC @F13@
+1 SOUR @S1@
+2 NOTE Name: Andrew Jackson Stewart
+3 CONT Birth: 8 Oct 1846
+3 CONT Death: 31 Oct 1846 (Also entry with birthdate as 31 Dec 1846)
+1 SOUR @S16@
+2 NOTE Name: Andrew J. Stewart, Jr.
+3 CONT Birth: 8 Oct 1846
+3 CONT Death: 31 Oct 1846
+1 SOUR @S7@
+2 NOTE Name: Andrew Jackson Stewart, Jr.
+3 CONT Birth: ca. 1847
+3 CONT Death: Unknown
+3 CONT Gender: Male, Age: 3
+3 CONT Company: Shadrach Roundy Company (1850)
+1 SOUR @S21@
+2 NOTE Name: Andrew J. Stewart
+3 CONT Birth: 8 Oct 1846
+3 CONT Death: 31 Oct 1918
+3 CONT Cemetery: Provo
+1 SOUR @S9@
+2 PAGE Roll: M432_919, page 122, image 246
+2 NOTE Location: Utah, Utah Territory
+3 CONT Dwelling #45, Family #45
+3 CONT Name: Andrew J. Stewart
+3 CONT Age: 4, Gender: Male
+3 CONT Birthplace: Iowa
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 15:51:59
+0 @I59@ INDI
+1 NAME Samuel Silvester /Stewart/
+2 SURN Stewart
+2 GIVN Samuel Silvester
+1 SEX M
+1 BIRT
+2 DATE 18 Aug 1848
+2 PLAC California City, Mills, Iowa
+2 SOUR @S1@
+3 NOTE Name: Samuel Silvester Stewart
+4 CONT Birth: 18 Aug 1848
+4 CONT Place: California City, Iowa, Illinois [incorrect]
+2 SOUR @S20@
+3 NOTE Name: Samuel Silvester Stewart
+4 CONT Birth: 18 Aug 1848
+4 CONT Place: California City, Iowa
+1 DEAT
+2 DATE 18 Aug 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+2 SOUR @S1@
+3 NOTE Name: Samuel Silvester Stewart
+4 CONT Death: 18 Aug 1848
+4 CONT Place: Council Bluffs, Pottawattamie, Iowa
+1 _UID D79170A4CD6C6C499CE5B6D3CFBF188AA425
+1 FAMC @F13@
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:56:58
+0 @I60@ INDI
+1 NAME Philander Barrett /Stewart/
+2 SURN Stewart
+2 GIVN Philander Barrett
+1 SEX M
+1 _UID D517CAF8B96EBA40AFD6F87434B3C06AD170
+1 FAMS @F14@
+1 SOUR @S1@
+1 SOUR @S22@
+2 NOTE Accessed: 21 Feb 2008
+3 CONT Name: Philander Barrett Stewart
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 16:19:07
+0 @I61@ INDI
+1 NAME Sarah /Scott/
+2 SURN Scott
+2 GIVN Sarah
+2 _AKA Sally
+1 SEX F
+1 _UID C2B7C5FD8A173245A6293E4557BAEEFFA3CF
+1 FAMS @F14@
+1 SOUR @S1@
+2 NOTE Name: Sarah (Sally) Scott
+1 SOUR @S22@
+2 NOTE Accessed: 21 Feb 2008
+3 CONT Name: Sarah Scott, "affectionately called Sally"
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 16:19:30
+0 @I62@ INDI
+1 NAME Ephraim /Quimby/
+2 SURN Quimby
+2 GIVN Ephraim
+1 SEX M
+1 _UID 5E9A9551758D7743B14E0C9C2C5DB04BC525
+1 FAMS @F15@
+1 SOUR @S1@
+1 SOUR @S23@
+2 NOTE Eunice Pease Quimby was born July 12, 1825 to Eunice Catherine Floyd Pease and Dr. Ephraim Qu
+3 CONC imby. Her parents were later divorced and she was adopted by her stepfather, Elijah Hawes/Haw
+3 CONC s.
+3 CONT 
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 16:31:18
+0 @I63@ INDI
+1 NAME Catherine Floyd /Pease/
+2 SURN Pease
+2 GIVN Catherine Floyd
+1 SEX F
+1 _UID 66BB87C78F920B468474F400C844EC8F5407
+1 FAMS @F15@
+1 FAMS @F16@
+1 SOUR @S1@
+2 PAGE \
+1 SOUR @S23@
+1 CHAN
+2 DATE 21 Feb 2008
+3 TIME 16:31:41
+0 @I64@ INDI
+1 NAME LIVING
+1 SEX M
+1 _UID E9DEFA172E5BFF42AB2DA166B1EE39CA23E3
+1 FAMS @F16@
+0 @I65@ INDI
+1 NAME Baby /Burbank/
+2 SURN Burbank
+2 GIVN Baby
+1 SEX U
+1 BIRT
+2 DATE 1836
+2 PLAC Naples, Scott, Illinois
+1 DEAT
+2 DATE 1836
+1 _UID 1DED67DBA0E3774B9CF9824B9160055E47FC
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name: Baby Burbank
+3 CONT Birth: 1836
+3 CONT Death: 1836
+1 SOUR @S3@
+2 NOTE "In 1836 Lydia took small pox and was very sick.  She lost her baby and very nearly lost he
+3 CONC r own life."
+1 SOUR @S4@
+2 NOTE Name: Unknown Burbank
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:32:58
+0 @I66@ INDI
+1 NAME Thomas /Petty/
+2 SURN Petty
+2 GIVN Thomas
+1 SEX M
+1 _UID 584CAB5B75818444B42E42AF997AB0878512
+1 FAMS @F17@
+1 SOUR @S1@
+2 NOTE Name: Thomas Petty
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:46:26
+0 @I67@ INDI
+1 NAME Jane /Darwin/
+2 SURN Darwin
+2 GIVN Jane
+1 SEX F
+1 _UID 5C5DBBDAE322B545BC8FE35618D780C6068C
+1 FAMS @F17@
+1 SOUR @S1@
+2 NOTE Name: Jane Darwin
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:46:46
+0 @I68@ INDI
+1 NAME Leonard /Wells/
+2 SURN Wells
+2 GIVN Leonard
+1 SEX M
+1 _UID BBE704CBFA198E41BECC608DD3AB5817B7F9
+1 FAMS @F18@
+1 SOUR @S1@
+2 NOTE Name: Leonard Wells
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:47:12
+0 @I69@ INDI
+1 NAME Sarah /Barns/
+2 SURN Barns
+2 GIVN Sarah
+1 SEX F
+1 _UID 320599A813EFA44F8F68ADF491DE9C96A677
+1 FAMS @F18@
+1 SOUR @S1@
+2 NOTE Name: Sarah Barns
+1 CHAN
+2 DATE 22 Feb 2008
+3 TIME 15:47:31
+0 @F1@ FAM
+1 _UID FD5BEBCF2F4A1B478F3E1F40ED9978051C09
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I65@
+1 CHIL @I7@
+1 MARR
+2 DATE 31 Dec 1835
+2 PLAC Naples, Morgan, Illinois
+2 SOUR @S1@
+3 NOTE Date: 31 Dec 1835
+4 CONT Place: Naples, Scott, Illinois
+4 CONT *Scott county was not formed until Feb 1839
+2 SOUR @S2@
+3 NOTE Date: 31 Dec 1835
+2 SOUR @S3@
+3 NOTE Date: 31 Dec 1835
+4 CONT Married one mile southeast of Naples, Illinois
+0 @F2@ FAM
+1 _UID 9D25E1CA4D23CE4BBB52BD7C939FFB359E9B
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I1@
+0 @F3@ FAM
+1 _UID 490936377E52554493F9CB60A9DA7BFEDB29
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I2@
+0 @F4@ FAM
+1 _UID 46505A7D851FAD4BAF0F58746DE980DA43C9
+1 HUSB @I1@
+1 WIFE @I8@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 MARR
+2 DATE 3 Aug 1839
+2 PLAC Naples, Scott, Illinois
+2 SOUR @S5@
+2 SOUR @S1@
+3 NOTE Place: Naples, Morgan, Illinois
+2 SOUR @S2@
+0 @F5@ FAM
+1 _UID CE724B1FBE3D8342BFA104F16BF136E73830
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I8@
+0 @F6@ FAM
+1 _UID 2D983EE24630BC42B1469BBF7DFD9C5414DE
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+1 CHIL @I32@
+1 MARR
+2 DATE 17 May 1831
+2 PLAC Vermilion County, Illinois
+2 SOUR @S1@
+3 NOTE Husband Name: Harrison Oliver, born 29 Mar 1800
+4 CONT Marriage Date: 17 May 1831
+4 CONT Place: Vemilion Co., Illinois
+2 SOUR @S12@
+3 NOTE Source: Family History Library, Salt Lake City, UT
+4 CONT Microfilm: 1298747
+4 CONT Marriage Date: 17 May 1831
+4 CONT Place: Vermilion County, Illinois
+2 SOUR @S11@
+3 NOTE Names: Harrison Oliver, Hannah Martin
+4 CONT Marriage year: 1832
+0 @F7@ FAM
+1 _UID 7AE5034A5D77F24A9120B64DDFF3343BB1A3
+1 HUSB @I14@
+1 WIFE @I16@
+1 CHIL @I24@
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I21@
+1 MARR
+2 DATE 28 Dec 1826
+2 PLAC Harrison County, Kentucky
+2 SOUR @S1@
+3 NOTE Marriage Date: 28 Dec 1826
+4 CONT Marriage Place: Harrison County, Kentucky
+2 SOUR @S8@
+3 NOTE Name: Harrison Oliver
+4 CONT Marriage Date: 28 Sep 1826
+4 CONT Place: Harrison County, Kentucky
+2 SOUR @S11@
+3 NOTE Names: Dorothy Martin, Harrison Oliver
+4 CONT Marriage Year: 1826
+2 SOUR @S6@
+3 NOTE Marriage Date: 22 Dec 1826
+4 CONT Place: Louisville, Jefferson, Kentucky
+0 @F8@ FAM
+1 _UID 0E998B2C9D0BAD49BCDE558E3B39FCD8C1F2
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I14@
+0 @F9@ FAM
+1 _UID 3CCF461B49587949BCC144DE250B6A050D36
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I16@
+0 @F10@ FAM
+1 _UID F02002FF6583C14981DC0B8B6C81B4AC43B3
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I35@
+1 CHIL @I36@
+1 CHIL @I37@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+1 MARR
+2 DATE 3 Jan 1828
+2 PLAC Jackson, Stark, Ohio
+2 SOUR @S1@
+3 NOTE Place: Jackson Township, Stark, Ohio
+2 SOUR @S6@
+0 @F11@ FAM
+1 _UID 279A68E45E87354490C26E547C327E661153
+1 HUSB @I33@
+1 WIFE @I41@
+1 MARR
+2 DATE 23 Jan 1849
+2 PLAC Thurman, Fremont, Iowa
+2 SOUR @S1@
+3 NOTE Date: 23 Jan 1849
+4 CONT Place: Thurman, Fremont, Iowa
+2 SOUR @S6@
+3 NOTE Date: 23 Jan 1849
+2 SOUR @S14@
+3 NOTE Date: 23 Jan 1849
+0 @F12@ FAM
+1 _UID 256C297D7D7BB740A2B081ADADC11678A2A8
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I44@
+1 CHIL @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHIL @I52@
+1 MARR
+2 DATE 27 Oct 1832
+2 PLAC Dickson County, Tennessee
+2 SOUR @S1@
+3 NOTE Date: 27 Oct 1832
+4 CONT Place: Dickson County, Tennessee
+0 @F13@ FAM
+1 _UID 1959B2DD327AEF4C8659A6B90EF51EF53CBC
+1 HUSB @I55@
+1 WIFE @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 MARR
+2 DATE 1 Jan 1844
+2 PLAC Keosauqua, Van Buren, Iowa
+2 SOUR @S1@
+3 NOTE Name: Andrew Jackson Stewart
+4 CONT Date: 1 Jan 1844
+4 CONT Place: Keasaugua, Van Buren, Iowa
+2 SOUR @S20@
+3 NOTE Name: Eunice Peace Quimby
+4 CONT Date: 1 Jan 1844
+4 CONT Place: Keasaugua, Van Buren, Iowa
+2 SOUR @S22@
+3 NOTE Accessed: 21 Feb 2008
+4 CONT Marriage Place: Keosangua, Van Buren, Iowa
+4 CONT Appears that Andrew visited the Haws family in the fall of 1843 and then married Eunice (s
+4 CONC o 1 Jan 1844 is possible, but could have possibly been earlier)
+0 @F14@ FAM
+1 _UID 4F546CCA8F580C44A1C86039CE1D2DF9231D
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I55@
+0 @F15@ FAM
+1 _UID 3B8306DF1CC6DC41ACF13897BE1F81C7330F
+1 DIV Y
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I56@
+0 @F16@ FAM
+1 _UID 77086C0FF375144C9142A4A654B59B9C1F1F
+1 HUSB @I64@
+1 WIFE @I63@
+0 @F17@ FAM
+1 _UID DAA0D147C7819948B88D695E9F22D8FF5FE2
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I42@
+0 @F18@ FAM
+1 _UID 2913037AC666B640B4ED932CB8D3B68B07C8
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I43@
+0 @S1@ SOUR
+1 TITL Ancestral File
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL (c) 1999-2005 Intellectual Reserve, Inc.
+1 CALN familysearch.org
+0 @S2@ SOUR
+1 TITL History of Daniel Mark Burbank
+1 CALN www.rawlins.org/histories/html/burbank_daniel_1814_2.html
+1 NOTE From the ancestors and descendents of Lt. Daniel and Mary (Marks) Burbank
+2 CONT Accessed 5 Feb 2008
+0 @S3@ SOUR
+1 TITL Lydia VanBlaricom Burbank
+1 AUTH rawlins.org
+1 CALN www.rawlins.org/histories/html/burbank_lydia.html
+1 NOTE Accessed 7 Feb 2008
+0 @S4@ SOUR
+1 TITL RootsWeb Page - Daniel Mark Burbank and Lydia VanBlaricom
+1 CALN http://freepages.genealogy.rootsweb.com/~applebaum/WC03/WC03_072.HTM
+1 NOTE accessed 7 Feb 2008
+0 @S5@ SOUR
+1 TITL Abigail Blodgett (King) Burbank
+1 AUTH rawlins.org
+1 CALN www.rawlins.org/histories/html/burbank_abigail.html
+1 NOTE Accessed 7 Feb 2008
+0 @S6@ SOUR
+1 TITL Early Latter-day Saints Database
+1 PUBL (c) 2001-2006
+1 CALN earlylds.com
+1 NOTE  Project of Nauvoo Land and Records Office and The Pioneer Research Group of the "Winter Quar
+2 CONC ters" Nebraska
+0 @S7@ SOUR
+1 TITL Mormon Pioneer Overland Travel
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL (c) 2008 Intellectual Reserve
+1 CALN http://www.lds.org/churchhistory/library/pioneercompanysearch/1,15773,3966-1,00.html
+0 @S8@ SOUR
+1 TITL Family Group Record
+1 PUBL (c) 1997
+1 CALN http://www.geocities.com/Heartland/Farm/3182/fam00484.htm
+1 NOTE Accessed 7 Feb 2008
+0 @S9@ SOUR
+1 TITL 1850 United States Federal Census [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 CALN ancestry.com
+1 TEXT Original data: United States of America, Bureau of the Census. Seventh Census of the United S
+2 CONC tates, 1850. Washington, D.C.: National Archives and Records Administration, 1850. M432, 1,00
+2 CONC 9 rolls.
+0 @S10@ SOUR
+1 TITL Iowa State Census Collection, 1836-1925 [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2007
+1 CALN ancestry.com
+1 TEXT Original data: Microfilm of Iowa State Censuses, 1856, 1885, 1905, 1915, 1925 as well variou
+2 CONC s special censuses from 1836-1897 obtained from the State Historical Society of Iowa via Heri
+2 CONC tage Quest
+0 @S11@ SOUR
+1 TITL U.S. and International Marriage Records, 1560-1900 [database on-line]
+1 AUTH Yates Publishing
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2004
+1 CALN ancestry.com
+1 NOTE This unique collection of records was extracted from a variety of course including family gro
+2 CONC up sheets and electronic databases.  Originally, the information was derived from an array o
+2 CONC f materials including pedigree charts, family history articles, querie.
+0 @S12@ SOUR
+1 TITL Illinois Marriages, 1790-1860 [database on-line]
+1 AUTH Dodd, Jordan, Liahona Research, comp.
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2004
+1 CALN ancestry.com
+1 NOTE With some noted exceptions all marriage records in this collection can be found at the Famil
+2 CONC y History Library in Salt Lake City, Utah, or available through Family History Centers throug
+2 CONC hout the United States.  For specific source information listed by county see the extended de
+2 CONC scription or the see source information listed for each entry.
+0 @S13@ SOUR
+1 TITL U.S. Federal Mortality Schedules, 1850-1880 [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 CALN ancestry.com
+1 NOTE Original data: United States. Nonpopulation Census Schedules for Iowa, 1850-1880.  T1156, 6
+2 CONC 2 rolls. National Archives and Records Administration, Washington D.C.
+0 @S14@ SOUR
+1 TITL Pioneer Immigrants to Utah Territory [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2001
+1 CALN ancestry.com
+1 NOTE Questoinnaires compiled by Sons of the Utah Pioneers in Salt Lake CIty
+0 @S15@ SOUR
+1 TITL 1860 Federal Census [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generation Network, Inc., 2004
+1 CALN ancestry.com
+1 NOTE Original data: United States of America, Bureau of the Census.  Eighth Census of the United S
+2 CONC tates, 1860, Washington D.C:National Archives and Records Administration, 1860.  M653, 1,43
+2 CONC 8 rolls
+0 @S16@ SOUR
+1 TITL Utah State History - Cemetery Burials Database
+1 AUTH State of Utah
+1 PUBL (c) 2008
+1 CALN http://history.utah.gov/apps/burials/execute/searchburials
+1 NOTE last updated May 5, 2005
+0 @S17@ SOUR
+1 TITL 1880 United States Federal Census [database on-line]
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saint
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 CALN ancestry.com
+1 NOTE 880 U.S. Census Index provided by The Church of Jesus Christ of Latter-day Saints © Copyrigh
+2 CONC t 1999 Intellectual Reserve, Inc. All rights reserved. All use is subject to the limited us
+2 CONC e license and other terms and conditions applicable to this site. Original data: United State
+2 CONC s of America, Bureau of the Census. Tenth Census of the United States, 1880. Washington, D.C.
+2 CONC : National Archives and Records Administration, 1880. T9, 1,454 rolls.
+0 @S18@ SOUR
+1 TITL 1900 United States Federal Census [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2004
+1 CALN ancestry.com
+1 NOTE Original data: United States of America, Bureau of the Census.  Twelfth Census of the Unite
+2 CONC d States, 1900.  Washington, D.C.: National Archives and Records Administration, 1900. T623
+2 CONC , 1854 Rolls.
+0 @S19@ SOUR
+1 TITL Utah Pioneers, 1847-1850 [database on-line]
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network
+1 CALN ancestry.com
+1 NOTE Original data: Card index created by the Sons of the Utah Pioneers in Salt Lake City, Utah
+0 @S20@ SOUR
+1 TITL Everett-Fechser Family Tree
+1 AUTH Ancestry.com
+1 PUBL Provo, UT: The Generations Network, Inc., 2008
+1 CALN ancestry.com
+0 @S21@ SOUR
+1 TITL Utah County, Utah Cemetery Index [database on-line]
+1 AUTH Utah Valley Regional Family History Center
+1 PUBL Provo, UT: The Generations Network, Inc., 1998
+1 CALN ancestry.com
+1 NOTE Original data: Utah Valley Regional Family History Center.  Utah County (UT) Cemetery Index
+2 CONC .  Provo, UT: Utah Valley Regional Family History Center, 1997.
+0 @S22@ SOUR
+1 TITL Stewart Biographies
+1 AUTH Diane's Den
+1 CALN http://www.dijoninc.com/dianesden/ajs.htm
+0 @S23@ SOUR
+1 TITL Eunice Pease Quimby Biography
+1 AUTH Diane's Den
+1 CALN http://www.dijoninc.com/dianesden/epq.htm
+0 @S24@ SOUR
+1 TITL Family Group Record 2
+1 AUTH rawlins.org
+1 CALN http://www.rawlins.org/Pedigree/AerialRawlins/i351.html
+1 NOTE Accessed 22 Feb 2008
+0 @S25@ SOUR
+1 TITL Family Group Record 3
+1 AUTH rawlings.org
+1 CALN http://www.rawlins.org/Pedigree/AerialRawlins/i350.html
+1 NOTE Accessed: 22 Feb 2008
+0 @S26@ SOUR
+1 TITL Bennington Cemetery, Bear Lake County, Idaho
+1 AUTH Clint Dunn
+1 PUBL last edited 23 Mar 2006
+1 CALN http://www.interment.net/data/us/id/bearlake/bennington/index.htm
+0 @S27@ SOUR
+1 TITL One World Tree
+1 AUTH Ancestry.com
+1 PUBL Provo, UT: The Generations Network, Inc., 2008
+1 CALN ancestry.com
+0 TRLR

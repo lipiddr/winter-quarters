@@ -1,0 +1,7676 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 29 Jul 2013
+2 TIME 14:51:33
+1 FILE coonville.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I1@ INDI
+1 NAME Libbeus Thaddeus /Coon/
+2 SURN Coon
+2 GIVN Libbeus Thaddeus
+2 _AKA /Coons/
+1 SEX M
+1 BIRT
+2 DATE 13 May 1811
+2 PLAC Plymouth, Chenango, New York
+1 DEAT
+2 DATE 7 Jul 1872
+2 PLAC Richfield, Sevier, Utah
+1 _UID 7D8022E21745294C861099231068E77CFF9E
+1 FAMS @F1@
+1 FAMS @F2@
+1 FAMS @F3@
+1 FAMC @F5@
+1 NOTE 1.  President of this Branch acting in the office of Bishop
+1 SOUR @S1@
+2 PAGE Vol 2 p. 16
+2 NOTE Coons, Lebeous T
+1 SOUR @S2@
+2 NOTE Libbeus T. Coon
+1 SOUR @S3@
+2 NOTE Family Group Record of Lebbeus Thaddeus COONS and Mary Ann WILLIAMSEN
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE lines 21-29; dwelling 305; family 305; head of household: Lybius Coons
+2 DATA
+3 TEXT 21   305   305   Lybius Coons   38   M          L.D.S. Clergyman          N.Y.
+4 CONT 22                       Mary        "          3
+4 CONC 7   F                                                       "
+4 CONT 23                       Adeline   "          1
+4 CONC 7   "                                                     Ohio                / [attended sch
+4 CONC ool within the year]
+4 CONT 24                      Susan      "          1
+4 CONC 5   "                                                        "                    /
+4 CONT 25                      Sidney     "          1
+4 CONC 2   M                                                   Illinois             /
+4 CONT 26                      Alvir
+4 CONC a       "           8    F                                                       "           
+4 CONC           /
+4 CONT 27                      Patienc
+4 CONC e  "          4    "                                                       Iowa
+4 CONT 28                     Lybius      "        6/1
+4 CONC 2 M                                                      "
+4 CONT 29                      Chancy    "         22   "                 non
+4 CONC e                            N.Y. 
+3 DATE 17 Sep 1850
+1 SOUR @S5@
+2 PAGE p 18
+2 NOTE lines 24-30; dwelling 137; family 124; head of household: Libbeus T. Coon
+2 DATA
+3 TEXT 24   137  124   Libbeus T. Coon   49   M      Physician      2000      300      New York
+4 CONT 25                      Mary A           "        4
+4 CONC 8   F                                                               "       "
+4 CONT 26                      Sidney          "         21  M        Farme
+4 CONC r                                         Illinois
+4 CONT 27                      Patience       "        1
+4 CONC 3   F                                                                Iowa
+4 CONT 28                      Libbeus T.    "         1
+4 CONC 0  M                                                                  "
+4 CONT 29                      Joh
+4 CONC n              "          7   M                                                              
+4 CONC     "
+4 CONT 30                      Joseph W. Batson 1
+4 CONC 0  M                                                                  "
+3 DATE 19 Jun 1860
+1 SOUR @S4@
+2 PAGE p 167(written in) p. 84 (printed on page)
+2 NOTE lines 21-29; dwelling 305; family 305; head of household: Lybius Coons
+2 DATA
+3 TEXT 21   305   305   Lybius Coons   38   M          L.D.S. Clergyman          N.Y.
+4 CONT 22                       Mary        "          3
+4 CONC 7   F                                                       "
+4 CONT 23                       Adeline   "          1
+4 CONC 7   "                                                     Ohio                / [attended sch
+4 CONC ool within the year]
+4 CONT 24                      Susan      "          1
+4 CONC 5   "                                                        "                    /
+4 CONT 25                      Sidney     "          1
+4 CONC 2   M                                                   Illinois             /
+4 CONT 26                      Alvir
+4 CONC a       "           8    F                                                       "           
+4 CONC           /
+4 CONT 27                      Patienc
+4 CONC e  "          4    "                                                       Iowa
+4 CONT 28                     Lybius      "        6/1
+4 CONC 2 M                                                      "
+4 CONT 29                      Chancy    "         22   "                 non
+4 CONC e                            N.Y. 
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Oct 2006
+3 TIME 16:45:02
+0 @I2@ INDI
+1 NAME Mary Ann /Williamson/
+2 SURN Williamson
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 11 Aug 1812
+2 PLAC Springfield, Otsego, New York
+2 SOUR @S23@
+3 PAGE 18
+1 DEAT
+2 DATE 27 Nov 1867
+2 PLAC Heber, Wasatch, Utah
+1 _UID 9701EDBBC240D54FA8F3956AD3DD3F3524F0
+1 FAMS @F1@
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Family Group Record of Lebbeus Thaddeus COONS and Mary Ann WILLIAMSEN
+1 SOUR @S2@
+2 NOTE Family: Coons/Williamson (F5740)
+1 SOUR @S4@
+2 PAGE p 167(written in) p. 84 (printed on page)
+2 NOTE lines 21-29; dwelling 305; family 305; head of household: Lybius Coons
+2 DATA
+3 TEXT 21   305   305   Lybius Coons   38   M          L.D.S. Clergyman          N.Y.
+4 CONT 22                       Mary        "          3
+4 CONC 7   F                                                       "
+4 CONT 23                       Adeline   "          1
+4 CONC 7   "                                                     Ohio                / [attended sch
+4 CONC ool within the year]
+4 CONT 24                      Susan      "          1
+4 CONC 5   "                                                        "                    /
+4 CONT 25                      Sidney     "          1
+4 CONC 2   M                                                   Illinois             /
+4 CONT 26                      Alvir
+4 CONC a       "           8    F                                                       "           
+4 CONC           /
+4 CONT 27                      Patienc
+4 CONC e  "          4    "                                                       Iowa
+4 CONT 28                     Lybius      "        6/1
+4 CONC 2 M                                                      "
+4 CONT 29                      Chancy    "         22   "                 non
+4 CONC e                            N.Y. 
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 8 Nov 2006
+3 TIME 14:50:04
+0 @I3@ INDI
+1 NAME Adaline /Coon/
+2 SURN Coon
+2 GIVN Adaline
+1 SEX F
+1 BIRT
+2 DATE 21 Nov 1833
+2 PLAC Kirtland, Lake, Ohio
+1 DEAT
+2 DATE 11 Apr 1912
+2 PLAC Manti, Sanpete, Utah
+1 BURI
+2 DATE 14 Apr 1912
+2 PLAC Manti, Sanpete, Utah
+1 _UID 5A96E6AAED33B14EB14E3684EAF6578E1DDD
+1 FAMS @F83@
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Jul 2006
+3 TIME 13:11:53
+0 @I4@ INDI
+1 NAME Susan /Coon/
+2 SURN Coon
+2 GIVN Susan
+2 _MARNM Mrs. Jacob Killian
+1 SEX F
+1 BIRT
+2 DATE 1 Feb 1838
+2 PLAC Harrison, Adair, Iowa
+1 DEAT
+2 DATE 15 Sep 1920
+2 PLAC Salem, Utah, Utah
+1 BURI
+2 DATE 19 Sep 1920
+2 PLAC Salem, Utah, Utah
+1 _UID 653AD522CF8C344FB22C0A82652C62350638
+1 FAMS @F4@
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Coons, Susan
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 16:05:59
+0 @I5@ INDI
+1 NAME Sidney /Coon/
+2 SURN Coon
+2 GIVN Sidney
+1 SEX M
+1 BIRT
+2 DATE 1 Aug 1839
+2 PLAC Smithfield, Fulton, Illinois
+1 DEAT
+2 DATE 15 Sep 1920
+1 _UID 3ECDD9DC013BEF449863E2EF32E4707DFE79
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Coons, Sidney
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 16:05:05
+0 @I6@ INDI
+1 NAME Martha Ann /Coon/
+2 SURN Coon
+2 GIVN Martha Ann
+1 SEX F
+1 BIRT
+2 DATE 1844
+2 PLAC ,  , Indiana
+1 DEAT
+2 DATE bef. 1852
+2 SOUR @S6@
+3 DATA
+4 TEXT Temple Ordinance Date: Coons, Martha Ann (Female)     Died Prior to Age of Accountability
+1 _UID 8CDEDB4A578B8B41848A12DC4E920632510C
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Jul 2006
+3 TIME 14:16:48
+0 @I7@ INDI
+1 NAME Patience /Coon/
+2 SURN Coon
+2 GIVN Patience
+2 _MARNM Mrs. John Owens
+1 SEX F
+1 BIRT
+2 DATE 27 Jul 1846
+2 PLAC , Pottawattamie, Iowa
+1 DEAT
+2 DATE 26 Oct 1935
+1 _UID CD80A42212D21B4FB07902403DE8A635CCFD
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Nov 2006
+3 TIME 09:01:50
+0 @I8@ INDI
+1 NAME Alvira M. /Coon/
+2 SURN Coon
+2 GIVN Alvira M.
+2 _MARNM Mrs. Joel Day 
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1842
+2 PLAC , Mercer, Illinois
+1 DEAT
+2 DATE Oct 1923
+2 PLAC Silver Creek, Merrick, Nebraska
+1 _UID 6CA8EC4EEED9194D9E9E2320EDC825683C12
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 13:23:30
+0 @I9@ INDI
+1 NAME Libbeus Thaddeus /Coon/
+2 SURN Coon
+2 GIVN Libbeus Thaddeus
+1 SEX M
+1 BIRT
+2 DATE 13 Mar 1850
+2 PLAC Coonsville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 25 Oct 1935
+2 PLAC Pomerene, Cochise, Arizona
+1 BURI
+2 DATE 27 Oct 1935
+2 PLAC St. David, Cochise, Arizona
+1 _UID 7671D441B0FC32449F788399CFC03495A918
+1 FAMC @F1@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Nov 2006
+3 TIME 09:01:47
+0 @I10@ INDI
+1 NAME John Williamson /Coon/
+2 SURN Coon
+2 GIVN John Williamson
+1 SEX M
+1 BIRT
+2 DATE 7 Dec 1853
+2 PLAC Bethlehem, Mills, Iowa
+1 DEAT
+2 DATE 22 Jan 1914
+2 PLAC Richfield, Sevier, Utah
+1 BURI
+2 DATE 25 Jan 1914
+2 PLAC Richfield, Sevier, Utah
+1 _UID 60FF7A6066BB6F4AB8F0C5ED76170A050903
+1 FAMC @F1@
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 14 Nov 2006
+3 TIME 09:01:42
+0 @I11@ INDI
+1 NAME Elizabeth Maria /Dixon/
+2 SURN Dixon
+2 GIVN Elizabeth Maria
+1 SEX F
+1 BIRT
+2 DATE 31 Mar 1809
+2 PLAC , Blount, Tennessee
+1 DEAT
+2 DATE May 1865
+2 PLAC , Box Elder, Utah
+1 _UID C86650F8E48C6C44B39E7133151CD60FA1B4
+1 FAMS @F2@
+1 FAMC @F7@
+1 SOUR @S2@
+2 NOTE Family: Coon/Dixon (F5741)
+1 CHAN
+2 DATE 17 Apr 2006
+3 TIME 16:41:12
+0 @I12@ INDI
+1 NAME Sarah /King/
+2 SURN King
+2 GIVN Sarah
+2 _AKA Mrs. Mayhew Hillman
+2 _MARNM Mrs. Mayhew Hillman
+1 SEX F
+1 BIRT
+2 DATE 24 Aug 1797
+2 PLAC Cambridge, Washington, New York
+1 DEAT
+2 DATE 25 May 1870
+2 PLAC Spanish Fork, Utah, Utah
+1 _UID 9D87B2BE4DB1A14BBF17C9A2635B7265549E
+1 FAMS @F42@
+1 FAMS @F3@
+1 FAMC @F8@
+1 SOUR @S2@
+2 NOTE Family: Coon/King (F5011)
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Sarah
+1 SOUR @S4@
+2 NOTE Dwelling: 308 Family: 308 Head of household: William Dally
+3 CONT [mother of Mandana, mother-in-law of William]
+2 DATA
+3 TEXT line 6:            Sarah Hillman   51   F                                  N. Y.
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Sarah King
+4 CONT Birth Date: 24 Aug. 1799
+4 CONT Death Date: 25 May 1870
+4 CONT Gender: Female
+4 CONT Age: 52
+4 CONT Company: Joel Edmunds Company (1852)
+4 CONT Sources: see website
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 15:37:27
+0 @I13@ INDI
+1 NAME Thomas /Coon/
+2 SURN Coon
+2 GIVN Thomas
+1 SEX M
+1 _UID B3B76922B0F7F348BD7BA98A6F41B33FE455
+1 FAMS @F5@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Jul 2006
+3 TIME 14:34:13
+0 @I14@ INDI
+1 NAME Elizabeth /Crandall/
+2 SURN Crandall
+2 GIVN Elizabeth
+1 SEX F
+1 _UID BE1F566BF9571940BA442C9D244F7302F6A1
+1 FAMS @F5@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Jul 2006
+3 TIME 14:34:35
+0 @I15@ INDI
+1 NAME John /Williamson/
+2 SURN Williamson
+2 GIVN John
+1 SEX M
+1 _UID 9AF5E67DEEB37646822986A6109A29756E39
+1 FAMS @F6@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Jul 2006
+3 TIME 14:34:52
+0 @I16@ INDI
+1 NAME Nancy /Sickels/
+2 SURN Sickels
+2 GIVN Nancy
+1 SEX F
+1 _UID 083EC6BD6A9C724A9F74F5AEF9FB5DF88A18
+1 FAMS @F6@
+1 SOUR @S3@
+1 CHAN
+2 DATE 14 Jul 2006
+3 TIME 14:35:24
+0 @I17@ INDI
+1 NAME Samuel /Dixon/
+2 SURN Dixon
+2 GIVN Samuel
+1 SEX M
+1 _UID FCF6724FB2D6D74195F9E51AF3CA94D0011B
+1 FAMS @F7@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 13:11:17
+0 @I18@ INDI
+1 NAME Elizabeth /Brewer/
+2 SURN Brewer
+2 GIVN Elizabeth
+1 SEX F
+1 _UID D7AACE1D2D3E664DB8259F3672A00B1D7600
+1 FAMS @F7@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 13:11:43
+0 @I19@ INDI
+1 NAME Jonathan /Seymour/
+2 SURN Seymour
+2 GIVN Jonathan
+1 SEX M
+1 _UID 4AAAF4B64E5A814AAD9DBD4CA7D5A568EDC0
+1 FAMS @F8@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 13:12:17
+0 @I20@ INDI
+1 NAME Taphena /Coy/
+2 SURN Coy
+2 GIVN Taphena
+1 SEX F
+1 _UID FE3D079A7066074694DAD0FC450E0830C4E5
+1 FAMS @F8@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 13:12:37
+0 @I21@ INDI
+1 NAME Mary Alvyra /Coon/
+2 SURN Coon
+2 GIVN Mary Alvyra
+1 SEX F
+1 BIRT
+2 DATE 1 Mar 1843
+2 PLAC , Mercer, Illinois
+1 _UID CC81FA2B732409418AF6E25D02BD6EDC1BDB
+1 FAMC @F1@
+1 SOUR @S7@
+1 CHAN
+2 DATE 14 Nov 2006
+3 TIME 09:27:01
+0 @I22@ INDI
+1 NAME Andrew Lee /Allen/
+2 SURN Allen
+2 GIVN Andrew Lee
+1 SEX M
+1 BIRT
+2 DATE 27 Nov 1794
+2 PLAC Wakefield, Carroll, New Hampshire
+1 DEAT
+2 DATE 14 Aug 1870
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE Aug 1870
+2 PLAC Provo, Utah, Utah
+1 _UID 6EEFA9C19E57D54C91BA938E7D6F240C657A
+1 FAMS @F9@
+1 FAMS @F15@
+1 FAMS @F16@
+1 FAMC @F11@
+1 NOTE 1. Headed West with John S. Higbee/James W. Bay Company (1852) at age 57.
+1 SOUR @S3@
+1 SOUR @S8@
+1 SOUR @S4@
+2 NOTE Dwelling: 310; Family: 310; head of household: Andrew Allen 
+2 DATA
+3 TEXT 310   310   Andrew Allen   55   M           " [Labourer]                      N. H.
+3 DATE 17 Sep 1850
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, Andrew L.
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:34:18
+0 @I23@ INDI
+1 NAME Clarinda /Knapp/
+2 SURN Knapp
+2 GIVN Clarinda
+1 SEX F
+1 BIRT
+2 DATE 10 Aug 1802
+2 PLAC Bethlehem, Litchfield, Connecticut
+1 DEAT
+2 DATE 8 Dec 1862
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE Dec 1862
+2 PLAC Richmond, Cache, Utah
+1 _UID 9257C4B981778C4FA04C3EE7CCE6A9B65BB3
+1 FAMS @F9@
+1 FAMC @F12@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) at age 49.
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, Clarrinda
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+2 NOTE Clarinda Knapp Allen
+1 SOUR @S4@
+2 NOTE Dwelling: 310;  Family: 310;  head of household: Andrew Allen
+2 DATA
+3 TEXT                           Clarinda    "  [Allen]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:33:50
+0 @I24@ INDI
+1 NAME Elijah /Allen/
+2 SURN Allen
+2 GIVN Elijah
+1 SEX M
+1 BIRT
+2 DATE 7 Feb 1826
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 21 Apr 1866
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE Apr 1866
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 9FCB37CFFC445B45868B3490432FB2C60FD9
+1 FAMS @F13@
+1 FAMC @F9@
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S9@
+2 DATA
+3 TEXT Burial Info: Allen, Elijah
+4 CONT Birth: 2/7/1826
+4 CONT Death: 4/12/1866
+4 CONT Burial: 4/12/1866
+4 CONT Place of Birth: New York
+4 CONT Place of Death: Salt Lake City, Utah
+4 CONT Cause of Death:
+4 CONT Grave Location: Salt Lake City Cemetery, UK2386
+1 SOUR @S4@
+2 NOTE dwelling: 310; family: 310; head of household: Andrew Allen
+2 DATA
+3 TEXT             Elijah        " [Allen]   25   M    " [Labourer]    " [Conn.]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:34:33
+0 @I25@ INDI
+1 NAME Lydia /Allen/
+2 SURN Allen
+2 GIVN Lydia
+2 _MARNM Mrs. David White Rogers, Mrs. Orlando White
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1827
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 15 Oct 1870
+2 PLAC Richmond, Cache, Utah
+1 _UID 4B4E827D13634B4B9E2B76F59F3D11C3882F
+1 FAMS @F10@
+1 FAMC @F9@
+1 SOUR @S1@
+2 NOTE Allen, Lydia
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S4@
+2 PAGE p. 168
+2 NOTE Dwelling: 310; Family: 310; Head of Household: Andrew Allen
+2 DATA
+3 TEXT                 Lydia    " [Allen]   22   F                        N.Y.
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:31:02
+0 @I26@ INDI
+1 NAME Orlando /White/
+2 SURN White
+2 GIVN Orlando
+1 SEX M
+1 BIRT
+2 DATE abt. 1823
+1 _UID B23F9E740CE7FF4197D52513688F977BE3D3
+1 FAMS @F10@
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:07:43
+0 @I27@ INDI
+1 NAME Sophronia /Allen/
+2 SURN Allen
+2 GIVN Sophronia
+2 _MARNM Mrs. Jacob H. Rose (div); Mrs. Abraham Foster
+1 SEX F
+1 BIRT
+2 DATE 6 Nov 1829
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 19 Oct 1912
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE Oct 1912
+2 PLAC Richmond, Cache, Utah
+1 _UID 2725715155ECF146B5FE5B26BA51563D5824
+1 FAMC @F9@
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, Sophronia
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:33:38
+0 @I28@ INDI
+1 NAME Charles Hopkins /Allen/
+2 SURN Allen
+2 GIVN Charles Hopkins
+1 SEX M
+1 BIRT
+2 DATE 16 Oct 1830
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 17 Jan 1890
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE Jan 1890
+2 PLAC Richmond, Cache, Utah
+1 _UID 443585DFD593CE4F9B8574E929282B6EC9B4
+1 FAMC @F9@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) at age 21.
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, Charles
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S4@
+2 PAGE p. 186
+2 NOTE dwelling: 310; family: 310;  Head of Household: Andrew Allen
+2 DATA
+3 TEXT                Charles   " [Allen]        19    M        "   " [Labourer]       "  [N.Y.]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:33:27
+0 @I29@ INDI
+1 NAME Andrew Lee /Allen/ Jr.
+2 SURN Allen
+2 GIVN Andrew Lee
+2 NSFX Jr.
+1 SEX M
+1 BIRT
+2 DATE 16 Aug 1832
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 8 Jun 1918
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE 11 Jun 1918
+2 PLAC Richmond, Cache, Utah
+1 _UID D3F3B7BBBBA6C946AF4D3626E374EAF7386C
+1 FAMC @F9@
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, Andrew
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S4@
+2 PAGE p.  186
+2 NOTE dwelling: 310  family: 310;   head of household: Andrew Allen
+2 DATA
+3 TEXT                   Andrew     " [ Allen]   18      "  [M
+4 CONC ]                                               " [ N.Y.]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:33:10
+0 @I30@ INDI
+1 NAME James /Allen/
+2 SURN Allen
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 12 Oct 1833
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 17 Jan 1890
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 PLAC Richmond, Cache, Utah
+1 _UID 12986B5F1D5A7344A9B36E366EB6E76D1AB5
+1 FAMC @F9@
+1 SOUR @S1@
+2 PAGE p 186
+2 NOTE dwelling: 310; Family: 310;  Head of Household: Andrew Allen
+2 DATA
+3 TEXT               James    "  [Allen]    16   " [M]                                           " [
+4 CONC N.Y.]
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, James
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:33:01
+0 @I31@ INDI
+1 NAME Sidney David /Allen/
+2 SURN Allen
+2 GIVN Sidney David
+1 SEX M
+1 BIRT
+2 DATE 12 Aug 1835
+2 PLAC Burton, Cattaraugus, New York
+1 DEAT
+2 DATE 1 Jan 1905
+2 PLAC Bedford, Lincoln, Wyoming
+1 BURI
+2 DATE 4 Jan 1905
+2 PLAC Thayne, Lincoln, Wyoming
+1 _UID 43958C63CADB614581C756189D7C99FD77BE
+1 FAMC @F9@
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Allen, Sidney
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S4@
+2 NOTE Dwelling: 310; Family: 310; Head of Household: Andrew Allen
+2 DATA
+3 TEXT             Sidney     " [Allen]   14  " [M]                               " [ N.Y. ]
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:32:21
+0 @I32@ INDI
+1 NAME Susan /Allen/
+2 SURN Allen
+2 GIVN Susan
+2 _MARNM Mrs. John Cornog Goaslind
+1 SEX F
+1 BIRT
+2 DATE 31 Dec 1837
+2 PLAC Kirtland, Georga, Ohio
+1 DEAT
+2 DATE 16 Apr 1924
+2 PLAC Logan, Cache, Utah
+1 BURI
+2 PLAC Richmond, Cache, Utah
+1 _UID A61FD0EF0F4CA9429D9404C7430C8F923667
+1 FAMC @F9@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) at age 14.
+1 SOUR @S3@
+2 PAGE p 186
+2 NOTE Dwelling: 310; Family: 310; House of Household: Andrew Allen
+2 DATA
+3 TEXT             Susan  " [Allen]   12  F                                                 Ohio
+3 DATE 17 Sep 1850
+1 SOUR @S2@
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:32:29
+0 @I33@ INDI
+1 NAME Levi Knapp /Allen/
+2 SURN Allen
+2 GIVN Levi Knapp
+1 SEX M
+1 BIRT
+2 DATE 1 Apr 1842
+2 PLAC Virginia, Cass, Illinois
+1 DEAT
+2 DATE 18 Feb 1928
+2 PLAC Logan, Cache, Utah
+1 BURI
+2 DATE 20 Feb 1928
+2 PLAC Richmond, Cache, Utah
+1 _UID BE394EEB5EA4414F8691D17947BED3110CA6
+1 FAMC @F9@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) at age 10.
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+2 NOTE Allen, Levi Knapp
+1 SOUR @S4@
+2 PAGE p 168
+2 NOTE Dwelling: 310; Family: 310; Head of Household: Andrew Allen
+2 DATA
+3 TEXT             Levi   "  [Allen]   1
+4 CONC 0  M                                                          "     [Ohio]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:32:46
+0 @I34@ INDI
+1 NAME Julia /Allen/
+2 SURN Allen
+2 GIVN Julia
+2 _MARNM Mrs. David White Rogers
+1 SEX F
+1 BIRT
+2 DATE 8 Jun 1844
+2 PLAC Plymouth, Hancock, Illinois
+1 DEAT
+2 DATE 4 Sep 1857
+2 PLAC Provo, Utah, Utah
+1 _UID 923FBC82B281C042B281E50D9E906D282C48
+1 FAMC @F9@
+1 NOTE 1. Traveled West with the John s. Higbee/James W. Bay Company (1852) at age 8.
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+2 NOTE Allen, Julia
+1 SOUR @S4@
+2 PAGE p 186
+2 NOTE Dwelling: 310; Family: 310; Head of Household: Andrew Allen
+2 DATA
+3 TEXT             Julia   "  [Allen
+4 CONC ]   6   F                                                               Ill   [Illinois]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:21:46
+0 @I35@ INDI
+1 NAME Elijah /Allen/
+2 SURN Allen
+2 GIVN Elijah
+1 SEX M
+1 _UID 4DABBC95B317E1488FD02F429E5EA850001F
+1 FAMS @F11@
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:36:20
+0 @I36@ INDI
+1 NAME Mehitable /Hall/
+2 SURN Hall
+2 GIVN Mehitable
+1 SEX F
+1 _UID 70F5F1B482BAAE4EAB8281B6EE150D4C0224
+1 FAMS @F11@
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:37:51
+0 @I37@ INDI
+1 NAME Calvin /Knapp/
+2 SURN Knapp
+2 GIVN Calvin
+1 SEX M
+1 _UID FBD413BD7658E549826827BE85ECB6F48552
+1 FAMS @F12@
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:38:37
+0 @I38@ INDI
+1 NAME Deborah /Hopkins/
+2 SURN Hopkins
+2 GIVN Deborah
+1 SEX F
+1 _UID 765018382DC8F4459C5813FE0073090DD209
+1 FAMS @F12@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:39:16
+0 @I39@ INDI
+1 NAME Eliza Ann /Bickmore/
+2 SURN Bickmore
+2 GIVN Eliza Ann
+2 _MARNM Mrs. Elijah Allen
+1 SEX F
+1 BIRT
+2 DATE 29 Jan 1830
+2 PLAC Madisonville, Madison, Illinois
+1 DEAT
+2 DATE 26 Mar 1901
+2 PLAC Cove, Cache, Utah
+1 BURI
+2 DATE 26 Mar 1901
+2 PLAC Richmond, Cache, Utah
+1 _UID 6C6172B13612C848A8F81614B7FA7B034101
+1 FAMS @F13@
+1 FAMC @F14@
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Allen, Eliza
+3 CONT 
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 14:38:32
+0 @I40@ INDI
+1 NAME William M. /Bickmore/
+2 SURN Bickmore
+2 GIVN William M.
+1 SEX M
+1 _UID 8ABF70351B116D42827176C8418BBD1DA044
+1 FAMS @F14@
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:46:17
+0 @I41@ INDI
+1 NAME Christena Or Christina /Bagley/
+2 SURN Bagley
+2 GIVN Christena Or Christina
+1 SEX F
+1 _UID CE890027EC1C7249B20A46113D4CE3C4845C
+1 FAMS @F14@
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Jul 2006
+3 TIME 16:46:42
+0 @I42@ INDI
+1 NAME Ann /Hughes/
+2 SURN Hughes
+2 GIVN Ann
+1 SEX F
+1 _UID C8F3C3ED21AF4C45A540601981B7E8418BC5
+1 FAMS @F15@
+1 SOUR @S3@
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 12:15:52
+0 @I43@ INDI
+1 NAME Martha Christina /Johansen/
+2 SURN Johansen
+2 GIVN Martha Christina
+1 SEX F
+1 _UID 3E1C8547C3363C478C7D56FCA61F55E0F7EC
+1 FAMS @F16@
+1 SOUR @S3@
+1 CHAN
+2 DATE 18 Jul 2006
+3 TIME 12:16:40
+0 @I44@ INDI
+1 NAME Stephen Martindale /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Stephen Martindale
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1809
+2 PLAC Dorset, Bennignton, Vermont
+1 DEAT
+2 DATE 19 Sep 1885
+2 PLAC Tuba, Coconino, Arizona
+1 BURI
+2 DATE 21 Sep 1885
+2 PLAC Tuba, Coconino, Arizona
+1 _UID 2DE1C4F9E51BCD4CBCD7AA722018281C0F1A
+1 FAMS @F17@
+1 FAMC @F18@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) at age 42.
+2 CONT           note: Captain of Ten; with wife and 5 children; brother of Laura Farnsworth Owen
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Farnsworth, Stephen M.
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S8@
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 TEXT 304   304   Stephen Farnsworth   41   " [M]   Carpenter              Vt
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 14:37:44
+0 @I45@ INDI
+1 NAME Julia Ann /Clark/
+2 SURN Clark
+2 GIVN Julia Ann
+1 SEX F
+1 BIRT
+2 DATE 1 May 1819
+2 PLAC Union, Montgomery, Ohio
+1 DEAT
+2 DATE 18 Nov 1894
+2 PLAC Pachecho, Chihuahua, Mexico
+2 SOUR @S3@
+3 NOTE alternate death date given by earlylds.com
+2 SOUR @S2@
+3 NOTE death: 28 Oct 1894 Colonia Pacheco, Chihuahua, Mexico.  This near the date listed by Ancestra
+4 CONC l File as her christening date: "24-27 Oct 1894, Colonia Pacheco, Chih, Mexico".
+1 _UID C49E68D8BD2CAB41897895DB34F129568C81
+1 FAMS @F17@
+1 FAMC @F31@
+1 NOTE 1. Traveled West with John S. Higbee/James W. Bay Company (1852) at age 33.
+1 SOUR @S1@
+2 NOTE Farnsworth, Julia Ann
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 TEXT                Julia Ann     " [ Farnsworth ]   3
+4 CONC 2  F                                                        Ohio
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 14:38:14
+0 @I46@ INDI
+1 NAME Reuben /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Reuben
+1 SEX M
+1 _UID CD0DA8D23FC7024C90733C58815294DA806F
+1 FAMS @F18@
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 14:20:39
+0 @I47@ INDI
+1 NAME Lucinda /Kent/
+2 SURN Kent
+2 GIVN Lucinda
+1 SEX F
+1 _UID C455FBEE07BBA74D85AC12192E5B03EF8F26
+1 FAMS @F18@
+1 SOUR @S2@
+1 SOUR @S3@
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 14:21:26
+0 @I48@ INDI
+1 NAME Lewis /Harvey/
+2 SURN Harvey
+2 GIVN Lewis
+1 SEX M
+1 BIRT
+2 DATE 1 Feb 1822
+2 PLAC Big Creek, Harrison, West Virginia
+2 SOUR @S3@
+3 NOTE place: Clarksburg, Harrison, West Virginia
+2 SOUR @S9@
+3 NOTE Place of Birth: Big Creek, Harrison, Wv
+2 SOUR @S2@
+3 NOTE place: Shinnston, Harrison, West Virginia
+1 DEAT
+2 DATE 30 Mar 1900
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 DATE 1 Apr 1900
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Harvey, Lewis Clark.  buried in Pleasant Grove City Cemetery, A-14-002-10.  Relatives:  Sara
+4 CONC h Harbert (Mother) Jonathan Lewis Harvey (Father).
+1 _UID E51C6426C5F0B14EA2AA860A463A4CD6BDCE
+1 FAMS @F19@
+1 SOUR @S2@
+2 NOTE Family: Harvey/Clark (F5007)
+1 SOUR @S3@
+2 NOTE Lewis HARVEY
+1 SOUR @S8@
+2 NOTE Harvey, Lewis.  James Lake Company (1850).
+2 DATA
+3 TEXT Harvey, Lewis
+4 CONT Birth Date: 1 Feb. 1822
+4 CONT Death Date: 30 Mar. 1900
+4 CONT Gender: Male
+4 CONT Age: 28
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Harvey, Lewis.
+1 SOUR @S13@
+2 NOTE dwelling: 7 family: 7
+2 DATA
+3 TEXT 7   7   Lewis Harvey       29   M          Farmer         35 [value of real estate owned
+4 CONC ]     Virginia
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 14:31:53
+0 @I49@ INDI
+1 NAME Lucinda /Clark/
+2 SURN Clark
+2 GIVN Lucinda
+1 SEX F
+1 BIRT
+2 DATE 18 Apr 1824
+2 PLAC Montgomery, Richland, Ohio
+1 DEAT
+2 DATE 17 Dec 1916
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 DATE 21 Dec 1916
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Harvey, Lucinda Clark: buried in Pleasant Grove City Cemetery, A-14-002-09.  relatives: Ann E
+4 CONC lizabeth Sheffer (Mother) Richard Clark (Father).  
+1 _UID D7132DB27C7F114CBD3D4D236B06FF7D78F1
+1 FAMS @F19@
+1 FAMC @F31@
+1 SOUR @S3@
+1 SOUR @S13@
+2 NOTE dwelling: 7 family: 7
+2 DATA
+3 TEXT Lucinda         [Clark]      26    F                                   Ohio
+1 SOUR @S2@
+2 NOTE Family: Harvey/Clark (F5007)
+1 SOUR @S8@
+2 NOTE Harvey, Lucinda Clark
+2 DATA
+3 TEXT Harvey, Lucinda Clark
+4 CONT Birth Date:  18 Apr. 1824
+4 CONT Death Date: 17 Dec. 1916
+4 CONT Gender: Female
+4 CONT Age: 26
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Harvey, Lucinda Clark.
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 14:06:21
+0 @I50@ INDI
+1 NAME Austin Martindale /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Austin Martindale
+1 SEX M
+1 BIRT
+2 DATE 16 Dec 1838
+2 PLAC Plymouth, Marshall, Indiana
+1 DEAT
+2 DATE 8 Dec 1912
+2 PLAC Richfield, Sevier, Utah
+2 CAUS Pneaumonia
+1 BURI
+2 DATE 10 Dec 1912
+2 PLAC Richfield, Sevier, Utah
+1 _UID 29C85DFC3A69804EBA81CFBBA1716A3935DF
+1 FAMC @F17@
+1 NOTE 1. Traveled West with John S. Higbee/James W. Bay Company (1852) at age 13.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Farnsworth, Austin M.
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 DATE 17 Sep 1850
+1 SOUR @S9@
+2 NOTE Farnsworth, Austin M. Sr.
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 15:51:11
+0 @I51@ INDI
+1 NAME Alonzo Lafayette /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Alonzo Lafayette
+1 SEX M
+1 BIRT
+2 DATE 22 Oct 1841
+2 PLAC South Bend, Marshall, Indiana
+1 DEAT
+2 DATE 16 May 1931
+2 PLAC Colonia Garcia, Chihuahua, Mexico
+1 BURI
+2 DATE 17 May 1931
+2 PLAC Colonia Garcia, Chihuahua, Mexico
+1 _UID 66E90C1938C25B4295EF2898EC9B2988873E
+1 FAMC @F17@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Farnsworth, Alonzo L.
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+1 SOUR @S4@
+2 PAGE p. 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 TEXT                    Alonzo           " [Farnsworth]    8  " [M
+4 CONC ]                                      " [Iowa]                      / [Attended School w/i
+4 CONC n the year]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 15:48:55
+0 @I52@ INDI
+1 NAME Albert Stephen /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Albert Stephen
+1 SEX M
+1 BIRT
+2 DATE 22 May 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 28 Nov 1904
+2 PLAC Guerrero, Chihuahua, Mexico
+1 BURI
+2 DATE 29 Nov 1904
+2 PLAC Guerrero, Chihuahua, Mexico
+1 _UID 2613FEC3D79CDF41B65C759CDB1238754A94
+1 FAMC @F17@
+1 NOTE 1. Traveled West with John S. Higbee/James W. Bay Company (1852) at age 8.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Farnsworth, Albert S.
+1 SOUR @S3@
+1 SOUR @S5@
+1 SOUR @S8@
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 TEXT                  Albert     " [ Farnsworth]   6  " [M
+4 CONC ]                                              " [ Iowa ]    / [Attended School w/in the year
+4 CONC ]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 15:48:54
+0 @I53@ INDI
+1 NAME Stephen Martindale /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Stephen Martindale
+1 SEX M
+1 BIRT
+2 DATE 17 Feb 1847
+2 PLAC , , Nebraska Terr.
+2 SOUR @S3@
+3 NOTE alternate birthplace: Keg Creek, Pottawattamie, Iowa
+2 SOUR @S4@
+3 PAGE p 167
+3 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth;
+4 CONT birth place : Nebraska Terr. [this would indicate he was probably born in Winter Quarters]
+3 DATA
+4 TEXT                       Stephen  " [Farnsworth]  4  " [M]                                 Nebra
+5 CONC ska Terr.
+4 DATE 17 Sep 1850
+1 DEAT
+2 DATE 24 Jul 1928
+2 PLAC Delta, Millard, Utah
+1 BURI
+2 DATE 27 Jul 1928
+2 PLAC Delta, Millard, Utah
+1 _UID EB926B7DA4EB4E42B6611D9577606915A269
+1 FAMC @F17@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) at age 5.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Farnsworth, Stephen M.
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 TEXT                       Stephen  " [Farnsworth]  4  " [M]                                 Nebra
+4 CONC ska Terr.
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 15:47:22
+0 @I54@ INDI
+1 NAME Caroline Elizabeth /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Caroline Elizabeth
+2 _MARNM Mrs. Hensen/Hensin Walker
+1 SEX F
+1 BIRT
+2 DATE 21 Mar 1849
+2 PLAC Keg Creek, Pottawattamie, Iowa 
+1 DEAT
+2 DATE 23 Jun 1927
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Walker, Caroline E. F.
+1 _UID 959418ACB7FB6C40A63DF03EA1095A48A829
+1 FAMC @F17@
+1 NOTE 1. Traveled West in John S. Higbee/James W. Bay Company (1852) at age 3.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Farnsworth, Caroline 
+1 SOUR @S3@
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling 304; family 304; head of household: Stephen Farnsworth
+2 DATA
+3 TEXT                        Caroline  " [Farnsworth
+4 CONC ]  2  F                                                                Iowa
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+1 CHAN
+2 DATE 20 Jul 2006
+3 TIME 15:45:30
+0 @I55@ INDI
+1 NAME Laura /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Laura
+2 _MARNM Mrs. Owen(s),  Mrs. Nathaniel Frampton
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 1806
+2 PLAC Milton, Grand Isle, Vermont
+1 DEAT
+2 DATE 24 Jun 1881
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 PLAC Pleasant Grove, Utah, Utah
+1 _UID 7AAB9996A591DA43A94A2511A56189A0FF61
+1 FAMS @F21@
+1 FAMS @F23@
+1 FAMC @F18@
+1 NOTE 1. Traveled West with the John S. Higbee/James W. Bay Company (1852) with son William M. Fram
+2 CONC pton.
+1 SOUR @S1@
+2 PAGE p. 17
+2 NOTE Owen, Laura
+1 SOUR @S3@
+2 NOTE Laura FARNSWORTH
+1 SOUR @S8@
+2 NOTE Laura Farnsworth Frampton Owen
+2 DATA
+3 TEXT Owen, Laura Farnsworth Frampton
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 46
+4 CONT Company: John S. Higbee/James W. Bay Company (1852)
+4 CONT Pioneer Information:
+4 CONT and son William M. Frampton
+4 CONT Sources: see website
+1 SOUR @S10@
+2 NOTE Laura Farnsworth Frampton Owen
+1 CHAN
+2 DATE 9 Oct 2006
+3 TIME 11:49:10
+0 @I56@ INDI
+1 NAME William Martindale /Frampton/
+2 SURN Frampton
+2 GIVN William Martindale
+1 SEX M
+1 BIRT
+2 DATE 20 Sep 1831
+2 PLAC , Scioto, Ohio
+2 SOUR @S9@
+3 NOTE birth date: 9/30/1906 Burlington, Des Moines, Ia
+1 DEAT
+2 DATE 23 May 1906
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE death: 5/23/1906 Pleasant Grove, Ut; Pleasant Grove City Cemetery
+1 BURI
+2 DATE 27 May 1906
+2 PLAC Pleasant Grove, Utah, Utah
+1 _UID ECAC08253C49864086FE9A74265B06A0C9EB
+1 FAMC @F21@
+1 NOTE 1.  Traveled West with the John S. Higbee/James W. Bay Company (1852) with his mother Laura F
+2 CONC arnsworth Owen.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Frampton, William M.
+1 SOUR @S9@
+2 NOTE Frampton, William Martindale.  Relatives:  Laura Farnsworth (Mother)
+1 SOUR @S8@
+2 NOTE John S. Higbee/James W. Bay Company (1852)
+2 DATA
+3 TEXT Frampton, William M.
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 21
+4 CONT Company: John S. Higbee/James W. Bay Company (1852)
+4 CONT Pioneer Information:
+4 CONT He came with with his mother Laura Farnsworth Owen.
+4 CONT Sources: see website
+1 CHAN
+2 DATE 9 Oct 2006
+3 TIME 11:42:30
+0 @I57@ INDI
+1 NAME John /Farnsworth/
+2 SURN Farnsworth
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 10 May 1824
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 DATE 22 Aug 1850
+2 PLAC Council Bluff, Pottawattamie, Iowa
+1 _UID 99B29F9CB2903E48ACCC230512735DD5A527
+1 FAMS @F20@
+1 FAMC @F67@
+1 NOTE 1. all records indicate his death to be in 1850, except Our Pioneer Heritage.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Farnsworth, John 
+1 SOUR @S2@
+1 SOUR @S3@
+2 NOTE AFN: 1L25-C2
+2 DATA
+3 TEXT 426   426   John Fannswell     26   " [M]                        " [ Laboure
+4 CONC r ]                   Eng.
+1 SOUR @S21@
+2 PAGE vol. 14 p. 323
+2 NOTE 1859 - Eighth Company - Geroge Rowley, Captain
+2 DATA
+3 TEXT FARNSWORTH, John (died on the plains), wife, Jane S., daughters, Mary 14, Alice 12. 
+1 CHAN
+2 DATE 12 Oct 2006
+3 TIME 14:19:50
+0 @I58@ INDI
+1 NAME Jane /Singleton/
+2 SURN Singleton
+2 GIVN Jane
+2 _MARNM Farnworth
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1825
+2 PLAC Dickbrake, Lancashire, England
+1 DEAT
+2 DATE 15 Mar 1894
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 PLAC Springville, Utah, Utah
+1 _UID 7C6CC4A246F12B4DA483AE22CD0DDB24CDB4
+1 FAMS @F20@
+1 FAMC @F66@
+1 SOUR @S1@
+2 PAGE v.2, p.16
+2 NOTE Farnsworth, Jane
+1 SOUR @S3@
+2 NOTE AFN: 1L25-9P
+1 SOUR @S5@
+2 PAGE image 15 of 36
+2 NOTE Utah Territory, Utah, Springville.  dwelling: 2522  family: 1982 head of household: Jutitha
+3 CONC n Everett
+2 DATA
+3 TEXT line 26:             Jane    " [Everett]   35   F                                   Eng
+4 CONC .           / [Persons over 20 y'rs of age who cannot read & write]
+3 DATE 5 Sep 1860
+1 SOUR @S11@
+2 NOTE John Farnsworth and Jane Singleton
+1 SOUR @S21@
+2 PAGE vol. 14 p. 323
+2 NOTE 1859 - Eighth Company - Geroge Rowley, Captain
+2 DATA
+3 TEXT FARNSWORTH, John (died on the plains), wife, Jane S., daughters, Mary 14, Alice 12. 
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:07:30
+0 @I59@ INDI
+1 NAME Nathaniel /Frampton/
+2 SURN Frampton
+2 GIVN Nathaniel
+1 SEX M
+1 BIRT
+2 DATE 5 May 1798
+2 PLAC Derry Township, Mifflin, Pennsylvania
+1 DEAT
+2 DATE Sep 1883
+2 PLAC Richmond, Ray, Missouri
+1 _UID 92DC6A468C349F41A0D84B38F895EF7DB265
+1 FAMS @F21@
+1 FAMC @F22@
+1 SOUR @S3@
+2 NOTE AFN: 2DZ8-VG
+1 SOUR @S2@
+2 NOTE Family: Frampton/Farnsworth (F7783)
+1 CHAN
+2 DATE 9 Oct 2006
+3 TIME 11:34:51
+0 @I60@ INDI
+1 NAME Adaline /Frampton/
+2 SURN Frampton
+2 GIVN Adaline
+1 SEX F
+1 BIRT
+2 DATE 7 Apr 1825
+2 PLAC Burlington, Lawrence, Ohio
+1 DEAT
+2 DATE 2 Jun 1825
+2 PLAC Burlington, Lawrence, Ohio
+1 _UID 1114E24112CE354B81EF83C4051FCEC01190
+1 FAMC @F21@
+1 SOUR @S3@
+1 CHAN
+2 DATE 1 Aug 2006
+3 TIME 12:44:52
+0 @I61@ INDI
+1 NAME Adolphus /Frampton/
+2 SURN Frampton
+2 GIVN Adolphus
+1 SEX M
+1 BIRT
+2 DATE 8 May 1829
+2 PLAC Burlington, Lawrence, Ohio
+1 DEAT
+2 DATE 24 Oct 1829
+2 PLAC Burlington, Lawrence, Ohio
+1 _UID E09811BE09C81A4AB69745EDAEBC7DD3B5E7
+1 FAMC @F21@
+1 SOUR @S3@
+1 CHAN
+2 DATE 1 Aug 2006
+3 TIME 12:44:57
+0 @I62@ INDI
+1 NAME Sarah Montgomery /Frampton/
+2 SURN Frampton
+2 GIVN Sarah Montgomery
+1 SEX F
+1 BIRT
+2 DATE 5 Sep 1826
+2 PLAC Burlington, Lawrence, Ohio
+1 DEAT
+2 DATE 9 Oct 1826
+2 PLAC Burlington, Lawrence, Ohio
+1 _UID 406047C7785D2341AC0A50338D17C82AB69B
+1 FAMC @F21@
+1 SOUR @S3@
+1 CHAN
+2 DATE 1 Aug 2006
+3 TIME 12:44:54
+0 @I63@ INDI
+1 NAME Samuel /Frampton/
+2 SURN Frampton
+2 GIVN Samuel
+1 SEX M
+1 _UID DB5459367A562F4E8C7ED2394FF25CC27F9D
+1 FAMS @F22@
+1 SOUR @S3@
+2 NOTE Ancestral File says he was married to Agnes (Nancy) KELLY ELIZABETH ELIZABETH
+1 CHAN
+2 DATE 31 Jul 2006
+3 TIME 16:44:18
+0 @I64@ INDI
+1 NAME Owen Asa /Owen/
+2 SURN Owen
+2 GIVN Owen Asa
+1 SEX M
+1 _UID AE48DEEDA622D74AA860D67FEC53EF87BCF0
+1 FAMS @F23@
+1 SOUR @S3@
+1 SOUR @S10@
+2 NOTE Laura Farnsworth Frampton Owen
+1 CHAN
+2 DATE 1 Aug 2006
+3 TIME 12:55:40
+0 @I65@ INDI
+1 NAME William /Britain/
+2 SURN Britain
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 30 Oct 1818
+2 PLAC Deeping Fen, , Lincolnshire, England
+1 DEAT
+2 DATE 12 Jul 1895
+2 PLAC Garden City, Finney, Kansas
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 6C536761D3AF16489DC677F6D316578900A8
+1 FAMS @F24@
+1 FAMC @F25@
+1 NOTE 1. William and his family joined the RLDS church .
+1 SOUR @S3@
+1 SOUR @S1@
+2 PAGE p 16
+1 SOUR @S4@
+2 PAGE p 137 (69)
+2 NOTE dwelling 80; family 80
+2 DATA
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:57:56
+0 @I66@ INDI
+1 NAME Mary /Bains/
+2 SURN Bains
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1 Apr 1820
+2 PLAC Moulton Chapel, Lincolnshire, , England
+1 DEAT
+2 DATE 13 Jun 1906
+2 PLAC , Rice, Kansas
+1 BURI
+2 PLAC Garden City, Finney, Kansas
+1 _UID 93144DDB1E5F864B923AFCCC11A299A9A61C
+1 FAMS @F24@
+1 FAMC @F26@
+1 NOTE 1. It is unlikely Mary headed west.
+1 SOUR @S3@
+1 SOUR @S1@
+2 PAGE p 16
+1 SOUR @S4@
+2 PAGE 137 (69)
+2 NOTE dwelling/family: 80
+2 DATA
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:51:38
+0 @I67@ INDI
+1 NAME John /Britain/
+2 SURN Britain
+2 GIVN John
+1 SEX M
+1 _UID D06B8607BDACA04F88C96170C3CC1C3A2752
+1 FAMS @F25@
+1 SOUR @S3@
+2 NOTE father of William BRITAIN
+3 CONT 
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:14:09
+0 @I68@ INDI
+1 NAME Rebecca /Willows/
+2 SURN Willows
+2 GIVN Rebecca
+1 SEX F
+1 _UID D2934EF4121B1E4584346B33AC0B6305ACA8
+1 FAMS @F25@
+1 SOUR @S3@
+2 NOTE mother of William BRITAIN
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:13:56
+0 @I69@ INDI
+1 NAME John /Bains/
+2 SURN Bains
+2 GIVN John
+1 SEX M
+1 _UID 3D955F1E99048749B489B861134D93A6AB05
+1 FAMS @F26@
+1 SOUR @S3@
+2 NOTE father of Mary BAINS
+3 CONT 
+3 CONT 
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:16:47
+0 @I70@ INDI
+1 NAME Catherine /Rand/
+2 SURN Rand
+2 GIVN Catherine
+1 SEX F
+1 _UID 9F1374810935A946A72DFF8D6D9CAA9F865E
+1 FAMS @F26@
+1 SOUR @S3@
+2 NOTE mother of Mary BAINS
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:17:15
+0 @I71@ INDI
+1 NAME Caroline Louisa /Britain/
+2 SURN Britain
+2 GIVN Caroline Louisa
+2 _MARNM Mrs. Gordon E. Duell (Deuel)
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1847
+2 PLAC Rushville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 18 Jul 1939
+2 PLAC Hutchinson, Reno, Kansas
+1 _UID D8EEC7D8907AA749B7E6A6AD88CCB5E23A78
+1 FAMC @F24@
+1 NOTE 1. It is unlikely Caroline traveled West.
+1 SOUR @S3@
+1 SOUR @S1@
+2 PAGE p 16
+1 SOUR @S4@
+2 PAGE 137 (69)
+2 NOTE family/dwelling: 80
+2 DATA
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 14:30:40
+0 @I72@ INDI
+1 NAME Catherine Rebecca /Britain/
+2 SURN Britain
+2 GIVN Catherine Rebecca
+2 _MARNM Mrs. Edward Tull Anson
+1 SEX F
+1 BIRT
+2 DATE 14 Jun 1844
+2 PLAC Moulton Chapel,  , Lincolnshire, England
+1 DEAT
+2 DATE 10 Apr 1910
+2 PLAC Springfield, Sarpy, Nebraska
+1 BURI
+2 PLAC Springfield, Sarpy, Nebraska
+1 _UID 5EC7BC6C0757574D8CDC5DD5135C40C35BD7
+1 FAMC @F24@
+1 NOTE 1. It is unlikely Catherine went west.
+1 SOUR @S3@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Coons, Caroline Rebekha
+1 SOUR @S4@
+2 PAGE 137 (69)
+2 NOTE family/dwelling: 80
+2 DATA
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 11 Oct 2006
+3 TIME 15:09:13
+0 @I73@ INDI
+1 NAME John William /Britain/
+2 SURN Britain
+2 GIVN John William
+1 SEX M
+1 BIRT
+2 DATE 11 Jan 1849
+2 PLAC Coonville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 10 Aug 1849
+1 _UID 9151F1B389BE8343B3118DE7900760A264BA
+1 FAMC @F24@
+1 SOUR @S3@
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:24:11
+0 @I74@ INDI
+1 NAME Mary Ann /Britain/
+2 SURN Britain
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 30 Jun 1850
+2 PLAC Coonville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 19 Aug 1928
+2 PLAC West Point, Cuming, Nebraska
+1 BURI
+2 DATE 21 Aug 1928
+2 PLAC Decatur, Burt, Nebraska
+1 _UID FD6C9613D82D8E47ACA1C1A78DDC4A0A5E5F
+1 FAMC @F24@
+1 SOUR @S3@
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:29:11
+0 @I75@ INDI
+1 NAME Eliza A /Britain/
+2 SURN Britain
+2 GIVN Eliza A
+1 SEX F
+1 BIRT
+2 DATE 28 Mar 1852
+2 PLAC Coonville, Mills, Iowa
+1 DEAT
+2 DATE 20 Feb 1875
+1 _UID DF7359B686A237428F0899916826C8AEC7EA
+1 FAMC @F24@
+1 SOUR @S3@
+1 CHAN
+2 DATE 8 Sep 2006
+3 TIME 16:26:41
+0 @I76@ INDI
+1 NAME Juthathan (Jeduthan) Hardy /Averett/
+2 SURN Averett
+2 GIVN Juthathan (Jeduthan) Hardy
+1 SEX M
+1 BIRT
+2 DATE 12 Jun 1816
+2 PLAC , Chesterfield, South Carolina
+1 DEAT
+2 DATE 7 Jan 1902
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 PLAC Springville, Utah, Utah
+2 SOUR @S9@
+3 NOTE Averett, Jeduthan H. buried in Springville Evergreen Cemetery, Sec. A Lot 86 Pos. 7
+1 _UID 3E37330D302D7842B50B421AA1B80DEC3A72
+1 FAMS @F27@
+1 FAMC @F28@
+1 NOTE 1.  Jeduthan was in Iowa in 1851 for the birth of his son William and in Utah by 1854 for th
+2 CONC e birth of his daughter Elizabeth Jane (b. 14 Feb 1854).
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Averett, Juthathan (or Averett, Jonathan)
+1 SOUR @S4@
+2 NOTE dwelling: 84; family: 84
+2 DATA
+3 TEXT line 3:   84   84   Juthathan Averett   33   M      None             S. C. [South Carolina]
+3 DATE 2 Sep 1850
+1 SOUR @S3@
+2 NOTE Jeduthan H. Averett
+1 SOUR @S8@
+2 NOTE Mormon Battalion Sick Detachments (1847)
+2 DATA
+3 TEXT Averett, Jeduthan H.
+4 CONT Birth Date: 12 June 1816
+4 CONT Death Date: 7 Jan. 1902
+4 CONT Gender: Male
+4 CONT Age: 28
+4 CONT Company: Mormon Battalion Sick Detachments (1847)
+4 CONT Sources: see website
+1 CHAN
+2 DATE 12 Oct 2006
+3 TIME 10:42:31
+0 @I77@ INDI
+1 NAME Holly Jane /Tingle/
+2 SURN Tingle
+2 GIVN Holly Jane
+2 _AKA Holley Jane; Hannah Jane
+1 SEX F
+1 BIRT
+2 DATE 15 Apr 1817
+2 PLAC Bibbsville, Bibb, Alabama
+2 SOUR @S3@
+2 SOUR @S11@
+3 NOTE alternate birth year: 1818
+1 DEAT
+2 DATE 27 Sep 1893
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 PLAC Springville, Utah, Utah
+2 SOUR @S9@
+3 NOTE Averett, Holley J.  buried in Springville Evergreen Cemetery, Sec A Lot 67 Pos. 8
+1 _UID A22F8C30FDE2A24B97509DD66B7D68787BB1
+1 FAMS @F27@
+1 FAMC @F29@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Averett, Hannah Jane
+1 SOUR @S4@
+2 NOTE dwelling: 84; family: 84
+2 DATA
+3 TEXT line 4:            Holly   " [Averett]   24   F                     Ala
+3 DATE 2 Sep 1850
+1 SOUR @S3@
+2 NOTE Holly (Holla) Jane Tingle
+1 SOUR @S11@
+2 NOTE Holly Jane Tingle  [f: Josiah P. Tingle m: Elizabeth]
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 10:35:28
+0 @I78@ INDI
+1 NAME Charles Washington /Averett/
+2 SURN Averett
+2 GIVN Charles Washington
+1 SEX M
+1 BIRT
+2 DATE 13 Jul 1837
+2 PLAC Marion, Perry, Alabama
+1 DEAT
+2 DATE 12 Feb 1926
+2 PLAC Emmett, Gem, Idaho
+1 BURI
+2 PLAC Mt. Pleasant, Sanpete, Utah
+2 SOUR @S9@
+3 NOTE Averett, Charles Washington buried in Mt. Pleasant City Cemetery, A_115_3_4.
+1 _UID 4BE660F5BE910D45ACD77CD58350BEAB3762
+1 FAMC @F27@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Averett, Charles W.
+1 SOUR @S4@
+2 DATA
+3 TEXT line 5:              Charles   "  [Averett]   12   M                      " [Ala]
+3 DATE 2 Sep 1850
+1 SOUR @S2@
+2 NOTE Charles W. Averett, b. 13 Jul 1837
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 11:22:11
+0 @I79@ INDI
+1 NAME Judithan Hardy /Averett/
+2 SURN Averett
+2 GIVN Judithan Hardy
+1 SEX M
+1 BIRT
+2 DATE 12 Nov 1842
+2 PLAC Marion, Perry, Alabama
+1 DEAT
+2 DATE 2 Sep 1913
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 DATE 5 Sep 1913
+2 PLAC Springville, Utah, Utah
+2 SOUR @S9@
+3 NOTE Averett, Jeduthan Hardy,  buried in Springville Evergreen Cemetery, Sec. A Lot 86 Pos. 4
+1 _UID 24992E90BFCA964A8D75A6B17FD2B8D218CB
+1 FAMC @F27@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Averett, Jonathan (or Averett, Juthathan)
+1 SOUR @S4@
+2 DATA
+3 TEXT line 6:  Juthathan  "  [Averett]   7   " [M]              " [Ala]
+3 DATE 2 Sep 1850
+1 SOUR @S2@
+2 NOTE Juthathan Averett, b. 12 Oct 1842, , Perry, Alabama, USA
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 11:21:32
+0 @I80@ INDI
+1 NAME Drucilla /Averett/
+2 SURN Averett
+2 GIVN Drucilla
+1 SEX F
+1 BIRT
+2 DATE ABT 1844
+2 PLAC Marion, Perry, Alabama
+1 _UID B0CCA128081FB7468EB22FE97DA0EAEDB5A5
+1 FAMC @F27@
+1 NOTE 1.  died as an infant
+1 SOUR @S3@
+2 NOTE Drucilla or Pricilla AVERETT
+1 SOUR @S11@
+2 NOTE Drucilla Averett - b. 1843 Marion, Perry, Alabama.  no death info.
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 10:45:46
+0 @I81@ INDI
+1 NAME Cynthia /Averett/
+2 SURN Averett
+2 GIVN Cynthia
+1 SEX F
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 _UID 650CBD078F3CAA45AC4F8B8263BFC9846642
+1 FAMC @F27@
+1 SOUR @S3@
+2 NOTE no death or marriage info.
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 10:50:51
+0 @I82@ INDI
+1 NAME William Clark /Averett/
+2 SURN Averett
+2 GIVN William Clark
+1 SEX M
+1 BIRT
+2 DATE 13 Mar 1851
+2 PLAC Coonville, Pottawattamie, Iowa
+2 SOUR @S7@
+3 NOTE blessing also given.
+1 DEAT
+2 DATE 4 Mar 1930
+2 PLAC Denver, Denver, Colorado
+1 BURI
+2 PLAC Mt. Pleasant, Sanpete, Utah
+2 SOUR @S9@
+3 NOTE Averett, William C.  buried in Mt. Pleasant City Cemetery, A_151_3_7
+1 _UID 1DB26952FB37B94C916FE228A0F5132DA084
+1 FAMC @F27@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Averett, William C.
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE William C. Averett
+1 SOUR @S4@
+2 DATA
+3 TEXT line 7:  William   "   6/12   "  [M]                  Iowa
+3 DATE 2 Sep 1850
+1 SOUR @S7@
+2 PAGE p. 16
+2 NOTE blessing
+2 DATA
+3 DATE 22 Dec 1850
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:21:02
+0 @I83@ INDI
+1 NAME Hardy /Averett/
+2 SURN Averett
+2 GIVN Hardy
+1 SEX M
+1 _UID 8A23E5E98730624A9357C2F7649FEB99080E
+1 FAMS @F28@
+1 SOUR @S3@
+2 NOTE Hardy Averett Avery Aver
+1 SOUR @S12@
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 11:15:17
+0 @I84@ INDI
+1 NAME Drucilla /Meadows/
+2 SURN Meadows
+2 GIVN Drucilla
+1 SEX F
+1 _UID 8ED81FE67E99B94481ED60741156A4A06C36
+1 FAMS @F28@
+1 SOUR @S3@
+2 NOTE Drusilla Meadows Ducell M
+1 SOUR @S12@
+2 NOTE Drucilla Meadows
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 11:16:15
+0 @I85@ INDI
+1 NAME Josiah P. /Tingle/
+2 SURN Tingle
+2 GIVN Josiah P.
+1 SEX M
+1 _UID 871F9665BDA3B44FAA2D2D6388E6B125AF23
+1 FAMS @F29@
+1 SOUR @S3@
+1 SOUR @S11@
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 11:16:58
+0 @I86@ INDI
+1 NAME Elizabeth //
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 976826AC837B064E89E0B4F2A21191087EFE
+1 FAMS @F29@
+1 SOUR @S3@
+1 SOUR @S11@
+1 CHAN
+2 DATE 19 Sep 2006
+3 TIME 11:17:20
+0 @I87@ INDI
+1 NAME George Sheffer /Clark/
+2 SURN Clark
+2 GIVN George Sheffer
+1 SEX M
+1 BIRT
+2 DATE 7 Nov 1816
+2 PLAC , Jefferson, Ohio
+1 DEAT
+2 DATE 28 Aug 1901
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 DATE 30 Aug 1901
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Clark, George S.  Buried in Pleasant Grove City Cemetery, A-04-007-07.  Relatives: Ann Elizab
+4 CONC eth Sheffer (Mother)
+1 _UID B461E3A6FBD648468D042356E5A2E00D7B4E
+1 FAMS @F30@
+1 FAMC @F31@
+1 NOTE 1.  George traveled West in the James Lake Company (1850) with his wife (Clark, Susannah), an
+2 CONC d parents (Clark, Richard and Clark, Ann Elizabeth).
+2 CONT 
+2 CONT 2. "...In 1842, at Indianapolis, he heard the Gospel for the first time, an Elder having visi
+2 CONC ted that place, and Bro. Clark became convinced at once.  In the spring of 1843 he was baptis
+2 CONC ed in the Mississippi River at Nauvoo.  Returning to Indiana he succeeded in selling his far
+2 CONC m worth $2,000 for a tenth of that sum and after varied experiences he returned to NAuvoo, hw
+2 CONC ere he was made a city guard.  Geroge was ordained a member of the 13th quorum of SEventy b
+2 CONC y George A. Smith and others.  In 1846, George crossed the Mississippi river with the body o
+2 CONC f the Saints headed for the western wilds.  When at the Missouri river the call was made fo
+2 CONC r troops to go to Mexico in the service of the United STates, he became one fo the noted Morm
+2 CONC on Battalion, serving in Company B; but at the line he was put on the sick list and returne
+2 CONC d to Pueblo.  In the Spring of 1847 he and the others of the sick detachment again started fo
+2 CONC r the mountains, overtaking the pioneers at Green river and arrived there with them.  He wa
+2 CONC s one of the company that returned to Winter Quarters soon after reaching Salt Lake Valley.
+2 CONC "    
+2 CONT      LDS Biographical Encyclopedia. Jenson, Andrew. 1951 Volume: 2 Page 25.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Clark, George S.
+1 SOUR @S13@
+2 NOTE dwelling 11; family 11
+2 DATA
+3 TEXT line 1:  11   11   George S. Clark   32   M      Farmer   50 [value of real estate owned]  Oh
+4 CONC io   / [married within the year]
+1 SOUR @S8@
+2 NOTE Clark, George Sheffer.  James Lake Company (1850).
+2 DATA
+3 TEXT Clark, George Sheffer
+4 CONT Birth Date: 7 Nov. 1816
+4 CONT Death Date: 28 Aug. 1901
+4 CONT Gender: Male
+4 CONT Age:  33
+4 CONT Company: James Lake Company (1850)
+4 CONT Sources: see website
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:01:28
+0 @I88@ INDI
+1 NAME Susannah /Dalley/
+2 SURN Dalley
+2 GIVN Susannah
+1 SEX F
+1 BIRT
+2 DATE 30 Sep 1830
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 9 Apr 1891
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 DATE 12 Apr 1891
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Clark, Susannah Dalley.  buried in Pleasant Grove City Cemetery, A-04-007-06.  relatives: An
+4 CONC n Davies/Davis (Mother).
+1 _UID 9D025D11E56F6C479BB1EC4615CC8B878503
+1 FAMS @F30@
+1 FAMC @F32@
+1 NOTE 1.  Traveled West with husband and in-laws with James Lake Company in 1850.  Settled in Pleas
+2 CONC ant Grove, Utah, Utah by 23 Sep 1851 for birth of first child.
+1 SOUR @S13@
+2 PAGE p 2
+2 NOTE dwelling:11; Family: 11
+2 DATA
+3 TEXT 11   11   Susannah                    21   F                                          Englan
+4 CONC d   /  [married w/in the year]
+1 SOUR @S3@
+2 NOTE Susannah DALLEY (AFN:2J01-VL)
+1 SOUR @S8@
+2 NOTE Clark, Susannah.  James Lake Company (1850)
+2 DATA
+3 TEXT Clark, Susannah
+4 CONT Birth Date: 20 Sep. 1830
+4 CONT Death Date: 9 Apr. 1891
+4 CONT Gender: Female
+4 CONT Age: 19
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Clark, Susannah.
+1 CHAN
+2 DATE 27 Sep 2006
+3 TIME 15:25:45
+0 @I89@ INDI
+1 NAME Richard /Clark/
+2 SURN Clark
+2 GIVN Richard
+1 SEX M
+1 BIRT
+2 DATE 5 Dec 1776
+2 PLAC , Cambria, Pennsylvania
+1 DEAT
+2 DATE 5 Feb 1854
+2 PLAC Pleasant Grove, Utah, Utah
+1 _UID C9FF4BC33685364D822DF7AC25B263E08053
+1 FAMS @F31@
+1 FAMC @F34@
+1 SOUR @S3@
+1 SOUR @S8@
+2 NOTE Clark, Richard.  James Lake Company (1850)
+2 DATA
+3 TEXT Clark, Richard
+4 CONT Birth date: 5 Dec 1776
+4 CONT Death date: 5 Feb 1854
+4 CONT Gender: male
+4 CONT Age: 73
+4 CONT Company: James Lake Company (1850)
+4 CONT no sources
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 07:08:42
+0 @I90@ INDI
+1 NAME Ann Elizabeth /Sheffer/
+2 SURN Sheffer
+2 GIVN Ann Elizabeth
+2 _AKA /Sheffer/
+1 SEX F
+1 BIRT
+2 DATE 29 May 1785
+2 PLAC Reading, Adams, Pennsylvania
+1 DEAT
+2 DATE 25 Jan 1856
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 DATE 27 Jan 1856
+2 PLAC Pleasant Grove, Utah, Utah
+1 _UID 7E1C5D39662C9742A67D27CCDEA5C5CFC8A4
+1 FAMS @F31@
+1 SOUR @S3@
+1 SOUR @S8@
+2 NOTE Clark, Ann Elizabeth.  James Lake Company (1850)
+2 DATA
+3 TEXT Clark, Ann Elizabeth
+4 CONT Birth date: 29 May 1785
+4 CONT Death date: 25 Jan 1856
+4 CONT Gender: Female
+4 CONT Age: 65
+4 CONT Company: James Lake Company (1850)
+4 CONT no sources
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 07:08:22
+0 @I91@ INDI
+1 NAME Maria Josephine /Harvey/
+2 SURN Harvey
+2 GIVN Maria Josephine
+1 SEX F
+1 BIRT
+2 DATE 31 Jan 1850
+2 PLAC Keg Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 1 Oct 1884
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE 7 Oct 1884
+2 PLAC Provo, Utah, Utah
+2 SOUR @S9@
+3 NOTE Booth, Maria Josephine.  buried in Provo City Cemetery, Block 2 lot 48.  relatives:  Lewis Ha
+4 CONC rvey (Father) & Lucinda Clark.  J.e. Booth (Spouse).
+1 _UID 8969966297A7194DA179E34B44349386674D
+1 FAMC @F19@
+1 SOUR @S3@
+2 NOTE Maria Josephine Harvey
+1 SOUR @S13@
+2 NOTE dwelling: 7 family: 7
+2 DATA
+3 TEXT             Maria        [Harvey]   1   F                   Iowa
+1 SOUR @S8@
+2 NOTE Harvey, Maria Josephine.  James Lake Company (1850)
+2 DATA
+3 TEXT Harvey, Maria Josephine
+4 CONT Birth Date: 31 Jan. 1850
+4 CONT Death Date: 1 Oct. 1884
+4 CONT Gender: Female
+4 CONT Age: infant
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Harvey, Maria Josephine.
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 14:43:07
+0 @I92@ INDI
+1 NAME William /Dalley/
+2 SURN Dalley
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 1 Apr 1780
+2 PLAC Malvern, Worcestershire, England
+1 DEAT
+2 DATE 10 Jul 1832
+2 PLAC Leominster, Hereford, England
+1 _UID 001E5C4644A95E4C8EB18FE08E11A1D015A1
+1 FAMS @F32@
+1 SOUR @S3@
+1 CHAN
+2 DATE 25 Sep 2006
+3 TIME 13:23:46
+0 @I93@ INDI
+1 NAME Ann /Davis/
+2 SURN Davis
+2 GIVN Ann
+2 _AKA /Davies/
+2 _MARNM Mrs. William Dalley; Mrs. Franklin Dewey Richards (m. in Utah)
+1 SEX F
+1 BIRT
+2 DATE 31 Mar 1791
+2 PLAC Vow Church, Hereford, England
+1 CHR
+2 DATE 3 Apr 1791
+2 PLAC Vow Church, Hereford, England
+1 DEAT
+2 DATE 21 Mar 1875
+2 PLAC Pleasant Grove, Utah, Utah
+1 BURI
+2 DATE 23 Mar 1875
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Dalley, Ann Davis/davies. buried in Pleasant Grove City Cemetery.
+1 _UID 0598DD9F9CD5E74F94D95F5937C80AF1DF64
+1 FAMS @F32@
+1 FAMC @F38@
+1 NOTE 1.  Because Ann was living with her son James and daughter-in-law Emma in 1850, it is likel
+2 CONC y that she traveled West with them (arriving sometime before 12 Nov 1852).
+1 SOUR @S3@
+1 SOUR @S9@
+2 NOTE record of Clark, Susannah Dalley.  buried in Pleasant Grove City Cemetery.  
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Dally, Ann Edward
+1 SOUR @S4@
+2 PAGE p 182 image 56 of 187
+2 NOTE dwelling: 428 family: 428 head of household: Ann Dally
+2 DATA
+3 TEXT line 28: 428   428   Ann Dally   59   F                                              Eng
+3 DATE 21 Sep 1850
+1 CHAN
+2 DATE 27 Sep 2006
+3 TIME 15:33:42
+0 @I94@ INDI
+1 NAME Nancy /Clark/
+2 SURN Clark
+2 GIVN Nancy
+2 _MARNM Mrs. John Greenleaf Holman
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1829
+2 PLAC Indianapolis, Marion, Indiana
+1 DEAT
+2 DATE 17 Aug 1920
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE 20 Aug 1920
+2 PLAC Pleasant Grove, Utah, Utah
+2 SOUR @S9@
+3 NOTE Holman, Nancy Clark.  buried in Pleasant Grove City Cemetery, B-27-010-01.  Relatives: Eliz
+4 CONC a Shaffer (Mother) Richard Clark (Father).
+1 _UID 8B50E1DCEBF10340BCD65A017844D38BBE4F
+1 FAMS @F33@
+1 FAMC @F31@
+1 SOUR @S3@
+2 NOTE Nancy CLARK
+1 SOUR @S8@
+2 NOTE Holman, Nancy Clark.  James Lake Company (1850).
+2 DATA
+3 TEXT Holman, Nancy Clark
+4 CONT Birth Date: 26 Feb. 1829
+4 CONT Death Date: 17 Aug. 1920
+4 CONT Gender: Female
+4 CONT Age:21
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Holman, Nancy Clark.
+1 SOUR @S13@
+2 NOTE dwelling: 6 family: 6
+2 DATA
+3 TEXT          Nancy [Holman]      21   F                                           Indiana
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:25:25
+0 @I95@ INDI
+1 NAME John Greenleaf /Holman/
+2 SURN Holman
+2 GIVN John Greenleaf
+1 SEX M
+1 BIRT
+2 DATE 18 Oct 1828
+2 PLAC Byron, Genessee, New York
+1 DEAT
+2 DATE 5 Nov 1888
+2 PLAC Rexburg, Madison, Idaho
+1 BURI
+2 DATE 7 Nov 1888
+2 PLAC Rexburg, Madison, Idaho
+1 _UID 4AE2E1D4C8A92F488449DA5D81F091B685A9
+1 FAMS @F33@
+1 FAMC @F35@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Holman, John G.
+1 SOUR @S3@
+1 SOUR @S8@
+2 NOTE Holman, John Greenleaf.  James Lake Company (1850)
+2 DATA
+3 TEXT Holman, John Greenleaf
+4 CONT Birth Date: 18 Oct. 1828
+4 CONT Death Date: 5 Nov. 1888
+4 CONT Gender: Male
+4 CONT Age: 21
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Holman, John Greenleaf.
+1 SOUR @S13@
+2 NOTE dwelling: 6 family: 6
+2 DATA
+3 TEXT 6     6     John Holman      22    M           Farmer       50 [Value of real estate owned
+4 CONC ]   "---- [N.Y.]
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:34:08
+0 @I96@ INDI
+1 NAME Joshua Sawyer /Holman/
+2 SURN Holman
+2 GIVN Joshua Sawyer
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 1794
+2 PLAC Conneautville, Crawford, Pennsylvania
+1 DEAT
+2 DATE 1 Nov 1846
+2 PLAC Winter Quarters, Nebraka Territory
+1 BURI
+2 PLAC Winter Quarters, Nebraka Territory
+1 _UID 93D2D0507235634C9BE64BCC920ED19F83AA
+1 FAMS @F35@
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Joshua Sawyer Holman.  Family: Holman/Greenleaf (F4021)
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:55:30
+0 @I97@ INDI
+1 NAME Rebecca Whitcomb /Greenleaf/
+2 SURN Greenleaf
+2 GIVN Rebecca Whitcomb
+1 SEX F
+1 BIRT
+2 DATE 22 Apr 1793
+2 PLAC Templeton, Worcester, Massachusetts
+1 DEAT
+2 DATE 6 Jul 1849
+2 PLAC Coonville, Pottawattamie, Iowa
+1 _UID 0874931A51C67B459C529849C6A2AAF2D390
+1 FAMS @F35@
+1 FAMC @F36@
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Holman/Greenleaf (F4021)
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:59:25
+0 @I98@ INDI
+1 NAME John /Greenleaf/
+2 SURN Greenleaf
+2 GIVN John
+1 SEX M
+1 _UID 8E4650DD3A118849ABFA854E06299C5CBCE0
+1 FAMS @F36@
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:58:37
+0 @I99@ INDI
+1 NAME Abigail /Townsend/
+2 SURN Townsend
+2 GIVN Abigail
+1 SEX F
+1 _UID 507A5ABD55AF264AAC701EA7199C7A70D545
+1 FAMS @F36@
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 15:59:09
+0 @I100@ INDI
+1 NAME Mary /Holman/
+2 SURN Holman
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1822
+2 PLAC Strafford, Genessee, New York
+1 DEAT
+2 DATE 1822
+2 PLAC Strafford, Genessee, New York
+1 _UID 669EDFEA90C46F469AAC85897F75924BFBC7
+1 FAMC @F35@
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:01:30
+0 @I101@ INDI
+1 NAME Johnathan /Holman/
+2 SURN Holman
+2 GIVN Johnathan
+1 SEX M
+1 BIRT
+2 DATE 1831
+2 PLAC Byron, Genessee, New York
+1 DEAT
+2 DATE 1831
+2 PLAC Byron, Genessee, New York
+1 _UID 270CDA6DCF0C184F93B9A51065F86559D8FC
+1 FAMC @F35@
+1 NOTE 1. Johnathan died at 3 mo. old.
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:02:22
+0 @I102@ INDI
+1 NAME Rebecca Greenleaf /Holman/
+2 SURN Holman
+2 GIVN Rebecca Greenleaf
+2 _MARNM Mrs. Brigham Young 
+1 SEX F
+1 BIRT
+2 DATE 20 Feb 1824
+2 PLAC Strafford, Genessee, New York
+1 DEAT
+2 DATE 11 Jul 1849
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 _UID 0313FFF4AACE8F4C92F0CCE8DAAF26BDFEA5
+1 FAMS @F37@
+1 FAMC @F35@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Holman, Rebekeha
+1 SOUR @S2@
+2 NOTE Rebecca G. Holman
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:11:29
+0 @I103@ INDI
+1 NAME Brigham /Young/
+2 SURN Young
+2 GIVN Brigham
+1 SEX M
+1 _UID 87C15361C15814489477A64333E5B36B9BBA
+1 FAMS @F37@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:05:21
+0 @I104@ INDI
+1 NAME Joshua Franklin /Holman/
+2 SURN Holman
+2 GIVN Joshua Franklin
+1 SEX M
+1 BIRT
+2 DATE 22 Aug 1825
+2 PLAC Strafford, Genessee, New York
+1 DEAT
+2 DATE 18 Jul 1849
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 _UID A3CCD9E7688CB645B9E9C0DBBDF3463E8FAF
+1 FAMC @F35@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Holman, Joshua
+1 SOUR @S3@
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:11:49
+0 @I105@ INDI
+1 NAME Ezekiel Jonathan /Holman/
+2 SURN Holman
+2 GIVN Ezekiel Jonathan
+1 SEX M
+1 BIRT
+2 DATE 30 May 1834
+2 PLAC Byron, Genessee, New York
+1 DEAT
+2 DATE 1 Sep 1915
+1 _UID 8D8C974395868045B4718D21CC8F5F0D6D2A
+1 FAMC @F35@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Holman, Ezekeas
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Holman/Greenleaf (F4021)
+1 SOUR @S14@
+2 PAGE p24
+2 NOTE dwelling: 160 family: 160 head of household: Mary Ann Smith
+2 DATA
+3 TEXT             Ezekiel Holman   15   M                                     "   [N.Y.]
+1 SOUR @S13@
+2 PAGE p1
+2 NOTE dwelling: 6 family: 6  head of household: John Holman
+2 DATA
+3 TEXT                   Ezekiel     [Holman]      16   M         Laborer            N.Y.
+1 SOUR @S8@
+2 NOTE Holman, Ezekiel Jonathan
+2 DATA
+3 TEXT Holman, Ezekiel Jonathan
+4 CONT Birth Date: 30 May 1834
+4 CONT Death Date: 1 Sep. 1914
+4 CONT Gender: Male
+4 CONT Age: 16
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Homan, Ezekiel Jonathan.
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:19:54
+0 @I106@ INDI
+1 NAME Abigail Elizabeth /Holman/
+2 SURN Holman
+2 GIVN Abigail Elizabeth
+2 _AKA Mrs. Walter Stephens
+1 SEX F
+1 BIRT
+2 DATE 3 Jul 1836
+2 PLAC Conneautville, Crawfod, Pennsylvania
+1 DEAT
+2 DATE 5 Mar 1912
+2 PLAC Fruitland, San Juan, New Mexico
+1 BURI
+2 PLAC Fruitland, San Juan, New Mexico
+1 _UID FF4F867EBCE7D349BF211B61836AC2668271
+1 FAMC @F35@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Holman, Abigail E. 
+1 SOUR @S3@
+1 SOUR @S14@
+2 PAGE p24
+2 NOTE dwelling: 160 family: 160   head of household: Mary Ann Smith
+2 DATA
+3 TEXT             Abigail           1
+4 CONC 4    F                                                                  Penn  
+1 SOUR @S13@
+2 PAGE p1
+2 NOTE dwelling: 6   family: 6   head of household: John Holman 
+2 DATA
+3 TEXT             Abigail   [ Holman ]     15   F                                       Penn.
+1 SOUR @S8@
+2 NOTE Holman, Abigail Elizabeth.  James Lake Company (1850)
+2 DATA
+3 TEXT Holman, Abigail Elizabeth
+4 CONT Birth Date: 3 Jul 1836
+4 CONT Death Date: 5 Mar 1912
+4 CONT Gender: Female
+4 CONT Age: 13
+4 CONT Company: James Lake Company (1850)
+4 CONT There are no sources listed for pioneer Holman, Abigail Elizabeth.
+1 SOUR @S2@
+2 NOTE Abigail E. Holman (Family: Holman/Greenleaf (F4021))
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:27:17
+0 @I107@ INDI
+1 NAME Permelia /Holman/
+2 SURN Holman
+2 GIVN Permelia
+1 SEX F
+1 BIRT
+2 DATE 30 Mar 1827
+2 PLAC Strafford, Genessee, New York
+1 DEAT
+2 DATE 18 Aug 1881
+1 _UID 7E5272E6A0F9AC43887370D3CC32546BABDB
+1 FAMC @F35@
+1 NOTE 1.  Parmelia Greenleaf Holman traveled to Utah sometime before her marriage to Vinedge (Virge
+2 CONC /Virage) Garrigus (Garogis/Garage) in Salt Lake City, Salt Lake, Utah on 29 Jun 1851.  She pr
+2 CONC obably traveled with her family in the 1850 James Lake Company.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Holman, Pemelea.
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Pamela Holman.  Family: Holman/Greenleaf (F4021)
+1 CHAN
+2 DATE 22 Sep 2006
+3 TIME 16:32:33
+0 @I108@ INDI
+1 NAME Elizabeth /Dalley/
+2 SURN Dalley
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1833
+2 PLAC Leominster, Herefordshire, England
+1 CHR
+2 DATE 15 Feb 1833
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 12 Sep 1836
+1 _UID C985AA77FCB9C849BB9548F58E75075E2A3D
+1 FAMC @F32@
+1 SOUR @S3@
+2 NOTE Family Group Sheet: William DALLEY and Ann DAVIS
+1 CHAN
+2 DATE 27 Sep 2006
+3 TIME 15:17:33
+0 @I109@ INDI
+1 NAME Mary /Dalley/
+2 SURN Dalley
+2 GIVN Mary
+2 _MARNM Mrs. Robert Denham; Mrs. Robert Cambell (m. in Utah)
+1 SEX F
+1 BIRT
+2 DATE 14 Feb 1828
+2 PLAC Leominster, Herefordshire, England
+1 CHR
+2 DATE 22 Apr 1825
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 10 Jun 1910
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 89F54BC119126146820C7E7F51B29F58E1C7
+1 FAMS @F43@
+1 FAMC @F32@
+1 NOTE traveled west by 1 Jan 1853 (married to Robert Campbell in 1853 in Salt Lake City, Salt Lake
+2 CONC , Utah).
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 15:16:11
+0 @I110@ INDI
+1 NAME William H. /Dalley/
+2 SURN Dalley
+2 GIVN William H.
+1 SEX M
+1 BIRT
+2 DATE 2 Mar 1822
+2 PLAC Leominster, Herefordshire, England
+1 CHR
+2 DATE 22 Apr 1822
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 31 Dec 1907
+2 PLAC Summit, Iron, Utah
+1 _UID 1057AAF134D61F49AE7C11BCCA23861EFCAC
+1 FAMS @F39@
+1 FAMC @F32@
+1 NOTE 1. William appears in the 1860 U.S. Federal Census in Cedar City, Iron, Utah.  He probably ca
+2 CONC me West with his family before 16 Jun 1852 when his child, William, was born in Pleasant Grov
+2 CONC e, Utah, Utah (Ancestry.com).
+1 SOUR @S1@
+2 NOTE Dalley, William
+1 SOUR @S4@
+2 NOTE Dwelling: 308 family: 308 head of household: William Dally
+2 DATA
+3 TEXT line2: 308   308   William   Dally      28   " [M]   Tailor         England
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 27 Sep 2006
+3 TIME 15:21:09
+0 @I111@ INDI
+1 NAME Charles Edward /Dalley/
+2 SURN Dalley
+2 GIVN Charles Edward
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 1827
+2 PLAC Leominster, Herefordshire, England
+1 CHR
+2 DATE 17 Jun 1828
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 18 May 1890
+2 PLAC Mt. Pleasant, Sanpete, Utah
+1 BURI
+2 DATE 21 May 1890
+2 PLAC Mt. Pleasant, Sanpete, Utah
+1 _UID ECCDB8AA6C372445949B6BCAA62A747F4E85
+1 FAMC @F32@
+1 NOTE 1. Unable to find him on the 1850 U.S. Federal Census.  Perhaps the Edward in the 1850 Censu
+2 CONC s of Pottawattamie in household dwelling #428 (With Ann Dalley, James & Emma Dalley) is thi
+2 CONC s Edward and the census taker forgot to put the other number next to the "2" for his age (i.e
+2 CONC . 2__ = 23 or 24 yrs.)
+1 SOUR @S1@
+2 PAGE v 1  p 53
+2 NOTE Dalley, Edward
+1 CHAN
+2 DATE 27 Sep 2006
+3 TIME 15:37:17
+0 @I112@ INDI
+1 NAME Ann /Dalley/
+2 SURN Dalley
+2 GIVN Ann
+1 SEX F
+1 BIRT
+2 DATE 19 Jul 1819
+2 PLAC Leominster, Herefordshire, England
+1 CHR
+2 DATE 8 Aug 1819
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 28 Jan 1895
+1 _UID F9C9D993975444488D907BA94602BC7C6625
+1 FAMC @F32@
+1 NOTE 1. buried in Key Hill Cemetery.  Maybe England?
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 09:40:12
+0 @I113@ INDI
+1 NAME James /Dalley/
+2 SURN Dalley
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 20 Dec 1822
+2 PLAC Leominster, Herefordshire, England
+1 CHR
+2 DATE 4 Jun 1823
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE 3 May 1905
+2 PLAC Summit, Iron, Utah
+1 BURI
+2 DATE 5 May 1905
+2 PLAC Summit, Iron, Utah
+1 _UID 8E386ACBA6252145B5142545005D06783A5F
+1 FAMS @F41@
+1 FAMS @F40@
+1 FAMC @F32@
+1 SOUR @S1@
+2 PAGE V. 1, p. 53; V. 2, p. 16
+2 NOTE Dally, James
+1 SOUR @S4@
+2 PAGE p 182. image 56 of 187
+2 NOTE dwelling: 428 family: 428  head of household: Ann Dally.
+2 DATA
+3 TEXT line 29:              James    " [Dally]    2
+4 CONC 7   M                                          " [Eng]
+3 DATE 21 Sep 1850
+1 SOUR @S3@
+1 SOUR @S11@
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 10:04:30
+0 @I114@ INDI
+1 NAME John /Davis/
+2 SURN Davis
+2 GIVN John
+2 _AKA /Davies/; /Avies/
+1 SEX M
+1 _UID 021B0D26D9EB0748BF31CCEA4E06E890D5BF
+1 FAMS @F38@
+1 SOUR @S3@
+1 CHAN
+2 DATE 25 Sep 2006
+3 TIME 14:06:30
+0 @I115@ INDI
+1 NAME Elizabeth /Prosser/
+2 SURN Prosser
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 236A20554169814E9DE6BC39D87BF3053E41
+1 FAMS @F38@
+1 SOUR @S3@
+1 CHAN
+2 DATE 25 Sep 2006
+3 TIME 14:07:09
+0 @I116@ INDI
+1 NAME Mandana /Hillman/
+2 SURN Hillman
+2 GIVN Mandana
+1 SEX F
+1 BIRT
+2 DATE 3 Dec 1829
+2 PLAC Spafford, Onondaga, New York
+1 DEAT
+2 DATE 27 Mar 1912
+2 PLAC Summit, Iron, Utah
+1 BURI
+2 DATE 29 Mar 1912
+2 PLAC Summit, Iron, Utah
+1 _UID E2CE96423439644EB0094AB7324DC65E04F0
+1 FAMS @F39@
+1 FAMC @F42@
+1 NOTE 1. Mandana appears in the 1860 U.S. Federal Census in Cedar City, Iron, Utah.  She probably c
+2 CONC ame West with her family before 16 Jun 1852 when her child, William was born in Pleasant Grov
+2 CONC e (Ancestry.com).
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Dally, Mandany
+1 SOUR @S3@
+1 SOUR @S4@
+2 NOTE dwelling: 308 family: 308 head of household: William Dally
+2 DATA
+3 TEXT line 3:            Mandana   " [Dally]   2
+4 CONC 0     F                                               N.Y.
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 09:38:43
+0 @I117@ INDI
+1 NAME Sarah Ann /Dalley/
+2 SURN Dalley
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 22 Feb 1848
+2 PLAC Trading Point, Pottawattamie, Iowa
+1 DEAT
+2 DATE 9 Jun 1909
+2 PLAC Beaver, Beaver, Utah
+1 BURI
+2 DATE 11 Jun 1909
+2 PLAC Beaver, Beaver, Utah 
+1 _UID A90D38ECDB736D4C98289CBEEF3AFB67867F
+1 FAMC @F39@
+1 NOTE 1.  Probably went West with her parents before Jun 1852 for the birth of her brother, William
+2 CONC , on the 16th.  She appears in the 1860 U.S. Federal Census in Cedar City, Iron, Utah with he
+2 CONC r parents.
+1 SOUR @S3@
+2 NOTE Family Group Record: William H. DALLEY;  Mandana HILLMAN
+1 SOUR @S4@
+2 NOTE dwelling: 308 family: 308 head of household: William Dally
+2 DATA
+3 TEXT line 4:            Sarah   " [Dally]      2  "[F
+4 CONC ]                                                                     Iowa
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 09:36:53
+0 @I118@ INDI
+1 NAME Eliza /Dalley/
+2 SURN Dalley
+2 GIVN Eliza
+1 SEX F
+1 BIRT
+2 DATE 12 Apr 1851
+2 PLAC Keg Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 15 May 1854
+2 PLAC Johnson's Fort, Iron, Utah
+1 _UID E08E35DBB9592F44A189ED3D04ACAEA358A9
+1 FAMC @F39@
+1 NOTE 1.  She probably headed West before Jun 1852 for the birth of her brother, William, on the 16
+2 CONC th.  She died in 1854 in Utah.
+1 SOUR @S3@
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 09:37:51
+0 @I119@ INDI
+1 NAME Sarah Ann /Bishton/
+2 SURN Bishton
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 9 Mar 1827
+2 PLAC Birmingham, Worcester, England
+2 SOUR @S3@
+3 NOTE place: <Parish of Aston, Warwick County, England>.  This was probably included as birthplac
+4 CONC e because couples were generally married in the Parish of the bride's hometown/place of birth
+4 CONC .
+2 SOUR @S11@
+3 NOTE Sarah Ann Bishton
+1 DEAT
+2 DATE 1849
+2 PLAC Birmingham, Worcester, England
+1 _UID 97DEF1B366DA1040B67AB68AAEFD0994610E
+1 FAMS @F40@
+1 SOUR @S11@
+2 NOTE Sarah Ann Bishton
+1 SOUR @S3@
+2 NOTE Sarah Ann BISHTON
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 10:04:54
+0 @I120@ INDI
+1 NAME Elizabeth Ann /Dalley/
+2 SURN Dalley
+2 GIVN Elizabeth Ann
+1 SEX F
+1 BIRT
+2 DATE 20 May 1847
+2 PLAC Birmingham, Worcester, England
+1 DEAT
+2 DATE 29 Oct 1847
+1 _UID A021639E882C754C9BB40A8465BB12579DB5
+1 FAMC @F40@
+1 SOUR @S3@
+1 CHAN
+2 DATE 25 Sep 2006
+3 TIME 14:35:56
+0 @I121@ INDI
+1 NAME Emma /Wright/
+2 SURN Wright
+2 GIVN Emma
+2 _MARNM Mrs. James Wright
+1 SEX F
+1 BIRT
+2 DATE 19 Aug 1833
+2 PLAC , , England
+2 SOUR @S3@
+3 NOTE place: of Leominster, Hereford, England
+2 SOUR @S4@
+3 PAGE p 182 image 56 of 187
+3 NOTE place of birth:   " [Eng]
+1 DEAT
+2 DATE 24 Oct 1875
+2 PLAC Summit, Iron, Utah
+1 BURI
+2 DATE 26 Oct 1875
+2 PLAC Summit, Iron, Utah
+1 _UID 370FC21B251205469E0CE1F3DA7254511476
+1 FAMS @F41@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Dally, Emma James
+1 SOUR @S3@
+1 SOUR @S4@
+2 PAGE p 182 image 56 of 187
+2 NOTE dwelling: 428 family: 428 head of household: Ann Dally
+2 DATA
+3 TEXT line 30:            Emma    " [Dally]     21   F                                  " [England]
+3 DATE 21 Sep 1850
+1 SOUR @S11@
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 10:08:34
+0 @I122@ INDI
+1 NAME James William /Dalley/
+2 SURN Dalley
+2 GIVN James William
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1851
+2 PLAC Keg Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 8 Dec 1851
+2 PLAC Keg Creek, Pottawattamie, Iowa
+1 _UID CA35D1ECC1DF884A95309616391EFC362806
+1 FAMC @F41@
+1 SOUR @S3@
+1 SOUR @S11@
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 10:09:16
+0 @I123@ INDI
+1 NAME Moroni /Dalley/
+2 SURN Dalley
+2 GIVN Moroni
+1 SEX M
+1 BIRT
+2 DATE 14 Sep 1849
+2 PLAC Coonville, Pottawattamie, Iowa
+2 SOUR @S3@
+3 NOTE given place: Glenwood, Mills, Iowa.  Glenwood is another name for Coonville and Mills count
+4 CONC y wasn't created until 1851.  In 1849, Glenwood (Coonville) was in the county of Pottawattami
+4 CONC e.
+1 DEAT
+2 DATE 3 Aug 1928
+2 PLAC Summit, Iron, Utah
+1 BURI
+2 DATE 5 Aug 1928
+2 PLAC Summit, Iron, Utah
+1 _UID 2BE4EE8AD4A8C947B982C709372C4037F8D7
+1 FAMC @F39@
+1 NOTE 1. Probably went West with his family before Jun 1852 for the birth of his brother, William
+2 CONC , on the 16th.  He appears with his family in the 1860 U.S. Federal Census in Cedar City, Iro
+2 CONC n, Utah.
+1 SOUR @S3@
+1 SOUR @S11@
+1 SOUR @S4@
+2 NOTE dwelling: 308 family: 308 head of household: William Dally
+2 DATA
+3 TEXT line5:            Moroni   " [Dally]   1   M                                              " [
+4 CONC Iowa]
+3 DATE 17 Sep 1850
+1 CHAN
+2 DATE 26 Sep 2006
+3 TIME 09:36:04
+0 @I124@ INDI
+1 NAME Mayhew /Hillman/
+2 SURN Hillman
+2 GIVN Mayhew
+1 SEX M
+1 BIRT
+2 DATE 4 Mar 1793
+2 PLAC Chilmark, Dukes, Massachusetts
+1 DEAT
+2 DATE 2 Nov 1839
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S15@
+3 PAGE p 37
+3 NOTE Hillman, Mahew
+3 DATA
+4 TEXT Hillman, Mayhew. 2 November 1839 at Nauvoo; 46 years old.  (TS December 1839.)
+1 _UID 9552F5D9E56D61458EAD5347F6A2ABCA8F89
+1 FAMS @F42@
+1 SOUR @S2@
+2 NOTE Family: Hillman/King (F5010)
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 14:49:34
+0 @I125@ INDI
+1 NAME Edward /Dalley/
+2 SURN Dalley
+2 GIVN Edward
+1 SEX M
+1 BIRT
+2 DATE ABT 1848
+2 PLAC , , England
+1 _UID 8B3DD80DC6D6ED4EA9D1D115C9748C1AC736
+1 FAMC @F41@
+1 NOTE 1.  Unsure of relation Edward has with James, Emma, and Ann Dally.  The 1850 census makes i
+2 CONC t seem that Edward is their son, but James and Emma weren't married until 1850...
+2 CONT 
+2 CONT 2.   Edward does not appear on the 1860 Census with Emma and James in Utah.
+2 CONT 
+2 CONT 3.   Perhaps this Edward is actually the son of Ann Davis and William Dalley and the Census-t
+2 CONC aker forgot to put the other number next to the "2" for Edward's age (i.e. 2__ = 23 or 24 yrs
+2 CONC .)
+1 SOUR @S4@
+2 PAGE p 182; image 56 of 187
+2 NOTE dwelling: 428 family: 428 head of household: Ann Dally 
+2 DATA
+3 TEXT line 31:              Edward   " [Dolly]      2    M                                     " [E
+4 CONC ng]
+3 DATE 21 Sep 1850
+1 CHAN
+2 DATE 27 Sep 2006
+3 TIME 14:35:11
+0 @I126@ INDI
+1 NAME Robert /Denham/
+2 SURN Denham
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE ABT 1826
+2 PLAC Leominster, Herefordshire, England
+1 DEAT
+2 DATE ABT 1851
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 _UID 47EAD562F8954D4FAF6DACC4DB6D73F7CF75
+1 FAMS @F43@
+1 SOUR @S3@
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 15:14:35
+0 @I127@ INDI
+1 NAME Silas /Hillman/
+2 SURN Hillman
+2 GIVN Silas
+1 SEX M
+1 BIRT
+2 DATE 27 Feb 1820
+2 PLAC Cambridge, Washington, New York
+1 DEAT
+2 DATE 1876
+2 PLAC Rush Valley, Tooele, Utah
+2 SOUR @S2@
+3 NOTE Silas Hillman
+2 SOUR @S3@
+3 NOTE Died: 1876/1877 Near Vernon, Tooele, Ut
+4 CONT Buried: 1877 (near) Vernon, Tooele, Utah
+1 _UID 3F112F27A649AF42A0A42DC77F6C0F6B23C5
+1 FAMS @F44@
+1 FAMS @F45@
+1 FAMC @F42@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Silas
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling: 306 Family: 306
+2 DATA
+3 TEXT line 30:   306   306   Silus Hillman    30   " [M]                 " [none
+4 CONC ]                                       " [N.Y.]
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Silas
+4 CONT Birth Date: 27 Feb. 1820
+4 CONT Death Date: ca. 1876
+4 CONT Gender: Male
+4 CONT Age: 32
+4 CONT Company: Joel Edmunds Company (1852)
+4 CONT Pioneer Information:
+4 CONT with wife and 4 children
+4 CONT Sources: see website
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 15:08:22
+0 @I128@ INDI
+1 NAME Electa Fidelia /Hulets/
+2 SURN Hulets
+2 GIVN Electa Fidelia
+1 SEX F
+1 BIRT
+2 DATE 1 May 1823
+2 PLAC Nelson, Portage, Ohio
+1 DEAT
+2 DATE 15 Sep 1849
+2 PLAC Coonville, Pottawattamie, Iowa
+1 _UID E9ACF1479D48894AB2D2F999EDB22486E48E
+1 FAMS @F44@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Electa Fidelia
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Hillman/Hulett (F12607)
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 15:06:38
+0 @I129@ INDI
+1 NAME Adalinda /Hillman/
+2 SURN Hillman
+2 GIVN Adalinda
+2 _MARNM Mrs. John Hyrum Koyle; Mrs. Fredrick Lewis
+1 SEX F
+1 BIRT
+2 DATE 5 Oct 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 21 Feb 1916
+2 PLAC Spanish Fork, Utah, Utah
+1 BURI
+2 DATE 24 Feb 1916
+2 PLAC Spanish Fork, Utah, Utah
+1 _UID 22DEB571C5EB9A47852CBC66E757D75FFE0D
+1 FAMC @F44@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Adalinda
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Hillman/Hulett (F12607)
+1 SOUR @S4@
+2 PAGE p 167
+2 NOTE dwelling: 306 family: 306 head of household: Silas Hillman
+2 DATA
+3 TEXT line 32:                   Adalinda   " [Hillman]   7  " [F
+4 CONC ]                                 Illinois
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Adalinda
+4 CONT Birth date: Unknown
+4 CONT Death date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 8
+4 CONT Company: Joel Edmunds Company (1852)
+4 CONT Sources: see website
+1 SOUR @S7@
+2 PAGE p. 16
+2 NOTE blessing.
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:13:39
+0 @I130@ INDI
+1 NAME Fidelia Gulieta /Hillman/
+2 SURN Hillman
+2 GIVN Fidelia Gulieta
+2 _AKA Guilieta Phidelia
+2 _MARNM Mrs. Samuel Simmons
+1 SEX F
+1 BIRT
+2 DATE 2 Apr 1847
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 24 Jul 1905
+1 _UID EE37CEB4C59C7B419D96B70845E4CA5F08AF
+1 FAMC @F44@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Fidelia Gulieta
+1 SOUR @S3@
+2 NOTE Guilieta Phidelia HILLMAN
+1 SOUR @S2@
+1 SOUR @S4@
+2 PAGE p 187
+2 NOTE dwelling: 306 family: 306 head of household: Silas Hillman
+2 DATA
+3 TEXT line 33:  Fidelia " [Hillman]   3   " [F
+4 CONC ]                                                          Iowa
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Gulieta Fidelia
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 5
+4 CONT Company: Joel Edmunds Company (1852)
+4 CONT Sources: see website
+1 SOUR @S7@
+2 PAGE p. 16
+2 NOTE blessing.
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:13:14
+0 @I131@ INDI
+1 NAME Emily Ann /Cox/
+2 SURN Cox
+2 GIVN Emily Ann
+2 _AKA /Cocks/
+1 SEX F
+1 BIRT
+2 DATE 4 Jul 1832
+2 PLAC Sparta, Erie, New York
+1 DEAT
+2 DATE 18 May 1903
+2 PLAC Mammoth, Juab, Utah
+1 BURI
+2 PLAC Spanish Fork, Utah, Utah
+1 _UID 4D144E37DD3D7F49A60775E53FE859E73672
+1 FAMS @F45@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Emily (either meaning her or her daughter Emily Jane)
+1 SOUR @S4@
+2 PAGE p 187
+2 NOTE dwelling: 306 Family: 306 head of household: Silas Hillman
+2 DATA
+3 TEXT line 31:  Emily   " [Hillman]     18  F                                        " [N.Y.]
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Emily Ann Cox
+4 CONT Birth Date: 4 July 1832
+4 CONT Death Date: 18 May 1903
+4 CONT Gender: Female
+4 CONT Age: 21
+4 CONT Company : Joel Edmunds Company (1852)
+4 CONT Sources: see website
+1 SOUR @S2@
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 15:26:55
+0 @I132@ INDI
+1 NAME Emily Jane /Hillman/
+2 SURN Hillman
+2 GIVN Emily Jane
+2 _AKA Emily Jane Long Hillman
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1848
+2 PLAC Cutler Grove, Pottawattamie, Iowa
+2 SOUR @S3@
+3 NOTE Birth place says "Cutler Grove, Mills, Iowa".  Mills was not a county in 1848, it's parent co
+4 CONC unty is Pottawattamie.
+1 DEAT
+2 DATE 3 Aug 1868
+1 _UID A476544A2DAAAF40AC89A4D23B248995A614
+1 FAMC @F45@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Emily (either for her or for her mother Emily Ann)
+1 SOUR @S4@
+2 PAGE p 187
+2 NOTE Dwelling: 306 Family: 306 Head of household: Silas Hillman
+2 DATA
+3 TEXT line 34:              Jane   "  [Hillman]  2  " [F
+4 CONC ]                                         " [Iowa]
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Emily Jane
+4 CONT Birth Date: 10 Oct 1848
+4 CONT Death Date: 3 Aug. 1868
+4 CONT Gender: Female
+4 CONT Age: 3
+4 CONT Company: Joel Edmunds Company (1852)
+4 CONT sources: see website
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 15:33:27
+0 @I133@ INDI
+1 NAME Ellen Celestia /Hillman/
+2 SURN Hillman
+2 GIVN Ellen Celestia
+2 _MARNM Mrs. Rufus Phillips Snell
+1 SEX F
+1 BIRT
+2 DATE 11 Oct 1850
+2 PLAC Coonville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 11 Jun 1887
+2 PLAC Spanish Fork, Utah, Utah
+1 BURI
+2 DATE 12 Jun 1887
+2 PLAC Spanish Fork, Utah, Utah
+1 _UID 183CE99925820D44BC1FE3B18245EA594743
+1 FAMC @F45@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Ellen Celste
+1 SOUR @S3@
+1 SOUR @S8@
+2 NOTE Joel Edmunds Company (1852)
+2 DATA
+3 TEXT Hillman, Celestia
+4 CONT Birth Date: 11 Oct. 1850
+4 CONT Death Date: 11 June 1887
+4 CONT Gender: Female
+4 CONT Age: 1
+4 CONT Company: Joel Edmunds Company (1852)
+4 CONT Sources: see website
+1 SOUR @S7@
+2 PAGE p. 18
+2 NOTE blessing
+2 DATA
+3 DATE 22 Dec 1850
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:15:36
+0 @I134@ INDI
+1 NAME Sariah /Hillman/
+2 SURN Hillman
+2 GIVN Sariah
+1 SEX F
+1 BIRT
+2 DATE 25 Mar 1835
+2 PLAC Kirtland, Geauga, Ohio 
+1 DEAT
+2 DATE 10 Mar 1901
+2 PLAC Boulder, Wayne, Utah
+1 BURI
+2 DATE 15 Mar 1901
+2 PLAC Thurber, Wayne, Utah
+1 _UID 14641762CEB108479AE0E93F13E48F9077B1
+1 FAMS @F46@
+1 FAMC @F42@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Sariah
+1 SOUR @S4@
+2 PAGE p 187
+2 NOTE Dwelling: 306  Family: 306  Head of household: Silas Hillman
+2 DATA
+3 TEXT line 35:           Sarah  " [Hillman]   16  "  [F]                                         Oh
+4 CONC io
+3 DATE 17 Sep 1850
+1 SOUR @S2@
+2 NOTE Family: Hillman/King (F5010)
+1 SOUR @S3@
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 16:05:01
+0 @I135@ INDI
+1 NAME Jason /Hawes/
+2 SURN Hawes
+2 GIVN Jason
+2 _AKA Haws
+1 SEX M
+1 BIRT
+2 DATE 12 Jul 1830
+2 PLAC Kirtland, Geauga, Ohio 
+1 DEAT
+2 DATE 12 Nov 1913
+2 PLAC Teasdale, Wayne, Utah
+1 BURI
+2 PLAC Thurber, Wayne, Utah
+1 _UID 527F83012DECFB4F8B7D1EA4A863F0B02DA1
+1 FAMS @F46@
+1 FAMC @F47@
+1 SOUR @S3@
+1 SOUR @S8@
+2 NOTE Heber C. Kimball Company (1848)
+2 DATA
+3 TEXT Hawes, Jason
+4 CONT Birth Date: 12 July 1830
+4 CONT Death Date: 12 Nov 1913
+4 CONT Gender: Male
+4 CONT Age: 18
+4 CONT Company: Heber C. Kimball Company (1848)
+4 CONT Sources: see website
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 16:13:06
+0 @I136@ INDI
+1 NAME Amanda Melvina /Hawes/
+2 SURN Hawes
+2 GIVN Amanda Melvina
+1 SEX F
+1 BIRT
+2 DATE 21 Apr 1852
+2 PLAC Council Bluffs, Pottwattamie, Iowa
+1 DEAT
+2 DATE 15 Mar 1937
+2 PLAC Bicknell, Wayne, Utah
+1 BURI
+2 DATE 18 Mar 1937
+2 PLAC Bicknell, Wayne, Utah
+1 _UID 708B36E5EF7B274384296CA17DFA44066574
+1 FAMC @F46@
+1 SOUR @S3@
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 16:11:21
+0 @I137@ INDI
+1 NAME Elijah /Hawes/
+2 SURN Hawes
+2 GIVN Elijah
+2 _AKA Haws
+1 SEX M
+1 _UID 4B613FD5A2E18743A2472377EDC3C0B8B8E1
+1 FAMS @F47@
+1 SOUR @S3@
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 16:12:32
+0 @I138@ INDI
+1 NAME Catherine Floyd /Pease/
+2 SURN Pease
+2 GIVN Catherine Floyd
+1 SEX F
+1 _UID 687834C7E9CB2641930DCABBAFD72C703D44
+1 FAMS @F47@
+1 SOUR @S3@
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 16:12:47
+0 @I139@ INDI
+1 NAME Ira King /Hillman/
+2 SURN Hillman
+2 GIVN Ira King
+1 SEX M
+1 BIRT
+2 DATE 30 Apr 1827
+2 PLAC Spafford, Onondaga, New York
+1 DEAT
+2 DATE 30 May 1865
+2 PLAC Fort Herriman, Salt Lake, Utah
+1 BURI
+2 DATE 2 Jun 1865
+2 PLAC Pleasant Grove, Utah, Utah
+1 _UID 9AE7153EBBAF624988120DE860146D4AA397
+1 FAMC @F42@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Hillman, Ira K.
+1 SOUR @S14@
+2 PAGE image 112 of 180, p. 110
+2 NOTE dwelling: 8  family: 8  
+2 DATA
+3 TEXT              Ira Hillman             23    " [M]         " [Stone Cutter]               N.Y.
+1 SOUR @S2@
+2 NOTE Family: Hillman/King (F5010)
+1 SOUR @S3@
+1 CHAN
+2 DATE 29 Sep 2006
+3 TIME 16:28:46
+0 @I140@ INDI
+1 NAME Joseph Wellington /Coolidge/
+2 SURN Coolidge
+2 GIVN Joseph Wellington
+1 SEX M
+1 BIRT
+2 DATE 31 May 1814
+2 PLAC Bangor, Penobscot, Maine
+1 DEAT
+2 DATE 13 Jan 1871
+2 PLAC Glenwood, Mills, Iowa
+2 SOUR @S3@
+2 SOUR @S2@
+3 NOTE Died 15 Jan 1871  Coonville (Glenwood), Mills, Iowa, USA
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 633AFB770D77D0429D80B05705843899236A
+1 FAMS @F48@
+1 FAMS @F51@
+1 FAMC @F49@
+1 NOTE 1. Joseph didn't travel West.
+1 SOUR @S1@
+2 PAGE v.1, p 16
+2 NOTE Cooledge, Joseph W.
+1 SOUR @S2@
+1 SOUR @S3@
+1 SOUR @S4@
+2 PAGE image 12 of 187; p. 138
+2 NOTE dwelling: 85 family: 85  head of household: Joseph W. Coolidge 
+2 DATA
+3 TEXT line 8:  85   85   Joseph W. Coolidge   36   " [M]    Miller &c [etc.]  2000 [value of real e
+4 CONC state]    M e 
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 15:23:25
+0 @I141@ INDI
+1 NAME Elizabeth /Buchanan/
+2 SURN Buchanan
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 11 Jul 1815
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 23 Jun 1913
+2 PLAC Cushing, Woodbury, Iowa
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 7180E9A57959D64E855E627DACFA007A57D7
+1 FAMS @F48@
+1 FAMC @F84@
+1 SOUR @S1@
+2 PAGE v.1, p 16
+2 NOTE Cooledge, Elizabeth
+1 SOUR @S15@
+2 PAGE image 12 of 187; p. 139
+2 NOTE dwelling: 85 family: 85 head of household: Joseph W. Coolidge
+2 DATA
+3 TEXT line 9:          Elizabeth   " [Coolidge]   3
+4 CONC 6   F                                                           Ky
+3 DATE 2 Sep 1850
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Coolidge/Buchanan (F5791)
+1 SOUR @S4@
+2 PAGE image 12 of 187; p. 138
+2 NOTE dwelling: 85; family: 85; head of household: Joseph W. Coolidge
+2 DATA
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:07:14
+0 @I142@ INDI
+1 NAME Henry Pomroy /Coolidge/
+2 SURN Coolidge
+2 GIVN Henry Pomroy
+1 SEX M
+1 BIRT
+2 DATE 6 Oct 1835
+2 PLAC , , Illinois
+1 DEAT
+2 DATE 23 May 1918
+2 PLAC Hot Springs, Fall River, South Dakota
+1 BURI
+2 PLAC Hot Springs, Fall River, South Dakota
+1 _UID ED260C535F5ED8429F547E7F7D25E3AD6BB2
+1 FAMC @F48@
+1 SOUR @S1@
+2 PAGE v.1, p.16
+2 NOTE Cooledge, Henry
+1 SOUR @S3@
+1 SOUR @S4@
+2 PAGE image 12 of 187; p.138
+2 NOTE dwelling: 85; family: 85; head of household: Joseph W. Coolidge
+2 DATA
+3 DATE 2 Sep 1850
+1 SOUR @S2@
+2 NOTE Family: Coolidge/Buchanan (F5791)
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:37:11
+0 @I143@ INDI
+1 NAME Sarah Ann /Coolidge/
+2 SURN Coolidge
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 28 Jan 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 7 Nov 1905
+1 _UID A1DCE11D5B487D40A95FD0CCB920C3B4CF74
+1 FAMC @F48@
+1 SOUR @S4@
+2 PAGE image 12 of 187; p. 138
+2 NOTE dwelling: 85 family: 85 head of household: Joseph W. Coolidge 
+2 DATA
+3 TEXT line 12:         Sarah Ann  " [Coolidge]  5   " [F
+4 CONC ]                                                 " [Ill]
+3 DATE 2 Sep 1850
+1 SOUR @S3@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:17:18
+0 @I144@ INDI
+1 NAME Rebecca Wellington /Coolidge/
+2 SURN Coolidge
+2 GIVN Rebecca Wellington
+1 SEX F
+1 BIRT
+2 DATE 20 Oct 1840
+2 PLAC , , Massachusetts
+1 DEAT
+2 DATE 16 Nov 1870
+1 _UID D6E01E096BB3704094F0D0CB48BA314E4BF3
+1 FAMC @F48@
+1 SOUR @S1@
+2 PAGE v.1,  p 16
+2 NOTE Cooledge, Rebecca
+1 SOUR @S4@
+2 PAGE image 12 of 187; p. 138
+2 NOTE dwelling 85; family 85; head of household: Joseph W. Coolidge
+2 DATA
+3 TEXT line 11:            Rebecca   " [Coolidge
+4 CONC ]   9   F                                                  " [Ill]
+3 DATE 2 Sep 1850
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Coolidge/Buchanan (F5791)
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:38:10
+0 @I145@ INDI
+1 NAME Joseph Smith /Coolidge/
+2 SURN Coolidge
+2 GIVN Joseph Smith
+1 SEX M
+1 BIRT
+2 DATE 18 Feb 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 29 Feb 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 8D786C4C73F5B743948A781F688A52C8E083
+1 FAMC @F48@
+1 SOUR @S15@
+2 PAGE p 18
+2 DATA
+3 TEXT Coolidge, Joseph S. Sometime between 26 Feb-29 March 1844 at Nauvoo; 1 year 11 days old; infl
+4 CONC ammation of the lungs. (NN 6 March 1844; NSR p. 15.)
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Coolidge/Buchanan (F5791)
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:11:13
+0 @I146@ INDI
+1 NAME Timothy Wellington /Coolidge/
+2 SURN Coolidge
+2 GIVN Timothy Wellington
+1 SEX M
+1 BIRT
+2 DATE 29 Apr 1847
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S11@
+1 DEAT
+2 DATE 17 Jun 1894
+2 SOUR @S11@
+3 NOTE no place given, but in 1870 he was still in Iowa.
+1 _UID 9A6D570A559BCB4AA207DEE7DAF326C694BF
+1 FAMC @F48@
+1 SOUR @S3@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:36:26
+0 @I147@ INDI
+1 NAME John Lehi /Coolidge/
+2 SURN Coolidge
+2 GIVN John Lehi
+1 SEX M
+1 BIRT
+2 DATE 20 Jul 1839
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 20 Oct 1839
+2 PLAC , , Illinois
+1 _UID D426C5E901593345850EA522241F63C741EB
+1 FAMC @F48@
+1 SOUR @S3@
+1 SOUR @S11@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:40:22
+0 @I148@ INDI
+1 NAME George Wellington /Coolidge/
+2 SURN Coolidge
+2 GIVN George Wellington
+1 SEX M
+1 BIRT
+2 DATE 21 Jul 1852
+2 PLAC Glenwood, Mills, Iowa
+2 SOUR @S3@
+3 NOTE This birthplace listed ", Glnwd, Il" but there is no Glenwood co. in Illinois and Joseph an
+4 CONC d Elizabath had children in Glenwood, Mills, Iowa before and after having George.
+1 DEAT
+2 DATE 22 Apr 1915
+1 _UID BDCE1CA8A9329644A1789DE35D03C40BCCC1
+1 FAMC @F48@
+1 SOUR @S3@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:39:46
+0 @I149@ INDI
+1 NAME Moroni /Coolidge/
+2 SURN Coolidge
+2 GIVN Moroni
+1 SEX M
+1 BIRT
+2 DATE 7 Sep 1837
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 25 Sep 1838
+2 PLAC Far West, Caldwell, Missouri
+1 _UID 894EC312EA5ED94F81F8B2B8AF88CF959A14
+1 FAMC @F48@
+1 SOUR @S3@
+1 SOUR @S11@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:40:32
+0 @I150@ INDI
+1 NAME William /Coolidge/
+2 SURN Coolidge
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 10 Dec 1849
+2 PLAC Glenwood, Mills, Iowa
+1 _UID A5488EFAC2E1EF4BB850D4E0D0135A69B498
+1 FAMC @F48@
+1 NOTE 1. no death date given for William, he was married in 1872 in Glenwood, Mills, Iowa
+1 SOUR @S11@
+1 SOUR @S3@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:39:06
+0 @I151@ INDI
+1 NAME John Kittridge /Coolidge/
+2 SURN Coolidge
+2 GIVN John Kittridge
+1 SEX M
+1 _UID 3CF19FE7C1B6D647B7D66A3AA2EFA4934065
+1 FAMS @F49@
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S11@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:41:33
+0 @I152@ INDI
+1 NAME Rebecca Stone /Wellington/
+2 SURN Wellington
+2 GIVN Rebecca Stone
+1 SEX F
+1 _UID 2019E46E7012DB47A31B47845062AFACC51B
+1 FAMS @F49@
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S11@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 14:42:22
+0 @I153@ INDI
+1 NAME LIVING
+1 SEX U
+1 _UID 6B9C855EA0626546991CF3387CBA5A000726
+0 @I154@ INDI
+1 NAME Lorenzo Dow /Buchanon/
+2 SURN Buchanon
+2 GIVN Lorenzo Dow
+1 SEX M
+1 BIRT
+2 DATE 14 Jul 1817
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 1833
+2 PLAC Young
+1 _UID B665A624437B94438A764D29DBAE2AFFA2B1
+1 FAMC @F84@
+1 SOUR @S3@
+2 NOTE AFN: 279K-DV
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 15:25:46
+0 @I155@ INDI
+1 NAME Elizabeth Jane /Tuttle/
+2 SURN Tuttle
+2 GIVN Elizabeth Jane
+2 _AKA Eliza Jane
+2 _MARNM Mrs. Joseph Coolidge; Mrs. John Darwin Chase
+1 SEX F
+1 BIRT
+2 DATE 6 Sep 1823
+2 PLAC New York City, New York, New York
+1 DEAT
+2 DATE 4 May 1890
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 PLAC Nephi, Juab, Utah
+1 _UID 905BB0F19E8C3141A099E916303DC86F045A
+1 FAMS @F51@
+1 FAMC @F52@
+1 SOUR @S3@
+2 NOTE Elizabeth or Eliza Jane TUTTLE
+1 SOUR @S11@
+1 SOUR @S8@
+2 NOTE Thomas C.D. Howell Company (1852)
+2 DATA
+3 TEXT Coolidge, Elizabeth Tuttle
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 28
+4 CONT Company: Thomas C.D. Howell Company (1852)
+4 CONT Sources: see website
+1 SOUR @S4@
+2 PAGE image 80 of 187; p 206
+2 NOTE dwelling 622; family 622; head of household: Azariah Tuttle (her brother) 
+2 DATA
+3 TEXT line 7:         Elizabeth Coolidge   27   " [F
+4 CONC ]                                                              New York
+3 DATE 4 Oct 1850
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 15:29:10
+0 @I156@ INDI
+1 NAME Eleanor /Coolidge/
+2 SURN Coolidge
+2 GIVN Eleanor
+2 _MARNM Mrs. Amos Chase; Mrs. Samuel Linton
+1 SEX F
+1 BIRT
+2 DATE 24 Feb 1847
+2 PLAC Little Pigeon, Pottawattamie, Iowa
+1 DEAT
+2 DATE 1 Oct 1927
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 4 Oct 1927
+2 PLAC Nephi, Juab, Utah
+1 _UID 9E619077FB0AFD4AA3B47F094E3EA24CABD5
+1 FAMC @F51@
+1 SOUR @S3@
+1 SOUR @S2@
+1 SOUR @S11@
+1 SOUR @S8@
+2 NOTE Thomas C.D. Howell Company (1852)
+2 DATA
+3 TEXT Coolidge, Eleanor
+4 CONT Birth Date: 24 Feb. 1847
+4 CONT Death Date: 1 Oct. 1927
+4 CONT Gender: Female
+4 CONT Age: 5
+4 CONT Company: Thomas C.D. Howell Company (1852)
+1 SOUR @S4@
+2 PAGE image 80 of 187; p 206
+2 NOTE dwelling 622; family 622; head of household: Azariah Tuttle (her uncle) 
+2 DATA
+3 TEXT line 8:         Elinor   " [Coolidge]   4   " [F
+4 CONC ]                                                              Omaha Lands    Ditto [or Nebra
+4 CONC ska Territory]
+3 DATE 4 Oct 1850
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 15:25:16
+0 @I157@ INDI
+1 NAME Eliza Ann /Coolidge/
+2 SURN Coolidge
+2 GIVN Eliza Ann
+2 _MARNM Mrs. George Andrew Hatch
+1 SEX F
+1 BIRT
+2 DATE 2 Dec 1849
+2 PLAC Keg Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 13 Oct 1872
+2 PLAC Payson, Utah, Utah
+1 BURI
+2 PLAC Payson, Utah, Utah
+1 _UID 945D7E498B8FE54795BF4661CCD7587E72B3
+1 FAMC @F51@
+1 SOUR @S3@
+1 SOUR @S11@
+1 SOUR @S8@
+2 NOTE Thomas C.D. Howell Company (1852)
+2 DATA
+3 TEXT Coolidge, Eliza Ann
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Female
+4 CONT Age: 2
+4 CONT Company: Thomas C.D. Howell Company (1852)
+4 CONT Sources: see website
+1 SOUR @S4@
+2 PAGE image 80 of 187; p 206
+2 NOTE dwelling 622; family 622; head of household: Azariah Tuttle (her uncle) 
+2 DATA
+3 TEXT line 9:         Eliza   " [Coolidge]   2   " [F
+4 CONC ]                                                              Iowa
+3 DATE 4 Oct 1850
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 15:25:29
+0 @I158@ INDI
+1 NAME Terry /Tuttle/
+2 SURN Tuttle
+2 GIVN Terry
+1 SEX M
+1 _UID 27ECEF5B01E85E4495BB8C2B3DD7E5F9E129
+1 FAMS @F52@
+1 SOUR @S3@
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 15:23:54
+0 @I159@ INDI
+1 NAME Eleanor /Mills/
+2 SURN Mills
+2 GIVN Eleanor
+2 _AKA Ellen
+1 SEX F
+1 _UID 05DA7F03DE576F4BA47DDFDAC3763F0BAD4B
+1 FAMS @F52@
+1 SOUR @S3@
+2 NOTE Ellen Or Eleanor MILLS
+1 CHAN
+2 DATE 2 Oct 2006
+3 TIME 15:24:41
+0 @I160@ INDI
+1 NAME David Mallory /Gamet/
+2 SURN Gamet
+2 GIVN David Mallory
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1811
+2 PLAC Laurens, Otsego, New York
+1 DEAT
+2 DATE 18 Dec 1884
+2 PLAC Little Sioux, Harrison, Iowa
+1 BURI
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID 6CB50E95AC01A94EB61D309AAEEE346F4419
+1 FAMS @F53@
+1 FAMC @F54@
+1 SOUR @S1@
+2 NOTE Gamet, David M.
+1 SOUR @S3@
+2 NOTE David Mallory Gammet
+1 SOUR @S2@
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 7:   309  309   David Gammitt   39   M      Cordwainer                             " [N.
+4 CONC Y.]
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 08:25:31
+0 @I161@ INDI
+1 NAME Hannah Pember /Hyde/
+2 SURN Hyde
+2 GIVN Hannah Pember
+1 SEX F
+1 BIRT
+2 DATE 6 Mar 1815
+2 PLAC Litchfield, Herkimer, New York
+1 DEAT
+2 DATE 13 Jan 1890
+2 PLAC Little Sioux, Harrison, Iowa
+1 BURI
+2 DATE 16 Jan 1890
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID DDE0C502B2D1CD46BE8B1F4676FB002D6666
+1 FAMS @F53@
+1 FAMC @F55@
+1 SOUR @S1@
+2 PAGE v.2, 16
+2 NOTE Gamet, Hannah P.
+1 SOUR @S4@
+2 NOTE dwelling: 309 Family: 309 Head of Household: David Gammitt
+2 DATA
+3 TEXT line 8:            Hannah   " [Gammitt]   3
+4 CONC 9   F                                                                       " [N.Y.]
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+1 SOUR @S2@
+2 NOTE Family: Gamet/Hyde (F14348)
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 08:24:31
+0 @I162@ INDI
+1 NAME William Henry /Gamet/
+2 SURN Gamet
+2 GIVN William Henry
+1 SEX M
+1 _UID 2A5FBCA02C0C5047880DFD8FC4721BE40AA0
+1 FAMS @F54@
+1 SOUR @S3@
+2 NOTE William Henry GAMMET (AFN:1W72-0V)
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 08:26:13
+0 @I163@ INDI
+1 NAME Sophia /Griswold/
+2 SURN Griswold
+2 GIVN Sophia
+1 SEX F
+1 _UID 037673FD0F1E244C9113DEB84AF0D9FBCECD
+1 FAMS @F54@
+1 SOUR @S3@
+2 NOTE AFN:1W72-12
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 08:26:39
+0 @I164@ INDI
+1 NAME Gustaves Adolphen /Hyde/
+2 SURN Hyde
+2 GIVN Gustaves Adolphen
+1 SEX M
+1 _UID 8B4FD9A70850E9458DECAD674657794BCE48
+1 FAMS @F55@
+1 SOUR @S3@
+2 NOTE AFN:BJVZ-D6
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 08:27:33
+0 @I165@ INDI
+1 NAME Mary /Callor/
+2 SURN Callor
+2 GIVN Mary
+2 _AKA Polly; /Callier/
+1 SEX F
+1 _UID B8548E84F6BC0241B806218E01A71D1C61A2
+1 FAMS @F55@
+1 SOUR @S3@
+2 NOTE Mary Or Polly CALLOR OR COLLIER (AFN:BJVZ-FC)
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 08:28:20
+0 @I166@ INDI
+1 NAME Solomon /Gamet/
+2 SURN Gamet
+2 GIVN Solomon
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1833
+2 PLAC Trixton, Courtland, New York
+1 DEAT
+2 DATE 3 Jan 1917
+2 PLAC Woodbine, Harrison, Iowa
+1 BURI
+2 PLAC Woodbine, Harrison, Iowa
+1 _UID 00329E5025A3724CA5B911BCCA3D14F7E3C6
+1 FAMC @F53@
+1 SOUR @S1@
+2 PAGE v.2, p. 16
+2 NOTE Gamet, Soloman
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 9:            Solomon   " [Gammitt]   17   M   Labourer              " [N. Y.
+4 CONC ]              / [Attended School within the Year]
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 1916-XD
+1 SOUR @S2@
+2 NOTE Family: Gamet/Hyde (F14348)
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:18:21
+0 @I167@ INDI
+1 NAME David /Gamet/
+2 SURN Gamet
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1836
+2 PLAC Arnity, Orange, New York
+1 DEAT
+2 DATE 9 Nov 1906
+2 PLAC Mondamin, Harrison, Iowa
+1 BURI
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID C4AE37B91064D54898021AD3F511D7F047ED
+1 FAMC @F53@
+1 NOTE 1.  Alternate birthplace:  Amety, Alleghany, New York (source: group record found by Dr. Susa
+2 CONC n Easton Black)
+1 SOUR @S1@
+2 PAGE v.2, p.16
+2 NOTE Gamet, David
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 10:         David     " [Gammitt]   15   " [M
+4 CONC ]                                                               " [N.Y.]     / [Attended scho
+4 CONC ol within the Year]
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN:2022-DL
+1 SOUR @S2@
+2 NOTE Family: Gamet/Hyde (F14348)
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:18:17
+0 @I168@ INDI
+1 NAME Isaac Alma /Gamet/
+2 SURN Gamet
+2 GIVN Isaac Alma
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 1837
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 30 Jul 1920
+2 SOUR @S11@
+1 _UID 560A54CDF38F23468D0E644FDD01AF90D766
+1 FAMC @F53@
+1 SOUR @S1@
+2 NOTE Gamet, Isaac
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 11:         Isaac     " [Gammitt]   13    " [M
+4 CONC ]                                                    Ill            / [Attended school withi
+4 CONC n the year]
+3 DATE 17 Sep 1850
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 2022-FR
+1 SOUR @S2@
+2 NOTE Family: Gamet/Hyde (F14348)
+1 SOUR @S11@
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:18:13
+0 @I169@ INDI
+1 NAME Adelia Ann /Gamet/
+2 SURN Gamet
+2 GIVN Adelia Ann
+1 SEX F
+1 BIRT
+2 DATE 2 Apr 1840
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 22 Feb 1841
+1 _UID 5BEDB94A1E9FCA408D1FC8028423A625FAB9
+1 FAMC @F53@
+1 SOUR @S3@
+2 NOTE AFN:2022-GX
+1 SOUR @S11@
+2 NOTE gives her birthplace as Davis, [county], Missouri
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:18:06
+0 @I170@ INDI
+1 NAME Gilbert /Gamet/
+2 SURN Gamet
+2 GIVN Gilbert
+1 SEX M
+1 BIRT
+2 DATE 25 Feb 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 11 Feb 1906
+2 PLAC , , Washington
+2 SOUR @S11@
+1 _UID 7F481E8278A1DA438E59C20B4934EAFDB503
+1 FAMC @F53@
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 12:         Gilbert    " [Gammitt]   8   " [M
+4 CONC ]                                                       " [Ill]    / [Attended school withi
+4 CONC n the year]
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+2 NOTE AFN: 2022-H4
+1 SOUR @S11@
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:18:04
+0 @I171@ INDI
+1 NAME Sarah Ann /Gamet/
+2 SURN Gamet
+2 GIVN Sarah Ann
+2 _MARNM Mrs. Parker Condit
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 29 Nov 1872
+1 _UID 8C245E62E6382B43B376C79A4054A4AB69A0
+1 FAMC @F53@
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 13:          Sarah  " [Gammitt
+4 CONC ]   5   F                                                      " [Ill]    / [Attended schoo
+4 CONC l within the year]
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+2 NOTE AFN:2022-J9
+1 SOUR @S11@
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:17:52
+0 @I172@ INDI
+1 NAME Levi /Gamet/
+2 SURN Gamet
+2 GIVN Levi
+1 SEX M
+1 BIRT
+2 DATE 3 Jun 1848
+2 PLAC Council Bluff, Pottawattamie, Iowa
+1 DEAT
+2 DATE 16 Oct 1949
+2 PLAC Independence, Jackson, Missouri
+1 _UID 19CB31B41B89E940A92D24FFA302FAEE1C92
+1 FAMC @F53@
+1 NOTE 1. OneWorld Tree gives deathplace as "Independence Sanitarium, Jackson, Missouri"
+1 SOUR @S4@
+2 NOTE dwelling: 309 family: 309 head of household: David Gammitt
+2 DATA
+3 TEXT line 14:         Levi      " [Gammitt
+4 CONC ]   2  M                                                             Iowa
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+2 NOTE AFN:2022-KG
+1 SOUR @S11@
+1 SOUR @S8@
+2 NOTE James S. Brown Company (1859) Gamet, Solomon traveled "and family" came with him.  He didn'
+3 CONC t have a wife until he was in Utah, so it is probable that he traveled with his parents and s
+3 CONC iblings.
+2 DATA
+3 TEXT Gamet, Solomon
+4 CONT Birth Date: June 1833
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 26
+4 CONT Company: James S. Brown (1859)
+4 CONT Pioneer Information:
+4 CONT and family
+4 CONT Sources: see website
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:17:44
+0 @I173@ INDI
+1 NAME Elizabeth Collar /Gamet/
+2 SURN Gamet
+2 GIVN Elizabeth Collar
+1 SEX F
+1 BIRT
+2 DATE 15 Mar 1851
+2 PLAC Coonville, Mills, Iowa
+1 DEAT
+2 DATE 19 Mar 1851
+2 PLAC Council Bluff, Pottawattamie, Iowa
+1 _UID 9F044048682D9647BEBD3DB062F9A6C1C7F7
+1 FAMC @F53@
+1 SOUR @S3@
+2 NOTE AFN:2022-LM
+1 SOUR @S11@
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:15:35
+0 @I174@ INDI
+1 NAME Mary /Gamet/
+2 SURN Gamet
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1853
+2 SOUR @S3@
+3 NOTE suggests birthplace of Coonville, Mills, Iowa
+1 _UID 806E4C7C01E37346ABC6535AAC0C15ABE9C6
+1 FAMC @F53@
+1 SOUR @S3@
+2 NOTE AFN:2022-MS
+1 SOUR @S11@
+1 CHAN
+2 DATE 3 Oct 2006
+3 TIME 09:17:30
+0 @I175@ INDI
+1 NAME John /Sivers/
+2 SURN Sivers
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 5 Jan 1819
+2 PLAC Manthorpe, Lincolnshire, England
+1 DEAT
+2 DATE 31 Mar 1880
+2 PLAC Glenwood, Mills, Iowa
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+2 SOUR @S17@
+3 NOTE Sivers, John
+1 _UID FB5B256D0793B54FB981C3312A502AC11995
+1 FAMS @F57@
+1 FAMC @F56@
+1 NOTE John and his family never traveled west, but remained in Glenwood, Mills, Iowa
+1 SOUR @S1@
+2 PAGE v.2, p. 16
+2 NOTE Sivers, John
+1 SOUR @S4@
+2 PAGE image 11 of 187; p. 137
+2 NOTE dwelling: 82 family: 82 head of household: John Sivers
+2 DATA
+3 TEXT line 35:  82   82   John   Sivers   32   M       Miller         England
+3 DATE 2 Sep 1850
+1 SOUR @S16@
+1 SOUR @S3@
+2 NOTE AFN:2313-TWN    John Sr SIVERS
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 14:18:16
+0 @I176@ INDI
+1 NAME Thomas /Sivers/
+2 SURN Sivers
+2 GIVN Thomas
+1 SEX M
+1 _UID 1D6D67B66D2C9E4B94BD8FDF914A2AC1AE99
+1 FAMS @F56@
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 14:18:56
+0 @I177@ INDI
+1 NAME Elizabeth /Herring/
+2 SURN Herring
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 588BE1A42CD67740B4F80838BE7F5F923BE4
+1 FAMS @F56@
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 14:19:10
+0 @I178@ INDI
+1 NAME Mary Ann /Leader/
+2 SURN Leader
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 24 May 1824
+2 PLAC Manthorpe, Lincolnshire, England
+1 DEAT
+2 DATE 22 Sep 1902
+2 PLAC Glenwood, Mills, Iowa
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+2 SOUR @S17@
+3 NOTE Leader Sivers, Mary
+1 _UID D5A75B1D2D6E494EA593662206916C97806F
+1 FAMS @F57@
+1 FAMC @F58@
+1 SOUR @S1@
+2 PAGE v.2, p 16
+2 NOTE Sivers, Mary Ann Sr.
+1 SOUR @S4@
+2 PAGE image 11 of 87; p. 137
+2 NOTE dwelling: 82 family: 82  head of household: John Sivers
+2 DATA
+3 TEXT line 36:             Mary Ann   "  [Sivers]   2
+4 CONC 6   F                                                               " [England]
+3 DATE 2 Sep 1850
+1 SOUR @S16@
+1 SOUR @S3@
+2 NOTE AFN: 1BM7-0NR  Mary Ann LEADER
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 14:45:53
+0 @I179@ INDI
+1 NAME Henry /Leader/
+2 SURN Leader
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 9 Apr 1789
+2 PLAC Cambridge, Cambridgeshire, England
+1 DEAT
+2 DATE 14 Feb 1837
+2 PLAC Manthorpe, Lincolnshire, England
+1 _UID 544E13A7F4E92249A02B2D16D363D42EEAA3
+1 FAMS @F58@
+1 SOUR @S3@
+2 NOTE AFN: BD86-0S
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 14:53:42
+0 @I180@ INDI
+1 NAME Ann /Loughton/
+2 SURN Loughton
+2 GIVN Ann
+2 _MARNM Mrs. Henry Leader
+1 SEX F
+1 BIRT
+2 DATE Jan 1783
+2 PLAC Cambridge, Cambridgeshire, England
+1 DEAT
+2 DATE 4 Mar 1865
+2 PLAC Glenwood, Mills, Iowa
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+2 SOUR @S17@
+3 NOTE Leader, Ann.  Section 12 Row 10 
+1 _UID 0C81C55A034B124899DCFD55AE85E99ED55A
+1 FAMS @F58@
+1 FAMC @F59@
+1 SOUR @S1@
+2 NOTE Leader, Ann
+1 SOUR @S3@
+2 NOTE AFN: BD86-10   Ann Laughton
+1 SOUR @S11@
+1 SOUR @S16@
+1 SOUR @S4@
+2 PAGE image 11 of 187; p. 137
+2 NOTE dwelling: 82 family: 82  head of household: John Sivers
+2 DATA
+3 TEXT line 37:        Ann Leader   58   " [F
+4 CONC ]                                                        " [England]
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 15:19:22
+0 @I181@ INDI
+1 NAME Lydia /(Loughton)/
+2 SURN (Loughton)
+2 GIVN Lydia
+2 _MARNM Mrs. Loughton
+1 SEX F
+1 BIRT
+2 DATE 16 Feb 1796
+2 PLAC Stubton, Lincolnshire, England
+1 DEAT
+2 DATE 29 Aug 1850
+2 PLAC Coonville, Mills, Iowa
+1 _UID D6350973E3C5BE4EAF255158B0ABC6A27B1D
+1 FAMS @F59@
+1 FAMC @F60@
+1 SOUR @S1@
+2 PAGE v.2, p. 16
+2 NOTE Loughton, Lydia
+1 SOUR @S11@
+1 SOUR @S16@
+1 SOUR @S7@
+2 PAGE p. 3
+2 NOTE Lydia Loughton
+2 DATA
+3 TEXT Lydia Loughton      "Deaths"   Aug 29 A.D. 1850   "Ages"   86 years
+3 DATE 16 Apr 1848
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:12:17
+0 @I182@ INDI
+1 NAME John /Loughton/
+2 SURN Loughton
+2 GIVN John
+1 SEX M
+1 _UID 660E9CCF074417499160BB641031F09762BC
+1 FAMS @F60@
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 15:04:12
+0 @I183@ INDI
+1 NAME Sarah /Harris/
+2 SURN Harris
+2 GIVN Sarah
+1 SEX F
+1 _UID D9EBA9355AE7C34FA021A04E296A6C00A3B5
+1 FAMS @F60@
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 15:04:30
+0 @I184@ INDI
+1 NAME Mary Ann /Sivers/
+2 SURN Sivers
+2 GIVN Mary Ann
+2 _MARNM Mrs. Joseph Cook
+1 SEX F
+1 BIRT
+2 DATE 17 Nov 1842
+2 PLAC Manthorpe, Lincolnshire, England
+1 DEAT
+2 DATE 4 Aug 1908
+2 PLAC Platte, Charles Mix, South Dakota
+1 _UID 9AB759C0730FC34A96B338B4042DCF1B49F1
+1 FAMC @F57@
+1 SOUR @S1@
+2 PAGE v.2, p.16
+2 NOTE Sivers, Mary Ann Jr.
+1 SOUR @S4@
+2 PAGE image 11 of 187; p. 137
+2 NOTE dwelling: 82 family:82 head of household: John Sivers
+2 DATA
+3 TEXT line 38:        Mary Ann Sivers   7  " [F]                                             "   [E
+4 CONC ngland]
+3 DATE 2 Sep 1850
+1 SOUR @S16@
+1 SOUR @S11@
+1 SOUR @S7@
+2 PAGE p. 20
+2 NOTE blessing
+2 DATA
+3 DATE 22 Dec 1850
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:16:39
+0 @I185@ INDI
+1 NAME Thomas /Sivers/
+2 SURN Sivers
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 12 Mar 1847
+2 PLAC Easthorpe, Leicestershire, England
+1 DEAT
+2 DATE 12 Jun 1850
+2 PLAC , Pottawattamie, Iowa
+1 _UID F254046C5DCC5840B30C0DE6C25964A54DC8
+1 FAMC @F57@
+1 SOUR @S1@
+2 NOTE Sivers, Thomas
+1 SOUR @S16@
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 15:35:18
+0 @I186@ INDI
+1 NAME John Henry /Sivers/
+2 SURN Sivers
+2 GIVN John Henry
+1 SEX M
+1 BIRT
+2 DATE 19 Jul 1849
+2 PLAC , Pottawattamie, Iowa
+1 DEAT
+2 DATE 7 May 1926
+2 PLAC Boulder, Boulder, Colorado
+1 _UID D5088A6DD39FC447A1D5DFDC6462106EC662
+1 FAMC @F57@
+1 SOUR @S1@
+2 NOTE Sivers, John Henry
+1 SOUR @S4@
+2 NOTE dwelling: 82 family: 82 head of household: John Sivers
+2 DATA
+3 TEXT line 39:             John  " [Sivers
+4 CONC ]   1   M                                                                  Iowa
+1 SOUR @S18@
+2 NOTE Sivers, John H.
+1 SOUR @S7@
+2 PAGE p. 18
+2 NOTE blessing
+2 DATA
+3 DATE 22 Dec 1850
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:14:50
+0 @I187@ INDI
+1 NAME Thomas Errin /Sivers/
+2 SURN Sivers
+2 GIVN Thomas Errin
+1 SEX M
+1 BIRT
+2 DATE 7 Mar 1852
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+2 DATE 11 Jan 1853
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 66D9C1E5E05BC046B7DCEE7CAEAD01EC6B0E
+1 FAMC @F57@
+1 SOUR @S11@
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 15:35:08
+0 @I188@ INDI
+1 NAME John /Page/
+2 SURN Page
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1 Jul 1813
+2 PLAC Cricklade, Wiltshire, England
+1 DEAT
+2 DATE 12 Jul 1895
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 17 Jul 1895
+2 PLAC Salt Lake City, Salt Lake, Utah
+2 SOUR @S9@
+3 NOTE PAGE, JOHN.  Salt Lake City Cemetery, UK17308
+1 _UID 61D34F17E0D2EF439C28D5E2F539B56642D0
+1 FAMS @F61@
+1 FAMC @F62@
+1 SOUR @S1@
+2 PAGE v.2, p.16
+2 NOTE Page, John Sr.
+1 SOUR @S4@
+2 PAGE image 11 of 187; p. 137
+2 NOTE dwelling: 83 family: 83  head of household: John Page
+2 DATA
+3 TEXT line 40:   83   83   John Page   38   " [M]                 Tailor              England
+3 DATE 2 Sep 1850
+1 SOUR @S8@
+2 NOTE John B. Walker Company (1852)
+2 DATA
+3 TEXT Page, John
+4 CONT Birth Date: 1 July 1813
+4 CONT Death Date: 12 July 1895
+4 CONT Gender: Male
+4 CONT Age: 38
+4 CONT Company: John B. Walker Company (1852)
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 1MVD-H8
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 16:42:07
+0 @I189@ INDI
+1 NAME Eleanor Esther /Leader/
+2 SURN Leader
+2 GIVN Eleanor Esther
+1 SEX F
+1 BIRT
+2 DATE 22 Mar 1818
+2 PLAC Northorpe, Lincolnshire, England
+1 DEAT
+2 DATE 30 Mar 1880
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 30 Mar 1880
+2 PLAC Salt Lake City, Salt Lake, Utah
+2 SOUR @S9@
+3 NOTE PAGE, ELEANOR E.L. Salt Lake City Cemetery, UK8552
+1 _UID CD7E901634A18842BFED63DA8D1E9B783770
+1 FAMS @F61@
+1 FAMC @F58@
+1 SOUR @S1@
+2 PAGE v.1, p.16
+2 NOTE Page, Eleanor
+1 SOUR @S4@
+2 PAGE image 11 of 187; p. 137
+2 NOTE dwelling 83 family: 83 head of household: John Page
+2 DATA
+3 TEXT line 41:            Eleanor   " [Page]   3
+4 CONC 2   F                                                 " [England]
+3 DATE 2 Sep 1850
+1 SOUR @S8@
+2 NOTE John B. Walker Company (1852)
+2 DATA
+3 TEXT Page, Eleanor Esther
+4 CONT Birth Date: 22 Mar. 1818
+4 CONT Death Date: 30 Mar. 1880
+4 CONT Gender: Female
+4 CONT Age: 34
+4 CONT Company: John B. Walker Company (1852)
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 1MVD-JF
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 16:51:37
+0 @I190@ INDI
+1 NAME Thomas /Page/
+2 SURN Page
+2 GIVN Thomas
+1 SEX M
+1 _UID A585DE82DFF9EC4D97A663671F9D837A5B57
+1 FAMS @F62@
+1 SOUR @S3@
+2 NOTE AFN: BD85-XH
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 16:53:33
+0 @I191@ INDI
+1 NAME Mary /Westlake/
+2 SURN Westlake
+2 GIVN Mary
+1 SEX F
+1 _UID 809A9E8A433BBD4CB2C293A9299584FDB86C
+1 FAMS @F62@
+1 SOUR @S3@
+2 NOTE AFN: BD86-ZN
+1 CHAN
+2 DATE 4 Oct 2006
+3 TIME 16:54:08
+0 @I192@ INDI
+1 NAME William Henry /Page/
+2 SURN Page
+2 GIVN William Henry
+1 SEX M
+1 BIRT
+2 DATE 25 Aug 1838
+2 PLAC Granthan, Lincolnshire, England
+1 DEAT
+2 DATE 22 Apr 1924
+2 PLAC Goshen, Utah, Utah
+1 BURI
+2 DATE 26 Apr 1924
+2 PLAC Goshen, Utah, Utah
+1 _UID 0899D6B40375654AB7B61EEBFD2958569C78
+1 FAMC @F61@
+1 SOUR @S1@
+2 NOTE Page, William H.
+1 SOUR @S4@
+2 PAGE image 11 of 187; p. 137
+2 NOTE dwelling: 83 family: 83 head of household: John Page
+2 DATA
+3 TEXT line 42: William    " [Page]  12  M                                                     " [En
+4 CONC gland]
+3 DATE 2 Sep 1850
+1 SOUR @S8@
+2 NOTE John B. Walker Company (1852)
+2 DATA
+3 TEXT Page, William Henry
+4 CONT Birth Date: 25 Aug. 1838
+4 CONT Death Date: 22 Apr. 1924
+4 CONT Gender: Male
+4 CONT Age: 13
+4 CONT Company: John B. Wlaker Company (1852)
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 1MVD-CK
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:24:36
+0 @I193@ INDI
+1 NAME Eleanor Esther /Page/
+2 SURN Page
+2 GIVN Eleanor Esther
+1 SEX F
+1 BIRT
+2 DATE 16 May 1836
+2 PLAC Grantham, Lincolnshire, England
+1 DEAT
+2 DATE 10 Oct 1837
+2 PLAC , Lincolnshire, England
+1 _UID 57351637956473428E455432461F128FE60F
+1 FAMC @F61@
+1 SOUR @S3@
+2 NOTE AFN: 1MVF-G7
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:31:02
+0 @I194@ INDI
+1 NAME John /Page/
+2 SURN Page
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 25 Jan 1841
+2 PLAC Grantham, Lincolnshire, England
+1 DEAT
+2 DATE 27 Mar 1889
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 27 Mar 1889
+2 PLAC Salt Lake City, Salt Lake, Utah
+2 SOUR @S9@
+3 NOTE PAGE, JOHN JR. Salt Lake City Cemetery, UK15427
+1 _UID CB5B645C7CE26E4293E725EDF77CBADE8B57
+1 FAMC @F61@
+1 SOUR @S1@
+2 PAGE v.2, p.16
+2 NOTE Page, John Jr.
+1 SOUR @S4@
+2 PAGE image 12 of 187; p. 138
+2 NOTE dwelling: 83 family: 83 head of household: John Page
+2 DATA
+3 TEXT line 1: John   " [Page
+4 CONC ]   9   M                                                                         England
+3 DATE 2 Sep 1850
+1 SOUR @S8@
+2 NOTE John B. Walker Company (1852)
+2 DATA
+3 TEXT Page, John
+4 CONT Birth Date: 25 Jan. 1841
+4 CONT Death Date: 27 Mar. 1889
+4 CONT Gender: Male
+4 CONT Age: 11
+4 CONT Company: John B. Walker (1852)
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 1MVD-JF
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:37:20
+0 @I195@ INDI
+1 NAME Emma /Page/
+2 SURN Page
+2 GIVN Emma
+2 _MARNM Mrs. Frederick James Cook
+1 SEX F
+1 BIRT
+2 DATE 19 Nov 1843
+2 PLAC Grantham, Lincolnshire, England
+1 DEAT
+2 DATE 13 Aug 1895
+1 _UID D69620692C2C224E8A761A47DFB8E123B957
+1 FAMC @F61@
+1 SOUR @S1@
+2 PAGE v.1, p.16
+2 NOTE Page, Emma
+1 SOUR @S4@
+2 PAGE image 12 of 187; p. 138
+2 NOTE dwelling: 83  family: 83  head of household: John Page
+2 DATA
+3 TEXT line 2:                 Emma   "  [Page
+4 CONC ]   6   F                                                      " [England] 
+3 DATE 2 Sep 1850
+1 SOUR @S8@
+2 NOTE John B. Walker Company (1852)
+2 DATA
+3 TEXT Page, Emma
+4 CONT Birth Date: 19 Nov. 1843
+4 CONT Death Date: 13 Aug. 1895
+4 CONT Gender: Female
+4 CONT Age: 8
+4 CONT Company: John B. Walker Company (1852)
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN: 1MVF-JK
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:43:16
+0 @I196@ INDI
+1 NAME Mary Ann /Page/
+2 SURN Page
+2 GIVN Mary Ann
+2 _MARNM Mrs. Robert Marcroft
+1 SEX F
+1 BIRT
+2 DATE 14 Apr 1851
+2 PLAC Council Bluff, Pottawattamie, Iowa
+1 DEAT
+2 DATE 5 Nov 1918
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 10 Nov 1918
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID AC18586A4D7438468913A367A02C63A23CA6
+1 FAMC @F61@
+1 SOUR @S3@
+2 NOTE AFN:1MVF-KQ
+1 CHAN
+2 DATE 5 Oct 2006
+3 TIME 10:52:20
+0 @I197@ INDI
+1 NAME Jerusha Morrison /Hill/
+2 SURN Hill
+2 GIVN Jerusha Morrison
+2 _MARNM Mrs. John Courtland Searle
+1 SEX F
+1 BIRT
+2 DATE 27 Nov 1832
+2 PLAC Pittsburgh, Coos, New Hampshire
+1 DEAT
+2 DATE 4 Aug 1904
+2 PLAC Payson, Utah, Utah
+1 BURI
+2 PLAC Payson, Utah, Utah
+2 SOUR @S9@
+3 NOTE Searle, Jerusha M. Hill.  Payson City Cemetery, 4_8_1
+1 _UID 488CAEAE59030A4BA81673E27A42A9D7302F
+1 FAMC @F63@
+1 SOUR @S1@
+2 PAGE v.2, p. 16
+2 NOTE Hill, Jerusha 
+1 SOUR @S3@
+2 NOTE AFN: 18SD-BF
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 14:36:55
+0 @I198@ INDI
+1 NAME Leonard /Hill/
+2 SURN Hill
+2 GIVN Leonard
+1 SEX M
+1 _UID E6AEE03A365EDB41ABF7451A40B44D44E460
+1 FAMS @F63@
+1 SOUR @S3@
+2 NOTE AFN:1MT8-VH
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 14:40:41
+0 @I199@ INDI
+1 NAME Sarah /Forbush/
+2 SURN Forbush
+2 GIVN Sarah
+2 _AKA Sally
+1 SEX F
+1 _UID 22F5FA9EE4AC2A40910397DC18530DD5FDE0
+1 FAMS @F63@
+1 NOTE 1. died in Winter Quarters, 17 Feb 1847
+1 SOUR @S3@
+2 NOTE AFN:1MT8-WN
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 14:47:30
+0 @I200@ INDI
+1 NAME Stephen /Ordway/
+2 SURN Ordway
+2 GIVN Stephen
+1 SEX M
+1 BIRT
+2 DATE Abt. 1824
+2 PLAC , , New York
+2 SOUR @S19@
+3 PAGE image 20 of 29; p.16
+3 NOTE dwelling: 111 family: 111 head of household: stephen ordway
+3 DATA
+4 TEXT 111    111   Stephen Ordway   26   M    Farmer    30 [value of real estate owned]   NY
+1 DEAT
+2 DATE 29 Apr 1851
+2 PLAC Ogden, Weber, Utah
+1 _UID BD783CDDF8D6044CAE7CE5420E46C0421347
+1 FAMS @F64@
+1 SOUR @S1@
+2 PAGE v.2, p. 16
+2 NOTE Ordenary, Stephen
+1 SOUR @S8@
+2 NOTE James Lake Company (1850)
+2 DATA
+3 TEXT Ordway, Stephen
+4 CONT Birth Date: 1826
+4 CONT Death Date: 29 Apr. 1851
+4 CONT Gender: Male
+4 CONT Age: 25
+4 CONT Company: James Lake Company (1850)
+4 CONT Sources: see website
+1 SOUR @S3@
+2 NOTE AFN:B6X1-T3
+1 SOUR @S20@
+2 NOTE Compact Disc #127 Pin #1708363;  Compact Disc #45 Pin #922508
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 16:37:00
+0 @I201@ INDI
+1 NAME Jane /Lake/
+2 SURN Lake
+2 GIVN Jane
+2 _MARNM Mrs. Stephen Ordway; Mrs. Joseph Taylor
+1 SEX F
+1 BIRT
+2 DATE 18 Jul 1830
+2 PLAC Erneston, Ontario, Canada
+1 DEAT
+2 DATE 10 Feb 1914
+2 PLAC Fairview, Lincoln, Wyoming
+1 BURI
+2 DATE 15 Feb 1914
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S9@
+3 NOTE TAYLOR, JANE LAKE.  Ogden City Cemetery, Annex- 18-14-3E
+1 _UID F12FF681686E2E43B56CFD247609F9F38BA9
+1 FAMS @F64@
+1 FAMC @F65@
+1 SOUR @S19@
+2 PAGE image 20 of 29; p. 16
+2 NOTE dwelling: 111 family: 111 head of household: Stephen Ordway
+2 DATA
+3 TEXT                              Jane      [Ordway]        2
+4 CONC 2   F                                                       " [NY]
+1 SOUR @S3@
+2 NOTE AFN:17TJ-55
+1 SOUR @S20@
+2 NOTE Compact Disc #127 Pin #1702574; Disc #45 Pin #922507
+1 SOUR @S8@
+2 NOTE James Lake Company (1850)
+2 DATA
+3 TEXT Ordway, Jane Lake
+4 CONT Birth Date: 18 July 1830
+4 CONT Death Date: 10 Feb. 1914
+4 CONT Gender: Female
+4 CONT Age: 20
+4 CONT Company: James Lake Company (1850)
+4 CONT Pioneer Info:
+4 CONT daughter of James and Philomela Lake: married Stephen Ordway on the plains
+4 CONT Sources: see website
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 16:47:03
+0 @I202@ INDI
+1 NAME James /Lake/
+2 SURN Lake
+2 GIVN James
+1 SEX M
+1 _UID 95FE00F8DA872D4FA95EAA9E1E89B11524CE
+1 FAMS @F65@
+1 SOUR @S8@
+2 NOTE Ordway, Jane Lake
+1 SOUR @S3@
+2 NOTE AFN: CPRS-TS
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 16:53:26
+0 @I203@ INDI
+1 NAME Philomela /Smith/
+2 SURN Smith
+2 GIVN Philomela
+1 SEX F
+1 _UID 400F1132B00ED843A953206D3B1F3224A43D
+1 FAMS @F65@
+1 SOUR @S8@
+2 NOTE Ordway, Jane Lake
+1 SOUR @S3@
+2 NOTE AFN: CRJ0-95
+1 CHAN
+2 DATE 6 Oct 2006
+3 TIME 16:53:14
+0 @I204@ INDI
+1 NAME Agnes Elizabeth /Kelly/
+2 SURN Kelly
+2 GIVN Agnes Elizabeth
+1 SEX F
+1 _UID A3DE923E70BBA940B4E531331A11422AF9C8
+1 FAMS @F22@
+1 SOUR @S2@
+2 NOTE Family; Frampton/Farnsworth (F7783)
+1 CHAN
+2 DATE 9 Oct 2006
+3 TIME 11:37:51
+0 @I205@ INDI
+1 NAME Robert /Singleton/
+2 SURN Singleton
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE 9 May 1803
+2 PLAC Adlington, Lancashire, England
+1 DEAT
+2 DATE 19 Nov 1881
+2 PLAC San Bernardino, San Bernardino, California
+1 _UID 40057E713D16734F9CF84C1AE9819C3B848B
+1 FAMS @F66@
+1 FAMC @F73@
+1 SOUR @S1@
+2 PAGE v.2, p. 17
+2 NOTE Singleton, Robert
+1 SOUR @S3@
+2 NOTE AFN: 8ZV1-NJ
+1 SOUR @S11@
+1 SOUR @S5@
+2 PAGE 636 image: 22
+2 NOTE San Salvador, San Bernardino, California.  dwelling: 220 family: 165 head of household: Rob'
+3 CONC t Singleton
+2 DATA
+3 TEXT line 19:  220   165   Rob't Singleton   57   " [M]  Farmer  600 [Value of Real Estate] 250 [V
+4 CONC alue of Personal Estate] England  /     
+4 CONT           [married within the year]
+4 CONT 
+4 CONT   [*note: every person on this census page is marked to have been married w/in the year, incl
+4 CONC uding a 2 year-old.]
+3 DATE 19 Jun 1860
+1 CHAN
+2 DATE 13 Oct 2006
+3 TIME 15:38:40
+0 @I206@ INDI
+1 NAME Betty /Hindle/
+2 SURN Hindle
+2 GIVN Betty
+2 _AKA Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 18 May 1806
+2 PLAC Adlington, Lancashire, England 
+1 DEAT
+2 DATE 22 Feb 1871
+2 PLAC San Bernardino, San Bernardino, California
+1 _UID C7DC7521414BB84D9B165F390B489F8E932A
+1 FAMS @F66@
+1 FAMC @F74@
+1 SOUR @S1@
+2 PAGE v.2, p.17
+2 NOTE Singleton, Betty
+1 SOUR @S3@
+2 NOTE AFN: 8ZV1-PP
+1 SOUR @S11@
+1 SOUR @S5@
+2 PAGE 636.  page 22
+2 NOTE San Salvador, San Bernardino, California.  dwelling: 220 family: 165  Head of household: Rob'
+3 CONC t Singleton 
+2 DATA
+3 TEXT line 20:       Betty    " [Singleton]   53   F                                           " [E
+4 CONC ngland]   / [married within the year]
+4 CONT 
+4 CONT   [*note: every person on this census page is marked to have been married w/in the year, incl
+4 CONC uding a 2 year-old.]
+3 DATE 19 Sep 1850
+1 CHAN
+2 DATE 13 Oct 2006
+3 TIME 15:38:07
+0 @I207@ INDI
+1 NAME Mary /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Mary
+2 _MARNM Mrs. James Heber Clyde
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 1847
+2 PLAC Newton, Lancashire, England
+1 DEAT
+2 DATE 25 Jan 1919
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 PLAC Springville, Utah, Utah
+1 _UID B9BF2D88A91C4B4394648E8AE0672A222315
+1 FAMC @F20@
+1 SOUR @S3@
+2 NOTE AFN: 1L25-WS
+1 SOUR @S11@
+1 SOUR @S5@
+2 PAGE image 15 of 36
+2 NOTE Utah Territory, Utah, Springville.  dwelling; 2522 family: 1982 head of household: Jetithan E
+3 CONC verett
+2 DATA
+3 TEXT line 27: Mary F                13   " [F]                                     " [Eng]    /  [
+4 CONC Attended school within the year]
+3 DATE 5 Sep 1860
+1 SOUR @S21@
+2 PAGE vol. 14 p. 323
+2 NOTE 1859 - Eighth Company - Geroge Rowley, Captain
+2 DATA
+3 TEXT FARNSWORTH, John (died on the plains), wife, Jane S., daughters, Mary 14, Alice 12. 
+1 CHAN
+2 DATE 12 Oct 2006
+3 TIME 11:49:03
+0 @I208@ INDI
+1 NAME Alice /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 DATE 8 Jul 1849
+2 PLAC Frankfort, Montgomery, Pennsylvania
+1 DEAT
+2 DATE 25 Mar 1918
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 PLAC Springville, Utah, Utah
+1 _UID 79B8CA8963A5B04A99ECF32D1BD722DA196C
+1 FAMC @F20@
+1 SOUR @S1@
+2 PAGE v.2, p.16
+2 NOTE Farnsworth, Allis
+1 SOUR @S3@
+2 NOTE AFN: 2CFW-5Q
+1 SOUR @S11@
+1 SOUR @S5@
+2 PAGE image 15 of 36
+2 NOTE Utah Territory, Utah, Springville.  dwelling: 2522 family: 1982 head of household: Jetithun E
+3 CONC verett
+2 DATA
+3 TEXT line 28:     Alice       11  " [F
+4 CONC ]                                                             Penn
+3 DATE 5 Sep 1860
+1 SOUR @S21@
+2 PAGE vol. 14 p. 323
+2 NOTE 1859 - Eighth Company - Geroge Rowley, Captain
+2 DATA
+3 TEXT FARNSWORTH, John (died on the plains), wife, Jane S., daughters, Mary 14, Alice 12. 
+1 CHAN
+2 DATE 12 Oct 2006
+3 TIME 11:49:10
+0 @I209@ INDI
+1 NAME Edward /Farnsworth/
+2 SURN Farnsworth
+2 GIVN Edward
+1 SEX M
+1 _UID DA3665A93E94694C8D59AE2F81681EAD1CEA
+1 FAMS @F67@
+1 SOUR @S3@
+2 NOTE AFN: BCFP-7J
+1 CHAN
+2 DATE 12 Oct 2006
+3 TIME 11:39:42
+0 @I210@ INDI
+1 NAME Ellen /Brindle/
+2 SURN Brindle
+2 GIVN Ellen
+1 SEX F
+1 _UID 862970538677E9458B3D3A384A5F13E477D0
+1 FAMS @F67@
+1 SOUR @S3@
+2 NOTE AFN: BCFP-8P
+1 CHAN
+2 DATE 12 Oct 2006
+3 TIME 11:40:14
+0 @I211@ INDI
+1 NAME Joseph /Singleton/
+2 SURN Singleton
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 1 May 1828
+2 PLAC Anderton, Lancashire, England
+1 DEAT
+2 DATE Feb 1836
+2 PLAC , , England
+1 _UID 8A966B7CC3071C4CAA755A29608A82ABF2FE
+1 FAMC @F66@
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: GN8H-V7
+1 SOUR @S22@
+2 PAGE page 1032
+2 NOTE UT 1856 Statehood Census Index.  Joseph Singleton living in Springville, Utah, Utah. 
+2 DATA
+3 DATE 1856
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:15:48
+0 @I212@ INDI
+1 NAME Reuben William /Strong/
+2 SURN Strong
+2 GIVN Reuben William
+1 SEX M
+1 BIRT
+2 DATE 20 Apr 1820
+2 PLAC Erie, Erie, New York
+1 DEAT
+2 DATE 19 Dec 1876
+2 PLAC Shelby, Shelby, Iowa
+1 _UID CA8EF9CD3509E944A41443DD57B653B576BE
+1 FAMS @F68@
+1 NOTE  Reuben affiliated with the RLDS church.
+1 SOUR @S1@
+2 NOTE Strong, Reulen W.
+1 SOUR @S11@
+2 NOTE Reuben William Strong
+1 SOUR @S4@
+2 PAGE images 111 of 187; pp 221, 237
+2 NOTE dwelling: 877 family: 877 household: Reuben Strong
+2 DATA
+3 TEXT line 26: 877   877   Reuben Strong   27   M    " [Labourer]       Ill [Illinois]
+3 DATE 26 Oct 1850
+1 SOUR @S4@
+2 PAGE images 95 of 187; pp 221, 237
+2 NOTE dwelling: 748 family: 748 household: Reuben Strong
+2 DATA
+3 TEXT line 21:      748   748   Reuben Strong   30   M                " [None]           N Y 
+3 DATE 10 Oct 1850
+1 SOUR @S8@
+2 NOTE John B. Walker Company (1852)
+2 DATA
+3 TEXT Strong, Reuben W.
+4 CONT Birth Date: Unknown
+4 CONT Death Date: Unknown
+4 CONT Gender: Male
+4 CONT Age: 29
+4 CONT Company: John B. Walker Company (1852)
+4 CONT Pioneer Information;
+4 CONT 2 children
+4 CONT Sources: see website
+1 SOUR @S5@
+2 PAGE image 6 of 8; p. 19
+2 NOTE Galland Grove, Shelby, Iowa.  dwelling: 145 family: 127  head of household: Reuben Strong
+2 DATA
+3 TEXT line 25:  145   127   Reuben Strong   40   M   Farmer    100 [value of personal estate]    Ca
+4 CONC nada
+3 DATE 15 Jun 1860
+1 CHAN
+2 DATE 8 Nov 2006
+3 TIME 14:56:24
+0 @I213@ INDI
+1 NAME Hannah /Galland/
+2 SURN Galland
+2 GIVN Hannah
+1 SEX F
+1 _UID 0930B2FBDA767A4589A80EA3BA3FD1903190
+1 FAMS @F68@
+1 CHAN
+2 DATE 16 Oct 2006
+3 TIME 08:48:35
+0 @I214@ INDI
+1 NAME Joseph /Strong/
+2 SURN Strong
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE ABT 1841
+1 _UID 9388BDFCCAAC7C438BB2800A74585A231970
+1 FAMC @F68@
+1 CHAN
+2 DATE 16 Oct 2006
+3 TIME 09:44:06
+0 @I215@ INDI
+1 NAME Hyrum /Strong/
+2 SURN Strong
+2 GIVN Hyrum
+2 _AKA Hiram
+1 SEX M
+1 BIRT
+2 DATE ABT 1842
+1 _UID 1A0AA4F6CA3A7B498686BC4EF7422459520C
+1 FAMC @F68@
+1 CHAN
+2 DATE 16 Oct 2006
+3 TIME 09:44:29
+0 @I216@ INDI
+1 NAME Commodore Perry /Liston/
+2 SURN Liston
+2 GIVN Commodore Perry
+1 SEX M
+1 BIRT
+2 DATE 31 Mar 1821
+2 PLAC Portsmouth, Scioto, Ohio
+1 DEAT
+2 DATE 27 Jan 1879
+2 PLAC Woodruff, Navajo, Arizona
+1 BURI
+2 PLAC Woodruff, Navajo, Arizona
+1 _UID E22E96FFCE1AAA4FB86B4EE42AEBCFA665CC
+1 FAMS @F69@
+1 FAMC @F70@
+1 NOTE 1. Commodore Perry joined the church in 1850, went west in 1852, and did missionary work amon
+2 CONC g the indians as well as  in England. Bitton, Davis. Guide to Mormon Biographies and Autobiog
+2 CONC raphies. (Provo, Utah: Brigham Young University Press, 1977).
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Liston, Commadere P.
+1 SOUR @S7@
+2 PAGE p. 6
+1 SOUR @S8@
+1 SOUR @S3@
+2 NOTE AFN:1CLB-77
+1 SOUR @S10@
+2 PAGE p 215
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 08:55:30
+0 @I217@ INDI
+1 NAME Elizabeth /Reeves/
+2 SURN Reeves
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 16 Jun 1822
+2 PLAC Portsmouth, Scioto, Ohio
+1 DEAT
+2 DATE 22 Jun 1892
+2 PLAC St. George, Washington, Utah
+1 BURI
+2 DATE 23 Jun 1892
+2 PLAC St. George, Washington, Utah
+1 _UID EA4964CB07A5C24DA4397FF938F72D97659E
+1 FAMS @F69@
+1 FAMC @F71@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Liston, Elizabeth
+1 SOUR @S7@
+2 PAGE 2
+2 NOTE Elizabeth Liston.  [line 65]
+1 SOUR @S8@
+2 NOTE John S. Higbee/James W. Bay Company (1852)
+2 DATA
+3 TEXT Liston, Elizabeth Reeves
+4 CONT Birth Date: 16 June 1822
+4 CONT Death Date: 22 June 1892
+4 CONT Gender: Female
+4 CONT Age: 29
+4 CONT Company: John S. Higbee/James W. Bay Company (1852)
+4 CONT There are on sources listed for pioneer Liston, Elizabeth Reeves.
+1 SOUR @S3@
+2 NOTE AFN: 1CLB-8D
+1 SOUR @S5@
+2 NOTE Beaver City, Beaver, Utah.  dwelling 1088; family 8;  line 36 "Elizabeth Lester"
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 09:04:48
+0 @I218@ INDI
+1 NAME William Albert /Liston/
+2 SURN Liston
+2 GIVN William Albert
+1 SEX M
+1 BIRT
+2 DATE 18 Dec 1845
+2 PLAC Muncie, Delaware, Indiana
+1 DEAT
+2 DATE 21 Nov 1922
+1 _UID 0E2A5A64F37544469A8C8E1D14D271485858
+1 FAMC @F69@
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Liston, William Albert
+1 SOUR @S7@
+2 PAGE p 15
+2 NOTE Wm Albert Liston.  blessing of the children
+1 SOUR @S8@
+2 NOTE John S. Higbee/James W. Bay Company (1852)
+2 DATA
+3 TEXT Liston, William Albert
+4 CONT Birth Date: 18 Dec 1845
+4 CONT Death Date: 21 Nov. 1922
+4 CONT Gender: Male
+4 CONT Age: 6
+4 CONT Company: John S. Higbee/James W. Bay Company (1852)
+4 CONT There are no sources listed for pioneer Liston, William Albert.
+1 SOUR @S3@
+2 NOTE AFN: 3LWC-H7
+1 SOUR @S5@
+2 NOTE Beaver City, Beaver, Utah. Dwelling: 1144; Family 1021
+2 DATA
+3 TEXT line 25:                       Wm A     [Liston]             1
+4 CONC 5   M                                                  Ohio
+3 DATE 21 Jul 1860
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 08:33:09
+0 @I219@ INDI
+1 NAME Rufus Benson /Liston/
+2 SURN Liston
+2 GIVN Rufus Benson
+1 SEX M
+1 BIRT
+2 DATE 18 Apr 1847
+2 PLAC Muncie, Delaware, Indiana
+1 DEAT
+2 DATE 26 Dec 1923
+2 PLAC Escalante, Garfield, Utah
+1 BURI
+2 DATE 28 Dec 1923
+2 PLAC Escalante, Garfield, Utah
+1 _UID 547BA3A784C85C46B9C189C25FAC9AF56668
+1 FAMC @F69@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Liston, Rufus Benson
+1 SOUR @S7@
+2 PAGE p 14
+2 NOTE Rufus Benson Liston.  blessing of the children
+1 SOUR @S8@
+2 NOTE John S. Higbee/James W. Bay Company (1852)
+2 DATA
+3 TEXT Liston, Rufus Benson
+4 CONT Birth Date: 18 Apr. 1847
+4 CONT Death Date: 26 Dec. 1923
+4 CONT Gender: Male
+4 CONT Age: 5
+4 CONT Company: John S. Higbee/James W. Bay Company (1852)
+4 CONT There are no sources listed for pioneer Liston, Rufus Benson
+1 SOUR @S3@
+2 NOTE AFN: 3LWC-JD
+1 SOUR @S5@
+2 NOTE Beaver City, Beaver, Utah.  Dwelling:1144, Family: 1021, line 26
+2 DATA
+3 DATE 21 Jul 1860
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 08:42:14
+0 @I220@ INDI
+1 NAME Perry Martindale /Liston/
+2 SURN Liston
+2 GIVN Perry Martindale
+1 SEX M
+1 BIRT
+2 DATE 6 Jun 1850
+2 PLAC Little Keg Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 5 Aug 1925
+2 PLAC Escalante, Garfield, Utah
+1 BURI
+2 DATE 8 Aug 1925
+2 PLAC Escalante, Garfield, Utah
+1 _UID 860EB96BAE3D8446A283F284FAD21B837220
+1 FAMC @F69@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Liston, Perry Martindale
+1 SOUR @S7@
+2 PAGE p 14
+2 NOTE Perry Martindale Liston
+1 SOUR @S8@
+2 NOTE John S. Higbee/James W. Bay (1852)
+2 DATA
+3 TEXT Liston, Perry Martindale
+4 CONT Birth Date: 6 June 1850
+4 CONT Death Date: 5 Aug. 1925
+4 CONT Gender: Male
+4 CONT Age: 1
+4 CONT Company: John S. Higbee/James W. Bay Company (1852)
+4 CONT There are no sources listed for pioneer Liston, Perry Martindale
+1 SOUR @S3@
+2 NOTE AFN: 1CLB-2C
+1 SOUR @S5@
+2 NOTE Beaver City, Beaver, Utah.  Dwelling: 1144; Family: 1021; line 27 "Martindale"
+2 DATA
+3 DATE 21 Jul 1860
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 08:55:23
+0 @I221@ INDI
+1 NAME George /Liston/
+2 SURN Liston
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE 22 Nov 1795
+2 PLAC , , Maryland
+1 DEAT
+2 DATE 6 Dec 1856
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 0FBDB66194C36B43993EB00675F1500F3ACC
+1 FAMS @F70@
+1 SOUR @S3@
+2 NOTE AFN: 1DDS-X7
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 09:45:45
+0 @I222@ INDI
+1 NAME Elizabeth /Nottingham/
+2 SURN Nottingham
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 28 Feb 1795
+2 PLAC Jamestown, James City, Virginia
+1 _UID E32B63E8347B5241B79250D4C317530439D2
+1 FAMS @F70@
+1 SOUR @S3@
+2 NOTE AFN: 1DDS-ZD
+1 CHAN
+2 DATE 3 Nov 2006
+3 TIME 16:39:32
+0 @I223@ INDI
+1 NAME Elijah /Reeves/
+2 SURN Reeves
+2 GIVN Elijah
+1 SEX M
+1 _UID 67AC58AE09A3BD41AFEE3AD06C69C3777990
+1 FAMS @F71@
+1 SOUR @S3@
+2 NOTE AFN:1DDT-0J
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 09:06:32
+0 @I224@ INDI
+1 NAME Mahala /Nottingham/
+2 SURN Nottingham
+2 GIVN Mahala
+1 SEX F
+1 _UID BC581ADBF9BFEC4E9131D58BE6E320ABB10A
+1 FAMS @F71@
+1 SOUR @S3@
+2 NOTE AFN: 1DDT-1P
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 09:07:48
+0 @I225@ INDI
+1 NAME Priscilla /Singleton/
+2 SURN Singleton
+2 GIVN Priscilla
+1 SEX F
+1 BIRT
+2 DATE 30 Mar 1830
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 DATE 11 Jun 1835
+2 PLAC , , England
+1 _UID 327CE2A0AB77574F8B5FE56E13D30813368B
+1 FAMC @F66@
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: GN8H-XK
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:18:41
+0 @I226@ INDI
+1 NAME Arabella /Singleton/
+2 SURN Singleton
+2 GIVN Arabella
+2 _MARNM Mrs. George Lord
+1 SEX F
+1 BIRT
+2 DATE 11 Mar 1831
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 DATE 1902
+1 _UID C2055B88DBC214409AE2D6AC22C5CD2A77E8
+1 FAMC @F66@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Singleton, Arrabella
+1 SOUR @S7@
+2 PAGE p 2
+2 NOTE listed as branch member
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: GN8H-ZQ
+1 SOUR @S22@
+2 PAGE p 1032
+2 NOTE UT 1856 Statehood Census Index. Arabella Singleton living in Springville, Utah, Utah.
+2 DATA
+3 DATE 1856
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:26:28
+0 @I227@ INDI
+1 NAME Thomas /Singleton/
+2 SURN Singleton
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 25 Aug 1833
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 PLAC , , England
+1 _UID 116D4C85D17A7A42893D0EEAB5213F567F60
+1 FAMC @F66@
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: GN8J-0V
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:28:23
+0 @I228@ INDI
+1 NAME Priscilla /Singleton/
+2 SURN Singleton
+2 GIVN Priscilla
+2 _MARNM Mrs. Davis Clark; Mrs. Almond David Clyde
+1 SEX F
+1 BIRT
+2 DATE 29 Dec 1834
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 DATE 25 Dec 1885
+2 PLAC San Bernardino, San Bernardino, California
+1 _UID A793AC8AB896FC40BEB82D3F245DF3A2F211
+1 FAMC @F66@
+1 SOUR @S1@
+2 PAGE p. 16
+2 NOTE Singleton, Priscila
+1 SOUR @S7@
+2 PAGE p2
+2 NOTE Priscila Singleton (line 50)
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: B6TD-XS
+1 SOUR @S22@
+2 PAGE p 1032
+2 NOTE Priscilla Singleton living in Springville, Utah, Utah
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:35:12
+0 @I229@ INDI
+1 NAME Anna /Singleton/
+2 SURN Singleton
+2 GIVN Anna
+1 SEX F
+1 BIRT
+2 DATE 30 Nov 1836
+1 DEAT
+2 PLAC , , England
+1 _UID F5ECD55895E78642A2221B400BC616D8301B
+1 FAMC @F66@
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: GN8J-27
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:33:53
+0 @I230@ INDI
+1 NAME Robert /Singleton/
+2 SURN Singleton
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE 23 Nov 1837
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 DATE 1858
+2 PLAC San Bernardino, San Bernardino, California
+1 _UID 89E56C560A972D489A9F3CD3CC6B41E3E906
+1 FAMS @F72@
+1 FAMC @F66@
+1 NOTE Ancestral File gives death date as 1865 with no deathplace.
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Singleton, Robert
+1 SOUR @S7@
+2 PAGE p 2
+2 NOTE Robert Singleton (line 52)
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN: GN8J-27
+1 SOUR @S22@
+2 PAGE page 1032
+2 NOTE Robert Jr. Singleton living in Springville, Utah, Utah
+1 CHAN
+2 DATE 30 Oct 2006
+3 TIME 15:38:13
+0 @I231@ INDI
+1 NAME Eliza J. /Singleton/
+2 SURN Singleton
+2 GIVN Eliza J.
+1 SEX F
+1 BIRT
+2 DATE 29 Oct 1839
+2 PLAC Blackrod, Lancashire, England
+1 DEAT
+2 DATE 18 Dec 1930
+2 PLAC San Bernardino, San Bernardino, California
+1 _UID 91602F7D0ED91B4E983AA78820C2EA36F01A
+1 FAMC @F66@
+1 SOUR @S1@
+2 PAGE p 17
+2 NOTE Singleton, Eliza
+1 SOUR @S7@
+2 PAGE p 17
+2 NOTE Eliza Singleton.  blessing of the children.
+1 SOUR @S3@
+2 NOTE AFN: GN8J-3D
+1 SOUR @S11@
+1 SOUR @S22@
+2 PAGE p 1032
+2 NOTE Eliza Singleton living in Springville, Utah, UT
+2 DATA
+3 DATE 1856
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 10:29:15
+0 @I232@ INDI
+1 NAME Mary /Singleton/
+2 SURN Singleton
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 18 Dec 1841
+2 PLAC Clayton Bridge, Lancashire, England
+1 DEAT
+2 DATE 3 Feb 1910
+2 PLAC , , California
+1 _UID 7FDBCFCA5196B64CA106C9FB552AB45BD5C3
+1 FAMC @F66@
+1 SOUR @S1@
+2 PAGE p 17
+2 NOTE Singleton, Mary
+1 SOUR @S7@
+2 PAGE p 17
+2 NOTE Mary Singleton.  blessing of children.
+1 SOUR @S3@
+2 NOTE AFN: B6TD-WM
+1 SOUR @S11@
+1 SOUR @S22@
+2 PAGE page 1032
+2 NOTE Mary Singleton living in Springville, Utah, UT
+2 DATA
+3 DATE 1856
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 10:49:51
+0 @I233@ INDI
+1 NAME Caroline /Singleton/
+2 SURN Singleton
+2 GIVN Caroline
+1 SEX F
+1 BIRT
+2 DATE 25 Feb 1844
+2 PLAC Frankford, Philadelphia, Pennsylvania
+1 DEAT
+2 DATE 1849
+2 PLAC , , Pennsylvania
+1 _UID 00A92A245382E2469B12A9E24100D254937D
+1 FAMC @F66@
+1 SOUR @S1@
+2 PAGE p 17
+2 NOTE Singleton, Caroline
+1 SOUR @S3@
+2 NOTE AFN: GN8J-5Q
+1 SOUR @S11@
+1 SOUR @S22@
+2 PAGE page 1032
+2 NOTE Caroline Singleton living in Springville, Utah, UT
+2 DATA
+3 DATE 1856
+1 SOUR @S7@
+2 PAGE p 18
+2 NOTE Caroline Singleton. blessing of the children.
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 11:22:39
+0 @I234@ INDI
+1 NAME Joseph /Singleton/
+2 SURN Singleton
+2 GIVN Joseph
+1 SEX M
+1 _UID FF58ACDBA55ACC4C950AC9CF71778333CAEE
+1 FAMS @F73@
+1 SOUR @S3@
+2 NOTE AFN: GH8B-6Q
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 10:58:35
+0 @I235@ INDI
+1 NAME Arabella /Whalls/
+2 SURN Whalls
+2 GIVN Arabella
+1 SEX F
+1 _UID 6AFF11DBDD6C334D82B0DADC098043542617
+1 FAMS @F73@
+1 SOUR @S3@
+2 NOTE AFN: GH8C-11
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 10:59:07
+0 @I236@ INDI
+1 NAME Robert /Hindle/
+2 SURN Hindle
+2 GIVN Robert
+1 SEX M
+1 _UID C9FFC3D991C76740A65DB674FBD970300499
+1 FAMS @F74@
+1 SOUR @S11@
+2 NOTE "WORLDTREE3" owned by joandmd11
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 11:06:24
+0 @I237@ INDI
+1 NAME Jane /Grundy/
+2 SURN Grundy
+2 GIVN Jane
+1 SEX F
+1 _UID 87806F99264CE244AE1565B07C8473251763
+1 FAMS @F74@
+1 SOUR @S11@
+2 NOTE "WORLDTREE3" owned by joandmd11
+1 CHAN
+2 DATE 1 Nov 2006
+3 TIME 11:07:03
+0 @I238@ INDI
+1 NAME Hannah Williams /Liston/
+2 SURN Liston
+2 GIVN Hannah Williams
+1 SEX F
+1 BIRT
+2 DATE 22 Feb 1829
+2 PLAC Milford, Clermont, Ohio
+1 DEAT
+2 DATE 16 Aug 1889
+1 _UID 5CFC3A702752974DA3CA302BB1885F955499
+1 FAMS @F75@
+1 FAMC @F70@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Liston, Hanah
+1 SOUR @S7@
+2 PAGE p 3
+2 NOTE line 84 Han ah Liston
+1 SOUR @S3@
+2 NOTE AFN: 56CZ-1V
+1 CHAN
+2 DATE 3 Nov 2006
+3 TIME 15:24:49
+0 @I239@ INDI
+1 NAME Lorin S. /Gardner/
+2 SURN Gardner
+2 GIVN Lorin S.
+1 SEX M
+1 BIRT
+2 DATE 23 May 1827
+2 PLAC Hanover, Morris, New York
+1 DEAT
+2 DATE 2 Mar 1870
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 7D91D1528FBE6E4FBED5031457F2DA353D2C
+1 FAMS @F75@
+1 SOUR @S3@
+2 NOTE AFN: D11C-JT
+1 CHAN
+2 DATE 3 Nov 2006
+3 TIME 15:40:31
+0 @I240@ INDI
+1 NAME Elizabeth Jane /Liston/
+2 SURN Liston
+2 GIVN Elizabeth Jane
+2 _MARNM Mrs. William/Isaac Chancy Williamson/Williams
+1 SEX F
+1 BIRT
+2 DATE 1829
+1 DEAT
+2 DATE Oct 1869
+2 PLAC , Shelby, Iowa
+1 BURI
+2 PLAC , Shelby, Iowa
+1 _UID 612D9119409BB3479CD3FB0E11E4F11782C2
+1 FAMC @F70@
+1 SOUR @S3@
+2 NOTE AFN: 56CZ-1V
+1 CHAN
+2 DATE 3 Nov 2006
+3 TIME 17:26:39
+0 @I241@ INDI
+1 NAME John /Liston/
+2 SURN Liston
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1826
+1 _UID A79BEF86A1440049B15128A9F1DB1C7A1A71
+1 FAMS @F76@
+1 FAMC @F70@
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Liston, John
+1 SOUR @S7@
+2 PAGE p 3
+2 NOTE line 108 John Liston
+1 SOUR @S3@
+2 NOTE AFN: 1DDT-V1
+1 CHAN
+2 DATE 3 Nov 2006
+3 TIME 19:02:14
+0 @I242@ INDI
+1 NAME Sarah R. /Noyes/
+2 SURN Noyes
+2 GIVN Sarah R.
+1 SEX F
+1 _UID A0F97BA526ED3E4CA51BC5F6439F1C7F4EB2
+1 FAMS @F76@
+1 SOUR @S1@
+2 PAGE p 17
+2 NOTE Noyes, Sarah R.
+1 SOUR @S7@
+2 PAGE p 3
+2 NOTE line 103 Sarah R. Noyes
+1 CHAN
+2 DATE 3 Nov 2006
+3 TIME 19:03:23
+0 @I243@ INDI
+1 NAME Laban /Morrill/
+2 SURN Morrill
+2 GIVN Laban
+1 SEX M
+1 BIRT
+2 DATE 8 Dec 1814
+2 PLAC Wheelock, Caledonia, Vermont
+1 DEAT
+2 DATE 8 Dec 1900
+2 PLAC Junction, Piute, Utah
+1 BURI
+2 DATE 9 Dec 1900
+2 PLAC Junction, Piute, Utah
+1 _UID 9F44F000DF513842B91F7E3C68F4BB85ABB5
+1 FAMS @F77@
+1 FAMS @F79@
+1 FAMC @F81@
+1 SOUR @S23@
+2 PAGE p 48
+1 SOUR @S4@
+2 PAGE image 40 of 187
+2 NOTE dwelling 301, family 301, line 35
+2 DATA
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+2 NOTE AFN: 1Q05-R6
+1 SOUR @S1@
+2 PAGE p 17
+1 SOUR @S8@
+2 NOTE Unidentified Companies (1852), age 37
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:31:21
+0 @I244@ INDI
+1 NAME Esther Lorraine /Brown/
+2 SURN Brown
+2 GIVN Esther Lorraine
+1 SEX F
+1 BIRT
+2 DATE 14 Oct 1815
+2 PLAC Waterford, Caledonia, Vermont
+1 DEAT
+2 DATE 11 Dec 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 BURI
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID B7B97470E91AA045A5CA7E03A98C66E4ABAF
+1 FAMS @F77@
+1 FAMC @F78@
+1 SOUR @S2@
+2 NOTE Family: Morrill/Brown (F9676)
+1 SOUR @S3@
+2 NOTE AFN: 2J07-D6
+1 SOUR @S15@
+2 PAGE p 54
+2 DATA
+3 TEXT Morill, Esther L. Sometime between 4-11 December 1843 at Nauvoo; 28 years old; quick consumpt
+4 CONC ion. (NN 13 December 1843.)
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 09:45:07
+0 @I245@ INDI
+1 NAME Abner /Morrill/
+2 SURN Morrill
+2 GIVN Abner
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1838
+1 DEAT
+2 DATE 24 Sep 1839
+2 PLAC Nauvoo, Hancock, Illinois
+1 BURI
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID FA0A35B83640864BAA57BFB540FB02BEA802
+1 FAMC @F77@
+1 SOUR @S15@
+2 PAGE p 54
+2 DATA
+3 TEXT Morril, Abner. Son of Laban and Ester L. Morril; 24 September 1839 at Nauvoo; 10 months and 2
+4 CONC 7 days old. (TS April 1840.)
+1 SOUR @S3@
+2 NOTE AFN: GCG5-GR
+1 SOUR @S2@
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 09:34:14
+0 @I246@ INDI
+1 NAME Robert D. /Morrill/
+2 SURN Morrill
+2 GIVN Robert D.
+1 SEX M
+1 BIRT
+2 DATE ABT 17 Jul 1841
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S15@
+3 PAGE p 54
+3 DATA
+4 TEXT Morrill, Robert D. 5 August 1842;1 year and 19 days old. (NSR p. 2)
+1 DEAT
+2 DATE 5 Aug 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 0CA8E811246A1E4DB5B426C17CAE9EEAA8A1
+1 FAMC @F77@
+1 SOUR @S15@
+2 PAGE p 54
+1 SOUR @S3@
+2 NOTE AFN: GCG5-GR / AFN: 2J09-6F
+1 SOUR @S2@
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 09:39:23
+0 @I247@ INDI
+1 NAME Esther A. /Morrill/
+2 SURN Morrill
+2 GIVN Esther A.
+1 SEX F
+1 BIRT
+2 DATE ABT 10 Aug 1843
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S15@
+3 PAGE p 54
+3 DATA
+4 TEXT Morill, Ester A. 13 March 1844 at Nauvoo; 7 months and 3 days old; measles. (NN 27 March 1844
+5 CONC ; NSR p. 16. NSR lists surname as Morrill.)
+2 SOUR @S3@
+3 NOTE AFN: GCG5-HX
+2 SOUR @S2@
+1 DEAT
+2 DATE 13 Mar 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 70AFE0DE3E4FC84198ACD6647D8114E2E51A
+1 FAMC @F77@
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 09:43:59
+0 @I248@ INDI
+1 NAME Ashael /Brown/
+2 SURN Brown
+2 GIVN Ashael
+1 SEX M
+1 _UID 571B3BDF2615EE4CAF91B71F3E5EDFF78954
+1 FAMS @F78@
+1 SOUR @S2@
+2 NOTE Esther Lorraine Brown
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 09:45:44
+0 @I249@ INDI
+1 NAME Rice //
+2 GIVN Rice
+1 SEX F
+1 _UID 47D7868ECF5A2C4BB66F095E29A6F3719132
+1 FAMS @F78@
+1 NOTE unsure if this is surname or given name.
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 09:46:09
+0 @I250@ INDI
+1 NAME Permelia Handmore /Drury/
+2 SURN Drury
+2 GIVN Permelia Handmore
+2 _AKA /Drewery/
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1821
+2 PLAC Wendell, Franklin, Massachusetts
+1 DEAT
+2 DATE 6 Sep 1892
+2 PLAC Junction, Piute, Utah
+1 BURI
+2 DATE 7 Sep 1892
+2 PLAC Junction, Piute, Utah
+1 _UID A3E921B6848B29448054DB0915EF26ECADFE
+1 FAMS @F79@
+1 FAMC @F80@
+1 SOUR @S1@
+2 PAGE p 17
+2 NOTE Morrill, Permelia
+1 SOUR @S4@
+2 PAGE image 40 of 187
+2 NOTE dwelling 301 family 301 line 36 "Pamela Morrish"
+2 DATA
+3 DATE 17 Sep 1850
+1 SOUR @S3@
+2 NOTE AFN:8RLH-1X
+1 SOUR @S2@
+2 NOTE Permilia H. Drury
+1 SOUR @S8@
+2 NOTE Unidentified Companies (1852), age 30
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:31:56
+0 @I251@ INDI
+1 NAME Joel /Drury/
+2 SURN Drury
+2 GIVN Joel
+1 SEX M
+1 _UID 070ACEE09ADA1D429995F977A2A268B28EA8
+1 FAMS @F80@
+1 SOUR @S2@
+2 NOTE Family (F9679)
+1 SOUR @S3@
+2 NOTE AFN: 1SQZ-M7
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:02:58
+0 @I252@ INDI
+1 NAME Tirzah /Winters/
+2 SURN Winters
+2 GIVN Tirzah
+1 SEX F
+1 _UID D45F613BBE4AC540917C7B5245303EC22B70
+1 FAMS @F80@
+1 SOUR @S2@
+2 NOTE Family (F9679)
+1 SOUR @S3@
+2 NOTE AFN: 1SZQ-ND
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:02:45
+0 @I253@ INDI
+1 NAME Abner /Morrill/
+2 SURN Morrill
+2 GIVN Abner
+1 SEX M
+1 _UID 8C0314CB4335D444AFEA82F742B90A6D82DC
+1 FAMS @F81@
+1 SOUR @S2@
+2 NOTE Family (F9681)
+1 SOUR @S3@
+2 NOTE AFN: 1SQX-SX
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:03:58
+0 @I254@ INDI
+1 NAME Mary /Carpenter/
+2 SURN Carpenter
+2 GIVN Mary
+1 SEX F
+1 _UID A09F5DED665D394AABD467B59E76FCAE28A2
+1 FAMS @F81@
+1 SOUR @S2@
+2 NOTE Family (F9681)
+1 SOUR @S3@
+2 NOTE AFN: 1SQX-T4
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:04:35
+0 @I255@ INDI
+1 NAME Horatio /Morrill/
+2 SURN Morrill
+2 GIVN Horatio
+1 SEX M
+1 BIRT
+2 DATE 25 Oct 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 26 Dec 1888
+2 PLAC Circleville, Piute, Utah
+1 BURI
+2 DATE 29 Dec 1888
+2 PLAC Circleville, Piute, Utah
+1 _UID 467A046BECF0B3428AC289675A2E7CFF3F9D
+1 FAMC @F79@
+1 SOUR @S4@
+2 PAGE image 40 of 187
+2 NOTE dwelling 301 family 301 line 37 "Horatia Morrish"
+2 DATA
+3 DATE 17 Sep 1850
+1 SOUR @S9@
+2 NOTE Circleville Cemetery, X_2_333
+1 SOUR @S8@
+2 NOTE Unidentified Companies (1852), age 6; John R. Murdock Company (1868), age 22, "out-and-back t
+3 CONC eamster"
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:32:42
+0 @I256@ INDI
+1 NAME John /Morrill/
+2 SURN Morrill
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 21 Feb 1848
+2 PLAC Garden Grove, Decatur, Iowa
+1 DEAT
+2 DATE 15 Aug 1939
+2 PLAC Junction, Piute, Utah
+1 BURI
+2 DATE 17 Aug 1939
+2 PLAC Junction, Piute, Utah
+1 _UID BDC7EAFC45464B45818DFE06E4CCBB696B72
+1 FAMC @F79@
+1 SOUR @S4@
+2 PAGE image 40 of 187
+2 NOTE dwelling 301 family 301 line 38 "John Morrish"
+2 DATA
+3 DATE 17 Sep 1850
+1 SOUR @S9@
+2 NOTE Junction Lower Cemetery, Cedar_ 1_2_1 
+1 SOUR @S8@
+2 NOTE Unidentifed Companies (1852), age 4
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:33:14
+0 @I257@ INDI
+1 NAME Laban Drury /Morrill/
+2 SURN Morrill
+2 GIVN Laban Drury
+1 SEX M
+1 BIRT
+2 DATE 4 Oct 1850
+2 PLAC Keg Creek, Pottawattamie, Iowa
+1 DEAT
+2 DATE 25 Oct 1933
+2 PLAC Logan, Cache, Utah
+1 BURI
+2 DATE 28 Oct 1933
+2 PLAC Logan, Cache, Utah
+1 _UID 87CD7E2D72965A47AC773459A95A4654F595
+1 FAMC @F79@
+1 SOUR @S3@
+2 NOTE AFN:1Q05-D9
+1 SOUR @S9@
+2 NOTE Logan City Cemetery, D_100_9_3.  Relatives: Drury, Permelia (Mother) Morrill, Lavan (Father)
+1 SOUR @S8@
+2 NOTE Unidentified Companies (1852), age 1
+1 CHAN
+2 DATE 10 Nov 2006
+3 TIME 10:33:40
+0 @I258@ INDI
+1 NAME Reuben Nurce /Howell/
+2 SURN Howell
+2 GIVN Reuben Nurce
+1 SEX M
+1 BIRT
+2 DATE 1 Nov 1829
+2 PLAC Wilmington, Clinton, Ohio
+1 DEAT
+2 DATE 19 Oct 1913
+2 PLAC Lincoln, Bonneville, Idaho
+1 _UID FAE1A3137B14364EAD0DF816941C39C01501
+1 FAMS @F82@
+1 NOTE traveled west before abt 1854 (1860 Census shows daughter Sarah being born in Utah, age 6).
+1 SOUR @S1@
+2 PAGE p 16
+2 NOTE Howell, Rebuen N.
+1 SOUR @S3@
+2 NOTE AFN: 2FWZ-LT
+1 SOUR @S5@
+2 PAGE page 279
+2 NOTE Springville, Utah, Utah.  dwelling 2484; family 1950; line 11
+2 DATA
+3 DATE 4 Sep 1860
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 10:03:40
+0 @I259@ INDI
+1 NAME Martha Maria /Buchanan/
+2 SURN Buchanan
+2 GIVN Martha Maria
+1 SEX F
+1 BIRT
+2 DATE 7 Mar 1833
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 25 Dec 1895
+2 PLAC Lincoln, Bonneville, Idaho
+1 _UID 3373A0CE0355C44BB44C1E9994831773D318
+1 FAMS @F82@
+1 FAMC @F84@
+1 NOTE traveled west before abt 1854 (1860 Census shows daughter Sarah being born in Utah, age 6).
+1 SOUR @S11@
+1 SOUR @S3@
+2 NOTE AFN:279K-KQ
+1 SOUR @S5@
+2 PAGE page no. 279
+2 NOTE Springville, Utah, Utah.  dwelling 2484, family: 1950, line 12
+2 DATA
+3 DATE 4 Sep 1860
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 10:03:47
+0 @I260@ INDI
+1 NAME John /Buchanon/
+2 SURN Buchanon
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 25 Jan 1825
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 11 Oct 1897
+2 PLAC Manti, Sanpete, Utah
+1 BURI
+2 DATE 13 Oct 1897
+2 PLAC Manti, Sanpete, Utah
+1 _UID 1A7C49B8E2D4FC4B9FCAF8CE99836ED01D56
+1 FAMS @F83@
+1 FAMC @F84@
+1 NOTE 1. John was 2nd Corporal in Company D of the Mormon Batallion.
+1 SOUR @S24@
+2 PAGE p 31
+2 DATA
+3 TEXT John Buchanon and Miss Adaline Coons, both of Coonville, 23 February 1851, by Joseph W. Cooli
+4 CONC dge.  (Frontier Gaurdian, 7 March 1851)
+1 SOUR @S4@
+2 PAGE image 12 of 187; page 138
+2 NOTE dwelling 85; family 85; line 15.  living with Coolidge and Leavitt families.
+2 DATA
+3 DATE 2 Sep 1850
+1 SOUR @S3@
+2 NOTE AFN: 1F9B-WV
+1 SOUR @S4@
+2 PAGE image 12 of 187; page 138
+2 NOTE dwelling: 85, family: 85, line: 15. living with Coolidge and Leavitt families. 
+2 DATA
+3 DATE 2 Sep 1850
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:37:39
+0 @I261@ INDI
+1 NAME John Lorenzo /Buchanon/
+2 SURN Buchanon
+2 GIVN John Lorenzo
+1 SEX M
+1 BIRT
+2 DATE 24 Jan 1852
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+2 DATE 10 Apr 1906
+2 PLAC Lyman, Wayne, Utah
+1 BURI
+2 DATE 13 Apr 1906
+2 PLAC Lyman, Wayne, Utah
+1 _UID 5516E0B7EF00904EA3F77A5EE3CBD203C4D6
+1 FAMC @F83@
+1 SOUR @S3@
+2 PAGE AFN:53SX-5K
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 14:40:34
+0 @I262@ INDI
+1 NAME John /Buchanon/
+2 SURN Buchanon
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 11 Jan 1786
+2 PLAC Ramelton, Donegal, Ireland
+1 DEAT
+2 DATE 1839
+2 PLAC Lima, Adams, Illinois
+1 BURI
+2 DATE 1839
+2 PLAC Lima, Adams, Illinois
+1 _UID 2F323D7C8D31654FAA47121E8F61209F5C71
+1 FAMS @F84@
+1 SOUR @S3@
+2 PAGE AFN:279K-10
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 15:08:00
+0 @I263@ INDI
+1 NAME Nancy Ann /Bach/
+2 SURN Bach
+2 GIVN Nancy Ann
+2 _AKA /Back/
+1 SEX F
+1 BIRT
+2 DATE 23 Feb 1790
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 17 Aug 1884
+2 PLAC Manti, Sanpete, Utah
+1 BURI
+2 PLAC Manti, Sanpete, Utah
+2 SOUR @S9@
+3 NOTE Manti City Cemetery, Lot 1 Blk 1 Plat A Grv 5.
+1 _UID 79F347FC5C07254FAD8BCC09B72F1DAA40C8
+1 FAMS @F84@
+1 FAMC @F85@
+1 SOUR @S3@
+2 PAGE AFN:279K-25
+1 SOUR @S4@
+2 PAGE image 112 of 187; page 238
+2 NOTE dwelling: 887; family: 887; line 34.  
+2 DATA
+3 DATE 28 Oct 1850
+1 SOUR @S8@
+2 NOTE Buchanan, Nancy Ann.  Thomas C.D. Howell Company (1852). age 62
+1 SOUR @S3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:17:54
+0 @I264@ INDI
+1 NAME Jane /Buchanon/
+2 SURN Buchanon
+2 GIVN Jane
+1 SEX F
+1 BIRT
+2 DATE 1 Jul 1813
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 5 Feb 1848
+1 BURI
+2 PLAC Little Mackinaw, Tazewell, Illinois
+1 _UID 5D097CFC2D681F4187CB645F7053FD0DB5B6
+1 FAMS @F86@
+1 FAMC @F84@
+1 SOUR @S3@
+2 NOTE AFN: 279K-BJ
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 15:04:21
+0 @I265@ INDI
+1 NAME Emmeline /Buchanon/
+2 SURN Buchanon
+2 GIVN Emmeline
+1 SEX F
+1 BIRT
+2 DATE 1 Mar 1820
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 4 Nov 1899
+2 PLAC Woodside, Emery, Utah
+1 BURI
+2 PLAC Woodside, Emery, Utah
+2 SOUR @S9@
+1 _UID DC13AD11C731064BA862849AD9E2BB44D84A
+1 FAMS @F50@
+1 FAMC @F84@
+1 SOUR @S3@
+2 NOTE AFN: 37BQ-96
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 15:40:08
+0 @I266@ INDI
+1 NAME Simmons Philander /Curtis/
+2 SURN Curtis
+2 GIVN Simmons Philander
+1 SEX M
+1 BIRT
+2 DATE 26 Mar 1818
+2 PLAC Sullivan, Tioga, Pennsylvania
+1 DEAT
+2 DATE 11 Apr 1880
+2 PLAC Springville, Utah, Utah
+1 BURI
+2 DATE 18 Apr 1880
+2 PLAC Springville, Utah, Utah
+1 _UID 4A0AAFE728C5664B89D15ADCE13F47BA3969
+1 FAMS @F50@
+1 SOUR @S4@
+2 PAGE image 39 of 187; page 165
+2 NOTE dwelling: 288; family: 288; line 2 "Simmons Curtin"
+2 DATA
+3 DATE 16 Sep 1850
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:52:32
+0 @I267@ INDI
+1 NAME Catherine /Buchanon/
+2 SURN Buchanon
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE Apr 1822
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 1838
+1 _UID FBCFC16C35E2B245857D61B5FE2DB002FAB1
+1 FAMC @F84@
+1 SOUR @S3@
+2 NOTE AFN: 279K-G7
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 15:47:51
+0 @I268@ INDI
+1 NAME Mary Ann /Buchanon/
+2 SURN Buchanon
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 5 Aug 1827
+2 PLAC Lexington, Fayette, Kentucky
+1 _UID 43CDC0443125F74198C50242E6595011E3C6
+1 FAMC @F84@
+1 SOUR @S3@
+2 NOTE AFN: 279K-HD
+1 SOUR @S4@
+2 PAGE image 112 of 187; page 238
+2 NOTE dwelling: 887; family: 887; line 35
+2 DATA
+3 DATE 28 Oct 1850
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:26:11
+0 @I269@ INDI
+1 NAME Eleanora /Buchanon/
+2 SURN Buchanon
+2 GIVN Eleanora
+1 SEX F
+1 BIRT
+2 DATE 1828/1829
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 1839
+1 _UID AECF8D0622938347BE8F3EEAFA27CE8578E8
+1 FAMC @F84@
+1 SOUR @S3@
+2 NOTE AFN: 279K-JK
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 15:59:04
+0 @I270@ INDI
+1 NAME Archibald Waller Overton /Buchanon/
+2 SURN Buchanon
+2 GIVN Archibald Waller Overton
+1 SEX M
+1 BIRT
+2 DATE 9 Feb 1830
+2 PLAC Lexington, Fayette, Kentucky
+1 DEAT
+2 DATE 7 May 1915
+2 PLAC Venice, Sevier, Utah
+1 BURI
+2 DATE 9 May 1915
+2 PLAC Glenwood, Sevier, Utah 
+2 SOUR @S9@
+3 NOTE Buchanan, Archibald. W., Sr. Glenwood Cemetery, Row 3 Space 6 
+1 _UID 38FE6260E8D2C14790DB677375A4B51FECFC
+1 FAMC @F84@
+1 NOTE 1. name is probably Archibald Walter Overton Buchanon.
+1 SOUR @S3@
+2 NOTE AFN: 1KXZ-K1
+1 SOUR @S4@
+2 PAGE image 112 of 187; page 238
+2 NOTE dwelling: 887, family: 887, line 36.
+2 DATA
+3 DATE 28 Oct 1850
+1 SOUR @S8@
+2 NOTE Buchanan, Archibald Waller Overton.  Thomas C.D. Howell Company (1852).  age 22.
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:07:35
+0 @I271@ INDI
+1 NAME Harmon Jr. /Bach/
+2 SURN Bach
+2 GIVN Harmon Jr.
+1 SEX M
+1 _UID 835221E47C8FD34FBF158686A79BB7C9A94B
+1 FAMS @F85@
+1 SOUR @S3@
+2 NOTE AFN: 8P55-13
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:11:11
+0 @I272@ INDI
+1 NAME Margaret /Huffman/
+2 SURN Huffman
+2 GIVN Margaret
+2 _AKA Martha 
+1 SEX F
+1 _UID E9A9738A95C63E4A9E62521256604A623899
+1 FAMS @F85@
+1 SOUR @S3@
+2 NOTE AFN: 8P55-28
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:12:19
+0 @I273@ INDI
+1 NAME Alexander B. /Davis/
+2 SURN Davis
+2 GIVN Alexander B.
+1 SEX M
+1 _UID 8E3D617F82CDA84FB90020750F4C7324316D
+1 FAMS @F86@
+1 SOUR @S3@
+2 NOTE AFN: BN7L-3F
+1 CHAN
+2 DATE 15 Nov 2006
+3 TIME 16:15:41
+0 @I274@ INDI
+1 NAME William H. /Howell/
+2 SURN Howell
+2 GIVN William H.
+1 SEX M
+1 BIRT
+2 DATE ABT 1850
+2 PLAC , , Iowa
+1 _UID 442E03253E816F4B9CECEA3E95E80D1663AB
+1 FAMC @F82@
+1 NOTE traveled west before abt 1854 (1860 Census shows sister Sarah being born in Utah, age 6).
+1 SOUR @S3@
+2 NOTE AFN: 2FWZ-N6
+1 SOUR @S5@
+2 PAGE page No. 279
+2 NOTE Springville, Utah, Utah.  dwelling: 2484; family: 1950; line 13
+2 DATA
+3 DATE 4 Sep 1860
+1 CHAN
+2 DATE 17 Nov 2006
+3 TIME 10:03:58
+0 @F1@ FAM
+1 _UID 58457EB5E0945E41B9FCD81F51363AFB4B1D
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I8@
+1 CHIL @I6@
+1 CHIL @I21@
+1 CHIL @I7@
+1 CHIL @I9@
+1 CHIL @I10@
+1 MARR
+2 DATE 24 Jan 1832
+2 PLAC Plymouth, Chenango, New York
+2 SOUR @S3@
+3 NOTE Family Group Record of Lebbeus Thaddeus COONS and Mary Ann WILLIAMSEN
+2 SOUR @S2@
+3 NOTE Family: Coon/Williamson (F5740)
+0 @F2@ FAM
+1 _UID F13C6552DC62294AA941C7926C3E7F55564E
+1 HUSB @I1@
+1 WIFE @I11@
+1 MARR
+2 DATE 24 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S2@
+3 NOTE Family: Coon/Williamson (F5741)
+0 @F3@ FAM
+1 _UID 3557CE0DB54DED4CA957E0823DD92306434D
+1 HUSB @I1@
+1 WIFE @I12@
+1 MARR
+2 DATE 24 Jan 1846
+2 SOUR @S2@
+3 NOTE Family: Coon/Seymour (F4938)
+0 @F4@ FAM
+1 _UID C2EB6BCF83092D4A8C1674474A2AA6B112DD
+1 WIFE @I4@
+0 @F5@ FAM
+1 _UID 2C871BE0AF094A4DA489973E129A725B78A7
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I1@
+0 @F6@ FAM
+1 _UID 92B5374335982C44AC20A5A2044BF8C82035
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I2@
+0 @F7@ FAM
+1 _UID 9A7C53DD8AEA3F48B825C15F709DF279B643
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I11@
+0 @F8@ FAM
+1 _UID 631CC0BFEDCB834CA1E56592FFE5690F5EB5
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I12@
+0 @F9@ FAM
+1 _UID ACB3BB00906B9848B9900191292943CA2F4A
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+1 CHIL @I32@
+1 CHIL @I33@
+1 CHIL @I34@
+1 MARR
+2 DATE 11 Dec 1824
+2 PLAC , Cattaraugus, New York
+1 SOUR @S3@
+0 @F10@ FAM
+1 _UID 4DB113EE221F214F8517F78F992603F08477
+1 HUSB @I26@
+1 WIFE @I25@
+1 MARR
+2 DATE 28 May 1850
+2 PLAC Farmington, Ontario, New York
+1 SOUR @S3@
+0 @F11@ FAM
+1 _UID 3E650324AF11534EA2762FBCFD25ECACE8AB
+1 HUSB @I35@
+1 WIFE @I36@
+1 CHIL @I22@
+0 @F12@ FAM
+1 _UID BFD99223239C674AB0325C50B47B4BF7BCC6
+1 HUSB @I37@
+1 WIFE @I38@
+1 CHIL @I23@
+0 @F13@ FAM
+1 _UID 94020D5407D02B498414144D0678C945C7D7
+1 HUSB @I24@
+1 WIFE @I39@
+1 MARR
+2 DATE 3 May 1852
+2 PLAC Silvercreek, Mills, Iowa
+1 SOUR @S3@
+0 @F14@ FAM
+1 _UID 2D8F8283F0A3894F82DDAFA473134FAF6211
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I39@
+0 @F15@ FAM
+1 _UID 5487EF2A432A9841A6FB2D8B5AF77102578B
+1 HUSB @I22@
+1 WIFE @I42@
+0 @F16@ FAM
+1 _UID BBD2059CD1C0BD4CB624BD3DB217771FFBAF
+1 HUSB @I22@
+1 WIFE @I43@
+0 @F17@ FAM
+1 _UID E282CFBDB0C7FF45A8871E44DCDA172C352A
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+1 MARR
+2 DATE 30 Aug 1837
+2 PLAC , Marshall, Indiana
+1 SOUR @S3@
+0 @F18@ FAM
+1 _UID C872ACB39150AF4195FD4B5C7C1DC2F5F3E9
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I55@
+1 CHIL @I44@
+0 @F19@ FAM
+1 _UID 25D88E40BB70AA4A8FC5D816DAE0E5642F5D
+1 HUSB @I48@
+1 WIFE @I49@
+1 CHIL @I91@
+1 MARR
+2 DATE 6 Apr 1849
+2 PLAC Kanesville, Pottawattamie, Iowa
+2 SOUR @S3@
+2 SOUR @S2@
+0 @F20@ FAM
+1 _UID 1A650EF3CD33DD4C98D5C8F9F35B9A05C4F7
+1 HUSB @I57@
+1 WIFE @I58@
+1 CHIL @I207@
+1 CHIL @I208@
+1 MARR
+2 DATE 25 Dec 1845
+2 PLAC Frankfort, Montgomery, Pennsylvania
+1 NOTE 1.  Ancestral File says they were married in Pennsylvania and that their first child was bor
+2 CONC n in England two years later.  Unsure of the probability that they traveled back to England a
+2 CONC nd returned to United States for the birth of their second child, two years later.
+1 SOUR @S3@
+2 NOTE AFN: 1L25-C2 and AFN: 1L25-9P
+0 @F21@ FAM
+1 _UID 120A75560B1A914495D60F95A661E77856F0
+1 HUSB @I59@
+1 WIFE @I55@
+1 CHIL @I60@
+1 CHIL @I62@
+1 CHIL @I61@
+1 CHIL @I56@
+1 MARR
+2 DATE 27 May 1824
+2 PLAC Burlington, Lawrence, Ohio
+1 SOUR @S3@
+0 @F22@ FAM
+1 _UID 9210C27436367447B7FD757033A5775037FB
+1 HUSB @I63@
+1 WIFE @I204@
+1 CHIL @I59@
+0 @F23@ FAM
+1 _UID 581D00E1021C3045958903419D388F8C3BBD
+1 HUSB @I64@
+1 WIFE @I55@
+1 MARR
+2 DATE 30 Aug 1837
+1 NOTE Her autobiography mentions children.
+1 SOUR @S2@
+1 SOUR @S10@
+0 @F24@ FAM
+1 _UID 1372734B3AC87F43A4C35B4479BF044D96F9
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I72@
+1 CHIL @I71@
+1 CHIL @I73@
+1 CHIL @I74@
+1 CHIL @I75@
+1 MARR
+2 DATE 14 Aug 1843
+2 PLAC Moulton Chapel,  , Lincolnshire, England
+0 @F25@ FAM
+1 _UID 77D79CFD0DB2BD4A8C536E47AAA9497E5BF7
+1 HUSB @I67@
+1 WIFE @I68@
+1 CHIL @I65@
+0 @F26@ FAM
+1 _UID 5B76D6DBBAF85F40A15F5E37C5D287961CD9
+1 HUSB @I69@
+1 WIFE @I70@
+1 CHIL @I66@
+0 @F27@ FAM
+1 _UID 6E74A7CAEF2B214C896999B8DD059A3AD359
+1 HUSB @I76@
+1 WIFE @I77@
+1 CHIL @I78@
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I81@
+1 CHIL @I82@
+1 MARR
+2 DATE 11 Aug 1836
+2 PLAC Marion, Perry, Alabama
+1 SOUR @S3@
+2 NOTE Jeduthan H. Averett [and] Holly (Holla) Jane Tingle
+0 @F28@ FAM
+1 _UID A95F64E15241284E9E61F82A182DE933D81C
+1 HUSB @I83@
+1 WIFE @I84@
+1 CHIL @I76@
+0 @F29@ FAM
+1 _UID DB85CF7DE4CA8E49AB7DC855F358CD69F794
+1 HUSB @I85@
+1 WIFE @I86@
+1 CHIL @I77@
+0 @F30@ FAM
+1 _UID 8838DFB91CB21E4A8C4B4DF8646167F4CAA3
+1 HUSB @I87@
+1 WIFE @I88@
+1 MARR
+2 DATE 20 Mar 1850
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 NOTE 1. alternate marriage date/place:
+2 CONT               "Birth:  14 Mar 1850   Place:   Coopersvle, Council Bluffs, Pottawattomie, Iowa
+2 CONC "
+0 @F31@ FAM
+1 _UID 3F228B973DDD7C41A88CBF1D33A91870CE35
+1 HUSB @I89@
+1 WIFE @I90@
+1 CHIL @I87@
+1 CHIL @I45@
+1 CHIL @I49@
+1 CHIL @I94@
+1 MARR
+2 DATE Abt. 1801
+2 PLAC , , Pennsylvania
+0 @F32@ FAM
+1 _UID 14F86F4A24174F4C9021E9799CE5D9949CAA
+1 HUSB @I92@
+1 WIFE @I93@
+1 CHIL @I112@
+1 CHIL @I110@
+1 CHIL @I113@
+1 CHIL @I111@
+1 CHIL @I109@
+1 CHIL @I88@
+1 CHIL @I108@
+1 MARR
+2 DATE 6 May 1819
+2 PLAC Leominster, Hereford, England
+1 SOUR @S3@
+2 NOTE Family Group Record: William DALLEY and Ann DAVIS
+0 @F33@ FAM
+1 _UID 52A9A9BEB3568140A67632C7D23BBA666E97
+1 HUSB @I95@
+1 WIFE @I94@
+1 MARR
+2 DATE 23 Aug 1849
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 NOTE 1.  All children of John and Nancy are born in Utah.
+0 @F34@ FAM
+1 _UID 049F89F85B523B4EB219EA5FFF73DA33ED4F
+1 CHIL @I89@
+0 @F35@ FAM
+1 _UID 45A121655FF55F46A8FEFBA2D5C332E557F9
+1 HUSB @I96@
+1 WIFE @I97@
+1 CHIL @I95@
+1 CHIL @I100@
+1 CHIL @I101@
+1 CHIL @I102@
+1 CHIL @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+1 MARR
+2 DATE 11 Feb 1818
+2 PLAC Templeton, Worcester, Massachusetts
+0 @F36@ FAM
+1 _UID 8230A8FF95F1804FAA3FE11C4832C7BC910C
+1 HUSB @I98@
+1 WIFE @I99@
+1 CHIL @I97@
+0 @F37@ FAM
+1 _UID 6B5F673AAB99A64D9B0C7A2FC81B85F95304
+1 HUSB @I103@
+1 WIFE @I102@
+1 MARR
+2 DATE 26 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S3@
+2 NOTE Rebecca Greenleaf Holman
+0 @F38@ FAM
+1 _UID 11CFBDF8A40586429C34936AA2720C3C2F96
+1 HUSB @I114@
+1 WIFE @I115@
+1 CHIL @I93@
+0 @F39@ FAM
+1 _UID 9AD02565F8B11044AB2AFCAE35A06F27DBBB
+1 HUSB @I110@
+1 WIFE @I116@
+1 CHIL @I117@
+1 CHIL @I123@
+1 CHIL @I118@
+1 MARR
+2 DATE 4 Sep 1846
+2 PLAC Trading Point, Pottawattamie, Iowa
+1 NOTE 1. William and Mandana, along with their three children, traveled West before the birth of th
+2 CONC eir fourth child 16 Jun 1852
+0 @F40@ FAM
+1 _UID 3CCD150F08054E46A2FC87CF2CE9E5541077
+1 HUSB @I113@
+1 WIFE @I119@
+1 CHIL @I120@
+1 MARR
+2 DATE 17 Jul 1846
+2 PLAC Parish of Aston, Warwick, England
+1 SOUR @S3@
+0 @F41@ FAM
+1 _UID A2E10D94036DA243B97AD21BE8FD7265557C
+1 HUSB @I113@
+1 WIFE @I121@
+1 CHIL @I122@
+1 CHIL @I125@
+1 MARR
+2 DATE 15 Aug 1850
+2 PLAC Council Bluffs, Pottwattamie, Iowa
+1 NOTE James and Emma Dalley, along with their child(ren), traveled West before the birth of their n
+2 CONC ext child 12 Nov 1852.  It is possible that they traveled the same time James' brother Willia
+2 CONC m traveled (arriving sometime before Jun 1852 for the birth of a William's next child).
+1 SOUR @S3@
+0 @F42@ FAM
+1 _UID B42F50E3CD06454998FA6B0335B394EDE032
+1 HUSB @I124@
+1 WIFE @I12@
+1 CHIL @I127@
+1 CHIL @I139@
+1 CHIL @I116@
+1 CHIL @I134@
+1 MARR
+2 DATE 1818
+2 PLAC Cambridge, Washington, New York
+1 SOUR @S2@
+2 NOTE Family: Hillman/King (F5010)
+0 @F43@ FAM
+1 _UID C89326626ADB12429FDE6FAD0F08A6B789EE
+1 HUSB @I126@
+1 WIFE @I109@
+1 MARR
+2 DATE 4 Apr 1844
+2 PLAC St. Peter's
+1 SOUR @S3@
+0 @F44@ FAM
+1 _UID 1FFB5A6C1215864D93BAAB9401B878BB5228
+1 HUSB @I127@
+1 WIFE @I128@
+1 CHIL @I129@
+1 CHIL @I130@
+1 MARR
+2 DATE 10 Sep 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S3@
+0 @F45@ FAM
+1 _UID DB45D092ED452645B8993697B03556EE66A0
+1 HUSB @I127@
+1 WIFE @I131@
+1 CHIL @I132@
+1 CHIL @I133@
+1 MARR
+2 DATE 16 Feb 1850
+2 PLAC Coonville, Pottawattamie, Iowa
+0 @F46@ FAM
+1 _UID 109AFA2BE57E7D489F4ACB2C9C5C95BC2077
+1 HUSB @I135@
+1 WIFE @I134@
+1 CHIL @I136@
+1 MARR
+2 DATE 7 Sep 1851
+2 PLAC Coonville, Pottawattamie, Iowa
+1 NOTE Ancestral File indicates they were divorced: 
+2 CONT    "Married: 7 Sep (div) 1851     Place: Coonville, Pottawattamie, Ia"
+0 @F47@ FAM
+1 _UID 9B203FC9CA9B3F4AA87658878E6384E306E1
+1 HUSB @I137@
+1 WIFE @I138@
+1 CHIL @I135@
+0 @F48@ FAM
+1 _UID C9820C005815F247A0F1A20B3514A2D9FF97
+1 HUSB @I140@
+1 WIFE @I141@
+1 CHIL @I142@
+1 CHIL @I149@
+1 CHIL @I147@
+1 CHIL @I144@
+1 CHIL @I145@
+1 CHIL @I143@
+1 CHIL @I146@
+1 CHIL @I150@
+1 CHIL @I148@
+1 MARR
+2 DATE 17 Dec 1834
+2 PLAC , Taswell, Illinois
+2 SOUR @S2@
+3 NOTE Married: 12 Dec 1834
+1 SOUR @S3@
+0 @F49@ FAM
+1 _UID D642043A41BDA946BEDFD23C6035D154A8D9
+1 HUSB @I151@
+1 WIFE @I152@
+1 CHIL @I140@
+0 @F50@ FAM
+1 _UID 9623E41A5EC43C4789B8297F0C52DC4DCCCE
+1 HUSB @I266@
+1 WIFE @I265@
+1 MARR
+2 DATE 4 Jul 1840
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S15@
+3 PAGE p 90
+3 DATA
+4 TEXT Simmons J. Curtice and Emiline Buchannon. 4 July 1840 at Nauvoo, by Seymour Brunson. (TS Jul
+5 CONC y 1840.)
+0 @F51@ FAM
+1 _UID 3E68C0B87FB6D14995B09F9BF7F8C414B3EA
+1 HUSB @I140@
+1 WIFE @I155@
+1 CHIL @I156@
+1 CHIL @I157@
+1 MARR
+2 DATE 21 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S3@
+0 @F52@ FAM
+1 _UID CAB1A0B10EC5224BA2759458169F153B14DF
+1 HUSB @I158@
+1 WIFE @I159@
+1 CHIL @I155@
+0 @F53@ FAM
+1 _UID A72641B761D1C24995269711448CD2CDD4E5
+1 HUSB @I160@
+1 WIFE @I161@
+1 CHIL @I166@
+1 CHIL @I167@
+1 CHIL @I168@
+1 CHIL @I169@
+1 CHIL @I170@
+1 CHIL @I171@
+1 CHIL @I172@
+1 CHIL @I173@
+1 CHIL @I174@
+1 MARR
+2 DATE 17 Aug 1832
+2 PLAC Ostego, Ostego, New York
+1 SOUR @S3@
+0 @F54@ FAM
+1 _UID CD7E01452AAB054CB0939470F4DAC524B529
+1 HUSB @I162@
+1 WIFE @I163@
+1 CHIL @I160@
+0 @F55@ FAM
+1 _UID 8EBCCC3193592D4CBE9626B5C2B992644CE0
+1 HUSB @I164@
+1 WIFE @I165@
+1 CHIL @I161@
+0 @F56@ FAM
+1 _UID 105A676FE8ACC94AB8B789BB60D9CA47E4C7
+1 HUSB @I176@
+1 WIFE @I177@
+1 CHIL @I175@
+0 @F57@ FAM
+1 _UID E902F012BDE13345AA215583CBD5779C59A3
+1 HUSB @I175@
+1 WIFE @I178@
+1 CHIL @I184@
+1 CHIL @I185@
+1 CHIL @I186@
+1 CHIL @I187@
+1 MARR
+2 DATE 17 Jul 1842
+2 PLAC Grantham, Lincolnshire, England
+1 SOUR @S16@
+2 DATA
+3 TEXT "It was 17th of July 1842.  That day, Mary Ann Leader, seventeen, and John Sivers, twenty-two
+4 CONC , were married by the Reverend Sofer in a Congregationalist ceremony at Independence Chapel
+4 CONC , Littler Gonerby, Lincolnshire, Enlgand.  Both birde and groom were born in Manthorpe, Lor
+4 CONC d Brownlow's manor house settlement in the agricultural region near Grantham.  Each came fro
+4 CONC m many generations of ancestors who had lived in Lincolnshire..."
+1 SOUR @S3@
+2 NOTE gives alternate date: 17 Jul 1841
+0 @F58@ FAM
+1 _UID B9D95A09131F0C4A91A0235F61EFB53E7381
+1 HUSB @I179@
+1 WIFE @I180@
+1 CHIL @I189@
+1 CHIL @I178@
+1 MARR
+2 DATE 2 May 1814
+2 PLAC Withern, Lincolnshire, England
+1 SOUR @S3@
+0 @F59@ FAM
+1 _UID 68B5410453C6D748B5AA059DC673304E52CD
+1 WIFE @I181@
+1 CHIL @I180@
+0 @F60@ FAM
+1 _UID 88F7E64F4C4CF34F98E69A125757A74F5CA7
+1 HUSB @I182@
+1 WIFE @I183@
+1 CHIL @I181@
+0 @F61@ FAM
+1 _UID 7B6023B3BDEF5E42BBD765C54F7D3635F0B4
+1 HUSB @I188@
+1 WIFE @I189@
+1 CHIL @I193@
+1 CHIL @I192@
+1 CHIL @I194@
+1 CHIL @I195@
+1 CHIL @I196@
+1 MARR
+2 DATE 1 Jul 1835
+2 PLAC , , England
+1 SOUR @S3@
+0 @F62@ FAM
+1 _UID 9ADDEBD25D35054D976F955B80DC810AF547
+1 HUSB @I190@
+1 WIFE @I191@
+1 CHIL @I188@
+0 @F63@ FAM
+1 _UID F0DFC09E2604674C9072AA4D894F90C02B49
+1 HUSB @I198@
+1 WIFE @I199@
+1 CHIL @I197@
+0 @F64@ FAM
+1 _UID A99467501284DD49A440E9A344C27D3CDFB6
+1 HUSB @I200@
+1 WIFE @I201@
+1 MARR
+2 DATE 1850
+2 PLAC On the plains
+2 SOUR @S8@
+3 NOTE see source for Ordway, Stephen
+3 DATA
+4 TEXT ...My Sister Jane was given in mar[ri]age to Stephen Ordway while on the planes [plains] wh
+5 CONC o only lived to See the folowing aprial [April] when he died[.] Some two months later She gav
+5 CONC e birth to a Son whome She called Stephen who lived to the age of 20 years--when he was kille
+5 CONC d by a log rolling down the mountain[.] ...
+5 CONT Lake, George, Autobiography 1894 May, 4-5. 
+0 @F65@ FAM
+1 _UID F78FA00CEE0BD040A633392412A59E2EF46E
+1 HUSB @I202@
+1 WIFE @I203@
+1 CHIL @I201@
+0 @F66@ FAM
+1 _UID 755885CB5DBEFB4ABC19073CA212E25B86BD
+1 HUSB @I205@
+1 WIFE @I206@
+1 CHIL @I58@
+1 CHIL @I211@
+1 CHIL @I225@
+1 CHIL @I226@
+1 CHIL @I227@
+1 CHIL @I228@
+1 CHIL @I229@
+1 CHIL @I230@
+1 CHIL @I231@
+1 CHIL @I232@
+1 CHIL @I233@
+1 MARR
+2 DATE 20 Mar 1824
+2 PLAC , , England
+1 SOUR @S11@
+1 SOUR @S3@
+0 @F67@ FAM
+1 _UID E0531AE5534FCC438A30F4BB50C2E0CF0D9A
+1 HUSB @I209@
+1 WIFE @I210@
+1 CHIL @I57@
+0 @F68@ FAM
+1 _UID 32883F5EDDAF95448D7C1F94B4023F44B169
+1 HUSB @I212@
+1 WIFE @I213@
+1 CHIL @I214@
+1 CHIL @I215@
+1 MARR
+2 DATE ABT 1846
+1 SOUR @S11@
+0 @F69@ FAM
+1 _UID 7CE0FA6341C7044BB16D2176F7BF88D9DC90
+1 HUSB @I216@
+1 WIFE @I217@
+1 CHIL @I218@
+1 CHIL @I219@
+1 CHIL @I220@
+1 MARR
+2 DATE 21 Jul 1844
+2 PLAC Muncie, Delaware, Indiana
+1 SOUR @S3@
+2 NOTE Elizabeth Reeves (AFN:1CLB-8D)
+0 @F70@ FAM
+1 _UID 52901A3107C2054591D38DAA753FB18ECE30
+1 HUSB @I221@
+1 WIFE @I222@
+1 CHIL @I216@
+1 CHIL @I238@
+1 CHIL @I240@
+1 CHIL @I241@
+0 @F71@ FAM
+1 _UID DB584225D9037746A76D20204A03AC0E8EE8
+1 HUSB @I223@
+1 WIFE @I224@
+1 CHIL @I217@
+0 @F72@ FAM
+1 _UID 1F402B795CF07E4E9854C955B8286276DD76
+1 HUSB @I230@
+0 @F73@ FAM
+1 _UID 710E8E7435211749BED2DAF33414C84DF15A
+1 HUSB @I234@
+1 WIFE @I235@
+1 CHIL @I205@
+0 @F74@ FAM
+1 _UID B8AA61C5C75A4540893F0334D5DF27E8F027
+1 HUSB @I236@
+1 WIFE @I237@
+1 CHIL @I206@
+0 @F75@ FAM
+1 _UID A0F67F30E5CB4245B0657190E60FC4287370
+1 HUSB @I239@
+1 WIFE @I238@
+1 MARR
+2 DATE 13 Feb 1853
+2 PLAC Glenwood, Mills, Iowa
+1 SOUR @S3@
+0 @F76@ FAM
+1 _UID 494D7A5B173C2D41A794A94BAD82C91E71AC
+1 HUSB @I241@
+1 WIFE @I242@
+1 MARR
+2 DATE 9 Mar 1851
+1 SOUR @S3@
+0 @F77@ FAM
+1 _UID DE90101F819D17408FD8AA1A778D3673EAF4
+1 HUSB @I243@
+1 WIFE @I244@
+1 CHIL @I245@
+1 CHIL @I246@
+1 CHIL @I247@
+1 MARR
+2 DATE 22 Mar 1837
+2 PLAC , Geauga, Ohio
+1 SOUR @S23@
+2 PAGE p 48
+1 SOUR @S2@
+2 NOTE Family: Morrill/Brown (F9676)
+1 SOUR @S3@
+0 @F78@ FAM
+1 _UID 8E4F957AB87FE24FB605A4434F3DE4187E56
+1 HUSB @I248@
+1 WIFE @I249@
+1 CHIL @I244@
+0 @F79@ FAM
+1 _UID 1DF45B8F7678DE4E87C265BA8D82FF1BA6CC
+1 HUSB @I243@
+1 WIFE @I250@
+1 CHIL @I255@
+1 CHIL @I256@
+1 CHIL @I257@
+1 MARR
+2 DATE 22 Feb 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S15@
+2 PAGE p 110
+2 DATA
+3 TEXT Laban Morill and Parmdia Drewery. 22 February 1844 at Nauvoo, by Josiah Butterfield. (NMR rec
+4 CONC orded 25 March 1844.)
+0 @F80@ FAM
+1 _UID BC2A009914F64140B2985D462C4A8D060039
+1 HUSB @I251@
+1 WIFE @I252@
+1 CHIL @I250@
+0 @F81@ FAM
+1 _UID 48B7B3AC761E6441BB85DD9D16B148A90920
+1 HUSB @I253@
+1 WIFE @I254@
+1 CHIL @I243@
+0 @F82@ FAM
+1 _UID 778018924608AE418C5FE673FFE1D77952C1
+1 HUSB @I258@
+1 WIFE @I259@
+1 CHIL @I274@
+1 MARR
+2 DATE 16 Mar 1861
+2 PLAC , Pottawattamie, Iowa
+1 NOTE 1. the year must be wrong because they already have 4 children and are living in Utah by 1860
+2 CONC .  Probably the year 1851.
+0 @F83@ FAM
+1 _UID 3CB978B9C99B8D43AC3D444C2377945A5B10
+1 HUSB @I260@
+1 WIFE @I3@
+1 CHIL @I261@
+1 MARR
+2 DATE 23 Feb 1851
+2 PLAC Coonville, Mills, Iowa
+2 SOUR @S24@
+3 PAGE p 31
+3 DATA
+4 TEXT John Buchanon and Miss Adaline Coons, both of Coonville, 23 Frurary 1851, by Joseph W. Coolid
+5 CONC ge.  (Frontier Guardian, 7 March 1851)
+0 @F84@ FAM
+1 _UID 2D60DB5B30FDE14D85707267D80938EEF367
+1 HUSB @I262@
+1 WIFE @I263@
+1 CHIL @I264@
+1 CHIL @I141@
+1 CHIL @I154@
+1 CHIL @I265@
+1 CHIL @I267@
+1 CHIL @I260@
+1 CHIL @I268@
+1 CHIL @I269@
+1 CHIL @I270@
+1 CHIL @I259@
+1 MARR
+2 DATE 12 Apr 1812
+2 PLAC Lexington, Fayette, Kentucky
+0 @F85@ FAM
+1 _UID D1BFDFE4BF91154C8D2E79D52CDB70B63A34
+1 HUSB @I271@
+1 WIFE @I272@
+1 CHIL @I263@
+0 @F86@ FAM
+1 _UID EB3FECCFDDF19846B1A17E0552AE1BA92A16
+1 HUSB @I273@
+1 WIFE @I264@
+1 MARR
+2 DATE 19 Jul 1831
+0 @S1@ SOUR
+1 TITL Iowa Branches Members Index: 1839-1859
+1 AUTH Ronald G. Watt
+1 PUBL Historical Department of the Church of Jesus Chirst of Latter-day Saints, 1991
+1 NOTE Volume One: Alphabetical Listing of Members 
+2 CONT Volume Two: Members Listed in Units (aka: Iowa Branch Index: 1839-1859)
+0 @S2@ SOUR
+1 TITL Early Latter-day Saints
+1 AUTH Darrin Lythgoe
+1 PUBL Sandy, Utah: The Next Generation of Genealogy Sitebuilding, 2001-2005
+1 CALN www.earlylds.com
+0 @S3@ SOUR
+1 TITL FamilySearch, Ancestral File
+1 PUBL Church of Jesus Christ of Latterday Saints
+1 CALN www.familysearch.org
+0 @S4@ SOUR
+1 TITL 1850 U.S. Federal Census (iowa)
+1 AUTH District 21, Pottawattamie, Iowa
+1 PUBL Ancestry.com
+1 CALN www.ancestry.com
+0 @S5@ SOUR
+1 TITL 1860 U.S. Federal Census
+1 PUBL Ancestry.com
+1 CALN Ancestry.com
+0 @S6@ SOUR
+1 TITL The LDS Vital Records Library in the LDS Family History Suite
+1 AUTH Susan Easton Black
+1 PUBL Infobases, Inc., 1996
+0 @S7@ SOUR
+1 TITL Record of members and minutes of meetings, 1848-1851
+1 AUTH Church of Jesus Christ of Latter-day Saints. Union Branch (Iowa)
+1 CALN FHL US/CAN Film 26399 Item 1
+0 @S8@ SOUR
+1 TITL Mormon Pioneer Overland Travel, 1847-1868
+1 AUTH http://www.lds.org/churchhistory/library/pioneercompanysearch
+1 PUBL Church of Jesus Christ of Latter-day Saints
+0 @S9@ SOUR
+1 TITL Utah Cemetery Burials Database
+1 AUTH Utah History Research Center
+1 PUBL State of Utah, 2006
+1 CALN http://history.utah.gov/apps/burials/execute/searchburials
+0 @S10@ SOUR
+1 TITL Guide to Mormon Diaries & Autobiographies
+1 AUTH Davis Brittan
+1 PUBL Provo, UT: Brigham Young University Press, 1977
+1 CALN HBLL: BX 8601 .B549g
+0 @S11@ SOUR
+1 TITL OneWorld Tree
+1 PUBL ancestry.com
+0 @S12@ SOUR
+1 TITL Jeduthan Averett Family Association
+1 AUTH Joseph B. Everett
+1 CALN http://averett.50megs.com/index.html
+0 @S13@ SOUR
+1 TITL 1850 U.S. Federal Census (utah)
+1 AUTH Not stated, Utah, Utah
+1 PUBL ancestry.com
+0 @S14@ SOUR
+1 TITL 1850 U.S. Federal Census (salt lake)
+1 AUTH not stated, Great Salt Lake, Utah
+1 PUBL ancestry.com
+0 @S15@ SOUR
+1 TITL Nauvoo Deaths and Marriages: 1839-1845
+1 AUTH Lyndon W. Cook
+1 PUBL Orem, Utah: Grandin Book Company
+0 @S16@ SOUR
+1 TITL John and Mary Ann Sivers: Pioneers of Mills County, Iowa
+1 AUTH Robert Sivers
+1 PUBL www.rootsweb.com
+1 CALN http://www.rootsweb.com/~iamills/Peoplemisc/siversjbio.htm
+1 NOTE e-mail of Robert Sivers: rbsivers@worldnet.att.net
+0 @S17@ SOUR
+1 TITL Glenwood Cemetery - Mills County, Iowa
+1 AUTH IAGenWeb Project, US GenWeb Project
+1 PUBL IAGenWeb: Gravestone Photo Project
+1 CALN http://iowagravestones.org/cemetery_list.php?CID=65&cName=Glenwood
+0 @S18@ SOUR
+1 TITL Biographical History of Pottawattamie County, Iowa
+1 PUBL The Lewis Publishing Company, 1891; IAGenWeb 2003-2004
+1 CALN http://iagenweb.org/pottawattamie/Bios1891-S.htm
+0 @S19@ SOUR
+1 TITL 1850 U.S. Federal Census (weber)
+1 AUTH not stated, Weber, Utah
+1 PUBL ancestry.com
+1 CALN www.ancestery.com
+0 @S20@ SOUR
+1 TITL FamilySearch, Pedigree Resource File
+1 PUBL Church of Jesus Christ of Latter-day Saints
+1 CALN www.familysearch.org
+0 @S21@ SOUR
+1 REPO @REPO1@
+1 TITL Our Pioneer Heritage
+1 AUTH Kate B. Carter
+1 PUBL Salt Lake City, Utah: Daughters of Utah Pioneer, 1958-1977
+1 CALN [HBLL] F 826 .D375x
+1 NOTE Vol. 1-20
+0 @S22@ SOUR
+1 TITL UT 1856 Statehood Census Index
+1 AUTH Utah Census, 1850-90 Record
+1 PUBL ancestry.com
+1 CALN ancestry.com
+0 @S23@ SOUR
+1 TITL A Profile of Latter-day Saints of Kirtland, Ohio And Members of Zion's Camp, 1830-1839: Vita
+2 CONC l Statistics and Sources
+1 AUTH Milton V. Backman, Jr., compiler
+1 PUBL Department of Church History and Doctrine And the Relgious Studies Center, Provo, UT: 1983
+1 CALN HBLL: BX 8670 .P943 1983
+0 @S24@ SOUR
+1 TITL Death and Marriage Notices from the Frontier Gaurdian 1849-1852
+1 AUTH Lyndon W. Cook, compiler
+1 PUBL Orem, UT: Center for Research of Mormon Origins, 
+0 @REPO1@ REPO
+1 NAME Harold B. Lee Library
+1 ADDR Brigham Young University
+2 CONT Provo, UT 84604
+0 TRLR

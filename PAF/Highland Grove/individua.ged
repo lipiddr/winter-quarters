@@ -1,0 +1,7173 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 25 Jul 2013
+2 TIME 09:30:25
+1 FILE individua.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Meggie Winn
+1 EMAIL mwinn@byu.net
+0 @I1@ INDI
+1 NAME Phoebe /Sperry/
+2 SURN Sperry
+2 GIVN Phoebe
+1 SEX F
+1 BIRT
+2 DATE 1 Dec 1819
+2 PLAC Henrietta, Monroe, New York
+1 DEAT
+2 DATE 15 Oct 1844
+2 PLAC unknown
+1 AFN 4BR2-8T
+1 _UID 23770EE6A2535C48AD18215229D2A9646724
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE Phoebe Sperry, Born: December 1, 1819 in Henrietta, Monroe, New York; Died: October 15, 1844.
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 12:48:13
+0 @I2@ INDI
+1 NAME Elizabeth Lamont /SPERRY/
+2 SURN SPERRY
+2 GIVN Elizabeth Lamont
+1 SEX F
+1 BIRT
+2 DATE 2 Oct 1816
+2 PLAC Henrietta, Monroe, New York
+1 DEAT
+2 DATE 25 Nov 1884
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 1884
+2 PLAC Vine Bluff Cemetary, Nephi, Juab, Utah
+1 AFN 2B9M-09
+1 _UID 4FA496D60B006948889A0176D1BFC5848D1D
+1 FAMS @F41@
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE Elzabeth Lamont Sperry, Born: October 2, 1816 in Henrietta, Monroe, New York; Died: Novembe
+3 CONC r 25, 1884 in Nephi, Juab, Utah; Burial: in Vine Bluff Cemetery, Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Elizabeth Lamont Sperry Hoyt, Born: October 2, 1816; Died: November 25, 1884; Trekked witht t
+3 CONC he Jedediah M. Grant - Willard Snow Company in 1847.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 63; Image: 126
+2 NOTE Dwelling and Family #579
+3 CONT Elizabeth Hoyt age 34 making her birth year around 1815-1816 in New York.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 12:45:54
+0 @I3@ INDI
+1 NAME Mary Ann /Sperry/
+2 SURN Sperry
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 11 Feb 1813
+2 PLAC East Bloomfield, Ontario, New York
+1 DEAT
+2 DATE 19 Mar 1851
+1 AFN 1B4G-Z2
+1 _UID F48AFA1081DBE9468F095C41DCF9BA3209FC
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE Mary Ann Sperry, Born: February 11, 1813 in East Bloomfield, Ontario, New York; Died: March 1
+3 CONC 9, 1851.
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 12:44:56
+0 @I4@ INDI
+1 NAME John /Sperry/
+2 SURN Sperry
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 20 Apr 1811
+2 PLAC East Bloomfield, Ontario, New York
+1 DEAT
+2 DATE 12 Jun 1881
+1 AFN 1B4G-XV
+1 _UID E363430BD4FC6E4397AFCE3F9F2D4C0B8BD7
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE John Sperry, Born: April 20, 1811 in East Bloomfield, Ontario, New York; Died: June 12, 1881.
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles, 1847 (age 18), J.M. Grant Co., Life i
+3 CONC n Utah (1848)Cited on Heritage Gateways: official sesquicentennial K-12 education project sp
+3 CONC onsored by Utah State Office of Education, the BYU-Public School Partnership and the Utah Edu
+3 CONC cation Network. http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 SOUR @S18@
+2 PAGE Roll: M432_109; Page: 426; Image: 317
+2 NOTE Dwelling #2249 and Family #2256
+3 CONT John Sperry age 39 making his birth year around 1810-12 in New York.
+2 DATA
+3 DATE November 17, 1850 in Hancock, Illinois
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 13:04:36
+0 @I5@ INDI
+1 NAME Mary /Lamont/
+2 SURN Lamont
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 29 Nov 1789
+2 PLAC North Hillsdale, Columbia, New York
+1 DEAT
+2 DATE 26 Sep 1846
+2 PLAC Mount Pigsah, Pottawattamie, Iowa
+1 BURI
+2 DATE Sep 1846
+2 PLAC Mount Pisgah, Pottawattamie, Iowa
+1 AFN 1B4G-63
+1 _UID 405724C3825FEC489B3F6B7886407ABC4CD8
+1 FAMS @F1@
+1 FAMC @F7@
+1 SOUR @S4@
+2 NOTE Mary Lamont, Born: November 29, 1789 in North Hillsdale, Columbia, New York; Died: Septembe
+3 CONC r 26, 1846 in Mt. Pisgah (Mt. Ayer), Pottawattamie, Iowa; Burial: September 1846 in Mount Pis
+3 CONC gah, Pottawattamie, Iowa.
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 11:55:38
+0 @I6@ INDI
+1 NAME Joy /Sperry/
+2 SURN Sperry
+2 GIVN Joy
+1 SEX M
+1 BIRT
+2 DATE 9 Feb 1785
+2 PLAC Alford, Berkshire, Massachusetts
+1 DEAT
+2 DATE 1 Jan 1847
+2 PLAC Highland, Grove, Pottawattamie, Iowa
+1 BURI
+2 DATE 1 Jan 1847
+2 PLAC Near Highland Grove, Pottawattamie, Iowa
+1 AFN 1B4G-5W
+1 _UID F2623B072E90B444927AB8B18EE0F3F71997
+1 FAMS @F1@
+1 FAMC @F6@
+1 SOUR @S4@
+2 NOTE Joy Sperry, Born: February 9, 1785 in Alford, Berkshire, Massachusetts; Died: January 1, 184
+3 CONC 7 in Highland Grove, Pottawattamie, Iowa; Burial: January 1, 1847 near Highland Grove, Pottaw
+3 CONC attamie, Iowa.
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles, 1847 (age 18), J.M. Grant Co., Life i
+3 CONC n Utah (1848)Cited on Heritage Gateways: official sesquicentennial K-12 education project sp
+3 CONC onsored by Utah State Office of Education, the BYU-Public School Partnership and the Utah Edu
+3 CONC cation Network. http://heritage.uen.org/companies/Wc4bff23a97425.htm
+1 SOUR @S39@
+2 PAGE Roll: 60; Page: 211
+2 NOTE Joy Sperry age 50-60 years with 3 boys between 10-15 years, 1 boy between 5-10 years, wife be
+3 CONC tween 40-50 years, 2 daughters between 15-20, and 1 daughter between 10-15 years.
+2 DATA
+3 DATE 1840 in Hancock, Illinois
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 11:55:09
+0 @I7@ INDI
+1 NAME Aaron George /Sperry/
+2 SURN Sperry
+2 GIVN Aaron George
+1 SEX M
+1 BIRT
+2 DATE 28 Mar 1827
+2 PLAC Mecca, Trumbull, Ohio
+1 DEAT
+2 DATE 15 Dec 1846
+2 PLAC Highland Grove, Pottowattamie, Iowa
+2 SOUR @S5@
+3 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+4 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+4 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+4 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+4 CONT 
+1 AFN 1B4H-4V
+1 _UID F941FD75493BD9498B5FF4A03A61E964B830
+1 FAMC @F1@
+1 NOTE Most likely died where his father did in WInter Quarters, Nebraska or Council Bluffs, Iowa.
+1 SOUR @S1@
+1 SOUR @S4@
+2 NOTE Aaron George Sperry, Born: March 28, 1827 in Mecca, Trumball, Ohio; Died: December 15, 1846. 
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 13:11:09
+0 @I8@ INDI
+1 NAME Sarah /Sperry/
+2 SURN Sperry
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 18 Feb 1822
+2 PLAC Mecca, Trumbull, Ohio
+1 DEAT
+2 DATE 12 May 1900
+2 PLAC Ustick Township, Whiteside, Illinois
+1 AFN 1B4H-2J
+1 _UID 764F60C0C066834C82C04165D26CABC26DA0
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE Sarah Sperry, Born: February 18, 1822 in Mecca, Trumball, Ohio; Died: May 12, 1900 in Ustic
+3 CONC k Township, Whiteside, Illinois.
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 12:53:57
+0 @I9@ INDI
+1 NAME Llewellyn /MANTLE/
+2 SURN MANTLE
+2 GIVN Llewellyn
+1 SEX M
+1 BIRT
+2 DATE 23 Aug 1808
+2 PLAC Crugmont, Nantmell, Radnor, Wales
+1 CHR
+2 DATE 23 Aug 1808
+1 DEAT
+2 DATE 25 Nov 1901
+2 PLAC Taylorsville, Salt Lake, Utah
+1 BURI
+2 PLAC Taylorsville, Salt Lake, Utah
+1 AFN 22P3-LV
+1 _UID B236825F2B471344AC583909177FF593F60D
+1 FAMS @F2@
+1 FAMC @F3@
+1 SOUR @S3@
+2 NOTE Llewellyn Mantle, Born: August 23, 1808 in Crugmont, Nantmell, Radnor, Wales; Died: Novembe
+3 CONC r 25, 1901 in Taylorsville, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)Birth Date: 23 Aug. 1808; Death Date: November 25, 1901Age: 42
+3 CONC Sources:Jones, Annie Maria Mantle, Biographical sketch of Lewellyn and Catherine Mantle.
+1 SOUR @S7@
+1 SOUR @S18@
+2 PAGE Roll: M653_1313; Page: 65; Image: 65
+2 NOTE Dwelling #2075 and Famliy #410
+3 CONT Llewellyn Mantle age 51 making his birth year around 1808-09 in Wales.
+2 DATA
+3 DATE August 20, 1860 Salt Lake, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 12:14:32
+0 @I10@ INDI
+1 NAME Llewellyn /MANTLE/
+2 SURN MANTLE
+2 GIVN Llewellyn
+1 SEX M
+1 AFN BL3M-NX
+1 _UID 117210F614AAFE40BD81675B39C171180847
+1 FAMS @F3@
+1 SOUR @S3@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:03:49
+0 @I11@ INDI
+1 NAME Eleanor Rebecca /PUGH (PEW)/
+2 SURN PUGH (PEW)
+2 GIVN Eleanor Rebecca
+1 SEX F
+1 AFN BL3M-P4
+1 _UID 124990AB4D98D94383D965B19D2699BC219D
+1 FAMS @F3@
+1 SOUR @S3@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:03:49
+0 @I12@ INDI
+1 NAME Catherine /WATKINS/
+2 SURN WATKINS
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE 24 Oct 1815
+2 PLAC Combsmoor, Bryton, Hereford, England
+1 DEAT
+2 DATE 8 Feb 1904
+2 PLAC Taylorsville, Salt Lake, Utah
+1 AFN 22P3-M2
+1 _UID BB52101FF9587848A36F13FDE734B7D7189E
+1 FAMS @F2@
+1 FAMC @F4@
+1 SOUR @S3@
+2 NOTE Catherine Watkins, Born: October 24, 1815 in Combsmoor, Bryton, Hereford, England; Died: Febr
+3 CONC uary 8, 1904 Taylorsville, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851) Name Listed: Catherine Mantle; Death Date: February 8, 1904
+3 CONT Birth Date: 24 Oct. 1815Age: 35Sources: Jones, Annie Maria Mantle, Biographical sketch of L
+3 CONC ewellyn and Catherine Mantle.
+3 CONT (see website for sources)
+3 CONT 
+1 SOUR @S7@
+2 PAGE Roll: M653_1313; Page: 65; Image: 65
+2 NOTE Dwelling #2075 and Family #410
+3 CONT Catherine Mantle age 44 making her birth year around 1815-16 in England.
+2 DATA
+3 DATE August 20, 1860 in Salt Lake, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 12:28:41
+0 @I13@ INDI
+1 NAME James Or Robert /WATKINS/
+2 SURN WATKINS
+2 GIVN James Or Robert
+1 SEX M
+1 AFN BL3M-Q9
+1 _UID E9BF58FFA389964ABBCF17E5BE560158FE59
+1 FAMS @F4@
+1 SOUR @S3@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:03:49
+0 @I14@ INDI
+1 NAME Catherine Or Mary /ALLEN/
+2 SURN ALLEN
+2 GIVN Catherine Or Mary
+1 SEX F
+1 AFN BL3M-RG
+1 _UID B820556142AA004FA75BD01024A51362E90C
+1 FAMS @F4@
+1 SOUR @S3@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:03:49
+0 @I15@ INDI
+1 NAME Eliza Melissa /MANTLE/
+2 SURN MANTLE
+2 GIVN Eliza Melissa
+1 SEX F
+1 BIRT
+2 DATE 17 Mar 1850
+2 PLAC Kanesville, Pottawatamie, Iowa
+1 DEAT
+2 DATE 2 Jun 1902
+2 PLAC Taylorsville, Salt Lake, Utah
+1 BURI
+2 PLAC Taylorsville, Salt Lake, Utah
+1 AFN 206G-2X
+1 _UID 8DAD19AA4674E44DBF44B4CB27EE4BDEA8B1
+1 FAMC @F2@
+1 SOUR @S3@
+2 NOTE Eliza Melissa Mantle, Born: March 17, 1850 in Kanesville, Pottawattamie, Iowa; Died: June 2
+3 CONC , 1902 Taylorsville, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Birth Date: 17 Mar 1850; Death Date: June 2, 1902
+3 CONT Age: 1Sources: Jones, Annie Maria Mantle, Biographical sketch of Lewellyn and Catherine Mant
+3 CONC le.
+1 SOUR @S7@
+1 SOUR @S27@
+2 PAGE Roll: M653_1313; Page: 65; Image: 65
+2 NOTE Dwelling #2075 and Family #410 
+3 CONT Eliza M. Mantle age 10 making her birth year around 1849-50 in Iowa.
+2 DATA
+3 DATE August 20, 1860 in Salt Lake, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:48:46
+0 @I16@ INDI
+1 NAME William Moronia /Behunin/
+2 SURN Behunin
+2 GIVN William Moronia
+1 SEX M
+1 BIRT
+2 DATE 28 May 1833
+2 PLAC Richland, Oswego, New York
+1 DEAT
+2 DATE Sep 1885
+2 PLAC unknown
+1 _UID FD9B810BA2BF3944B57BD124879AAB170AE3
+1 FAMC @F52@
+1 SOUR @S16@
+2 NOTE William Moronia Behunin, Born: May 28, 1833 in Richland, Oswego, New York; Died: September 18
+3 CONC 85. 
+1 SOUR @S2@
+2 NOTE William Moronia Behunin, Born: May 28, 1833; Died: Sept 1833 [sic]; Trekked with the Milo And
+3 CONC rus Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #171
+3 CONT William M. Behunin age 16 making his birth year around 1833-34 in New York.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:51:15
+0 @I17@ INDI
+1 NAME Catherine Ann /MANTLE/
+2 SURN MANTLE
+2 GIVN Catherine Ann
+1 SEX F
+1 BIRT
+2 DATE 4 Feb 1846
+2 PLAC English Grove
+1 DEAT
+2 DATE 1846
+1 AFN 4XVL-Z7
+1 _UID A03EA199CE9073429411B19916F54CE354C9
+1 FAMC @F2@
+1 NOTE English Grove is possibly a town in Atchison County, Missouri which would make some sense bec
+2 CONC ause her Brother Llewellyn was born in Missouri. Other English Grove's are in Minnesota and P
+2 CONC ennsylvania which neither of them make sense because Pennsylvania is backtracking from thei
+2 CONC r trek to Utah and Minnesota is also out of the way of their destination.
+1 SOUR @S3@
+2 NOTE Catherine Ann Mantle, Born: February 4, 1846 in English Grove; Died: in 1846.
+1 SOUR @S7@
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:34:18
+0 @I18@ INDI
+1 NAME Almina Polly /Tyler/
+2 SURN Tyler
+2 GIVN Almina Polly
+1 SEX F
+1 BIRT
+2 DATE 23 Apr 1811
+2 PLAC Sempronius, Cayuga, New York
+1 DEAT
+2 DATE 29 Sep 1883
+2 PLAC Ferron, Emery, Utah
+1 BURI
+2 PLAC Ferron, Emery, Utah
+1 _UID 69B60833687CBB49A61AAF2CA94EC07C10BA
+1 FAMS @F53@
+1 SOUR @S16@
+2 NOTE Almina or Elmina Polly Tyler, Born: April 23, 1811 in Sempronius, Cayuga, New York; Died: Sep
+3 CONC tember 29, 1883 in Ferron, Emery, Utah; Burial: In Ferron, Emery, Utah.
+1 SOUR @S2@
+2 NOTE Almina Polly Behunin, Born: April 23, 1811; Died: September 29, 1883; Trekked with the Milo A
+3 CONC ndrus Company in 1850. 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #170
+3 CONT Almina Behunin age 40 making her birth year around 1810-11 in New York.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 12:08:03
+0 @I19@ INDI
+1 NAME Thomas /MANTLE/
+2 SURN MANTLE
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 1 May 1836
+2 PLAC Brighton, Herefordshire, England
+1 DEAT
+2 DATE 1912
+2 PLAC Vernal, Uintah, Utah
+1 AFN 22P3-SW
+1 _UID 1D44119D970C104987EBA6C672F77A1FEBA3
+1 FAMC @F2@
+1 SOUR @S3@
+2 NOTE Thomas Mantle, Born: May 1, 1836 Brighton, Herefordshire, England; Died: 1912 in Vernal, Uint
+3 CONC ah, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)Birth Date: 1 May 1836; Death Date: 1912Age: 15Sources: Jones
+3 CONC , Annie Maria Mantle, Biographical sketch of Lewellyn and Catherine Mantle.
+1 SOUR @S7@
+1 SOUR @S38@
+2 PAGE Roll: M593_1611; Page: 542; Image: 429
+2 NOTE Dwelling and Family #123
+3 CONT Thomas Mantle age 35 making his birth year around 1834-35 in England.
+2 DATA
+3 DATE September 15, 1870 in Salt Lake, UtahTerritory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:03:58
+0 @I20@ INDI
+1 NAME Mary /MANTLE/
+2 SURN MANTLE
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE FALL 1841
+2 PLAC Combsmoor Parish, Herefordshire, England
+1 DEAT
+2 DATE 1841
+1 AFN 22P3-T3
+1 _UID 931D4C865D75514798DD4AF121F1AB399207
+1 FAMC @F2@
+1 NOTE Her Burial place is most likely incorrect becuase her birth place is England adn she died tha
+2 CONC t very year in between the fall and December. Plus the History of the Family has them leavin
+2 CONC g from an England port in October of 1842.
+1 SOUR @S3@
+2 NOTE Mary Mantle, Born: Fall 1841 in Combsmoor Parish, Herefordshire, England; Died: 1841; Burial
+3 CONC : in Nauvoo, , Illinois [sic].
+1 SOUR @S7@
+2 NOTE Has birth date as 1941 (obviously incorrect/typo)
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:20:27
+0 @I21@ INDI
+1 NAME Llewellyn Jacob /MANTLE/
+2 SURN MANTLE
+2 GIVN Llewellyn Jacob
+1 SEX M
+1 BIRT
+2 DATE 20 Jan 1843
+2 PLAC St. Louis, St. Louis, Missouri
+1 DEAT
+2 DATE 29 May 1920
+2 PLAC Taylorsville, Salt Lake, Utah
+1 BURI
+2 DATE 1 Jun 1920
+2 PLAC Taylorsville, Salt Lake, Utah
+1 AFN 22P3-V8
+1 _UID 755DA54D1BDB5F45B8DF146F124F6FD820E9
+1 FAMC @F2@
+1 SOUR @S3@
+2 NOTE Llewellyn Jacob Mantle, Born: January 20, 1843 in St. Louis, St. Louis, Missouri; Died: May 2
+3 CONC 9, 1920 in Taylorsville, Salt Lake, Utah; Burial: June 1, 1920 in Taylorsville, Salt Lake, Ut
+3 CONC ah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)Birth Date: 20 Jan. 1843; Death Date: May 29, 1920Age: 8Source
+3 CONC s: Jones, Annie Maria Mantle, Biographical sketch of Lewellyn and Catherine Mantle.
+3 CONT 
+3 CONT 
+1 SOUR @S7@
+1 SOUR @S27@
+2 PAGE Roll: M653_1313; Page: 65; Image: 65
+2 NOTE Dwelling #2075 and Family #410
+3 CONT Llewellyn Mantle age 17 making his birth year around 1842-43 in Missouri.
+2 DATA
+3 DATE August 20, 1860 in Salt Lake, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:25:02
+0 @I22@ INDI
+1 NAME Joseph Hyrum /MANTLE/
+2 SURN MANTLE
+2 GIVN Joseph Hyrum
+1 SEX M
+1 BIRT
+2 DATE 28 Feb 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE Dec 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 AFN 22P3-WF
+1 _UID 8D76CCE3791A324CAE38A3A8703AC855BB38
+1 FAMC @F2@
+1 SOUR @S3@
+2 NOTE Joseph Hyrum Mantle, Born: February 28, 1845 in Nauvoo, Hancock, Illinois; Died: December 184
+3 CONC 5 in Nauvoo, ,Illinois.
+1 SOUR @S7@
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:28:22
+0 @I23@ INDI
+1 NAME Sarah Jane /MANTLE/
+2 SURN MANTLE
+2 GIVN Sarah Jane
+1 SEX F
+1 BIRT
+2 DATE 7 Mar 1848
+2 PLAC Highland Grove, Pottawattamie, Iowa
+1 DEAT
+2 DATE 10 May 1898
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 DATE 13 May 1898
+2 PLAC Lehi, Utah, Utah
+1 AFN 22P3-XL
+1 _UID AB4DAEAAA6DB354C84B798BDB622544F5DDF
+1 FAMC @F2@
+1 SOUR @S3@
+2 NOTE Sarah Jane Mantle, Born: March 7, 1848 in Hyland Grove [sic], Pottawattamie, Iowa; Died: Ma
+3 CONC y 7, 1898 in Lehi, Utah, Utah; Burial: May 10, 1898 in Lehi, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)Birth Date: 7 Mar. 1848; Death Date: May 10, 1898Age: 3Sources
+3 CONC : Jones, Annie Maria Mantle, Biographical sketch of Lewellyn and Catherine Mantle.
+1 SOUR @S7@
+1 SOUR @S27@
+2 PAGE Roll: M653_1313; Page: 65; Image: 65
+2 NOTE Dwelling #2075 and Family #410
+3 CONT Sarah J. Mantle age 12 making her birth year around 1847-48 in Iowa.
+2 DATA
+3 DATE August 20, 1860 in Salt Lake, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 13:48:54
+0 @I24@ INDI
+1 NAME Emma /Behunin/
+2 SURN Behunin
+2 GIVN Emma
+1 SEX F
+1 BIRT
+2 DATE 1825
+2 PLAC Williston, Chittenden, Vermont
+1 DEAT
+2 DATE BEF 1828
+1 _UID 03EF1941799BF644A10A1167E740B3CC6376
+1 FAMC @F52@
+1 SOUR @S16@
+2 NOTE Emma Behunin, Born: 1825 in Willistown [sic], Chittenden, Vermont; Died: Before 1828.
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:15:17
+0 @I25@ INDI
+1 NAME Isaac Morton /Behunin/
+2 SURN Behunin
+2 GIVN Isaac Morton
+1 SEX M
+1 BIRT
+2 DATE 9 Sep 1831
+2 PLAC Richland, Oswego, New York
+1 DEAT
+2 DATE 15 Jan 1910
+2 PLAC Spring City, Sanpete, Utah
+1 BURI
+2 DATE 17 Jan 1910
+2 PLAC Spring City, Sanpete, Utah
+1 _UID 2FF9125AE97B214AA020D3CA3F55F7034EDE
+1 FAMC @F52@
+1 SOUR @S16@
+2 NOTE Isaac Morton Behunin, Born: September 9, 1831 in Richland, Oswego, New York; Died: January 15
+3 CONC , 1910 in Spring City, Sanpete, Utah; Burial: January 17, 1910 in Spring City, Sanpete, Utah.
+1 SOUR @S2@
+2 NOTE Isaac Morton Behunin, Born: September 9, 1831; Died: January 15, 1910; Trekked with the Mil
+3 CONC o Andrus Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #170
+3 CONT Isaac M. Behunin age 18 making his birth year around 1821-22 in New York.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:36:42
+0 @I26@ INDI
+1 NAME Philo Marshall /Behunin/
+2 SURN Behunin
+2 GIVN Philo Marshall
+1 SEX M
+1 BIRT
+2 DATE 4 Feb 1828
+2 PLAC Williston, Chittenden, Vermont
+1 DEAT
+2 DATE 31 Dec 1891
+2 PLAC unknown
+1 _UID BCCBD9457148BF4A97C86CA103474F83EF57
+1 FAMC @F52@
+1 SOUR @S16@
+2 NOTE Philo Marshall Behunin, Born: February 4, 1828 in Willistown [sic], Chittenden, Vermont.
+1 SOUR @S2@
+2 NOTE Philo Marshall Behunin, Born: February 4, 1828; Died: December 31, 1891; Trekked with the Mil
+3 CONC o Andrus Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131 ;Image: 264
+2 NOTE Dwelling and Family #170
+3 CONT Philo M. Behunin age 22 making his birth year around 1827-28 in New York. 
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:25:48
+0 @I27@ INDI
+1 NAME John Casper /DEGEN/
+2 SURN DEGEN
+2 GIVN John Casper
+1 SEX M
+1 AFN 1S6J-31
+1 _UID E2525EFDD0166347AE24C1AD473712A594D7
+1 FAMS @F9@
+1 SOUR @S6@
+1 SOUR @S8@
+2 NOTE Mentioned in several sections.
+3 CONT Names listed: John Casper Degen, John Casper Dagen
+1 CHAN
+2 DATE 30 Oct 2007
+3 TIME 14:32:17
+0 @I28@ INDI
+1 NAME Moses /SPERRY/
+2 SURN SPERRY
+2 GIVN Moses
+1 SEX M
+1 AFN 4BR1-W0
+1 _UID 85DBE9FCFE2D034AB97612EA439B63204901
+1 FAMS @F6@
+1 SOUR @S4@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:20:18
+0 @I29@ INDI
+1 NAME Sarah /MCCLEOD/
+2 SURN MCCLEOD
+2 GIVN Sarah
+1 SEX F
+1 AFN 4BR1-X5
+1 _UID 5B6176025ACC7C468B6520CF7CDA6B40FCB1
+1 FAMS @F6@
+1 SOUR @S4@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:20:18
+0 @I30@ INDI
+1 NAME Martin Benjamin /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Martin Benjamin
+1 SEX M
+1 BIRT
+2 DATE 5 Feb 1841
+2 PLAC Strasburg, Lancaster, Pennsylvania
+2 SOUR @S8@
+3 NOTE "Biography of Matin Bushman and Elizabeth Degen" has birth location as Bart, Lancaster, Penns
+4 CONC ylvania
+1 DEAT
+2 DATE 31 Oct 1927
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 DATE 3 Nov 1927
+2 PLAC Lehi, Utah, Utah
+1 AFN 1CXK-77
+1 _UID 507C1AA5768C1743AC745EBE028C03A256A8
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Martin Benjamin Bushman, Born: February 5, 1841 in Strasburg, Lancaster, Pennsylvania; Died
+3 CONC : October 31, 1927 in Lehi, Utah, Utah; Burial: November 3, 1927 in Lehi, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)Birth Date: 5 Feb 1841; Death Date: October 31, 1927Age: 10Sou
+3 CONC rces: Ancestral FileBushman, Martin Benjamin, Autobiographical sketch, 1925, [6]. Journal H
+3 CONC istory, Supp. after 31 Dec. 1851, p. 4
+3 CONT (see website)
+1 SOUR @S8@
+2 NOTE mentioned in several sections
+3 CONT Name Listed as Martin B. in Pioneers and Prominent Men of Utah section
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #68
+3 CONT Martin Bushman age 9 making his birth year around 1842-1843 in Pennsylvania.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:44:51
+0 @I31@ INDI
+1 NAME William /LAMONT/
+2 SURN LAMONT
+2 GIVN William
+1 SEX M
+1 AFN B7WQ-G2
+1 _UID 2905BAA558FD4C4C84B0B2FA845772FEA500
+1 FAMS @F7@
+1 SOUR @S4@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:20:18
+0 @I32@ INDI
+1 NAME Phebe (Perkins) /GROSS/
+2 SURN GROSS
+2 GIVN Phebe (Perkins)
+1 SEX F
+1 AFN B7WQ-H7
+1 _UID 6147FBA44641C24B91A1E1EABEDC57C58E57
+1 FAMS @F7@
+1 SOUR @S4@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 14:20:18
+0 @I33@ INDI
+1 NAME Charles /SPERRY/
+2 SURN SPERRY
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 30 Jun 1829
+2 PLAC Mecca, Trumball, Ohio
+1 DEAT
+2 DATE 31 May 1914
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 3 Jun 1914
+2 PLAC Pine View Cemetery, Nephi, Juab, Utah
+1 AFN 23T4-RC
+1 _UID 384F9C194C638046BB0F9BE22306E2E4E7C8
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE Charles Sperry, Born: June 30, 1829 in Mecca, Trumbell [sic], Ohio; Died: May 31, 1914 in Nep
+3 CONC hi, Juab, Utah; Burial: June 3, 1914 in Pine View Cemetery, Nephi, Juab, Utah.
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles, 1847 (age 18), J.M. Grant Co., Life i
+3 CONC n Utah (1848)Cited on Heritage Gateways: official sesquicentennial K-12 education project sp
+3 CONC onsored by Utah State Office of Education, the BYU-Public School Partnership and the Utah Edu
+3 CONC cation Network. http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 SOUR @S2@
+2 NOTE Jedediah M. Grant - Willard Snow Company (1847)Birth Date: 30 June 1829; Death Date: May 31
+3 CONC , 1914Age: 17Sources: Journal History, 21 June 1847, p. 36 Sperry, Charles, Autobiographic
+3 CONC al sketch [n.d.], 2-3. Sperry, Charles, Autobiographical sketch, in Chronicles of Courage
+3 CONC , 8 vols. [1990-97], 8:59-60.
+3 CONT 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 55; Image: 109
+2 NOTE Dwelling and Family #459
+3 CONT Charles Sperry age 21 making his birth year around 1828-30 in Ohio.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 13:16:43
+0 @I34@ INDI
+1 NAME Abraham /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Abraham
+1 SEX M
+1 AFN 1S6J-1N
+1 _UID 604CE468563D8B4E9BF88EC54A21C8B22FA1
+1 FAMS @F8@
+1 SOUR @S6@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 15:34:05
+0 @I35@ INDI
+1 NAME Anna Maria /GRAFF/
+2 SURN GRAFF
+2 GIVN Anna Maria
+1 SEX F
+1 AFN 1S6J-46
+1 _UID 7106C9D0510799479DA60DB97F12762C8431
+1 FAMS @F9@
+1 SOUR @S6@
+1 SOUR @S8@
+2 NOTE Mentioned in several sections.
+3 CONT Names Listed: Anna Maria Graf, Maria Graff Dagen
+1 CHAN
+2 DATE 30 Oct 2007
+3 TIME 14:31:41
+0 @I36@ INDI
+1 NAME Harrison /SPERRY/
+2 SURN SPERRY
+2 GIVN Harrison
+1 SEX M
+1 BIRT
+2 DATE 24 Mar 1832
+2 PLAC Mecca, Trumball County, Ohio
+1 DEAT
+2 DATE 28 Jul 1928
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 31 Jul 1928
+2 PLAC City Cemetery, Salt Lake City, Salt Lake, Utah
+1 AFN 1B4G-17
+1 _UID 3206677B51830D4A98FD5B1AC8C07A0B5C92
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE Harrison Sperry, Born: March 24, 1832 in Mecca, Trumball, Ohio; Died: July 28, 1928 in Salt L
+3 CONC ake City, Salt Lake, Utah; Burial: July 31, 1928 in City Cemetery, Salt Lake, Salt Lake, Utah
+3 CONC .
+1 SOUR @S2@
+2 NOTE Jedediah M. Grant - Willard Snow Company (1847)Birth Date: 24 Mar 1832; Death Date: July 28
+3 CONC , 1928Age at Travel: 15Sources:	
+3 CONT Journal History, 21 June 1847, p. 36			
+3 CONT Sperry, Harrison, Papers, 1919-1926, fd. 1, 1-2. 			
+3 CONT Sperry, Harrison, "Pioneers of 1847 Recount Experiences of the Journey Across the Plains an
+3 CONC d Life in the Old Forts in the Valley," Deseret Evening News, 14 Aug. 1920, sec. IV, p. 7. 		
+3 CONC 	
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 55; Image: 109
+2 NOTE Dwelling and Family #461
+3 CONT Harrison Sperry age 19 making his birth year around 1830-32 in Ohio.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 13:22:03
+0 @I37@ INDI
+1 NAME Elizabeth /DEGEN/
+2 SURN DEGEN
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 12 Sep 1802
+2 PLAC Hollstein, Bassiland, Switzerland
+2 SOUR @S8@
+3 NOTE "Sketch of the Life of Martin and Elizabeth Bushman" birth location: Basel, Switzerland
+1 DEAT
+2 DATE 21 May 1878
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 DATE May 1878
+2 PLAC Lehi, Utah, Utah
+1 AFN 1KC6-51
+1 _UID F6EA45811596504CB579EC664D2269F1367D
+1 FAMS @F5@
+1 FAMC @F9@
+1 SOUR @S6@
+2 NOTE Elizabeth Degen, Born: September 12, 1802 in Hollstein, Bassiland, Switzerland; Died: May 21
+3 CONC , 1878 in Lehi, Utah, Utah; Burial: in Lehi, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)
+3 CONT Name Listed: Elizabeth Degan BushmanBirth Date: 12 Sep 1802; Death Date: May 21, 1878Age: 4
+3 CONC 8Sources: Ancestral FileJohn Bushman, The Life and Labors of John Bushman, 10-11  Journa
+3 CONC l History, Supp. after 31 Dec. 1851, p. 4
+3 CONT (see website)
+1 SOUR @S8@
+2 NOTE in "Sketch of the Life of Martin and Elizabeth Bushman" birth location: Basel, Switzerland; n
+3 CONC ame mentioned: Elizabeth Dagen
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #68
+3 CONT Elizabeth Bushman age 48 making her birth year around 1802-1803 in England.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 1 Dec 2008
+3 TIME 11:26:47
+0 @I38@ INDI
+1 NAME Esther /FRANKS/
+2 SURN FRANKS
+2 GIVN Esther
+1 SEX F
+1 AFN 1S6J-2T
+1 _UID 9BE84F97DCA1664FBE9398C06CA46DFEBFFC
+1 FAMS @F8@
+1 SOUR @S6@
+1 CHAN
+2 DATE 23 Oct 2007
+3 TIME 15:34:05
+0 @I39@ INDI
+1 NAME Martin /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Martin
+1 SEX M
+1 BIRT
+2 DATE 1 Apr 1802
+2 PLAC Strasburg, Lancaster, Pennsylvania
+1 DEAT
+2 DATE 18 Oct 1870
+2 PLAC Lehi, Utah, Utah
+2 SOUR @S8@
+3 NOTE "Sketch of the Life of Martin and Elizabeth Bushman":
+4 CONT           Has death date as 10 Oct 1879 (age 68).  Believe this to be an error, at least in t
+4 CONC he year.  Other information on the same website has his death date as 18 Oct 1870.
+1 BURI
+2 DATE 19 Oct 1870
+2 PLAC Lehi, Utah, Utah
+1 AFN 1KC6-4T
+1 _UID 03E76D3083DA464EB92D0F2750177842B5F2
+1 FAMS @F5@
+1 FAMC @F8@
+1 SOUR @S6@
+2 NOTE Martin Bushman, Born: April 1, 1802 in Strasburg, Lancaster, Pennsylvania; Died: October 18
+3 CONC , 1870 in Lehi, Utah, Utah; Burial: October 19, 1870 in Lehi, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)Birth Date: 1 Apr 1802; Death Date: October 18, 1870.Age: 49So
+3 CONC urces: Ancestral File Bushman, Martin Benjamin, Autobiographical sketch, 1925, [6]. John Bus
+3 CONC hman, The Life and Labors of John Bushman, p. 10-11 Journal History, Supp. after 31 Dec. 185
+3 CONC 1, p. 4
+3 CONT (see website)
+1 SOUR @S23@
+2 PAGE Pages 7-8
+1 SOUR @S8@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #68
+3 CONT Martin Bushman age 98 making his birth year around 1752 in Pennsylvania. 
+3 CONT (I do not believe this to be the real age of Martin but the family members, Birth place and w
+3 CONC ife matches perfectly, I think the Census scribe was careless).
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 1 Dec 2008
+3 TIME 11:17:55
+0 @I40@ INDI
+1 NAME William Lamont /SPERRY/
+2 SURN SPERRY
+2 GIVN William Lamont
+1 SEX M
+1 BIRT
+2 DATE 20 Apr 1824
+2 PLAC Loudonville, Ashland, Ohio
+1 DEAT
+2 DATE 6 Jan 1901
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 8 Jan 1901
+2 PLAC Vine Bluff Cemetery, Nephi, Juab, Utah
+1 AFN 1B4H-3P
+1 _UID 7D017F8CAC8E2C4BA6825E2C95FDF24DBDBC
+1 FAMC @F1@
+1 SOUR @S4@
+2 NOTE William Lamont Sperry, Born: April 20, 1824 in Loudonville, Ashland, Ohio; Died: January 6, 1
+3 CONC 901 in Nephi, Juab, Utah; Burial: January 8, 1901 in Vine Bluff Cemetery, Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Jedediah M. Grant - Willard Snow Company (1847)Birth Date: 20 Apr. 1824; Death Date: Januar
+3 CONC y 6, 1901Age at Travel: 23Sources: Journal History, 21 June 1847, p. 36
+3 CONT 
+1 SOUR @S5@
+2 NOTE Article Title: Pioneer 1847 Companies: Sperry, Charles 1846, Nauvoo and Iowa
+3 CONT Cited on Heritage Gateways: official sesquicentennial K-12 education project sponsored by Uta
+3 CONC h State Office of Education, the BYU-Public School Partnership and the Utah Education Network
+3 CONC . http://heritage.uen.org/companies/Wc4bff23a97425.htm
+3 CONT 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 55; Image: 109
+2 NOTE Dwelling and Family #461
+3 CONT William L. Sperry age 27 making his birth year around 1822-24 in New York.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 13:01:23
+0 @I41@ INDI
+1 NAME Elias Albert /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Elias Albert
+1 SEX M
+1 BIRT
+2 DATE 6 Dec 1849
+2 PLAC Highland Grove, Pottawattamie, Iowa
+2 SOUR @S23@
+3 PAGE Page 8
+1 DEAT
+2 DATE 15 Oct 1925
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 DATE 18 Oct 1925
+2 PLAC Lehi, Utah, Utah
+1 AFN 1CFH-VN
+1 _UID 3E7FE21FC641634F9948E13FAD82220BD4C2
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Elias Albert Bushman, Born: December 6, 1849 in Highland Grove, Pottawatomie [sic], Iowa; Die
+3 CONC d: October 15, 1925 in Lehi, Utah, Utah; Burial: October 18, 1925 in Lehi, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)Birth Date: 6 Dec 1849; Death Date: October 15, 1925Age: 1Sour
+3 CONC ces: Ancestral File 
+3 CONT (see website)
+1 SOUR @S8@
+2 NOTE mentioned in various sections
+3 CONT Names listed:  Albert, Elias A.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #68
+3 CONT Elias Bushman age 1 making his birth year around 1848-1849 in Iowa.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:50:31
+0 @I42@ INDI
+1 NAME Henry /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 11 Dec 1827
+2 PLAC Bart, Lancaster, Pennsylvania
+1 DEAT
+2 DATE 20 Mar 1828
+2 PLAC Bart, Lancaster, Pennsylvania
+1 AFN 1KC7-6B
+1 _UID DFF97FDDAB0B0D47BFBFA069AE676A4F933E
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Henry Bushman, Born: December 11, 1827 in Bart, Lancaster, Pennsylvania; Died: March 20, 182
+3 CONC 8 in Bart, Lancaster, Pennsylvania.
+1 SOUR @S8@
+2 NOTE see "Biography of Marin Bushman and Elizabeth Degen" and section from Pioneers and Prominen
+3 CONC t Men of Utah, p. 785
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 09:27:33
+0 @I43@ INDI
+1 NAME Maria /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Maria
+1 SEX F
+1 BIRT
+2 DATE 21 Jan 1829
+2 PLAC Bart, Lancaster, Pennsylvania
+1 DEAT
+2 DATE 5 Feb 1829
+2 PLAC Bart, Lancaster, Pennsylvania
+1 AFN 1KC7-7H
+1 _UID F70A681B565B374D9ECBA596D99683E33239
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Maria Bushman, Born: January 21, 1829 in Bart, Lancaster, Pennsylvania; Died: February 5, 182
+3 CONC 9 in Bart, Lancaster, Pennsylvania.
+1 SOUR @S8@
+2 NOTE Birth Date listed: 31 Jan 1829 (found in Pioneers and Prominent Men of Utah, p.785)
+3 CONT see "Biography of Marin Bushman and Elizabeth Degen" and section from Pioneers and Prominen
+3 CONC t Men of Utah, p. 785
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 09:30:55
+0 @I44@ INDI
+1 NAME Jacob /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Jacob
+1 SEX M
+1 BIRT
+2 DATE 27 Jul 1830
+2 PLAC Lampeter Twp, Lancaster, Lancaster, Pennsylvania
+2 SOUR @S8@
+3 NOTE "Biography of Matin Bushman and Elizabeth Degen" has birth location as Bart, Lancaster, Penns
+4 CONC ylvania
+1 DEAT
+2 DATE 25 Mar 1919
+2 PLAC Fairview, Sanpete, Utah
+1 BURI
+2 DATE Mar 1919
+2 PLAC Fairview City Cemetery, Fairview, Sanpete, Utah
+1 AFN 1KC7-8N
+1 _UID 6F69EBED3F290E48BBF95A971D3C5E5923B8
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Jacob Bushman, Born: July 27, 1830 in Lampeter Township, Lancaster, Lancaster, Pennsylvania
+3 CONC ; Died: March 25, 1919 in Fairview, Sanpete, Utah; Burial: March 1919 in Fairview City Cemete
+3 CONC ry, Fairview, Sanpete, Utah.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)Birth date: 27 July 1830; Death Date: March 25, 1919Age: 20Sou
+3 CONC rces: Ancestral FileJohn Bushman, The Life and Labors of John Bushman, 10-11
+3 CONT (see website)
+1 SOUR @S23@
+2 PAGE Pages 7-8
+1 SOUR @S8@
+2 NOTE mentioned in several sections
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #68
+3 CONT Jacob Bushman age 20 making his birth year around 1830-1831 in Pennsylvania.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:45:01
+0 @I45@ INDI
+1 NAME Sarah Ann /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 9 Jan 1833
+2 PLAC Strasburg, Lancaster, Pennsylvania
+2 SOUR @S8@
+3 NOTE "Biography of Matin Bushman and Elizabeth Degen" has birth location as Bart, Lancaster, Penns
+4 CONC ylvania
+1 DEAT
+2 DATE 17 Jun 1916
+2 PLAC Lehi, Utah, Utah
+2 SOUR @S9@
+3 NOTE Lists death date as: 18 Jun 1917
+1 BURI
+2 DATE 20 Jun 1916
+2 PLAC Lehi, Utah, Utah
+1 AFN 1KC7-9T
+1 _UID 10BF1B5D353DDB4BB6173C98CD01C44A5C6A
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Sarah Ann Bushman, Born: January 9, 1833 in Stasburg, Lancaster, Lancaster [sic], Pennsylvani
+3 CONC a; Died: June 17, 1916 in Lehi, Utah,Utah; Burial: June 20, 1916 in Lehi, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)Birth Date: 9 Jan. 1833; Death Date: June 17, 1916Age: 18Sourc
+3 CONC es: Ancestral FileJohn Bushman, The Life and Labors of John Bushman, p. 10-11
+3 CONT 
+1 SOUR @S9@
+1 SOUR @S23@
+2 PAGE Page 8
+1 SOUR @S8@
+2 NOTE mentioned in several sections.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #68
+3 CONT Sarah Ann Bushman age 17 making her birth year around 1833-1834 in Pennsylvania.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:45:04
+0 @I46@ INDI
+1 NAME Abraham /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Abraham
+1 SEX M
+1 BIRT
+2 DATE 14 Jul 1835
+2 PLAC Bart, Lancaster, Pennsylvania
+1 DEAT
+2 DATE 25 Mar 1839
+2 PLAC Bart, Lancaster, Pennsylvania
+1 AFN 1KC7-B1
+1 _UID CBC6E15726412442BA0880F46DF3BBB89FD7
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Abraham Bushman, Born: July 14, 1835 in Bart/Lancaster, Lancaster, Pennsylvania; Died: Marc
+3 CONC h 25, 1839 in Bart, Lancaster, Pennsylvania.
+1 SOUR @S8@
+2 NOTE Birth Date Listed: 19 July 1835 (from Pioneers and Prominent Men of Utah, p. 785)
+3 CONT see "Biography of Marin Bushman and Elizabeth Degen" and section from Pioneers and Prominen
+3 CONC t Men of Utah, p. 785
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:44:58
+0 @I47@ INDI
+1 NAME Elizabeth /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 9 Nov 1837
+2 PLAC Bart, Lancaster, Pennsylvania
+1 DEAT
+2 DATE 12 Oct 1846
+2 PLAC  , , Iowa
+2 SOUR @S23@
+3 PAGE Page 7
+1 AFN 1KC7-C6
+1 _UID 8A4614B134BFFD4FBE46023F028F5B060BAF
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Elizabeth Bushman, Born: November 9, 1837 in Bart/Lancaster, Lancaster, Pennsylvania; Died: O
+3 CONC ctober 12, 1846 in Iowa.
+1 SOUR @S8@
+2 NOTE see sections, "Sketch of the Life of Martin and Elizabeth Bushman" and Pioneers and Prominen
+3 CONC t Men of Utah, p. 785
+1 SOUR @S9@
+2 NOTE under section "A Short Biographical Sketch of Sarah Ann Bushman (Mrs. Alonzo D. Rhodes) (1833
+3 CONC -1917)"
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:44:55
+0 @I48@ INDI
+1 NAME Esther Ann /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN Esther Ann
+1 SEX F
+1 BIRT
+2 DATE 28 Nov 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 19 Oct 1846
+2 PLAC , , , Iowa
+2 SOUR @S23@
+3 PAGE Page  7
+1 AFN 1KC7-DC
+1 _UID 828040B8D4F43344BE7A2A891CBBAFD57F09
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE Esther Ann Bushman, Born: November 28, 1845 in Nauvoo, Hancock, Illinois; Died: October 19, 1
+3 CONC 846 in Iowa.
+1 SOUR @S8@
+2 NOTE Mentioned in several sections (including Biography of Martin Bushman and Elizabeth Degen an
+3 CONC d Prominent Pioneers and Men of Utah, p. 785)
+3 CONT Names Listed: Hetty, Hetty A.B. 
+1 SOUR @S9@
+2 NOTE under section "A Short Biographical Sketch of Sarah Ann Bushman (Mrs. Alonzo D. Rhodes) (1833
+3 CONC -1917)"
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:44:24
+0 @I49@ INDI
+1 NAME John /BUSHMAN/
+2 SURN BUSHMAN
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 7 Jun 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 30 May 1926
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 7 Jun 1926
+2 PLAC Joseph City, Navajo, Arizona
+1 AFN 1BBD-7L
+1 _UID ACD45D44E66D4A469FEA643F4BA87A6D0AFD
+1 FAMC @F5@
+1 SOUR @S6@
+2 NOTE John Bushman, Born: June 7, 1843 in Nauvoo, Hancock, Illinois; Died: May 30, 1926 in Salt Lak
+3 CONC e City, Salt Lake, Utah; Burial: June 7, 1926 in Joseph City, Navajo, Arizona.
+1 SOUR @S2@
+2 NOTE Easton Kelsey Company (1851)Birth Date: 7 June 1843; Death Date: May 30, 1926Age: 8Sources
+3 CONC : Ancestral File John Bushman, The Life and Labors of John Bushman, p. 10-11  Journal Histo
+3 CONC ry, Supp. after 31 Dec. 1851, p. 4
+3 CONT (see website)
+1 SOUR @S23@
+2 PAGE Page 7-8
+1 SOUR @S8@
+2 NOTE Mentioned in two sections (Biography of Martin Bushman and Elizabeth Degan and Pioneers and P
+3 CONC rominent Men of Utah, p. 785)
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #68
+3 CONT John Bushman age 7 making his birth year around 1843-1844 in Illinois.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 10:44:44
+0 @I50@ INDI
+1 NAME Robert James /WATKINS/
+2 SURN WATKINS
+2 GIVN Robert James
+1 SEX M
+1 BIRT
+2 DATE 3 Oct 1808
+2 PLAC Byton, Herefordshire, England
+1 DEAT
+2 DATE 23 Apr 1869
+2 PLAC Alpine, Utah, Utah
+1 BURI
+2 DATE Apr 1864
+2 PLAC Alpine, Utah, Utah
+1 AFN 174B-LD
+1 _UID 2A0C467D466BD64CA38089D784E052E7ECA6
+1 FAMS @F10@
+1 FAMS @F12@
+1 FAMC @F13@
+1 SOUR @S10@
+2 NOTE Robert James Watkins, Born: October 3, 1808 in Byton, Herefordshire, England; Died: April 23
+3 CONC , 1869 in Alpine, Utah, Utah; Burial: April 1864 in Alpine, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 3 Oct 1808; Death Date: April 23, 1869.
+3 CONT Age:43
+3 CONT (See website for sources)
+1 SOUR @S18@
+2 PAGE Roll:M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #65
+3 CONT Robert Watkins age 40 making his birth year around 1809-10 in England.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:18:55
+0 @I51@ INDI
+1 NAME John /LOVE/
+2 SURN LOVE
+2 GIVN John
+1 SEX M
+1 AFN 48VQ-H0
+1 _UID A93C9BE6B0A9A941B6BDB46483A37C15EBAB
+1 FAMS @F15@
+1 SOUR @S12@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:31:35
+0 @I52@ INDI
+1 NAME Andrew /LOVE/
+2 SURN LOVE
+2 GIVN Andrew
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 1808
+2 PLAC Bullocks Creek, York, South Carolina
+2 SOUR @S13@
+3 PAGE page 127
+3 NOTE Has birth date as 1 Dec 1808.
+2 SOUR @S2@
+3 NOTE Has birth date at 2 Dec 1808
+1 DEAT
+2 DATE 7 Dec 1890
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 PLAC Nephi City Cemetery, Juab, Utah
+1 AFN 1B3T-FP
+1 _UID 1229C06D0F6794488F8876903D468F1801C1
+1 FAMS @F11@
+1 FAMC @F15@
+1 SOUR @S12@
+2 NOTE Andrew Love, Born: December 2, 1808 in Bullock's Creek, York, South Carolina; Died: Decembe
+3 CONC r 7, 1890 in Nephi, Juab, Utah; Burial: in Nephi City Cemetery, Nephi, Juab, Utah.
+1 SOUR @S13@
+2 PAGE Page 127
+1 SOUR @S2@
+2 NOTE Jedediah M. Grant - Joseph B. Noble Company (1847)Birth Date: 2 Dec 1808; Death Date: Decemb
+3 CONC er 7, 1890Age: 38Sources found on website.
+1 SOUR @S18@
+2 PAGE Roll: M432_929; Page: 19; Image: 38
+2 NOTE Dwelling and Family #24
+3 CONT Andrew Love age 42 making his birth year around 1807-08 in South Carolina.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 15:50:53
+0 @I53@ INDI
+1 NAME Ann /PALMER/
+2 SURN PALMER
+2 GIVN Ann
+1 SEX F
+1 BIRT
+2 DATE 1813
+2 PLAC <Cooms Moor, Byton, Herefrd, Engl>
+1 DEAT
+2 DATE 17 Apr 30 Age 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 BURI
+2 DATE 24 Apr 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 AFN 2ZV1-HG
+1 _UID 96206BAB7B816045A6C5AB99C838916F1C30
+1 FAMS @F10@
+1 SOUR @S10@
+2 NOTE Ann Palmer, Born: 1813 in <Cooms Moor [sic], Byton, Herefordshire, England>; Died: April 17
+3 CONC , 1843 in Nauvoo, Hancock, Illinois; Burial: April 24, 1843.
+1 SOUR @S29@
+2 NOTE Ann Watkins, Died: Between April 17-24, 1843 in Nauvoo, Hancock, Illinois at the age of 30 ma
+3 CONC king her birth year around 1812-13.
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:29:12
+0 @I54@ INDI
+1 NAME Anne /WATKINS/
+2 SURN WATKINS
+2 GIVN Anne
+1 SEX F
+1 BIRT
+2 DATE 6 Nov 1836
+2 PLAC Cooms Moor, Byton, Herefordshire, England
+1 DEAT
+2 DATE 20 Oct 1838
+2 PLAC , , England
+1 AFN 2ZV1-NB
+1 _UID E801D2AFB11D924B8A16AF85FF71F5DA2880
+1 FAMC @F10@
+1 NOTE Her younger sister, Anne, was born in England just after she died.
+1 SOUR @S10@
+2 NOTE Ann Watkins, Born: November 6, 1836 in Cooms Moor [sic], Byton, Herefordshire, England; Died
+3 CONC : October 20, 1838. 
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:31:41
+0 @I55@ INDI
+1 NAME Catherine Ann /WATKINS/
+2 SURN WATKINS
+2 GIVN Catherine Ann
+1 SEX F
+1 BIRT
+2 DATE 20 Apr 1838
+2 PLAC Comb's Moor In The Parish Of Byton, Hereford, England
+1 DEAT
+2 DATE 7 Nov 1895
+2 PLAC Salina, Sevier, Utah
+1 BURI
+2 PLAC (north Cem.), Salina, Sevier, Utah
+1 AFN 2ZV1-PH
+1 _UID 23965F706269234EA25A76071B62F2933F89
+1 FAMC @F10@
+1 SOUR @S10@
+2 NOTE Catherine Ann Watkins, Born: April 20, 1838 in Comb's Moor [sic] in the Parish of Byton [sic]
+3 CONC , Herefordshire, England; Died: November 7, 1895 in Salina, Sevier, Utah; Burial: in (North C
+3 CONC emetery), Salina, Sevier, Utah.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date:20 Apr 1838; Death Date: November 7, 1895
+3 CONT Age:14
+3 CONT See Site for Sources.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #65
+3 CONT Catherine Watkins age 12 making her birth year around 1837-39 in England.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:36:31
+0 @I56@ INDI
+1 NAME Ann /WATKINS/
+2 SURN WATKINS
+2 GIVN Ann
+1 SEX F
+1 BIRT
+2 DATE 27 Oct 1839
+2 PLAC Byton, Herefordshire, England
+1 DEAT
+2 DATE 15 Dec 1841
+2 PLAC , , England
+1 AFN 2ZV1-QN
+1 _UID DE73E6A9F7960D4AA9E90CE4E8B981DD45F5
+1 FAMC @F10@
+1 NOTE Her brother Thomas was born in England a few days after her death.
+1 SOUR @S10@
+2 NOTE Ann Watkins, Born: October 27, 1839 in Byton, Herefordshire, England; Died: December 15, 1841
+3 CONC .
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:38:24
+0 @I57@ INDI
+1 NAME Thomas /WATKINS/
+2 SURN WATKINS
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 25 Dec 1841
+2 PLAC Byton, Herefordshire, England
+1 DEAT
+2 DATE unknown
+1 AFN 2ZV1-RT
+1 _UID E6E68BEF4F44C34986B9C0D3A5184335ECDB
+1 FAMC @F10@
+1 NOTE May have died at birth.
+1 SOUR @S10@
+2 NOTE Thomas Watkins, Born: December 25, 1841 in Byton, Herefordshire, England.
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:40:04
+0 @I58@ INDI
+1 NAME Elizabeth /EWING/
+2 SURN EWING
+2 GIVN Elizabeth
+1 SEX F
+1 AFN 48VQ-J5
+1 _UID 6ED27A8FE60A1446A30DC382CE7D84045BDB
+1 FAMS @F15@
+1 SOUR @S12@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:31:35
+0 @I59@ INDI
+1 NAME Robert James /WATKINS/
+2 SURN WATKINS
+2 GIVN Robert James
+1 SEX M
+1 AFN B6LG-6K
+1 _UID 4DD05DD25FDF21499AA20FDD7F13551D2089
+1 FAMS @F13@
+1 SOUR @S11@
+1 SOUR @S10@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:09:37
+0 @I60@ INDI
+1 NAME Katherine /ALLEN/
+2 SURN ALLEN
+2 GIVN Katherine
+1 SEX F
+1 AFN B6LG-7Q
+1 _UID B8F5FDB746376E4F82C007296016330DC330
+1 FAMS @F13@
+1 SOUR @S11@
+1 SOUR @S10@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:11:05
+0 @I61@ INDI
+1 NAME Mary /SMALLMAN/
+2 SURN SMALLMAN
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1819
+2 PLAC Dudley, Staffordshire, England
+1 CHR
+2 PLAC Castle Frome, Heredfordshire, England
+1 DEAT
+2 DATE 11 Dec 1900
+2 PLAC Alpine, Utah, Utah
+1 BURI
+2 DATE 13 Dec 1900
+2 PLAC Alpine, Utah, Utah
+1 AFN 174B-MK
+1 _UID 31D7E8B8B70A1E4CB25B4F0BAB2524012F0D
+1 FAMS @F12@
+1 FAMC @F14@
+1 SOUR @S11@
+2 NOTE Mary Smalman, Born: June 5, 1819 in Dudley, Staffordshire, England; Christened: (Benbow Farm
+3 CONC ) Castle From, Hereforshire, England; Died: December 11, 1900 in Alpine, Utah, Utah; Burial
+3 CONC : December 13, 1900 in Alpine, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 5 June 1819; Death Date: December 11, 1900
+3 CONT Age: 33
+3 CONT See Site for Sources.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #65
+3 CONT Mary Watkins age 39 making her birth year around 1810-12 in England.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:47:27
+0 @I62@ INDI
+1 NAME William /SMALLMAN/
+2 SURN SMALLMAN
+2 GIVN William
+1 SEX M
+1 AFN B6LG-8W
+1 _UID 1B88DAFEDB8AD94498396F0112998DF86E9D
+1 FAMS @F14@
+1 SOUR @S11@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:08:12
+0 @I63@ INDI
+1 NAME Rhoda /MASON/
+2 SURN MASON
+2 GIVN Rhoda
+1 SEX F
+1 AFN B6LG-93
+1 _UID DE0C9DC2E3DBB94FAE86E87B0EE1AC67A89D
+1 FAMS @F14@
+1 SOUR @S11@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:08:12
+0 @I64@ INDI
+1 NAME Martha Jane /WATKINS/
+2 SURN WATKINS
+2 GIVN Martha Jane
+1 SEX F
+1 BIRT
+2 DATE 26 Oct 1851
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 16 Nov 1923
+2 PLAC Alpine, Utah, Utah
+1 BURI
+2 PLAC Alpine, Utah, Utah
+1 AFN 174B-FJ
+1 _UID 72681C6DE7E0554A931694DE660C0767C4DA
+1 FAMC @F12@
+1 SOUR @S11@
+2 NOTE Mary Jane Watkins, Born: October 26, 1851 in Council Bluffs, Pottawattamie, Iowa; Died: Novem
+3 CONC ber 16, 1923 in Alpine, Utah, Utah; Burial: in Alpine, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 26 Oct 1851; Death Date: November 16, 1923
+3 CONT Age: infant
+3 CONT See Site for Sources.
+1 SOUR @S18@
+2 PAGE Roll: M653_1314; Page: 798; Image: 258
+2 NOTE Dwelling #3643 and Family #2849
+3 CONT Martha Watkins age 8 making her birth year around 1851-53 in Missouri.
+2 DATA
+3 DATE October 2, 1860 in Utah County, Utah Territory
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 15:38:13
+0 @I65@ INDI
+1 NAME Rhoda Elizabeth /WATKINS/
+2 SURN WATKINS
+2 GIVN Rhoda Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 12 Sep 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 30 Sep 1912
+2 PLAC Tremonton, Box Elder, Utah
+1 BURI
+2 DATE 3 Oct 1912
+2 PLAC Draper, Salt Lake, Utah
+1 AFN 174C-B5
+1 _UID 7468C79568BA50459A628B71A98B28B5F875
+1 FAMC @F12@
+1 SOUR @S11@
+2 NOTE Rhoda Elizabeth Watkins, Born: September 12, 1844 in Nauvoo, Hancock, Illinois; Died: Septemb
+3 CONC er 30, 1912 in Tremonton, Box Elder, Utah; Burial: October 3, 1912 in Draper, Salt Lake, Utah
+3 CONC .
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 12 Sep 1844; Death Date: September 30, 1912
+3 CONT Age: 7
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #65
+3 CONT Rhoda Watkins age 5 making her birth year around 1844-46 in Illinois.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 14:56:54
+0 @I66@ INDI
+1 NAME Sarah Ann /WATKINS/
+2 SURN WATKINS
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 8 Jan 1847
+2 PLAC Atchison, Nodaway, Missouri
+1 DEAT
+2 DATE 2 Jan 1884
+2 PLAC Unknown
+1 AFN 174C-CB
+1 _UID 4CE6436402B8C0499FCDC8833F05284D0C83
+1 FAMC @F12@
+1 NOTE There is no County by the name of Engl Gr in Missouri.  The only Possible counties could be N
+2 CONC odaway or Andrew.
+1 SOUR @S11@
+2 NOTE Sarah Ann Watkins, Born: January 8, 1847 in Atchison, Eng Gr [sic], Missouri; Died: January 2
+3 CONC , 1884.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 8 Jan 1847; Death Date: January 2, 1884
+3 CONT Age: 5
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #65
+3 CONT Sarah Watkins age 3 making her birth year around 1846-48 in Missouri.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 15:23:09
+0 @I67@ INDI
+1 NAME Mary Matilda /WATKINS/
+2 SURN WATKINS
+2 GIVN Mary Matilda
+1 SEX F
+1 BIRT
+2 DATE 8 Jul 1849
+2 PLAC Highland Grove, Pottawattamie, Iowa
+1 DEAT
+2 DATE 11 Feb 1907
+2 PLAC Alpine, Utah, Utah
+1 BURI
+2 PLAC Alpine, Utah, Utah
+1 AFN 174C-DH
+1 _UID CDF8C9E7643BEF4DA7ED45441F3C3DADB251
+1 FAMC @F12@
+1 SOUR @S11@
+2 NOTE Mary Matilda Watkins, Born: July 8, 1849 in Highland Grove, Pottawattamie, Iowa; Died: Februa
+3 CONC ry 11, 1907 in Alpine, Utah, Utah; Burial: in Alpine, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 8 Jul 1849; February 11, 1907
+3 CONT Age: 3
+3 CONT Source listed: Ancestral File
+3 CONT (see website)
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 137
+2 NOTE Dwelling and Family #65
+3 CONT Mary Watkins age 1 making her birth year around 1848-49 in Iowa.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 15:26:25
+0 @I68@ INDI
+1 NAME Joseph /Behunin/
+2 SURN Behunin
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Williston, Chittenden, Vermont
+1 DEAT
+2 DATE BEF 1828
+1 _UID 3C40C9130D8FFB4E8BEED278AD51C4591B68
+1 FAMC @F52@
+1 SOUR @S16@
+2 NOTE Joseph Behunin, Born: 1825 in Willistown [sic], Chittenden, Vermont; Died: Before 1828.
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:13:48
+0 @I69@ INDI
+1 NAME Maribah /Morton/
+2 SURN Morton
+2 GIVN Maribah
+1 SEX F
+1 BIRT
+2 DATE 16 Mar 1804
+2 PLAC Williston, Chittenden, Vermont
+1 DEAT
+2 DATE 12 Jul 1833
+2 PLAC Kirtland, Gaeuga, Ohio
+1 _UID F474EBAEE68E6147BB941FBE0C72BB028439
+1 FAMS @F52@
+1 SOUR @S16@
+2 NOTE Maribah Morton, March 16, 1804 in Willistown [sic], Chittenden, Vermont; Died: July 12, 183
+3 CONC 3 in Kirtland, Oswego [sic], Ohio.
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:10:44
+0 @I70@ INDI
+1 NAME Isaac /Behunin/
+2 SURN Behunin
+2 GIVN Isaac
+1 SEX M
+1 BIRT
+2 DATE 20 Oct 1803
+2 PLAC Richland, Oswego, New York
+1 DEAT
+2 DATE 15 May 1881
+2 PLAC Springdale, Washington, Utah
+1 BURI
+2 PLAC Mt. Carmel, Utah
+1 _UID B0DD910AD204B747AE3AF564CA70CC3E8112
+1 FAMS @F52@
+1 FAMS @F53@
+1 NOTE Mt. Carmel is an unicorporated community in Southern Utah closest to Kane and Kanab  county.
+1 SOUR @S16@
+2 NOTE Isaac Behunin, Born: October 20, 1803 in Richland, Oswego, New York; Died: May 15, 1881 in Sp
+3 CONC ringdale, Washington, Utah; Burial: May 13 [sic], 1881 in Mt. Carmel, Utah.
+1 SOUR @S2@
+2 NOTE Isaac Behunin, Born: October 20, 1803; Died: May 15, 1881; Trekked with the Milo Andrus Compa
+3 CONC ny in 1850. 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #170
+3 CONT Isaac Behunin age 48 making his birth year around 1801-02 New York.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 11:53:10
+0 @I71@ INDI
+1 NAME Nancy Maria /BIGELOW/
+2 SURN BIGELOW
+2 GIVN Nancy Maria
+1 SEX F
+1 BIRT
+2 DATE 2 Feb 1814
+2 PLAC Seneca Falls, Seneca, New York
+1 DEAT
+2 DATE 27 Nov 1852
+2 PLAC Mona, Juab, Ut
+1 AFN B7WC-D6
+1 _UID 235F74A3C66F3C4BBB9480A1CDE1E6C31CD7
+1 FAMS @F11@
+1 FAMC @F24@
+1 SOUR @S12@
+2 NOTE Nancy Maria Bigelow, Born: February 2, 1814 in Seneca Falls, Seneca, New York; Died: Novembe
+3 CONC r 27, 1852 in Mona, Juab, Utah.
+1 SOUR @S13@
+2 PAGE page 127
+2 NOTE see marriage info.
+1 SOUR @S2@
+2 NOTE Jedediah M. Grant - Joseph B. Noble Company (1847)Birth Date: 2 Feb 1814; Death Date: Novemb
+3 CONC er 27, 1852Age: 33Sources found on website.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 19; Image: 38
+2 NOTE Dwelling and Family #24
+3 CONT Nancy Love age 36 making her birth year around 1813-14 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 16:00:10
+0 @I72@ INDI
+1 NAME Timothy /CHASE/
+2 SURN CHASE
+2 GIVN Timothy
+1 SEX M
+1 AFN 1TVQ-TR
+1 _UID 5E20BB1C6C9D3A4BAD5C5F3286CD45ED0232
+1 FAMS @F25@
+1 SOUR @S22@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 16:11:52
+0 @I73@ INDI
+1 NAME Ezra /CHASE/
+2 SURN CHASE
+2 GIVN Ezra
+1 SEX M
+1 BIRT
+2 DATE 4 Feb 1796
+2 PLAC Colrain, Franklin, Massachusetts
+1 DEAT
+2 DATE 24 Oct 1873
+2 PLAC Harrisville, Weber, Utah
+1 BURI
+2 DATE Oct 1873
+2 PLAC Ogden City Cemetery, Weber, Utah
+1 AFN 1HRQ-91
+1 _UID 0395DA0800FB0E4B99B401A6F1A7DDCF0671
+1 FAMS @F16@
+1 FAMC @F25@
+1 SOUR @S22@
+2 NOTE Ezra Chase, Born: Colrain (or Cold Rain), Franklin (or Norfolk), Massachusetts; Died: Octobe
+3 CONC r 24, 1873 in Harrisville (now Far West), Weber, Utah; Burial: October 1873 in Ogden City Cem
+3 CONC etery, Weber, Utah.
+1 SOUR @S20@
+2 NOTE "History of Benjamin Cazier Sr." by Helen Cazier Norton
+3 CONT http://cazier.org/FamilyHistories/CAZ%2004072007%20History%20of%20Benjamin%20Cazier%20Sr.%20b
+3 CONC y%20Helen%20Cazier%20Norton.pdf
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 4 Feb 1796; Death Date: October 24, 1873
+3 CONT Age: 52
+3 CONT Sources: See website
+1 SOUR @S26@
+2 NOTE Ezra Chase, Born: February 4, 1796 in Colrain, Franklin, Massachusetts; Died: October 24, 187
+3 CONC 3 in Harrisville, Weber, Utah.
+1 SOUR @S27@
+2 PAGE Roll: M653_1313; Page: 441; Image: 451
+2 NOTE Dwelling #827 and Family #739
+3 CONT Ezra Chase age 64 making his birth year around 1795-1796 in Massachusetts. Census taken in We
+3 CONC ber County, Utah.
+2 DATA
+3 DATE 6 Jul 1860
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 10:59:38
+0 @I74@ INDI
+1 NAME Elizabeth Angeline /LOVE/
+2 SURN LOVE
+2 GIVN Elizabeth Angeline
+1 SEX F
+1 BIRT
+2 DATE 21 Jan 1842
+2 PLAC Malon County, Illinois
+1 DEAT
+2 DATE 4 Nov 1886
+2 PLAC Moroni, Sanpete, Utah
+1 AFN 1LNH-W2
+1 _UID 7CEA3B45CFECAE4A9FEDC6039961BB9A3D2C
+1 FAMC @F11@
+1 SOUR @S12@
+2 NOTE Elizabeth Angeline Love, Born: January 21, 1842 in Malon County, Illinois; Died: November 4
+3 CONC , 1886 in Moroni, Sanpete, Utah.
+1 SOUR @S2@
+2 NOTE Jedediah M. Grant - Joseph B. Noble Company (1847)Birth Date: 21 Jan 1842; Death Date: Novem
+3 CONC ber 4, 1886
+3 CONT Age: 5Sources found on website.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 19; Image: 38
+2 NOTE Dwelling and Family #24
+3 CONT Elizabeth Love age 8 making her birth year around 1841-42 in Illinois.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 16:05:21
+0 @I75@ INDI
+1 NAME Harriet Sophia /HOYT/
+2 SURN HOYT
+2 GIVN Harriet Sophia
+1 SEX F
+1 BIRT
+2 DATE 30 Jul 1830
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 30 Jun 1889
+2 PLAC unknown
+1 _UID D95101EA9E8BA246BC26AE0247DC6E0C550A
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Harriet Sophia Hoyt, Born: July 30, 1830 in Booneville, Oneida, New York; Died: June 30, 1889
+3 CONC .
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:41:43
+0 @I76@ INDI
+1 NAME Susan Or Susannah /SUTCLIFFE/
+2 SURN SUTCLIFFE
+2 GIVN Susan Or Susannah
+1 SEX F
+1 AFN 2NXD-L3
+1 _UID E74E27F1A0F1684AABA2349118747CC97336
+1 FAMS @F22@
+1 SOUR @S16@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 11:06:47
+0 @I77@ INDI
+1 NAME John /STOTT/
+2 SURN STOTT
+2 GIVN John
+1 SEX M
+1 AFN 2NXD-KW
+1 _UID 2A8566AEE08CD242B2EA9408D54836B482C1
+1 FAMS @F22@
+1 SOUR @S16@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 11:06:47
+0 @I78@ INDI
+1 NAME LIVING
+1 SEX F
+1 _UID 5C1DF000294B234291947F35A690CACBE6A6
+1 FAMS @F18@
+0 @I79@ INDI
+1 NAME Margaret /LEWIS/
+2 SURN LEWIS
+2 GIVN Margaret
+1 SEX F
+1 AFN 2NFZ-24
+1 _UID 038E8D2747992F4C99AA80EDC1D2C8CE7983
+1 FAMS @F17@
+1 SOUR @S15@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:52:18
+0 @I80@ INDI
+1 NAME James /FISHER/
+2 SURN FISHER
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 14 Jan 1820
+2 PLAC Minnigaff, Kirkcudbrightshire, Scotland
+2 SOUR @S13@
+3 PAGE Page 438
+3 NOTE Has  birthplace written as Pinkiln, Minegaff (country - Scotland).
+1 DEAT
+2 DATE 16 Jan 1903
+2 PLAC Meadow, Millard, Utah
+2 SOUR @S13@
+3 PAGE Page 438
+3 NOTE Refers to Meadow as "Meadowville"
+1 AFN 1K6Q-DW
+1 _UID AF4D83EE4CC8D04D988A67F8FA050A5A82DD
+1 FAMS @F19@
+1 FAMC @F17@
+1 SOUR @S15@
+2 NOTE James Fisher, Born: January 14, 1820 in Minnigaff, Kirkcudbrightshire, (or Penkhill)Scotland
+3 CONC ; Died: January 16, 1903 in Meadow, Millard, Utah. 
+1 SOUR @S13@
+2 PAGE Page 438
+2 NOTE James Fisher, Born: January 14, 1820 in Pinkiln, Minegaff, Scotland.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 14 Jan 1820; Death Date: January 16, 1903
+3 CONT Age: 32
+3 CONT Sources found on website.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: James Fisher
+3 CONT Age: 30 making his birth year around 1819-20 in Scotland.
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 14:06:24
+0 @I81@ INDI
+1 NAME Joseph /FISHER/
+2 SURN FISHER
+2 GIVN Joseph
+1 SEX M
+1 AFN 2NFZ-1X
+1 _UID 5086634EEEB7934D8066892F2BA0EA288725
+1 FAMS @F17@
+1 SOUR @S15@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 10:52:18
+0 @I82@ INDI
+1 NAME Sarah /LEES/
+2 SURN LEES
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 23 Aug 1800
+2 PLAC Rishworth, Yorkshire, England
+1 CHR
+2 DATE 7 Sep 1800
+2 PLAC Rishworth, Yorkshire, England
+1 DEAT
+2 DATE 10 Mar 1849
+2 PLAC Manchester St., Oldham, Lancashire, England
+2 SOUR @S17@
+3 NOTE Has her death date as 10 March 1847
+1 BURI
+2 DATE 13 Mar 1849
+2 PLAC Baptist Chapel Cemetery, Rishworth, Yorkshire, England
+2 SOUR @S17@
+3 NOTE Places her burial in Rishworth Chapel Ward
+1 AFN 171B-CV
+1 _UID 26304799965F6942B35F8986B5E9B965B3CB
+1 FAMS @F21@
+1 FAMC @F23@
+1 SOUR @S16@
+2 NOTE Sarah Lees, Born: August 23, 1800 in Rishworth, Yorkshire, England; Christened: September 7
+3 CONC , 1800 in Rishworth, Yorkshire, England; Died: March 13, 1849 in Manchester, Oldham, Lancashi
+3 CONC re, England; Burial: March 13, 1849 in Baptist Chapel Cemetery, Rishworth, Yorkshire, England
+3 CONC .
+1 SOUR @S17@
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 14:52:22
+0 @I83@ INDI
+1 NAME James Otis /BIGELOW/
+2 SURN BIGELOW
+2 GIVN James Otis
+1 SEX M
+1 BIRT
+2 DATE 14 Jun 1824
+2 PLAC Junius, Seneca, New York
+1 DEAT
+2 DATE 20 Oct 1886
+2 PLAC Millville, Cache, Utah 
+1 BURI
+2 SOUR @S20@
+3 NOTE Has burial date as 22 Oct 1886, in Millvile.
+1 AFN 1NK7-C1
+1 _UID 756AD50155CAC54B9001D6F98498E975BEBF
+1 FAMS @F20@
+1 FAMC @F24@
+1 SOUR @S19@
+2 NOTE James Otis Bigelow, Born: June 14, 1824 in Junius, Seneca, New York; Died: October 20, 1886 i
+3 CONC n Millville, Cache, Utah; Burial: Taber, Alberta, Canada [sic].
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Birth Date:14 Jun 1824; Death Date: October 20, 1886
+3 CONT Age: 27
+3 CONT Sources: See website 
+1 SOUR @S35@
+2 NOTE James Otis Bigelow, Born: June 14, 1824 in Junius Seneca, New York; Died: December 12, 1886 i
+3 CONC n Millville, Cache, Utah.
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 12:25:50
+0 @I84@ INDI
+1 NAME Israel /HOYT/
+2 SURN HOYT
+2 GIVN Israel
+1 SEX M
+1 BIRT
+2 DATE 26 Apr 1828
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 3 Apr 1883
+2 PLAC Orderville, Kane, Utah
+1 BURI
+2 DATE 6 Apr 1883
+2 PLAC Orderville, Kane, Utah
+1 _UID B1A30A6FB5266A44ABE805DC908EABF78AC3
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Israel Hoyt, Born: April 26, 1828 in Booneville, Oneida, New York; Died: April 3, 1883 in Ord
+3 CONC erville, Kane, Utah; Burial: April 6, 1883 in Orderville, Kane, Utah.
+1 SOUR @S2@
+2 NOTE Israel Hoyt, Born: April 26, 1828; Died: April 3, 1883; Trekked with the Jedediah M. Gran
+3 CONC t - Joseph B. Noble Company in 1847.
+1 SOUR @S31@
+2 NOTE Israel Hoyt, Born: April 26, 1828 in Booneville, Oneida, New York; Died: April 3, 1883 in Ord
+3 CONC erville, Kane, Utah; Burial: April 6, 1883 in Orderville, Kane, Utah.
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:38:58
+0 @I85@ INDI
+1 NAME Angeline /HOYT/
+2 SURN HOYT
+2 GIVN Angeline
+1 SEX F
+1 BIRT
+2 DATE 9 May 1826
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE Sep 1849
+2 PLAC unknown
+1 _UID 2D84C2AAAD3BBA45AC2F88BDACDD87E81CE7
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Angeline Hoyt, Born: May 9, 1826 in Booneville, Oneida, New York; Died: September 1849.
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:30:36
+0 @I86@ INDI
+1 NAME Hannah Lees /STOTT/
+2 SURN STOTT
+2 GIVN Hannah Lees
+1 SEX F
+1 BIRT
+2 DATE 30 Jul 1824
+2 PLAC Rishworth, Yorkshire, England
+1 CHR
+2 DATE 30 Jul 1824
+2 PLAC Ripponden, Yorkshire, England
+1 DEAT
+2 DATE 4 Oct 1886
+2 PLAC Meadow, Millard, Utah
+1 AFN 171C-19
+1 _UID 772778BBD5FA2740933350B23B67056EE438
+1 FAMS @F19@
+1 FAMC @F21@
+1 SOUR @S15@
+2 NOTE Hannah Lees Stott, Born: July 30, 1824 in Rishworth, Yorkshire, England; Christened: July 30
+3 CONC , 1824 in Ripponden, Yorkshire, England; Died: October 4, 1886 in Meadow, Millard, Utah.
+1 SOUR @S13@
+2 PAGE Page 438
+2 NOTE see marriage info.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 30 Jul 1824; Death Date: October 4, 1886
+3 CONT Age: 28
+3 CONT Name Listed: Hannah Fisher
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: Hannah Fisher
+3 CONT Age: 27
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 14:27:13
+0 @I87@ INDI
+1 NAME Sarah /FISHER/
+2 SURN FISHER
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 13 Aug 1846
+2 PLAC Oldham, Lancashire, England
+1 DEAT
+2 DATE 20 Dec 1853
+1 AFN 1K6Q-RS
+1 _UID D879E732E030CD49A88246878361E2ACF99A
+1 FAMC @F19@
+1 SOUR @S15@
+2 NOTE Sarah Fisher, Born: August 13, 1846 in Oldham, Lancashire, England; Died: December 20, 1853.
+1 SOUR @S2@
+2 NOTE Issac Bullock Company (1852)
+3 CONT Birth Date: 13 Aug 1846; Death Date: December 20, 1853
+3 CONT Age: 6
+3 CONT Sources found on website.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: Sarah Fisher
+3 CONT Age: 4
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 14:32:07
+0 @I88@ INDI
+1 NAME William /STOTT/
+2 SURN STOTT
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 16 Apr 1803
+2 PLAC Ladywell, Soyland, Yorkshire, England
+1 CHR
+2 DATE 12 Jun 1803
+2 PLAC Ripponden, Yorkshire, England
+1 DEAT
+2 DATE 31 Oct 1883
+2 PLAC Meadow, Millard, Ut
+1 BURI
+2 DATE 3 Nov 1883
+2 PLAC Meadow, Millard, Utah
+1 AFN 171B-BP
+1 _UID FD01F1359B31974D8F4DBB7F0D030F6D76F0
+1 FAMS @F21@
+1 FAMC @F22@
+1 SOUR @S15@
+2 NOTE William Stott, Born: April 16, 1803 in Ladywell, Soyland, Yorkshire, England; Christened: Jun
+3 CONC e 12, 1803 in Ripponden, Yorkshire, England; Died: October 31, 1883 in Meadow, Millard, Utah
+3 CONC ; Burial: November 3, 1883 in Meadow, Millard, Utah.
+1 SOUR @S17@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: William Scotts
+3 CONT Age: 47
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 SOUR @S2@
+2 NOTE Isaac Bullock Company (1852)
+3 CONT Birth Date: 16 Apr 1803; Death Date: October 31, 1883
+3 CONT Age: 49
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 14:47:15
+0 @I89@ INDI
+1 NAME Reddick Reddin /Allred/
+2 SURN Allred
+2 GIVN Reddick Reddin
+1 SEX M
+1 BIRT
+2 DATE 26 Nov 1848
+2 PLAC Allred's Camp, Pottawattamie, Iowa
+1 DEAT
+2 DATE 17 Feb 1940
+2 PLAC Manti, Sanpete, Utah
+1 BURI
+2 DATE 21 Feb 1940
+2 PLAC Spring City, Sanpete, Utah
+1 _UID EBD98AF8A9AD1945A35AE52C6EEF7E5C3FF2
+1 FAMC @F51@
+1 SOUR @S16@
+2 NOTE Redick Reddin Allred, Born: November 26, 1848 in Allred's Camp, Pottawattamie, Iowa; Died: Fe
+3 CONC bruary 17, 1940 in Manti, Sanpete, Utah; Burial: February 21, 1940 in Spring City, Sanpete, U
+3 CONC tah.
+1 SOUR @S2@
+2 NOTE Redick Reddin Allred, Born: November 26, 1848; Died: February 17, 1940; Trekked with the Alle
+3 CONC n Taylor Company in 1848.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 62; Image: 124
+2 NOTE Dwelling and Family #561
+3 CONT Reddic R. Allred age 2 making his birth year around 1847-48 in Iowa.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:28:26
+0 @I90@ INDI
+1 NAME Isaac /BIGELOW/
+2 SURN BIGELOW
+2 GIVN Isaac
+1 SEX M
+1 AFN BDKF-PB
+1 _UID F1B13AE95B80874E90B1882F973436117F1F
+1 FAMS @F24@
+1 SOUR @S19@
+1 SOUR @S12@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 14:31:45
+0 @I91@ INDI
+1 NAME Lucy Adeline /Allred/
+2 SURN Allred
+2 GIVN Lucy Adeline
+1 SEX F
+1 BIRT
+2 DATE 29 Dec 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 25 Apr 1866
+2 PLAC Dixie, Washington, Utah
+1 _UID 931FC7C1DC4C8A4EA0E9D39A513B42161448
+1 FAMC @F51@
+1 SOUR @S16@
+2 NOTE Lucy Adeline Allred, Born: December 29, 1845 in Nauvoo, Hancock, Illinois; Died: April 25, 18
+3 CONC 66 in Dixie, Hancock, Illinois.
+1 SOUR @S2@
+2 NOTE Lucy Adeline Allred, Born: December 29, 1845; Died: April 25, 1866; Trekked with the Allen Ta
+3 CONC ylor Company in 1849.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 62; Image: 124
+2 NOTE Dwelling and Family #561
+3 CONT Lucy A. Allred age 5 making her birth year around 1844-45 in Iowa.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:21:51
+0 @I92@ INDI
+1 NAME James /LEES/
+2 SURN LEES
+2 GIVN James
+1 SEX M
+1 AFN 8NFF-39
+1 _UID 79E78DAD9975AF45849E665666FEB483150F
+1 FAMS @F23@
+1 SOUR @S16@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 11:06:47
+0 @I93@ INDI
+1 NAME Sara /AMBLER/
+2 SURN AMBLER
+2 GIVN Sara
+1 SEX F
+1 AFN 8NFF-4G
+1 _UID 0A6D0173CE363E4A80B10179CB17847C0417
+1 FAMS @F23@
+1 SOUR @S16@
+1 CHAN
+2 DATE 24 Oct 2007
+3 TIME 11:06:47
+0 @I94@ INDI
+1 NAME William Henry /STOTT/
+2 SURN STOTT
+2 GIVN William Henry
+1 SEX M
+1 BIRT
+2 DATE 5 May 1830
+2 PLAC Godley, Rishworth, Yorkshire, England
+1 CHR
+2 DATE 12 Jun 1830
+2 PLAC Godley Rishworth Yorks, Eng.
+1 DEAT
+2 DATE 28 Mar 1906
+2 PLAC Meadow, Millard, Ut
+1 BURI
+2 DATE 31 Mar 1906
+2 PLAC Meadow, Millard, Ut
+1 AFN 171B-4N
+1 _UID 38632CE760A6A240ACE0A8CBF054C2EE893B
+1 FAMC @F21@
+1 SOUR @S16@
+2 NOTE William Henry Stott, Born: May 5, 1830 in Godley, Rishworth, Yorkshire, England; Christened
+3 CONC : June 12, 1830 in Godley, Rishworth, Yorkshire, England; Died: March 28, 1906 in Meadow, Mil
+3 CONC lard, Utah.
+1 SOUR @S17@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: William Scotts
+3 CONT Age: 20
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 SOUR @S2@
+2 NOTE Isaac Bullock Company (1852)
+3 CONT Name Listed: William H. Stott
+3 CONT Birth Date: 5 May 1830; Death Date: March 28, 1906
+3 CONT Age: 22
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 15:02:58
+0 @I95@ INDI
+1 NAME Angelina /PRENTICE/
+2 SURN PRENTICE
+2 GIVN Angelina
+1 SEX F
+1 AFN BDKF-QH
+1 _UID 0FC6F4ED26CB904EB153B96E46437D651B53
+1 FAMS @F24@
+1 SOUR @S19@
+1 SOUR @S12@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 14:32:09
+0 @I96@ INDI
+1 NAME James Lees /STOTT/
+2 SURN STOTT
+2 GIVN James Lees
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1826
+2 PLAC Pleasant Row, Soyland, Yorks., England
+1 CHR
+2 DATE 4 Dec 1833
+2 PLAC Ripponden, Yorkshire, England
+1 DEAT
+2 DATE 27 Feb 1834
+2 PLAC , , England
+1 AFN 171C-2G
+1 _UID F8A5713B2287B749871A3429AE8DCABFB419
+1 FAMC @F21@
+1 SOUR @S16@
+2 NOTE James Lees Stott, Born: December 4, 1826 in Pleasant Row, Soyland, Yorkshire, England; Christ
+3 CONC ened: December 4, 1833 in Ripponden, Yorkshire, England; Died: February 27, 1834 in England.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 14:59:28
+0 @I97@ INDI
+1 NAME Thomas Fenton /STOTT/
+2 SURN STOTT
+2 GIVN Thomas Fenton
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1835
+2 PLAC Greenacres, Oldham, Lancashire, England
+1 CHR
+2 DATE 12 Sep 1835
+2 PLAC Greenacres, Lancachire, England
+1 DEAT
+2 DATE 30 Oct 1835
+2 PLAC Greenacres, Lancachire, England
+1 AFN 171C-3M
+1 _UID 5BC059FD5BFBBE4B82E6408DF113DB01E512
+1 FAMC @F21@
+1 NOTE Greenacres is pronounces Grinnicres in England so that could account for the poor spelling, G
+2 CONC remacre.
+1 SOUR @S16@
+2 NOTE Thomas Fenton Stott, Born: September 12, 1835 in Greenacres, Oldham, Lancashire, England; Chr
+3 CONC istened: September 12, 1835 in Gremacre, Lancashire, England [sic]; Died: October 30, 1835 i
+3 CONC n Gremacre, Lancashire, England [sic]. 
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 15:11:55
+0 @I98@ INDI
+1 NAME Edwin /STOTT/
+2 SURN STOTT
+2 GIVN Edwin
+1 SEX M
+1 BIRT
+2 DATE 5 Nov 1836
+2 PLAC Greenacres, Oldham, Lancashire, England
+1 CHR
+2 DATE 5 Dec 1836
+2 PLAC Providence Independent Chapel, Oldham, Lancashire, England
+1 DEAT
+2 DATE 19 Feb 1928
+2 PLAC Meadow, Millard, Ut
+1 BURI
+2 DATE 22 Feb 1928
+2 PLAC Meadow, Millard, Utah
+1 AFN 171C-4S
+1 _UID 33ADE47A9BCE77448A033B837D039FC38F79
+1 FAMC @F21@
+1 SOUR @S16@
+2 NOTE Edwin Stott, Born: November 5, 1836 in Greenacres, Oldham, Lancashire, England; Christened: D
+3 CONC ecember 5, 1836 in Providence Independent Chapel, Oldham, Lancashire, England; Died: Februar
+3 CONC y 19, 1928 in Meadow, Millard, Utah; Burial: February 22, 1928 in Meadow, Millard, Utah.
+1 SOUR @S17@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: Edwin Scotts
+3 CONT Age: 14
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 SOUR @S2@
+2 NOTE Isaac Bullock Company (1852)
+3 CONT Name Listed: Edwin A. Stott
+3 CONT Birth Date: 5 Nov 1836; Death Date: February 19, 1928
+3 CONT Age: 15
+3 CONT (see website)
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 15:21:19
+0 @I99@ INDI
+1 NAME Emma /STOTT/
+2 SURN STOTT
+2 GIVN Emma
+1 SEX F
+1 BIRT
+2 DATE 27 Jun 1840
+2 PLAC Oldham, Lancashire, England
+1 CHR
+2 DATE 27 Jun 1840
+2 PLAC Oldham, Lancashire, Eng
+1 DEAT
+2 DATE 12 Sep 1926
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE Sep 1926
+2 PLAC Provo, Utah, Utah
+1 AFN 171C-50
+1 _UID 5C643E89E26515418E03A38552AE07775BC6
+1 FAMC @F21@
+1 SOUR @S16@
+2 NOTE Emma Stott, Born: June 27, 1840 in Oldham, Lancashire, England; Christened: June 27, 1840 i
+3 CONC n Oldham, Lancashire, England; Died: September 12, 1926 in Provo, Utah, Utah; Burial: in Prov
+3 CONC o, Utah, Utah.
+1 SOUR @S17@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling #4, Household #4
+3 CONT Name Listed: Emma Scotts
+3 CONT Age: 10
+2 DATA
+3 DATE 30 Aug 1850 in Pottawattamie, Iowa
+1 SOUR @S2@
+2 NOTE Emma Stott, Born: June 27, 1840; Died: September 12, 1926; Trekked with the Isaac Bullock Com
+3 CONC pany in 1852.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 15:27:31
+0 @I100@ INDI
+1 NAME Mary /STOTT/
+2 SURN STOTT
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1842
+2 PLAC Oldham, Lancashire, England
+1 DEAT
+2 DATE unknown
+1 AFN 4QHR-GR
+1 _UID 0D63E8313522B7428B0B4F8823E3CD698293
+1 FAMC @F21@
+1 SOUR @S16@
+2 NOTE Mary Stott, Born: 1842 in Oldham, Lancashire, England.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 15:28:19
+0 @I101@ INDI
+1 NAME Elizabeth /CAZIER/
+2 SURN CAZIER
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1 Feb 1829
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 18 Oct 1896
+2 PLAC Millville, Cache, Utah
+1 AFN 17LR-0J
+1 _UID F0E25F41A1433F45B0C388E5CB6F861D972D
+1 FAMS @F20@
+1 FAMC @F26@
+1 SOUR @S19@
+2 NOTE Elizabeth Cazier, Born: February 1, 1829 in Brownsboro, Oldham, Kentucky; Died: October 18, 1
+3 CONC 896 in Millville, Cache, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Name Listed: Elizabeth Cazier Bigelow
+3 CONT Birth Date: 1 Feb 1829; Death Date: October 18, 1896
+3 CONT Age: 22
+3 CONT Source: see website
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 15:58:38
+0 @I102@ INDI
+1 NAME Elisha /WELLS/
+2 SURN WELLS
+2 GIVN Elisha
+1 SEX M
+1 AFN 8R4R-Q7
+1 _UID AB5750763216E741A994E699BAD5AA2B585B
+1 FAMS @F29@
+1 SOUR @S22@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 16:11:52
+0 @I103@ INDI
+1 NAME Tirzah /WELLS/
+2 SURN WELLS
+2 GIVN Tirzah
+1 SEX F
+1 BIRT
+2 DATE 29 Jul 1796
+2 PLAC Greenfield, Franklin, Massachusetts
+1 DEAT
+2 DATE 4 Apr 1867
+2 PLAC Harrisville, Weber, Utah
+1 BURI
+2 DATE Apr 1867
+2 PLAC Ogden, Weber, Utah
+1 AFN 1HRQ-B6
+1 _UID 55565C319F04D6409F5AAB0D900AF9CD02E9
+1 FAMS @F16@
+1 FAMC @F29@
+1 SOUR @S22@
+2 NOTE Tirzah Wells, Born: July 29, 1796 in Greenfield, Franklin, Massachusetts; Died: April 4, 186
+3 CONC 7 in Harrisville (now Far West), Weber, Utah; Burial: April 1867 in Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 29 July 1796; Death Date: April 4, 1867
+3 CONT Age: 52
+3 CONT Pioneer Information:  She was the wife of Ezra.
+3 CONT Sources: See website
+1 SOUR @S26@
+2 NOTE Tirsa Wells, Born: July 29, 1796 in Greenfield, Franklin, Massachusetts; Died: April 4, 186
+3 CONC 7 in Harrisville, Weber, Utah; Burial: in Ogden, Weber, Utah.
+1 SOUR @S27@
+2 PAGE Roll: M653_1313; Page: 441; Image: 451
+2 NOTE Dwelling #827 and Family #739
+3 CONT Tirza Chase age 63 making her birth year around 1796-1796 in Massachusetts. Census taken in O
+3 CONC dgen, Weber, Utah.
+2 DATA
+3 DATE 6 Jul 1860
+1 CHAN
+2 DATE 1 Dec 2008
+3 TIME 11:43:35
+0 @I104@ INDI
+1 NAME Reddick Newton /Allred/
+2 SURN Allred
+2 GIVN Reddick Newton
+1 SEX M
+1 BIRT
+2 DATE 21 Feb 1822
+2 PLAC Nashville, Davidson, Tennessee
+1 DEAT
+2 DATE 10 Oct 1905
+2 PLAC Chester, Sanpete, Utah
+1 BURI
+2 DATE 13 Oct 1905
+2 PLAC Spring City Cemetery, Spring City, Sanpete, Utah
+1 _UID 2BF60F8064822A45A1FF8184B0CC09F7268B
+1 FAMS @F51@
+1 SOUR @S16@
+2 NOTE Reddick Newton Allred, Born: February 21, 1822 in Nashville, Davedson [sic], Tennessee; Died
+3 CONC : October 10, 1905 in Chester, Sanpete, Utah; Burial: October 13, 1905 in Spring City Cemeter
+3 CONC y, Sanpete, Utah.
+1 SOUR @S30@
+2 NOTE Reddick Newton Allred, Born: February 21, 1822 in Nashville, Davidson, Tennessee; Died: Octob
+3 CONC er 10, 1905 in Chester, Sanpete, Utah; Burial: in Spring City Cemetery, Spring City, Sanpete
+3 CONC , Utah; Husband of Lucy Hoyt. 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 62; Image: 124
+2 NOTE Dwelling and Family #561
+3 CONT Reddic N. Allred age 29 making his birth year around 1820-21 in Tennessee.
+2 DATA
+3 DATE 1850
+1 SOUR @S2@
+2 NOTE Redick Newton Allred, Born: February 21, 1822; Died: October 10, 1905; Trekked with the Lev
+3 CONC i Hancock/Jefferson Hunt/James Pace/Andrew Lytle Company in 1847 and the Allen Taylor Compan
+3 CONC y in 1849.
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:09:38
+0 @I105@ INDI
+1 NAME Sarah Lucinda /Fuller/
+2 SURN Fuller
+2 GIVN Sarah Lucinda
+1 SEX F
+1 BIRT
+2 DATE 1820
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 7 Feb 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 0498E93FCB8106448016B472CB859E353900
+1 FAMS @F49@
+1 SOUR @S16@
+2 NOTE Sarah Lucinda Fuller, Born: 1820 in Booneville, Oneida, New York; Died: February 7, 1843 in N
+3 CONC auvoo, Hancock, Illinois.
+1 CHAN
+2 DATE 13 Jun 2011
+3 TIME 14:20:30
+0 @I106@ INDI
+1 NAME Isaac Newton /Allred/
+2 SURN Allred
+2 GIVN Isaac Newton
+1 SEX M
+1 BIRT
+2 DATE 1 Oct 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 10 Oct 1844
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 40D1A548439C5A4FBA0DC837AFF98782FD35
+1 FAMC @F51@
+1 SOUR @S16@
+2 NOTE Isaac Newton Allred, Born: October 1, 1844 in Nauvoo, Hancock, Illinois; Died: October 11, 18
+3 CONC 44.
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:16:24
+0 @I107@ INDI
+1 NAME Mary /HOYT/
+2 SURN HOYT
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE May 1822
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE between 10-17 Jul 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 68EF76DBC2A9E74497137257B4DBE1EF1087
+1 FAMC @F40@
+1 SOUR @S14@
+2 NOTE Mary Hoyt, Born: May 1822 in Booneville, Oneida, New York; Died: July 1843.
+1 SOUR @S29@
+2 NOTE Mary Hoyt, Died: between July 10-17, 1843 in Nauvoo, Hancock, Illinois at the age of 21 year
+3 CONC s making her birth year around 1821-22.
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 10:21:54
+0 @I108@ INDI
+1 NAME Julia Ann /Burr/
+2 SURN Burr
+2 GIVN Julia Ann
+1 SEX F
+1 BIRT
+2 DATE 27 Feb 1821
+2 PLAC , , New York
+1 DEAT
+2 DATE unknown
+1 _UID 87BA3C1B79B1044494D98FDBCE2D32717F94
+1 FAMS @F50@
+1 NOTE There is no Haddam, New York so I simply put New York as her birth place.  For her death dat
+2 CONC e I also didn't put anything because it is marked as the day before her marriage, that doesn'
+2 CONC t work.
+1 SOUR @S16@
+2 NOTE Julia Ann Burr, Born: February 27, 1821 in Haddam [sic], Mldlsz [sic], New York; Died: June 1
+3 CONC , 1845 [sic].
+1 SOUR @S27@
+2 PAGE Roll: M653_336; Page: 111; Image: 128
+2 NOTE Dwelling #823 and Family #765
+3 CONT Julia A. Hoyt age 38 making her birth year around 1821-22 in New York.
+2 DATA
+3 DATE 21 Jul 1860
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 10:10:57
+0 @I109@ INDI
+1 NAME Homer Collins /HOYT/
+2 SURN HOYT
+2 GIVN Homer Collins
+1 SEX M
+1 BIRT
+2 DATE 31 Jul 1820
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 11 Nov 1899
+2 PLAC Hastings, Mills, Iowa
+1 _UID FAA5748B09B6B94DBFB3CCD34AE39F85C537
+1 FAMS @F49@
+1 FAMS @F50@
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Homer Collins Hoyt, Born: July 31, 1899 in Booneville, Oneida, New York; Died: November 11, 1
+3 CONC 899 in Hastings, Mill, Iowa.
+1 SOUR @S27@
+2 PAGE Roll: M653_336; Page: 111; Image: 128
+2 NOTE Dwelling #823 and Family #765
+3 CONT Homer Hoyt age 40 making his birth year around 1819-20 in New York.
+2 DATA
+3 DATE 21 Jul 1860
+1 CHAN
+2 DATE 13 Jun 2011
+3 TIME 14:20:11
+0 @I110@ INDI
+1 NAME Irene Elizabeth /Lincoln/
+2 SURN Lincoln
+2 GIVN Irene Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 5 Sep 1819
+2 PLAC Martinsburg, Lewis, New York
+1 DEAT
+2 DATE unknown
+1 _UID 2CCF770BED4E274A8AE3B836E5B85C118EF0
+1 FAMS @F48@
+1 SOUR @S16@
+2 NOTE Irene Elizabeth Lincoln, Born: September 5, 1819 in Martinsburg, Lewis, New York.
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 15:39:54
+0 @I111@ INDI
+1 NAME Henry Pike /HOYT/
+2 SURN HOYT
+2 GIVN Henry Pike
+1 SEX M
+1 BIRT
+2 DATE 2 Aug 1815
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 3 Sep 1847
+2 PLAC Sierra Nevada Mountains
+1 _UID 95A9868DA1D53741AE8959D22156F96E7F1B
+1 FAMS @F48@
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Henry Pike Hoyt, Born: August 2, 1815 in Booneville, Oneida, New York; Died: September 3, 184
+3 CONC 7 in the Sierra Nevada Mountains, California.
+1 SOUR @S2@
+2 NOTE Henry Hoyt, Born: August 2, 1815; Died: September 3, 1847; Trekked with the Levi Hancock/Jeff
+3 CONC erson James Hunt/James Pace/Andrew Lytle Company in 1847 and died en route.
+1 CHAN
+2 DATE 13 Jun 2011
+3 TIME 14:19:49
+0 @I112@ INDI
+1 NAME Silas /HOYT/
+2 SURN HOYT
+2 GIVN Silas
+1 SEX M
+1 BIRT
+2 DATE ABT 1842
+2 PLAC , , Illinois
+1 DEAT
+2 DATE unknown
+1 _UID B0336FA56CB9634CB33F4CA73584209C2595
+1 FAMC @F47@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #69
+3 CONT Silas Hoit age 8 making his birth year around 1841-42 in Illinois.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 15:18:47
+0 @I113@ INDI
+1 NAME Lucy H. /HOYT/
+2 SURN HOYT
+2 GIVN Lucy H.
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1824
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 3 Jun 1907
+2 PLAC Spring City, Sanpete, Utah
+1 BURI
+2 DATE 6 Jun 1907
+2 PLAC Spring City, Sanpete, Utah
+1 _UID 81D5704D9B2C8340810CB7EB82C49B3DEA1E
+1 FAMS @F51@
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Lucy H. Hoyt, Born: March 26, 1824 in Booneville, Onndg [sic] (should be Oneida), New York; D
+3 CONC ied: June 3, 1907 in Spring City, Sanpete, Utah; Burial: June 6, 1907 in Spring City, Sanpete
+3 CONC , Utah.
+1 SOUR @S30@
+2 NOTE Lucy H. Allred, Born: March 26, 1824; Died: June 3, 1907.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page 62; Image: 124
+2 NOTE Dwelling and Family #561
+3 CONT Lucy Allred age 27 making her birth year around 1822-23 in New York.
+2 DATA
+3 DATE 1850
+1 SOUR @S2@
+2 NOTE Lucy Hoyt Allred, Born: March 26, 1824; Died: June 3, 1907; Trekked with the Allen Taylor Com
+3 CONC pany in 1849.
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 11:07:51
+0 @I114@ INDI
+1 NAME William /CAZIER/
+2 SURN CAZIER
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 21 Jan 1794
+2 PLAC , Prince William, Virginia
+1 DEAT
+2 DATE 28 Feb 1872
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 1 Mar 1872
+2 PLAC Nephi, Juab, Utah
+1 AFN 17LQ-58
+1 _UID C1519C63BC4A6E40AA95E11F71728262CBAC
+1 FAMS @F26@
+1 FAMS @F62@
+1 FAMC @F27@
+1 SOUR @S21@
+2 NOTE William Cazier, Born: January 21, 1794 in Prince William, Virginia; Died: February 28, 1872 i
+3 CONC n Nephi, Juab, Utah; Burial: March 1, 1872 in Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Birth Date: 21 Jan 1794; Death Date: February 28, 1872
+3 CONT Age: 57
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #73
+3 CONT William Cazier age 56 making his birth year around 1793-93 in Virginia.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 12:39:48
+0 @I115@ INDI
+1 NAME James Jr. /CAZIER/
+2 SURN CAZIER
+2 GIVN James Jr.
+1 SEX M
+1 AFN 1LBG-MH
+1 _UID 1FE670A48DB4F84AA6C6369E7B8205D0AEC0
+1 FAMS @F27@
+1 SOUR @S21@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 14:23:55
+0 @I116@ INDI
+1 NAME Elizabeth Or (Betsy) /CAHOE/
+2 SURN CAHOE
+2 GIVN Elizabeth Or (Betsy)
+1 SEX F
+1 AFN 1LBG-NN
+1 _UID 86DE94AB5925A344B6B93D5773FEE3C928E3
+1 FAMS @F27@
+1 SOUR @S21@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 14:23:55
+0 @I117@ INDI
+1 NAME Pleasant /DRAKE/
+2 SURN DRAKE
+2 GIVN Pleasant
+1 SEX F
+1 BIRT
+2 DATE 31 Mar 1796
+2 PLAC Loudoun, Loudoun, Virginia
+1 DEAT
+2 DATE Nov 1846
+2 PLAC Winterquarters, Pottawattamie, Iowa
+1 BURI
+2 DATE Nov 1846
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 AFN 17LQ-6F
+1 _UID AD08C92A8C00564B900AE4CDAB8D118EF719
+1 FAMS @F26@
+1 FAMC @F28@
+1 SOUR @S21@
+2 NOTE Pleasant Drake, Born: March 31, 1796 in Loudoun, Loudoun, Virginia; Died: November 1846 in Wi
+3 CONC nter Quarters, Pottawattamie, Iowa; Burial: November 1846 in Council Bluffs, , Iowa.
+1 SOUR @S34@
+2 NOTE Pleasant Drake Cazier, Died: November 1846 in Council Bluffs, Iowa.
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 14:31:31
+0 @I118@ INDI
+1 NAME Thomas /DRAKE/
+2 SURN DRAKE
+2 GIVN Thomas
+1 SEX M
+1 AFN 8GS6-P5
+1 _UID 2C7B9A1C129DDF43B9609E45DAEE5377BC39
+1 FAMS @F28@
+1 SOUR @S21@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 14:23:55
+0 @I119@ INDI
+1 NAME Lydia /DRAKE/
+2 SURN DRAKE
+2 GIVN Lydia
+1 SEX F
+1 AFN 8GS6-TT
+1 _UID 7BD418089C5A864EBAB335B359A63B9A62D4
+1 FAMS @F28@
+1 SOUR @S21@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 14:23:55
+0 @I120@ INDI
+1 NAME James /CAZIER/
+2 SURN CAZIER
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 13 Jul 1817
+2 PLAC Elizabeth Town, Wood, Virginia
+1 DEAT
+2 DATE 23 Oct 1891
+2 PLAC Cameron, Latah, Idaho
+1 BURI
+2 DATE Oct 1891
+1 AFN 17LQ-VV
+1 _UID DC08ECAF95422D489BAF34F9BD56C35A72AB
+1 FAMS @F58@
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE James Cazier, Born: July 13, 1817 in Elizabeth Town, Wood, Virginia; Died: October 23, 1817 i
+3 CONC n Comeron, Latah, Idaho.
+1 SOUR @S2@
+2 NOTE Mormon Battalion Sick Detachments (1847)
+3 CONT Birth Date:13 July 1817; October 23, 1891
+3 CONT Age: 29
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 52; Image: 103
+2 NOTE Dwelling and Family #612
+3 CONT John Cazier age 30 making his birth year around 1819-20 in Virginia. 
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 14:59:37
+0 @I121@ INDI
+1 NAME Maranda /CAZIER/
+2 SURN CAZIER
+2 GIVN Maranda
+1 SEX F
+1 BIRT
+2 DATE 25 Dec 1818
+2 PLAC Near Elizabethtown, Wood, Virginia
+1 DEAT
+2 DATE 28 Feb 1900
+2 PLAC Nephi, Juab, Utah
+2 SOUR @S2@
+3 NOTE Death Date Listed as: 25 Feb 1900
+1 BURI
+2 PLAC Nephi, Juab, Utah
+1 AFN 17LQ-W2
+1 _UID E0C158DFA2443E47A568E6C0B892131A6DDB
+1 FAMS @F35@
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE Maranda Cazier, Born: December 25, 1818 near Elizabethtown, Wood, Virginia; Died: February 28
+3 CONC , 1900 in Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Maranda Cazier Bryan
+3 CONT Company: Brigham Young Company (1848)
+3 CONT Birth Date: 25 Dec 1818; Death Date: February 25, 1900
+3 CONT Age: 29
+3 CONT Gender: Female
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 55; Image: 109
+2 NOTE Dwelling and Family #456
+3 CONT Miranda Bryan age 32 making her birth year around 1817-18 in Virginia.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:22:48
+0 @I122@ INDI
+1 NAME John /CAZIER/
+2 SURN CAZIER
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 14 Mar 1821
+2 PLAC Near Elizabethtown, Wood, Virginia
+2 SOUR @S2@
+3 NOTE Has birth date as 14 Mar 1824
+1 DEAT
+2 DATE 14 Nov 1890
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 16 Nov 1890
+2 PLAC Nephi, Juab, Utah
+1 AFN 17LQ-X7
+1 _UID 51397408FBFF554FAE88A23DEB0CF856FE34
+1 FAMS @F60@
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE John Cazier, Born: March 14, 1821 near Elizabethtown, Wood, Virginia; Died: November 14, 189
+3 CONC 0 in Nephi, Juab, Utah; Buried: Nevember 16, 1890 in Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Mormon Battalion Sick Detachments (1847)
+3 CONT Birth Date: 14 Mar 1824; Death Date: November 14, 1890
+3 CONT Age: 23
+3 CONT Source: see website
+3 CONT ALSO - possibly James Pace Company (1850)
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 52; Image: 103
+2 NOTE Dwelling and Family #412
+3 CONT John Cazier age 30 making his birth year around 1819-20 in Virginia.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:15:35
+0 @I123@ INDI
+1 NAME William /CAZIER/
+2 SURN CAZIER
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 29 Apr 1826
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 30 Sep 1835
+2 PLAC Brownsville, Oldham, Kentucky
+1 AFN 17LQ-ZD
+1 _UID E89D01FAC4AADF4CB05FB5D9C75C78ED3EF4
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE William Cazier, Born: April 29, 1826 in Brownsboro, Oldham, Kentucky; Died: September 35, Bro
+3 CONC wnsville, Oldham, Kentucky.
+1 SOUR @S20@
+2 NOTE "History of Benjamin Cazier Sr." by Helen Cazier Norton
+3 CONT http://cazier.org/FamilyHistories/CAZ%2004072007%20History%20of%20Benjamin%20Cazier%20Sr.%20b
+3 CONC y%20Helen%20Cazier%20Norton.pdf
+3 CONT 
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 12:07:24
+0 @I124@ INDI
+1 NAME Tirzah /SEVERENCE/
+2 SURN SEVERENCE
+2 GIVN Tirzah
+1 SEX F
+1 AFN 8R4R-P2
+1 _UID 61CBE83006225041A80226DD34EB235E4AF4
+1 FAMS @F29@
+1 SOUR @S22@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 16:11:52
+0 @I125@ INDI
+1 NAME Samuel /CAZIER/
+2 SURN CAZIER
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1831
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 12 Apr 1910
+2 PLAC Nephi, Juab, Utah
+1 AFN 17LR-1P
+1 _UID D909CDE073664E4F8399E7139BF605C97A77
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE Samuel Cazier, Born: August 14, 1831 in Brownsboro, Oldham, Kentucky; Died: April 12, 1910 i
+3 CONC n Nephi, Juab, Utah.; Burial: in Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Birth Date: 14 Aug 1831; Death Date: April 12, 1910
+3 CONT Age: 19
+3 CONT Sources: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #73
+3 CONT Samuel Cazier age 19 making his birth year around 1830-31 in Kentucky.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 16:10:40
+0 @I126@ INDI
+1 NAME David Crockett /CAZIER/
+2 SURN CAZIER
+2 GIVN David Crockett
+1 SEX M
+1 BIRT
+2 DATE 1 May 1834
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 19 May 1929
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 22 May 1929
+2 PLAC Nephi, Juab, Utah
+1 AFN 17LR-2V
+1 _UID D9F148FC41806B4D981B287EC3704F5EC015
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE David Crockett Cazier, Born: May 1, 1834 in Brownsboro, Oldham, Kentucky; Died: May 19, 192
+3 CONC 9 in Nephi, Juab, Utah; Burial: May 22, 1929 in Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Name Listed: David Cazier
+3 CONT Birth Date: 1 May 1834; Death Date: May 19, 1929
+3 CONT Age: 17
+3 CONT Sources: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #73 
+3 CONT David C. Cazier age 16 making his birth year around 1833-34 in Kentucky.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 16:10:08
+0 @I127@ INDI
+1 NAME Charles Drake /CAZIER/
+2 SURN CAZIER
+2 GIVN Charles Drake
+1 SEX M
+1 BIRT
+2 DATE 21 Jan 1837
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 12 May 1915
+2 PLAC Afton, Lincoln, Wyoming
+1 BURI
+2 DATE 18 May 1915
+2 PLAC Afton, Lincoln, Wyoming
+1 AFN 17LR-32
+1 _UID 688AB6846015A847B980B0D944D73C8831EE
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE Charles Drake Cazier, Born: January 21, 1837 in Brownsboro, Oldham, Kentucky; Died: May 12, 1
+3 CONC 915 in Afton, Lincoln, Wyoming; Burial: May 18, 1915 in Afton, Lincoln, Wyoming.
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Birth Date: 21 Jan 1837; Death Date: May 12, 1915
+3 CONT Age: 14
+3 CONT Source: See website
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #73
+3 CONT Charles Cazier age 13 making his birth year around 1836-37 in Kentucky.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 16:14:20
+0 @I128@ INDI
+1 NAME Rosannah /CAZIER/
+2 SURN CAZIER
+2 GIVN Rosannah
+1 SEX F
+1 BIRT
+2 DATE 26 Aug 1840
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 30 Aug 1905
+1 BURI
+2 DATE 1905
+1 AFN 17LR-47
+1 _UID B1FB9A370912E14DAF2A799F60054BFE655F
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE Rosannah Cazier, Born: August 26, 1840 in Brownsboro, Oldham, Kentucky; Died: August 30, 1905
+3 CONC .
+1 SOUR @S2@
+2 NOTE Morris Phelps Company (1851)
+3 CONT Birth Date: 26 Aug 1840; Death Date: August 30, 1905
+3 CONT Age: 10
+3 CONT Sources: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #73
+3 CONT Rosannah Cazier age 10 making her birth year around 1839-40 in Kentucky.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 16:17:48
+0 @I129@ INDI
+1 NAME Benjamin /CAZIER/
+2 SURN CAZIER
+2 GIVN Benjamin
+1 SEX M
+1 BIRT
+2 DATE 4 Jan 1824
+2 PLAC Brownsboro, Oldham, Kentucky
+1 DEAT
+2 DATE 20 Feb 1889
+2 PLAC North Ogden, Weber, Utah
+1 BURI
+2 DATE Feb 1889
+2 PLAC North Ogden, Weber, Utah
+1 AFN C0LX-NJ
+1 _UID C52EAEECE54299489BD8A99C019AC9FEAFBA
+1 FAMS @F33@
+1 FAMC @F26@
+1 SOUR @S21@
+2 NOTE Benjamin Cazier, Born: January 4, 1824 in Brownsboro, Oldham, Kentucky; Died: February 20, 18
+3 CONC 89 in North Ogden, Weber, Utah; Burial: in North Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 4 Jan 1824; Died: February 20, 1889
+3 CONT Age:24
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 300
+2 NOTE Dwelling and Family #7
+3 CONT Benjamin Cazier age 27 making his birth year around 1822-23 in Kentucky.
+2 DATA
+3 DATE 1850 Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:55:58
+0 @I130@ INDI
+1 NAME Sarah /SIMMONS/
+2 SURN SIMMONS
+2 GIVN Sarah
+1 SEX F
+1 AFN 1TVQ-VX
+1 _UID 5BEF666673FE45438DCAF55F1760A5895FA4
+1 FAMS @F25@
+1 SOUR @S22@
+1 CHAN
+2 DATE 25 Oct 2007
+3 TIME 16:11:52
+0 @I131@ INDI
+1 NAME Dudley /CHASE/
+2 SURN CHASE
+2 GIVN Dudley
+1 SEX M
+1 BIRT
+2 DATE 22 May 1835
+2 PLAC Sporta, Livingston, New York
+1 DEAT
+2 DATE 24 Feb 1906
+2 PLAC Idaho Falls, Bonneville, Idaho
+1 BURI
+2 DATE 29 Feb 1906
+2 PLAC Ogden, Weber, Utah
+1 AFN 17CB-NG
+1 _UID 06B8D93031EDA349ABC5403F0CB02B2ED51A
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Dudley Chase, Born: May 22, 1835 in Sparta, Livingston, New York; Died: February 24, 1906 i
+3 CONC n Idaho Falls, Bingham, Idaho; Burial: February 29, 1906 in Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 22 May 1835; Death Date: February 24, 1906
+3 CONT Age: 13
+3 CONT Source: see website
+1 SOUR @S26@
+2 NOTE Dudley Chase, Born: May 22, 1835 in Sparta, Livingston, New York; Died: February 24, 1906 i
+3 CONC n Idaho Falls, Bonneville, Idaho.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:53:48
+0 @I132@ INDI
+1 NAME Abigail Eliza /CHASE/
+2 SURN CHASE
+2 GIVN Abigail Eliza
+1 SEX F
+1 BIRT
+2 DATE 4 Oct 1820
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 21 Jan 1892
+1 AFN C3VJ-SL
+1 _UID 35267789D68F824EB3639A643B28FF292F68
+1 FAMC @F16@
+1 NOTE She Married Adam Clark Hubbard on January 6, 1848 (Source: Family Group Record: Ancestral Fil
+2 CONC e).
+1 SOUR @S22@
+2 NOTE Abigail Eliza Chase, Born: October 4, 1820 in Bristol, Addison, Vermont; Died: January 21, 18
+3 CONC 92.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:59:20
+0 @I133@ INDI
+1 NAME Diana (Diora) Severance /CHASE/
+2 SURN CHASE
+2 GIVN Diana (Diora) Severance
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1827
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 6 Sep 1886
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 8 Sep 1886
+2 PLAC Ogden, Weber, Utah
+1 AFN 1HLB-PW
+1 _UID 8799A6798550EF4A8513C21B7BD0829928F5
+1 FAMS @F44@
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Diana (Diora) Severance Chase, Born: July 25, 1827 in Bristol, Addison, Vermont; Died: Septem
+3 CONC ber 6, 1886 in Ogden, Weber, Utah; Burial: September 8, 1886 in Ogden, Weber, Utah.
+1 SOUR @S26@
+2 NOTE Diana Chase, Born: 1827 in Bristol, Addison, Vermont; Died: September 6, 1886.
+1 SOUR @S2@
+2 NOTE Diana Severance Chase Young, Born: July 25, 1827; Died: September 6, 1886; Trekked with the B
+3 CONC righam Young Company in 1848.
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 10:59:23
+0 @I134@ INDI
+1 NAME Ezra /CHASE/ Jr.
+2 SURN CHASE
+2 GIVN Ezra
+2 NSFX Jr.
+1 SEX M
+1 BIRT
+2 DATE 6 Jul 1849
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 6 Jul 1849
+2 PLAC Bristol, Addison, Vermont
+1 AFN 28M3-Z0
+1 _UID FB1062D7CBB3CB44AD5D22F7153F1F167D65
+1 FAMC @F16@
+1 NOTE Most likey NOT born in Vermont.  Family left in Brigham Young Company (1848), and therefore i
+2 CONC t is unlikely that they were in Vermont in 1849 (but it is possible).
+2 CONT 
+2 CONT Probably the same as Ezra Chase born 6 Jul 1819, and someone misread the numbers.
+1 SOUR @S22@
+2 NOTE Ezra Chase Jr., Born: July 6, 1849 in Bristol, Addison, Vermont; Died: July 6, 1849 in Bristo
+3 CONC l, Addison, Vermont.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:52:15
+0 @I135@ INDI
+1 NAME Elisa /CHASE/
+2 SURN CHASE
+2 GIVN Elisa
+1 SEX F
+1 BIRT
+2 DATE 4 Oct 1820
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 21 Jan 1891
+1 AFN 28M4-04
+1 _UID 492FEB0567A1E04DADB80AAB5143783BFEDB
+1 FAMC @F16@
+1 NOTE She married Adam C. Hubbard in 1848 in Utah (Source: Family Group Record, Ancestral File).
+1 SOUR @S22@
+2 NOTE Elisa Chase, Born: October 4, 1820 in Bristol, Addison, Vermont; Died: January 21, 1891.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:59:06
+0 @I136@ INDI
+1 NAME Ezra /CHASE/
+2 SURN CHASE
+2 GIVN Ezra
+1 SEX M
+1 BIRT
+2 DATE 6 Jul 1819
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 6 Sep 1819
+2 PLAC Bristol, Addison, Vermont
+1 AFN 1HRQ-NW
+1 _UID F5669F635FD95443AD59EF64EE9FF2BABE05
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Ezra Chase, Born: July 6, 1819 in Bristol, Addison, Vermont; Died: September 6, 1819 in Brist
+3 CONC ol, Addison, Vermont.
+1 CHAN
+2 DATE 1 Dec 2008
+3 TIME 11:45:04
+0 @I137@ INDI
+1 NAME Nancy Bailey /CHASE/
+2 SURN CHASE
+2 GIVN Nancy Bailey
+1 SEX F
+1 BIRT
+2 DATE 27 Jan 1823
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 10 Sep 1892
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 12 Sep 1892
+2 PLAC Ogden City Cemetery, Ogden, Weber, Utah
+1 AFN 1HRQ-Q8
+1 _UID 23EB50F051518B499CF2BF68D16952939881
+1 FAMS @F42@
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Nancy Bailey Chase, Born: January 27, 1823 in Bristol, Addison, Vermont; Died: September 10
+3 CONC , 1892 in Ogden, Weber, Utah; Burial: September 12, 1892 in Ogden City Cemetery, Ogden, Weber
+3 CONC , Utah.
+1 SOUR @S2@
+2 NOTE Nancy Bailey Chase Farr, Born: January 27, 1823; Died: September 10, 1892; Trekked with the D
+3 CONC aniel Spencer/Ira Eldredge Company in 1847.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 299
+2 NOTE Dwelling and Family #6
+3 CONT Nancy Farr age 27 making her birth year around 1822-1823 in Vermont.  Census taken in Weber C
+3 CONC ounty, Utah.
+2 DATA
+3 DATE 1850
+1 SOUR @S26@
+2 NOTE Nancy Bailey Chase, Born: January 27, 1823 in Bristol, Addison, Vermont; Died: September 10
+3 CONC , 1892 in Ogden, Weber, Utah.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:58:47
+0 @I138@ INDI
+1 NAME Charlotte /CHASE/
+2 SURN CHASE
+2 GIVN Charlotte
+1 SEX F
+1 BIRT
+2 DATE 11 May 1825
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 15 Dec 1904
+2 PLAC Lewisville, Jefferson, Idaho
+1 BURI
+2 DATE 18 Dec 1904
+2 PLAC Ogden City Cemetery, Weber, Utah(moved To Salt Lake City Cemetery)
+1 AFN 1HRQ-RF
+1 _UID 44A63F17DE353846BA4EAEC76C6C3776D3AD
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Charlotte Chase, Born: May 11, 1825 in Bristol, Addison, Vermont; Died: December 15, 1904 i
+3 CONC n Lewisville, Jefferson, Idaho; Burial: December 18, 1904 in Ogden City Cemetery, Weber, Uta
+3 CONC h (Moved to the Salt Lake City Cemetery).
+1 SOUR @S26@
+2 NOTE Charlotte Chase, Born: May 11, 1825 in Bristol, Addison, Vermont; Died: December 15, 1904.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:58:28
+0 @I139@ INDI
+1 NAME Henry /CHASE/
+2 SURN CHASE
+2 GIVN Henry
+1 SEX M
+1 BIRT
+2 DATE 21 Jul 1832
+2 PLAC Sparta, Livingston, Ny
+1 DEAT
+2 DATE 15 Oct 1910
+1 AFN 1HRQ-SL
+1 _UID F31FA9CA6A98C14EAB98902FBB00EDA1E17B
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Henry Chase, Born: July 21, 1832 in Sparta, Livingston, New York; Died: October 15, 1910.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 21 July 1832; Death Date: October 15, 1910
+3 CONT Age: 15
+3 CONT Pioneer Information: He is the son of Ezra and Tirza.
+3 CONT Source: see website
+1 SOUR @S26@
+2 NOTE Henry Chase, Born: July 21, 1832 in Sparta, Livingston, New York; Died: October 15, 1910.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:54:08
+0 @I140@ INDI
+1 NAME Newton /CHASE/
+2 SURN CHASE
+2 GIVN Newton
+1 SEX M
+1 BIRT
+2 DATE 3 Dec 1837
+2 PLAC Sparta, Livingston, New York
+1 DEAT
+2 DATE 30 Aug 1918
+1 AFN 1HRQ-TR
+1 _UID B8F8455C0C1F87419DEC0EC88145D665A46A
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Newton Chase, Born: December 3, 1837 in Sparta, Livingston, New York; Died: August 30, 1918. 
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 3 Dec 1837; Death Date: August 30, 1918
+3 CONT Age: 10
+3 CONT Pioneer Information:  He is the son of Ezra and Tirza.
+3 CONT Sources: see website
+1 SOUR @S26@
+2 NOTE Newton Chase, Born: December 8, 1837 in Sparta, Livingston, New York.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:53:35
+0 @I141@ INDI
+1 NAME Juliett /CHASE/
+2 SURN CHASE
+2 GIVN Juliett
+1 SEX F
+1 BIRT
+2 DATE 13 Sep 1841
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 21 Mar 1911
+2 PLAC Loa, Wayne, Utah
+1 BURI
+2 DATE 24 Mar 1911
+2 PLAC Loa, Wayne, Utah
+1 AFN 1HRQ-VX
+1 _UID D0D588859ED6EC47BC9F53BDC90623FAB04F
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Juliett Chase, Born: September 13, 1841 in Nauvoo, Hancock, Illinois; Died: March 21, 1911 i
+3 CONC n Loa, Wayne, Utah; Burial: March 24, 1911 in Loa, Wayne, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 13 Sept 1841; Death Date: March 21, 1911
+3 CONT Age:6Pioneer Information: She is the daughter of Ezra and Tirza.
+3 CONT Source: see website.
+1 SOUR @S26@
+2 NOTE Juliett Chase, Born: September 13, 1841 in Nauvoo, Hancock, Illinois; Died: March 21, 1911 i
+3 CONC n Loa, Wayne, Utah; Burial: March 24, 1911 in Loa, Wayne, Utah.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:52:34
+0 @I142@ INDI
+1 NAME Elisha Wells /CHASE/
+2 SURN CHASE
+2 GIVN Elisha Wells
+1 SEX M
+1 BIRT
+2 DATE 21 Apr 1830
+2 PLAC Sparta, Livingston, New York
+1 DEAT
+2 DATE 7 Mar 1917
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 10 Mar 1917
+2 PLAC City Cemetery, Ogden, Weber, Utah
+1 AFN 3M23-GF
+1 _UID 8E6A3FAE4E40F245A9859AA103E4DF946D5D
+1 FAMC @F16@
+1 SOUR @S22@
+2 NOTE Elisha Wells Chase, Born: April 21, 1830 in Sparta, Livingston, New York; Died: March 7, 191
+3 CONC 7 in Ogden, Weber, Utah; Burial: March 10, 1917 in City Cemetery, Ogden, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 21 Apr 1830; Death Date: March 7, 1917
+3 CONT Age: 18
+3 CONT Pioneer Information: He was the son of Ezra and Tirza.
+3 CONT Source: see website
+1 SOUR @S26@
+2 NOTE Wells Chase, Born: April 21, 1830 in New York.
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:56:17
+0 @I143@ INDI
+1 NAME John /SHAW/
+2 SURN SHAW
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 30 Jun 1790
+2 PLAC Bridgewater, Windsor, Vermont
+1 DEAT
+2 DATE 5 Jul 1880
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 7 Jul 1880
+2 PLAC Ogden Cemetery, Odgen, Weber, Utah
+1 AFN 17LQ-7L
+1 _UID 8B0A3ACAA5489045ABEA0683F42E8FC9F347
+1 FAMS @F30@
+1 FAMC @F31@
+1 SOUR @S24@
+2 NOTE John Shaw, Born: June 30, 1790 in Bridgewater, Windsor, Vermont; Died: July 5, 1880 in Ogden
+3 CONC , Weber, Utah; Burial: July 7, 1880 in Ogden Cemetery, Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 30 Jun 1790; Death Date: July 5, 1880
+3 CONT Age: 57
+3 CONT Sources: See Website
+1 SOUR @S20@
+2 NOTE "History of Benjamin Cazier, Sr." by Helen Cazier Norton"
+3 CONT http://cazier.org/FamilyHistories/CAZ%2004072007%20History%20of%20Benjamin%20Cazier%20Sr.%20b
+3 CONC y%20Helen%20Cazier%20Norton.pdf
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 299
+2 NOTE Dwelling and Family #1
+3 CONT John Shaw age 60 making his birth year around 1789-90 in Vermont.
+2 DATA
+3 DATE 1850 Weber, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 14:24:08
+0 @I144@ INDI
+1 NAME Job /SHAW/
+2 SURN SHAW
+2 GIVN Job
+1 SEX M
+1 AFN 3X3H-J5
+1 _UID 1F4E6401BA539642A95EB2B1347F73E93015
+1 FAMS @F31@
+1 SOUR @S24@
+1 CHAN
+2 DATE 26 Oct 2007
+3 TIME 09:22:02
+0 @I145@ INDI
+1 NAME Lucy /SHERMAN/
+2 SURN SHERMAN
+2 GIVN Lucy
+1 SEX F
+1 AFN 3X3H-KB
+1 _UID 8351FD83E3009F44AC45D736B12E12D9E250
+1 FAMS @F31@
+1 SOUR @S24@
+1 CHAN
+2 DATE 26 Oct 2007
+3 TIME 09:22:02
+0 @I146@ INDI
+1 NAME Polly Maria /FOX/
+2 SURN FOX
+2 GIVN Polly Maria
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 1790
+2 PLAC Sheffield, Berkshire, Massachusetts
+1 DEAT
+2 DATE 21 Jan 1873
+2 PLAC North Ogden, Weber, Utah
+1 BURI
+2 DATE 25 Jan 1873
+2 PLAC Ogden, Weber, Utah
+1 AFN 17LQ-8R
+1 _UID C06670E3CEF54F459CA51EC0EACCE23AC134
+1 FAMS @F30@
+1 FAMC @F32@
+1 SOUR @S24@
+2 NOTE Polly Maria Fox, Born: January 11, 1790 in Sheffield, Berkshire, Massachusetts; Died: Januar
+3 CONC y 21, 1873 in North Ogden, Weber, Utah; Burial: January 25, 1873 in Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 11 Jan 1790; Death Date: January 21, 1873
+3 CONT Age: 58
+3 CONT Sources: See Website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 299
+2 NOTE Dwelling and Family #1
+3 CONT Polly Shaw age 60 making her birth year around 1789-90 in Massachusetts. 
+2 DATA
+3 DATE 1850 Weber, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 14:33:23
+0 @I147@ INDI
+1 NAME Jeremiah /FOX/
+2 SURN FOX
+2 GIVN Jeremiah
+1 SEX M
+1 AFN B6T0-41
+1 _UID DD040E761338394A997915556158AA82948E
+1 FAMS @F32@
+1 SOUR @S24@
+1 CHAN
+2 DATE 26 Oct 2007
+3 TIME 09:22:02
+0 @I148@ INDI
+1 NAME Olive /FITCH/
+2 SURN FITCH
+2 GIVN Olive
+1 SEX F
+1 AFN B6T0-56
+1 _UID 3A41519A75E4D041A34488C9E25CB2ACA41D
+1 FAMS @F32@
+1 SOUR @S24@
+1 CHAN
+2 DATE 26 Oct 2007
+3 TIME 09:22:02
+0 @I149@ INDI
+1 NAME Olive Lucy /SHAW/
+2 SURN SHAW
+2 GIVN Olive Lucy
+1 SEX F
+1 BIRT
+2 DATE 7 Feb 1833
+2 PLAC Bennington, Genesee, Ny
+1 CHR
+2 DATE 1 Dec 1844
+1 DEAT
+2 DATE 14 Sep 1861
+2 PLAC North Ogden, Weber, Utah, In Child Birth
+1 BURI
+2 DATE Sep 1861
+2 PLAC Ogden, Weber, Utah, Ogden City Cem.
+1 AFN 17LQ-2Q
+1 _UID DD2905620C7A3C4AB8027DA18F535039BC26
+1 FAMS @F33@
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Olive Lucy Shaw, Born: February 7, 1833 in Bennignton, Genesee, New York; Christened: Decembe
+3 CONC r 1, 1844; Died: September 14, 1861 in North Ogden, Weber, Utah; Burial: in Ogden, Weber, Uta
+3 CONC h.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 7 Feb 1833; Died: September 14, 1861
+3 CONT Age: 15
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 300
+2 NOTE Dwelling and Family #7
+3 CONT Olive Cazier age 18 making her birth year around 1832-33 in New York.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 16:33:25
+0 @I150@ INDI
+1 NAME Myrtello /SHAW/
+2 SURN SHAW
+2 GIVN Myrtello
+1 SEX M
+1 BIRT
+2 DATE 1 Aug 1814
+2 PLAC Victor, Ontario, New York
+1 DEAT
+2 DATE 20 Jan 1896
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE Jan 1898
+2 PLAC Ogden, Weber, Utah
+1 AFN 17LR-5D
+1 _UID 8D878A83908F5847A169858666AA23E10820
+1 FAMS @F34@
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Myrtello Shaw, Born: August 1, 1814 in Victor, Ontario, New York; Died: January 20, 1896 in O
+3 CONC gden, Weber, Utah; Burial: January 1898 [sic] in Ogden, Weber, Utah.
+1 SOUR @S20@
+2 NOTE "History of Benjamin Cazier Sr." by Helen Cazier Norton"
+3 CONT http://cazier.org/FamilyHistories/CAZ%2004072007%20History%20of%20Benjamin%20Cazier%20Sr.%20b
+3 CONC y%20Helen%20Cazier%20Norton.pdf
+3 CONT Name Listed: Mertillo Shaw
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Name Listed: Myrtillo Shaw
+3 CONT Birth Date: 1 Aug 1814; Death Date: January 20, 1896
+3 CONT Age: 33
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 155; Image: 318
+2 NOTE Dwelling and Famliy #113
+3 CONT Myrtillo Mantle age 37 making his birth year around 1812-13 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 14:43:57
+0 @I151@ INDI
+1 NAME John Langdon /SHAW/
+2 SURN SHAW
+2 GIVN John Langdon
+1 SEX M
+1 BIRT
+2 DATE 19 May 1816
+2 PLAC Victor, Ontario, New York
+1 DEAT
+2 DATE 20 Mar 1906
+2 PLAC Lee Center, Lee, Illinois
+1 AFN 17LR-6K
+1 _UID A879959F80346148A9A3AE5E3F05078ADFA8
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE John Langdon Shaw, Born: May 19, 1816 in Victor, Ontario, New York; Died: March 20, 1906 in L
+3 CONC ee Center, Lee, Illinios. 
+1 SOUR @S18@
+2 PAGE Roll: M432_116; Page: 112; Image: 75
+2 NOTE Dwelling and Family #26
+3 CONT John Shaw age 34 making his birth year around 1815-16 in New York.
+2 DATA
+3 DATE September 7, 1850 in Lee, Illinois
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 15:47:38
+0 @I152@ INDI
+1 NAME Sylvester /SHAW/
+2 SURN SHAW
+2 GIVN Sylvester
+1 SEX M
+1 BIRT
+2 DATE 21 May 1818
+2 PLAC Victor, Ontario, New York
+1 DEAT
+2 DATE 6 Aug 1901
+1 AFN 17LR-7Q
+1 _UID ABEF676CA438EF4E93776994E8F4DBD01430
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Sylvester Shaw, Born: May 21, 1818 in Victor, Ontario, New York; Died: August 6, 1901.
+1 SOUR @S18@
+2 PAGE Roll: M432_116; Page: 112; Image: 75
+2 NOTE Dwelling and Family #25
+3 CONT Silvester Shaw age 32 making his birth year around 1827-28 in New York.
+2 DATA
+3 DATE 7 Sep 1850
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 09:51:21
+0 @I153@ INDI
+1 NAME Henry Champion /SHAW/
+2 SURN SHAW
+2 GIVN Henry Champion
+1 SEX M
+1 BIRT
+2 DATE 1 Jul 1820
+2 PLAC Victor, Ontario, New York
+1 DEAT
+2 DATE 7 Oct 1874
+2 PLAC Amboy, Lee, Illinois
+1 AFN 17LR-8W
+1 _UID EA04ABD3D73D5C4AAD51F4B56DE37DD16BDA
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Henry Champion Shaw, Born: July 1, 1820 in Victor, Ontario, New York; Died: October 7, 1874 i
+3 CONC n Amboy, Lee, Illinois.
+1 SOUR @S18@
+2 PAGE Roll: M432_116; Page: 115; Image: 81 
+2 NOTE Dwelling and Family #45
+3 CONT Henry Shaw age 30 making his birth year around 1819-20 in New York.
+2 DATA
+3 DATE September 10, 1850 in Lee, Illinois
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 15:44:04
+0 @I154@ INDI
+1 NAME Zebediah V. /SHAW/
+2 SURN SHAW
+2 GIVN Zebediah V.
+1 SEX M
+1 BIRT
+2 DATE 5 Aug 1822
+2 PLAC Victor, Ontario, New York
+1 DEAT
+2 DATE 1892
+2 PLAC Toronto, Ontario, Canada
+1 AFN 17LR-93
+1 _UID DE41BE0DA5BB254FB7E245180B906C5813C2
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Zebediah V. Shaw, Born: August 5, 1822 in Victor, Ontario, New York; Died: 1892 in Toronto, O
+3 CONC ntario, Canada.
+1 SOUR @S18@
+2 PAGE Roll: M432_116; Page: 115; Image: 81
+2 NOTE Dwelling and Family #49 
+3 CONT Zebeidah Shaw age 27 making his birth year around 1822-23 in New York.
+2 DATA
+3 DATE September 10, 1850 in Lee, Illinois
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 15:51:27
+0 @I155@ INDI
+1 NAME William Montgomery /SHAW/
+2 SURN SHAW
+2 GIVN William Montgomery
+1 SEX M
+1 BIRT
+2 DATE 8 Sep 1826
+2 PLAC Bennington, Wyoming, New York
+1 DEAT
+2 DATE 27 Dec 1902
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 30 Dec 1902
+2 PLAC Ogden, Weber, Utah
+1 AFN 17LR-CF
+1 _UID 9B295E9CB14DC143BE6057E35AFB416412EF
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE William Montgomery Shaw, Born: September 8, 1826 in Bennington, Wyoming, New York; Died: Dece
+3 CONC mber 27, 1902 in Ogden, Weber, Utah; Burial: December 30, 1902 in Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 8 Sep 1826; Death Date: December 27, 1902
+3 CONT Age: 21
+3 CONT Source: see website
+1 SOUR @S38@
+2 PAGE Roll: M593_1613; Page: 471; Image: 252
+2 NOTE Dwelling and Family #293
+3 CONT William Shaw age 43 making his birth year around 1828-27 in New York.
+2 DATA
+3 DATE July 14, 1870 in Weber, Utah Territory 
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 16:28:22
+0 @I156@ INDI
+1 NAME Polly Maria /SHAW/
+2 SURN SHAW
+2 GIVN Polly Maria
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1830
+2 PLAC Bennington, Genesee, New York
+1 DEAT
+2 DATE 24 Feb 1875
+2 PLAC (north Ogden Cemetery) Horth O, Weber, Utah
+1 BURI
+2 PLAC Ogden City Cemetary, Ogden, Weber, Utah
+1 AFN 17LR-DL
+1 _UID FE3B02FCB7B326469D88BFAB5B25C72F127D
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Polly Maria Shaw, Born: February 10, 1830 in Bennington, Genesee [sic], New York; Died: Febru
+3 CONC ary 24, 1875 in (North Ogden Cemetery) Horth O [sic], Weber, Utah; Burial: in Ogden City Ceme
+3 CONC tery.
+1 SOUR @S37@
+2 NOTE Polly Maria Williams, Born: in New York; Died: February 24, 1875 in Ogden, Utah; Burial: in O
+3 CONC gden City Cemetery, Ogden, Utah.
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 16:33:12
+0 @I157@ INDI
+1 NAME Miraim /Gove/
+2 SURN Gove
+2 GIVN Miraim
+1 SEX F
+1 BIRT
+2 DATE 22 Mar 1813
+2 PLAC Lincoln, Addison, Vermont
+1 DEAT
+2 DATE 4 Nov 1909
+2 PLAC Payson, Utah, Utah
+1 BURI
+2 DATE 7 Nov 1909
+2 PLAC City Cemetery Salt Lake City, Salt Lake, Utah
+1 _UID 522D75D74C0FE94E9FC86093CE692BFB1474
+1 FAMS @F66@
+1 SOUR @S14@
+2 NOTE Miriam Gove, Born: March 22, 1813 in Lincoln, Addison, Vermont; Died: November 4, 1909 in Pay
+3 CONC son, Utah, Utah; Burial: November 7, 1909 in City Cemetery, Salt Lake City, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Miriam Gove Chase, Born: March 22, 1813; Died: November 4, 1909; Trekked with the Daniel A. M
+3 CONC iller/John W. Cooley Company in 1853.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family #767
+3 CONT Miriam Chase age 45 making her birth year around 1804-05 in Vermont.
+2 DATA
+3 DATE October 12, 1850 Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 11:32:40
+0 @I158@ INDI
+1 NAME Ambrose A. /SHAW/
+2 SURN SHAW
+2 GIVN Ambrose A.
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1824
+2 PLAC Victor, Ontario, New York
+1 DEAT
+2 DATE 14 Jan 1906
+2 PLAC Ogden, Davis, Utah
+1 BURI
+2 DATE 17 Jan 1906
+2 PLAC Ogden, Weber, Utah
+1 AFN 8LG9-67
+1 _UID 57D4EE689BEF78489C55055A094C32B3551B
+1 FAMC @F30@
+1 SOUR @S24@
+2 NOTE Ambrose A. Shaw, Born: September 12, 1824 in Victor, Ontario, New York; Died: January 14, 190
+3 CONC 6 Ogden, Weber, Utah; Burial: January 17, 1906 in Ogden, Utah.
+1 SOUR @S2@
+2 NOTE Daniel Spencer/Ira Eldredge Company (1847)Birth Date: 12 Sep 1824; Death Date: January 14, 1
+3 CONC 906Age: 22Sources: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 299
+2 NOTE Dwelling and Family #4
+3 CONT Ambrose Shaw age 25 making his birth year around 1824-25 in New York. 
+2 DATA
+3 DATE 1850 in Weber, Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 16:00:40
+0 @I159@ INDI
+1 NAME Son /BRYAN/
+2 SURN BRYAN
+2 GIVN Son
+1 SEX M
+1 BIRT
+2 DATE Abt. 1845
+2 PLAC Lovington, Moultrie, Illinois
+2 SOUR @S19@
+3 NOTE Birth Place listed as: Lovington, Mltr, Il
+1 _UID 9317DD1E740AF24EAC3EEB9431E7C433DBE1
+1 FAMC @F35@
+1 SOUR @S19@
+2 NOTE Born: about 1845 in Lovington, Moultrie, Illinois
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:48:53
+0 @I160@ INDI
+1 NAME (Still Born) /BRYAN/
+2 SURN BRYAN
+2 GIVN (Still Born)
+1 SEX M
+1 BIRT
+2 DATE Abt. 1845
+2 PLAC Lovington, Moultrie, Illinois
+2 SOUR @S19@
+3 NOTE Found in Ancestral File as <Lovington, Mltr, Il>
+1 _UID BDDCD187E953AB4B921D0273216CA0DC5055
+1 FAMC @F35@
+1 NOTE Most likely the first adn second child are the same person unless they were twins which is un
+2 CONC likely.
+1 SOUR @S15@
+2 NOTE Born: about 1845 in Lovington, Moultrie, Illinois.
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:49:59
+0 @I161@ INDI
+1 NAME Charles Hinkle /BRYAN/
+2 SURN BRYAN
+2 GIVN Charles Hinkle
+1 SEX M
+1 BIRT
+2 DATE 14 Dec 1807
+2 PLAC West Floydsburg, Jefferson, Kentucky
+1 DEAT
+2 DATE 14 Jan 1885
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 16 Jan 1885
+2 PLAC Nephi, Juab, Utah
+1 _UID FEC4A51AEF039D46BC7955D7BA2DAC246EEC
+1 FAMS @F35@
+1 FAMS @F37@
+1 FAMC @F59@
+1 SOUR @S19@
+2 NOTE Charles Hinckle Bryan, Born: Decemer 14, 1807 in West Floydsburg, Jefferson, Kentucky; Died
+3 CONC : January 14, 1885 in Nephi, Juab, Utah; Burial: January 16, 1885.
+1 SOUR @S2@
+2 NOTE Company: Brigham Young Company (1848)
+3 CONT Birth Date: 14 Dec 1807; Death Date: January 14, 1885
+3 CONT Age: 40
+3 CONT Gender: Male
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 55; Image: 109
+2 NOTE Dwelling and Family #456
+3 CONT Charles Bryan age 43 making his birth year around 1806-07 in Kentucky.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:31:11
+0 @I162@ INDI
+1 NAME Harriet Orilla (Or Aurlia) /AUSTIN/
+2 SURN AUSTIN
+2 GIVN Harriet Orilla (Or Aurlia)
+1 SEX F
+1 BIRT
+2 DATE 3 Feb 1820
+2 PLAC Bennington, Wyoming, New York
+1 DEAT
+2 DATE 24 May 1891
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE May 1891
+2 PLAC Ogden, Weber, Utah
+1 AFN 1JPX-1B
+1 _UID 1507ABA6B4C77F458642306915C4F6A4803C
+1 FAMS @F34@
+1 FAMC @F36@
+1 SOUR @S25@
+2 NOTE Harriet Orilla (or Aurlia) Austin, Born: February 3, 1820 in Bennington, Wyoming, New York; D
+3 CONC ied: May 24, 1891 in Ogden, Weber, Utah; Burial: May 1891 in Ogden, Weber, Utah
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 3 Feb 1820; Death Date: May 24, 1891
+3 CONT Age: 28
+3 CONT Source: See Website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 155; Image: 318
+2 NOTE Dwelling and Family #113
+3 CONT Orilla Shaw age 31 making her birth year around 1818-19 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 14:50:21
+0 @I163@ INDI
+1 NAME Robert Robinson /AUSTIN/
+2 SURN AUSTIN
+2 GIVN Robert Robinson
+1 SEX M
+1 AFN 3BDK-Q5
+1 _UID 08500CF2087039439645AEA6D0E6D4C8CB2E
+1 FAMS @F36@
+1 SOUR @S25@
+1 CHAN
+2 DATE 26 Oct 2007
+3 TIME 10:07:15
+0 @I164@ INDI
+1 NAME Harriett /RHODES/
+2 SURN RHODES
+2 GIVN Harriett
+1 SEX F
+1 AFN 3BDK-RB
+1 _UID 7DD5F657ADDD974883470A213D4098728473
+1 FAMS @F36@
+1 SOUR @S25@
+1 CHAN
+2 DATE 26 Oct 2007
+3 TIME 10:07:15
+0 @I165@ INDI
+1 NAME Lorin /Farr/
+2 SURN Farr
+2 GIVN Lorin
+1 SEX M
+1 BIRT
+2 DATE 27 Jul 1820
+2 PLAC Waterford, Caledonia, Vermont
+1 DEAT
+2 DATE 12 Jan 1909
+2 PLAC Hot Springs, Weber, Utah  
+1 BURI
+2 DATE 17 Jan 1909
+2 PLAC Ogden, Weber, Utah
+1 _UID 50335DD6B21E4E44A7B36E2C16A9D916BAAB
+1 FAMS @F42@
+1 FAMC @F43@
+1 SOUR @S19@
+2 NOTE Lorin Farr,  Born: July 27, 1820 in Waterford, Caledonia, Vermont; Died: January 12, 1909 Ho
+3 CONC t Springs, Weber, Utah; Burial: January 17, 1909 Ogden. Weber, Utah.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 148; Image: 299
+2 NOTE Dwelling and Family #6
+3 CONT Lorin Farr age 30 making his birth year around 1819-1820 in Vermont.  Census taken in Weber C
+3 CONC ounty, Utah.
+2 DATA
+3 DATE 1850
+1 SOUR @S2@
+2 NOTE Lorin Farr, Born: July 27, 1820; Died: January 2, 1909; Trekked with the Daniel Spencer/Ira E
+3 CONC lderedge Company in 1847. 
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 14:16:07
+0 @I166@ INDI
+1 NAME Harriet Orilla /SHAW/
+2 SURN SHAW
+2 GIVN Harriet Orilla
+1 SEX F
+1 BIRT
+2 DATE 22 Feb 1843
+2 PLAC Lathrop, Hancock, Illinois
+2 SOUR @S2@
+3 NOTE Birth Date listed as: 23 Feb 1844
+1 DEAT
+2 DATE 24 May 1926
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 PLAC Ogden, Weber, Utah
+1 AFN 2MZ8-W4
+1 _UID 17838D0EDD9D1A409E818E3ACB9234A021BF
+1 FAMC @F34@
+1 SOUR @S25@
+2 NOTE Harriet Orilla Shaw, Born: February 22, 1843 in Lathrop, Hancock, Illinois; Died: May 24, 192
+3 CONC 6 in Ogden, Weber, Utah; Burial: in Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 23 Feb 1844; Death Date: unknown.
+3 CONT Age: 4
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 155; Image: 318
+2 NOTE Dwelling and Family #113
+3 CONT Harriet Shaw age 7 making her birth year around 1842-43 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 15:00:38
+0 @I167@ INDI
+1 NAME Pauline /HOYT/
+2 SURN HOYT
+2 GIVN Pauline
+1 SEX F
+1 BIRT
+2 DATE 19 Feb 1808
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 9 Apr 1881
+1 _UID 988616429D3DAA4FBC4F221849883DDF7BB0
+1 FAMS @F46@
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Pauline Hoyt, Born: February 19, 1808 in Booneville, Oneida, New York; Died: Apil 9, 1881. 
+1 SOUR @S18@
+2 PAGE Roll: M432_562; Page: 187; Image: 373
+2 NOTE Dwelling #1118 and Family #1148
+3 CONT Pauline Green age 42 making her birth year around 1807-08 in New York.
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 12:04:05
+0 @I168@ INDI
+1 NAME Winslow /Farr/ Sr.
+2 SURN Farr
+2 GIVN Winslow
+2 NSFX Sr.
+1 SEX M
+1 _UID C62E01FEB60A8A4B82BBC6F484B5533D48AA
+1 FAMS @F43@
+1 SOUR @S19@
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 14:17:47
+0 @I169@ INDI
+1 NAME Ebenezer /Green/
+2 SURN Green
+2 GIVN Ebenezer
+1 SEX M
+1 BIRT
+2 DATE 1804
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE unknown
+1 _UID E69BF1FA89AC72468C3251A06304C784BA7D
+1 FAMS @F46@
+1 SOUR @S16@
+2 NOTE Ebenezer Green, Born: 1804 in Booneville, Oneida, New York.
+1 SOUR @S18@
+2 PAGE Roll: M432_562; Page: 187; Image: 373
+2 NOTE Dwelling #1118 and Family #1148
+3 CONT Ebenezer Green age 52 making his birth year around 1798-99 in Rhode Island.
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 12:02:15
+0 @I170@ INDI
+1 NAME Francis /SHAW/
+2 SURN SHAW
+2 GIVN Francis
+1 SEX M
+1 BIRT
+2 DATE 1 Jul 1841
+2 PLAC Bennington, Wyoming, New York
+1 DEAT
+2 DATE 21 Jan 1922
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 25 Jan 1922
+2 PLAC Ogden, Weber, Utah
+1 AFN 1JPX-HQ
+1 _UID 973126D83646AA4780B9FEC12B5392C1FC5A
+1 FAMC @F34@
+1 SOUR @S25@
+2 NOTE Francis Shaw, Born: July 1, 1841 in Bennington, Wyoming, New York; Died: January 21, 1922 i
+3 CONC n Ogden, Weber, Utah; Burial: January 25, 1922 in Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 1 Jul 1841; Death Date: unknown
+3 CONT Age: 6
+3 CONT Pioneer Information: Listed as "Franklin" on the original company roster.
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 155; Image: 318
+2 NOTE Dwelling and Family #113
+3 CONT Francis Shaw age 8 making his birth year around 1841-42 in New York.
+2 DATA
+3 DATE 1850 Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 14:56:46
+0 @I171@ INDI
+1 NAME Robert R. /SHAW/
+2 SURN SHAW
+2 GIVN Robert R.
+1 SEX M
+1 BIRT
+2 DATE 15 Apr 1845
+2 PLAC Laharp, Hancock, Illinois
+1 DEAT
+2 DATE 7 Dec 1907
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 10 Dec 1907
+2 PLAC Ogden City Cemetery, Ogden, Weber, Utah
+1 AFN 1JPX-K3
+1 _UID 29288956FBB6F1448A683FC69DFD764D6A4C
+1 FAMC @F34@
+1 SOUR @S25@
+2 NOTE Robert R. Shaw, Born: April 15, 1845 in Laharp, Hancock, Illinois; Died: December 7, 1907.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 15 Apr 1845; Death Date: December 7, 1907
+3 CONT Age: 3
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 155; Image: 318
+2 NOTE Dwelling and Family #113
+3 CONT Robert Shaw age 5 making his birth year around 1844-45 in Illinois.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 SOUR @S37@
+2 NOTE Robert R. Shaw, Born: April 15, 1845 in Illinois; Died: December 7, 1907 in Ogden, Utah; Buri
+3 CONC al: December 10, 1907 in Ogden City Cemetery, Utah.
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 15:09:24
+0 @I172@ INDI
+1 NAME Abigail Nabby /Howe/
+2 SURN Howe
+2 GIVN Abigail Nabby
+1 SEX F
+1 _UID C19BC1D6BFCA484AA01734B4F08AB6825F46
+1 FAMS @F45@
+1 SOUR @S19@
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 15:57:45
+0 @I173@ INDI
+1 NAME John /Young/
+2 SURN Young
+2 GIVN John
+1 SEX M
+1 _UID 358DA032AAEECB489F9A82638BD7C7A92F96
+1 FAMS @F45@
+1 SOUR @S19@
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 15:39:44
+0 @I174@ INDI
+1 NAME Brigham /Young/
+2 SURN Young
+2 GIVN Brigham
+1 SEX M
+1 BIRT
+2 DATE 1 Jun 1801
+2 PLAC Whitngham, Windham, Vermont
+1 DEAT
+2 DATE 29 Aug 1877
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 2 Sep 1877
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 893FA2BE14F49C4CBA767EFB6ED5E6F6E0D1
+1 FAMS @F44@
+1 FAMC @F45@
+1 SOUR @S19@
+2 NOTE Brigham Young, Born: June 1, 1801 in Whitingham, Windham, Vermont; Died: August 29, 1877 in S
+3 CONC alt Lake City, Salt Lake, Utah; Burial: September 2, 1877 in Salt Lake City, Salt Lake, Utah
+3 CONC . 
+1 SOUR @S2@
+2 NOTE Brigham Young, Born: June 1, 1801; Died: August 29, 1877; Trekked with the Brigham Young Comp
+3 CONC any in 1848.
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 15:39:53
+0 @I175@ INDI
+1 NAME Olive Hovey /Freeman/
+2 SURN Freeman
+2 GIVN Olive Hovey
+1 SEX F
+1 _UID A8E2DF52A6E5124FA4896DB299EA749A84BF
+1 FAMS @F43@
+1 SOUR @S19@
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 14:18:19
+0 @I176@ INDI
+1 NAME Enoch /Farr/
+2 SURN Farr
+2 GIVN Enoch
+1 SEX M
+1 BIRT
+2 DATE 28 Dec 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 30 Jun 1914
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 2 Jul 1914
+2 PLAC Ogden City Cemetery, Ogden, Weber, Utah
+1 _UID F5D0904A13D51C4391137D053DB65391E301
+1 FAMC @F42@
+1 NOTE The birth date or the marriage date seem to be a little off with the sources that are current
+2 CONC ly available.
+1 SOUR @S19@
+2 NOTE Enoch Farr, Born: December 28, 1845 in Nauvoo, Hancock, Illinois; Died: June 30, 1914 in Ogde
+3 CONC n, Weber, Utah; Burial: July 2, 1914 (City Cemetery) Ogden, Weber, Utah.
+1 SOUR @S2@
+2 NOTE Enoch Farr, Born: December 28, 1845; Died: June 30, 1914; Trekked with the Daniel Spencer/Ir
+3 CONC a Eldredge Company in 1847. 
+1 SOUR @S18@
+2 PAGE Roll: M342_919; Page: 148; Image: 299
+2 NOTE Dwelling and Family #6
+3 CONT Enoch Farr age 5 making his birth year around 1844-1845 in Illinois.  Census taken in Weber C
+3 CONC ounty, Utah.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 26 Nov 2008
+3 TIME 14:15:45
+0 @I177@ INDI
+1 NAME Polly Mariah /SHAW/
+2 SURN SHAW
+2 GIVN Polly Mariah
+1 SEX F
+1 BIRT
+2 DATE 7 Feb 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+2 SOUR @S2@
+3 NOTE Birth Date is listed as 6 Feb 1848
+1 DEAT
+2 DATE 24 Nov 1923
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S2@
+3 NOTE Death Date Listed as: 25 Nov 1923
+1 BURI
+2 DATE 27 Nov 1923
+2 PLAC Ogden City Cemetery, Ogden, Utah
+1 AFN 3HLV-XD
+1 _UID CE0C6ADF147FCE49824D90B43E8ADAA123AF
+1 FAMC @F34@
+1 SOUR @S25@
+2 NOTE Polly Mariah Shaw, Born: February 7, 1848 in Council Bluffs, Pottawattamie, Iowa; Died: Novem
+3 CONC ber 24, 1923 in Ogden, Weber, Utah; Burial: November 27, 1923 in Ogden City Cemetery, Ogden
+3 CONC , Utah.
+1 SOUR @S2@
+2 NOTE Brigham Young Company (1848)
+3 CONT Birth Date: 6 Feb 1848
+3 CONT Death Date: 25 Nov 1923
+3 CONT Age: Infant
+3 CONT Source: see website
+1 SOUR @S18@
+2 PAGE Roll: M 432_919; Page: 155; Image: 318
+2 NOTE Dwelling and Family #113
+3 CONT Mariah Shaw age 3 making her birth year around 1846-47 in Iowa.
+2 DATA
+3 DATE 1850 Utah Territory
+1 CHAN
+2 DATE 18 Dec 2008
+3 TIME 15:13:46
+0 @I178@ INDI
+1 NAME /BRYAN/
+2 SURN BRYAN
+1 SEX M
+1 BIRT
+2 PLAC Lovington, Moultrie, Illinois
+1 DEAT
+2 PLAC Lovington, Moultrie, Illinois
+1 BURI
+2 PLAC Lovington, Moultrie, Illinois
+1 _UID A45960468E883B41B382391C94D166DF69D2
+1 FAMC @F35@
+1 SOUR @S19@
+2 NOTE Born: Lovington, Moultrie, Illinois.
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:50:29
+0 @I179@ INDI
+1 NAME Frances Elizabeth /LeMaster/
+2 SURN LeMaster
+2 GIVN Frances Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1826
+2 PLAC , Robertson or Mongomery, Tennessee
+1 DEAT
+2 DATE Jan 1898
+2 PLAC Belgrade, Gallatin, Montana
+1 _UID FA626A3D7594154281095E78270661297AAB
+1 FAMS @F60@
+1 FAMC @F61@
+1 SOUR @S15@
+2 NOTE Frances Elizabeth LE Master, Born: February 10, 1826 in Robertson or Montgomery County, Tenne
+3 CONC ssee; Died: January 1898 in Belgrade, Gallatin, Montana; Burial: January 1898. 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 52; Image: 103
+2 NOTE Dwelling and Family #412
+3 CONT Frances E. Cazier age 25 making her birth year around 1824-25 in Tennessee.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:25:48
+0 @I180@ INDI
+1 NAME Eliza Jane /BRYAN/
+2 SURN BRYAN
+2 GIVN Eliza Jane
+1 SEX F
+1 BIRT
+2 DATE 12 Apr 1847
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 10 Feb 1849
+1 _UID 9D4772A55CF529478A98770CA47C62F2D5BE
+1 FAMC @F35@
+1 NOTE Most likely died in the Great Salt Lake Valley at the age of 1-2 years.
+1 SOUR @S19@
+2 NOTE Eliza Jane Bryan, Birth Date: 12 April 1847 in Council Bluffs, Pottawattamie, Iowa; Died: Feb
+3 CONC ruary 10, 1849.
+1 SOUR @S2@
+2 NOTE Company: Brigham Young Company (1848)
+3 CONT Birth Date: 12 Apr 1847; Death Date: February 10, 1849
+3 CONT Age: 1
+3 CONT Gender: Female
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:56:23
+0 @I181@ INDI
+1 NAME Serah /Rude/
+2 SURN Rude
+2 GIVN Serah
+1 SEX F
+1 BIRT
+2 DATE 1816
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE unknown
+1 _UID EBDBFB86405EC44D9571B447B7298098EFBD
+1 FAMS @F47@
+1 SOUR @S16@
+2 NOTE Serah Rude, Born: 1816 in Booneville, Oneida, New York.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #69
+3 CONT Serah Hoit age 43 making her birth year around 1806-07 in Virginia.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 13 Jun 2011
+3 TIME 14:21:13
+0 @I182@ INDI
+1 NAME Hiram /HOYT/
+2 SURN HOYT
+2 GIVN Hiram
+1 SEX M
+1 BIRT
+2 DATE 8 Jun 1812
+2 PLAC Booneville, Oneida, New York
+1 DEAT
+2 DATE 1882
+1 _UID BF1F713EDD240C4388A281BFBEF17F219629
+1 FAMS @F47@
+1 FAMC @F40@
+1 SOUR @S16@
+2 NOTE Hiram Hoyt, Born: June 8, 1812 in Booneville, Oneida, New York; Died: 1882.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #69
+3 CONT Hiram Hoit age 38 making his birth year around 1811-12 in New York.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 13 Jun 2011
+3 TIME 14:19:42
+0 @I183@ INDI
+1 NAME Jane Collins /SNYDER/
+2 SURN SNYDER
+2 GIVN Jane Collins
+1 SEX F
+1 BIRT
+2 DATE 22 Jun 1814
+2 PLAC , Jefferson, Kentucky
+1 DEAT
+2 DATE Abt. 1834
+1 _UID 1C08B7194D3DFF498277E4C0E44917B75EFA
+1 FAMS @F37@
+1 NOTE Most likely died giving birth to her son John in Decemeber 1834.
+1 SOUR @S19@
+2 NOTE Jane Collins Snyder, Born: June 22, 1814 in Jefferson County, Kentucky; Died: About 1834. 
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:45:43
+0 @I184@ INDI
+1 NAME John Henry /BRYAN/
+2 SURN BRYAN
+2 GIVN John Henry
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1834
+2 PLAC Near Decatur, Macon, Illinois
+1 DEAT
+2 DATE 4 Dec 1853
+1 _UID 610FF11036B2E440BF6BD63E03995EC176B8
+1 FAMC @F37@
+1 SOUR @S19@
+2 NOTE John Henry Bryan, Birth Date: 4 Dec 1834 near Decatur, Macon, Illinois; Died: December 4, 185
+3 CONC 3.
+1 SOUR @S2@
+2 NOTE Company: Brigham Young Company (1848)
+3 CONT Birth Date: 4 December 1834; Death Date: December 4, 1853
+3 CONT Age: 13
+3 CONT Gender: Male
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 55; Image: 109
+2 NOTE Dwelling and Family #456
+3 CONT John H. Bryan age 16 making his birth year around 1833-34 in Illinois.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:45:13
+0 @I185@ INDI
+1 NAME William Whitehead /TAYLOR/
+2 SURN TAYLOR
+2 GIVN William Whitehead
+1 SEX M
+1 BIRT
+2 DATE 12 Dec 1828
+2 PLAC Tetlow Fold, Oldham Lancashire, England
+1 DEAT
+2 DATE 17 Nov 1907
+2 PLAC Lehi, Utah, Utah
+1 BURI
+2 DATE 20 Nov 1907
+2 PLAC Lehi, Utah, Utah
+1 _UID 28E1B32E1D0C7D4CA448B0FA382ED9F3A466
+1 FAMC @F38@
+1 SOUR @S2@
+2 NOTE Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: ca. 1828; Death Date: unknown
+3 CONT Age: 24
+3 CONT Gender: Male
+3 CONT (see website for sources)
+1 SOUR @S13@
+2 PAGE Page 424
+1 SOUR @S12@
+2 NOTE William Whitehead Taylor, Birth Date: 12 December 1828; Died: November 17, 1907 in Lehi, Utah
+3 CONC , Utah; Burial: November 20, 1907 in Lehi, Utah, Utah.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 64; Image: 129
+2 NOTE Dwelling and Family #4
+3 CONT William Taylor age 20 making his birth year around 1829-31 in England.
+2 DATA
+3 DATE August 30, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 13:53:54
+0 @I186@ INDI
+1 NAME Samuel /TAYLOR/
+2 SURN TAYLOR
+2 GIVN Samuel
+1 SEX M
+1 _UID C93538C0C5982D4B9BF784840B71AC39C6F9
+1 FAMS @F38@
+1 SOUR @S19@
+2 NOTE Name Listed: Samuel TAYLOR
+1 SOUR @S13@
+2 PAGE Page 424
+1 CHAN
+2 DATE 5 Nov 2007
+3 TIME 10:04:24
+0 @I187@ INDI
+1 NAME Sarah /WHITEHEAD/
+2 SURN WHITEHEAD
+2 GIVN Sarah
+1 SEX F
+1 _UID F0235CFDFD7DFB4B89FF9AC5AFDC927BAB3F
+1 FAMS @F38@
+1 SOUR @S19@
+2 NOTE Sarah WHITEHEAD
+1 SOUR @S13@
+2 PAGE Page 424
+1 CHAN
+2 DATE 5 Nov 2007
+3 TIME 10:04:36
+0 @I188@ INDI
+1 NAME Sophia /HOYT/
+2 SURN HOYT
+2 GIVN Sophia
+1 SEX F
+1 BIRT
+2 DATE ABT 1843
+2 PLAC , , Illinois
+1 DEAT
+2 DATE unknown
+1 _UID A38D653CD2ED674E9C805129311817F93416
+1 FAMC @F47@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #69
+3 CONT Sophia Hoit age 7 making her birth year around 1842-43 in Illinois.
+2 DATA
+3 DATE 31 Aug 1850
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 15:21:50
+0 @I189@ INDI
+1 NAME Serah /RUDE/
+2 SURN RUDE
+2 GIVN Serah
+1 SEX F
+1 BIRT
+2 DATE 1816
+2 PLAC Boonville, Oneida, New York
+1 _UID 79B3057609D3E54D8819F7191D28080DC0B4
+1 FAMS @F39@
+1 SOUR @S19@
+2 NOTE Name Listed: Serah Rude
+3 CONT Birth Date: 1816
+3 CONT Name Variation: Sarah Rude
+1 CHAN
+2 DATE 2 Nov 2007
+3 TIME 09:52:17
+0 @I190@ INDI
+1 NAME James /HOYT/
+2 SURN HOYT
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 26 Jan 1785
+2 PLAC Boscawen, Merrimack, New Hampshire
+1 DEAT
+2 DATE 28 May 1853
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 PLAC Nephi, Juab, Utah
+1 _UID 2EBF17576B04F24597510B14ABE7193DF034
+1 FAMS @F40@
+1 SOUR @S19@
+2 NOTE James Hoyt, Born: January 26, 1785 in Boscawen, Merrimack, New Hampshire; Died: May 28, 185
+3 CONC 3 in Nephi, Juab, Utah; Burial: in Nephi, Juab, Utah. 
+1 SOUR @S2@
+2 NOTE James Hoyt, Born: January 26, 1785; Died: May 28, 1853; Trekked with the Allen Taylor Compan
+3 CONC y in 1849.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 64; Image: 127
+2 NOTE Dwelling and Family #582
+3 CONT James Hoyt age 65 making his birth year around 1784-85 in New Hampshire.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 11:35:04
+0 @I191@ INDI
+1 NAME Beulah /SABIN/
+2 SURN SABIN
+2 GIVN Beulah
+1 SEX F
+1 BIRT
+2 DATE 11 Jun 1786
+2 PLAC Richmond, Cheshire, New Hampshire
+1 DEAT
+2 DATE 12 Dec 1857
+2 PLAC Levan, Juab, Utah
+1 BURI
+2 PLAC Nephi, Juab, Utah
+1 _UID AD673DBA7347C840A1941E1ED8B77183C16A
+1 FAMS @F40@
+1 SOUR @S19@
+2 NOTE Beulah Sabin, Born: June 11, 1786 in Richmond, Cheshire, New Hampshire; Died: December 12, 18
+3 CONC 57 in Levan, Juab, Utah; Burial: In Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Beulah Sabin Hoyt, Born: June 11, 1786; Died: December 12, 1857; Trekked with the Allen Taylo
+3 CONC r Company in 1849.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 64; Image: 127
+2 NOTE Dwelling and Family #582
+3 CONT Beulah Hoyt age 64 making her birth year around 1785-86 in New Hampshire.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 3 Dec 2008
+3 TIME 11:45:23
+0 @I192@ INDI
+1 NAME Timothy Sabin /HOYT/
+2 SURN HOYT
+2 GIVN Timothy Sabin
+1 SEX M
+1 BIRT
+2 DATE 4 Mar 1818
+2 PLAC Boonville, Oneida, New York
+1 DEAT
+2 DATE 2 Aug 1879
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 1879
+2 PLAC Vine Bluff Cemetery, Nephi, Juab, Utah
+1 _UID 9678DFC7E3C73946B9825A6BB85F01FBF019
+1 FAMS @F41@
+1 FAMC @F40@
+1 NOTE Because he marries Elizabeth Lamont Sperry, whose family lived in Highland Grove, we assume
+2 CONC d there was a possiblity that he lived there as well.  Also, they may have been civily marrie
+2 CONC d in Illinois or before, because sourcs state that they have a daughter, Joesphine Helen Hoyt
+2 CONC , who was born 11 Jul 1843.
+2 CONT 
+2 CONT However, he is listed on the Branch Record of the Mt. Pisgah Branch, indicating that he at le
+2 CONC ast spent some time within that branch, and therefore NOT in Highland Grove. (Ronald G. Watt
+2 CONC , Iowa Branches Members Index 1839 - 1859, Volumes I & II,  Historical Department of the Chur
+2 CONC ch of Jesus Christ of Latter-day Saints 1991.)
+1 SOUR @S19@
+2 NOTE Timothy Sabin Hoyt, Born: March 4, 1818 in Booneville, Oneida, New York; Died: August 2, 187
+3 CONC 9 in Nephi, Juab, Utah; Butial: in Vine Bluff Cemetery, Nephi, Juab, Utah.
+1 SOUR @S26@
+2 NOTE Name Listed: Timothy Sabin Hoyt and Timothy S. Hoyt
+3 CONT Born: 4 Mar 1818 in Booneville, Oneida, New York; Died: August 2, 1879 in Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Company: Ebenezer Brown Company (1848)
+3 CONT Birth Date: 4 Mar 1818; Death Date: August 2, 1879
+3 CONT Age: 30
+3 CONT Gender: Male
+3 CONT (see website for sources)
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 63; Image: 126
+2 NOTE Dwelling and Family #579
+3 CONT Timothe S. Hoyt age 33 making his birth year around 1816-17 in New York.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 08:48:27
+0 @I193@ INDI
+1 NAME Josephine Helen /HOYT/
+2 SURN HOYT
+2 GIVN Josephine Helen
+1 SEX F
+1 BIRT
+2 DATE 11 Jul 1843
+2 PLAC Laharp, Hancock, Illinois
+2 SOUR @S19@
+3 NOTE Birth Date: 11 Jul 1843*
+4 CONT *Marriage of parents was not until 1849.  There may be a mistake in the report of her birth.
+1 DEAT
+2 DATE 30 Nov 1913
+2 PLAC unknown
+1 _UID 038ED9FAF2031043A936BEE5C677D3DD1B35
+1 FAMC @F41@
+1 SOUR @S15@
+2 NOTE Josephine Helen Hoyt, Born: July 11, 1843 in Laharp, Hancock, Illinois; Died: November 30, 19
+3 CONC 13.  
+1 SOUR @S2@
+2 NOTE Company: Jedediah M. Grant - Willard Snow Company (1847)
+3 CONT Birth Date: 11 Jul 1843*; Death Date: November 30, 1913
+3 CONT Age: 3
+3 CONT Gender: Female
+3 CONT (see website for sources)
+3 CONT * Marriage of parents was not until 1849.  THere may be a mistake in the report of her birth.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 63; Image: 126
+2 NOTE Dwelling and Family #579
+3 CONT Helen Hoyt age 8 making her birth year around 1841-42 in Illinois.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 4 Dec 2008
+3 TIME 08:48:57
+0 @I194@ INDI
+1 NAME Andrew Ira /Behunin/
+2 SURN Behunin
+2 GIVN Andrew Ira
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1835
+2 PLAC Springfield, Delware, Pennsylvania
+1 DEAT
+2 DATE 1869
+2 PLAC unknown
+1 _UID 2BFE4C5ADA2F2341BFCC27AD63A3ED25B37B
+1 FAMC @F53@
+1 NOTE Delware is a county in Pennsylvania.
+1 SOUR @S16@
+2 NOTE Andrew Ira Behunin, Born: August 14, 1835 in Springfield, Delware, Pennsylvania; Died: 1869.
+1 SOUR @S2@
+2 NOTE Andrew Ira Behunin, Born: August 14, 1835; Died: 1869; Trekked with the Milo Andrus Company i
+3 CONC n 1850. 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #171
+3 CONT Andrew I. Behunin age 15 making his birth year around 1834-35 in Pennsylvania.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 5 Dec 2008
+3 TIME 12:24:30
+0 @I195@ INDI
+1 NAME Alma Moses /Behunin/
+2 SURN Behunin
+2 GIVN Alma Moses
+1 SEX M
+1 BIRT
+2 DATE 12 Mar 1837
+2 PLAC Springfield, Delware, Pennsylvania
+1 DEAT
+2 DATE 4 Feb 1909
+2 PLAC Provo, Utah, Utah
+1 _UID BFF1001016809745A8CF0150551620078C16
+1 FAMC @F53@
+1 NOTE There is a picture of the grave stone as well.
+1 SOUR @S16@
+2 NOTE Alma Moses Behunin, Born: March 12, 1837 in Springfield, Deleware, Pennsylvania; Died:  Febru
+3 CONC ary 6, 1906 of Elsinore, Sevier, Utah. 
+1 SOUR @S2@
+2 NOTE Alma Moses, March 12, 1837; Died: February 6, 1906; Trekked with the Milo Andrus Company 1850
+3 CONC .  
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #171
+3 CONT Alma M. Behunin age 13 making his birth year around 1837 in Ohio. 
+2 DATA
+3 DATE 1850
+1 SOUR @S30@
+2 NOTE Alma Moses Behunin, Born: March 12, 1837 in Kirtland, Gaeuga, Ohio; Died: February 4, 1909 i
+3 CONC n Provo, Utah, Utah. 
+1 CHAN
+2 DATE 8 Dec 2008
+3 TIME 11:09:10
+0 @I196@ INDI
+1 NAME Polly /Behunin/
+2 SURN Behunin
+2 GIVN Polly
+1 SEX F
+1 BIRT
+2 DATE 10 Jun 1838
+2 PLAC Springfield, Delware, Pennsylvania
+1 DEAT
+2 DATE 1839
+2 PLAC , Hancock, Illinois
+1 _UID 23B1B34CE7E56F42A66C614B4C966A5BB58A
+1 FAMC @F53@
+1 SOUR @S16@
+2 NOTE Polly Behunin, June 10, 1838 in Springfield, Deleware, Pennsylvania; Died: 1839 in Hancock, I
+3 CONC llinois.
+1 CHAN
+2 DATE 8 Dec 2008
+3 TIME 11:20:45
+0 @I197@ INDI
+1 NAME Nancy Meribah /Behunin/
+2 SURN Behunin
+2 GIVN Nancy Meribah
+1 SEX F
+1 BIRT
+2 DATE 7 Feb 1841
+2 PLAC Springfield, Delware, Pennsylvania
+1 DEAT
+2 DATE 18 Oct 1910
+2 PLAC Elsinore, Sevier, Utah
+1 BURI
+2 DATE 21 Oct 1910
+2 PLAC Monroe, Sevier, Utah
+1 _UID 603C818A1204564B8A9BEE070192CCF2C91F
+1 FAMC @F53@
+1 SOUR @S16@
+2 NOTE Nancy Meribah Behunin, Born: February 7, 1841 in Springfield, Deleware, Pennsylvania; Died: O
+3 CONC ctober 18, 1910 in Elsinore, Sevier, Utah; Burial: October 21, 1910 Monroe, Sevier, Utah.
+1 SOUR @S2@
+2 NOTE Nancy Meribah Behunin, Born: February 7, 1841; Died: October 18, 1910; Trekked with the Mil
+3 CONC o Andrus Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #171
+3 CONT Nancy M. Behunin age 10 making her birth year around 1839-40 in Illinois.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 8 Dec 2008
+3 TIME 11:47:32
+0 @I198@ INDI
+1 NAME Mosiah Stephen /Behunin/
+2 SURN Behunin
+2 GIVN Mosiah Stephen
+1 SEX M
+1 BIRT
+2 DATE 18 May 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 6 Apr 1908
+2 PLAC Ferron, Emery, Utah
+1 BURI
+2 PLAC Ferron, Emery, Utah
+1 _UID 7D36DD83C8BA254B893EDB448F4F7D0147BE
+1 FAMC @F53@
+1 SOUR @S16@
+2 NOTE Mosiah Stephen Behunin, Born: May 18, in Nauvoo, Hancock, Illinois; Died: April 6, 1908 in Fe
+3 CONC rron, Emery, Utah; Burial: April 1908 in Ferron, Emery, Utah.
+1 SOUR @S2@
+2 NOTE Mosiah Stephen Behunin, Born: May 18, 1843; Died: April 6, 1908; Trekked with the Milo Andru
+3 CONC s Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131: Image: 264
+2 NOTE Dwelling and Family #171
+3 CONT Stephen M. Behunin age 7 making his birth year around 1842-43 in Illinois.
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 8 Dec 2008
+3 TIME 11:46:24
+0 @I199@ INDI
+1 NAME Hyrum Smith /Behunin/
+2 SURN Behunin
+2 GIVN Hyrum Smith
+1 SEX M
+1 BIRT
+2 DATE 22 Apr 1845
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 7 Jul 1901
+2 PLAC Ferron, Emery, Utah
+1 BURI
+2 PLAC Ferron City Cemetery, Ferron, Emery, Utah
+1 _UID 9E2D9F85190CBE4E9FD1EB5A370BA1A35BA5
+1 FAMC @F53@
+1 SOUR @S16@
+2 NOTE Hyrum Smith Behunin, Born: April 22, 1845 in Council Bluffs, Pottawattamie, Iowa; Died: Jul
+3 CONC y 7, 1901 of Ferron, Emery, Utah.
+1 SOUR @S2@
+2 NOTE Hyrum Smith Behunin, Born: April 22, 1845; Died: July 7, 1901; Trekked with the Milo Andrus C
+3 CONC ompany in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #264
+3 CONT Hiram S. Behunin age 5 making his birth year around 1844-45 in Illinois.
+2 DATA
+3 DATE 1850
+1 SOUR @S30@
+2 NOTE Hyrum Smith Behunin, Born: April 22, 1845 in Council Bluffs, Pottawattamie, Iowa; Died: Jul
+3 CONC y 7, 1901 in Ferron, Emery, Utah; Burial: in Ferron City Cemetery, Ferron, Emery, Utah.
+1 CHAN
+2 DATE 8 Dec 2008
+3 TIME 12:27:38
+0 @I200@ INDI
+1 NAME Elijah Cutler /Behunin/
+2 SURN Behunin
+2 GIVN Elijah Cutler
+1 SEX M
+1 BIRT
+2 DATE 7 Nov 1847
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 8 Nov 1933
+2 PLAC Sigurd, Sevier, Utah
+1 BURI
+2 DATE 11 Nov 1933
+2 PLAC Torrey, Wayne, Utah
+1 _UID 1E6D3DA6706A8A4EBCED5B5B52E018965FE9
+1 FAMC @F53@
+1 SOUR @S16@
+2 NOTE Elijah Cuttler Behunin, Born: November 7, 1847 in Council Bluffs, Pottawattamie, Utah; Died
+3 CONC : November 8, 1933 near Sigurd, Sevier, Utah; Burial: November 11, 1933 in Torrey, Wayne, Uta
+3 CONC h.
+1 SOUR @S2@
+2 NOTE Elijah Cutler Behunin, Born: November 7, 1847; Died: November 8, 1933; Trekked with the Mil
+3 CONC o Andrus Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 131; Image: 264
+2 NOTE Dwelling and Family #171
+3 CONT Elijah C. Behunin age 3 making his birth year around 1846-47 in Iowa. 
+2 DATA
+3 DATE 1850
+1 CHAN
+2 DATE 8 Dec 2008
+3 TIME 12:27:11
+0 @I201@ INDI
+1 NAME Joseph /Hart/
+2 SURN Hart
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE unknown
+1 DEAT
+2 DATE unknown
+1 _UID 69B1E1EA4868744F88BBAA30AF9329402096
+1 FAMS @F54@
+1 SOUR @S16@
+2 NOTE Joseph Hart, Born: unknown.
+1 SOUR @S26@
+2 NOTE Joseph Hart, Born: unknown.
+1 SOUR @S32@
+2 PAGE Page: 10
+2 NOTE Father of Harriet A. Hart and husband to Clarissa Hart.
+1 CHAN
+2 DATE 9 Dec 2008
+3 TIME 10:01:08
+0 @I202@ INDI
+1 NAME Clarissa //
+2 GIVN Clarissa
+1 SEX F
+1 BIRT
+2 DATE unknown
+1 DEAT
+2 DATE unknown
+1 _UID A892707F0667AA45B2352DF4663A95DFA18B
+1 FAMS @F54@
+1 SOUR @S16@
+2 NOTE Clarissa, Born: unknown.
+1 SOUR @S26@
+2 NOTE Clarissa Hart (Mrs.), Born: unknown.
+1 SOUR @S32@
+2 NOTE Wife of Joseph Hart and Mother to Harriet A. Hart.
+1 CHAN
+2 DATE 23 Dec 2008
+3 TIME 15:40:54
+0 @I203@ INDI
+1 NAME Harriet A. /Hart/
+2 SURN Hart
+2 GIVN Harriet A.
+1 SEX F
+1 BIRT
+2 DATE 21 Dec 1846
+2 PLAC Winter Quarters, Douglas, Nebraska
+1 DEAT
+2 DATE 12 Jan 1847
+2 PLAC Winter Quarters, Douglas, Nebraska
+1 _UID 0B3A97C86014BA4385575CABADE0FA22A1ED
+1 FAMC @F54@
+1 SOUR @S16@
+2 NOTE Harriet A. Hart, Born: December 31, 1846 in WInter Quarters, Douglas, Nebraska; Died: Januar
+3 CONC y 13, 1847.
+1 SOUR @S26@
+2 NOTE Harriet Amelia Hart, Born: December 31, 1846 in Winter Quarters (Florence), Douglas, Nebraska
+3 CONC ; Died: January 12, 1847 in Winter Quarters (Florence), Douglas, Nebraska; Burial: in Winte
+3 CONC r Quarters Cemetery, Winter Quarters (Florence), Douglas, Nebraska.
+1 SOUR @S32@
+2 PAGE Page: 10
+2 NOTE Harriet A. Hart, Born: December 31, 1846 in Winter Quarters, Camp of Israel; Died: January 12
+3 CONC , 1847 in Winter Quarters at the age of 13 days; Daughter of Joseph and Clarissa Hart.
+1 CHAN
+2 DATE 9 Dec 2008
+3 TIME 09:59:20
+0 @I204@ INDI
+1 NAME Uriah /Roundy/
+2 SURN Roundy
+2 GIVN Uriah
+1 SEX M
+1 BIRT
+2 DATE 10 Apr 1797
+2 PLAC Rockingham, Windham, Vermont
+1 DEAT
+2 DATE 2 Aug 1869
+2 PLAC Earling, Shelby, Iowa
+1 BURI
+2 PLAC Doyle Cemetery, Earling, Shelby, Iowa
+1 _UID 906E3A9A9FF43C459EE4BC78EFFF36C383F9
+1 FAMS @F55@
+1 FAMS @F56@
+1 SOUR @S26@
+2 NOTE Uriah Roundy, Born: April 10, 1797 in Rockingham, Windham, Vermont; Died: unknown.
+1 SOUR @S16@
+2 NOTE Uriah Roundy, Born: April 10, 1796 in Rockingham, Windham, Vermont; Died: 1870.
+1 SOUR @S30@
+2 NOTE Uriah Roundy, Born: Born: April 10, 1796; Died: August or October  2, 1869 in Earling, Shelby
+3 CONC , Iowa; Burial: in Doyle Cemetery, Earling, Shelby, Iowa.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 119; Image: 240
+2 NOTE Dwelling and Family #889
+3 CONT Uriah Roundy age 55 making his birth year around 1794-95 in New York.
+2 DATA
+3 DATE October 28, 1850 in Pottawattamie, Iowa
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 17; Image: 252
+2 NOTE Dwelling #129 and Family #111
+3 CONT Uriah Roundy age 63 making his birth year around 1796-97 in Vermont.
+2 DATA
+3 DATE June 15, 1860 in Shelby, Iowa
+1 SOUR @S31@
+2 NOTE Uriah Roundy (Rounday), Born: April 1797 or 1796 in Windham County (Rockingham, Rockingham)
+3 CONC , Vermont.
+1 SOUR @S33@
+2 NOTE Uriah Roundy, Born: Arpil 10, 1797. 
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:45:26
+0 @I205@ INDI
+1 NAME Polly /Lyon/
+2 SURN Lyon
+2 GIVN Polly
+1 SEX F
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Rockingham, Windham, Vermont
+1 DEAT
+2 DATE unknown
+1 _UID 5CDFA14435FF684E9CCF5421B4DCAFBAE3F4
+1 FAMS @F55@
+1 SOUR @S16@
+2 NOTE Polly Lyon, Born: About 1800 in Rockingham, Windham, Vermont.
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:45:13
+0 @I206@ INDI
+1 NAME Irena or Rena /Bristol/
+2 SURN Bristol
+2 GIVN Irena or Rena
+1 SEX F
+1 BIRT
+2 DATE 23 Aug 1810
+2 PLAC Kingston, Frontenac, Ontario, Canada
+1 DEAT
+2 DATE 1-2 Nov 1880
+2 PLAC Galland's Grove, Shelby, Iowa
+1 _UID E2E97C1D88C23D4F98F9C8227BA826C5C3C5
+1 FAMS @F56@
+1 SOUR @S26@
+2 NOTE Irena Bristol, Born: August 23, 1810 in Kingston, Frontenac, Ontario, Canada; Died: Novembe
+3 CONC r 1880 in Galland's Grove, Shelby, Iowa.
+1 SOUR @S30@
+2 NOTE Rena Bristol Roundy, Born: August 25, 1810 in Canada; Died: November 2, 1880; Burial: Doyle C
+3 CONC emetery, Earling, Shelby, Iowa.
+1 SOUR @S30@
+2 NOTE Rena Roundy, Born: August 25, 1810 Near Kingston, Ontario, Canada; Died: November 1, 1880 a
+3 CONC t Galland's Grove. (Found in the text of Uriah's Find A Grave Record)
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 119; Image: 240
+2 NOTE Dwelling and Family #889
+3 CONT Arena Roundy age 40 making her birth year around 1809-10 in Canada.
+2 DATA
+3 DATE October 28, 1850 in Pottawattamie, Iowa
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 17; Image: 252
+2 NOTE Dwelling #129 and Family #111
+3 CONT Rena Roundy age 49 making her birth year around 1810-11 in Upper Canada.
+2 DATA
+3 DATE June 15, 1860 in Shelby, Iowa
+1 SOUR @S31@
+2 NOTE Rena (Rina) Rouny (Rounday), Born: August 1810 in Kingston, Canada (New York); Died: Novembe
+3 CONC r 1880 in Galland's Grove, Shelby, Iowa.
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 10:54:01
+0 @I207@ INDI
+1 NAME Asahel /Roundy/
+2 SURN Roundy
+2 GIVN Asahel
+1 SEX M
+1 BIRT
+2 DATE 10 Sep 1828
+2 PLAC Spafford, Onondaga, New York
+1 DEAT
+2 DATE 6 Jun 1878
+2 PLAC , Shelby, Iowa
+1 _UID D0040A704F65CF4B8E343CF834B481A924EF
+1 FAMS @F57@
+1 FAMC @F55@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 120; Image: 241
+2 NOTE Dwelling and Family #889
+3 CONT Acel Roundy age 22 making his birth year around 1827-28 in New York.
+2 DATA
+3 DATE October 29, 1850 in Pottawattamie, Iowa
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 15; Image: 250
+2 NOTE Dwelling #110 and Family # 98
+3 CONT Asahel Roundy age 31 making his birth year around 1828-29 in New York.
+2 DATA
+3 DATE June 14, 1860 in Shelby, Iowa
+1 SOUR @S15@
+2 NOTE Asahel Roundy, Born: September 10, 1828 in Spafford, Onondaga, New York; Died: June 6, 1878 i
+3 CONC n Shelby County, Iowa.
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:45:35
+0 @I208@ INDI
+1 NAME Sarah /Van Arsdale/
+2 SURN Van Arsdale
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE ABT 1832
+2 PLAC Ohio
+1 DEAT
+2 DATE 8 Mar 1893
+2 PLAC , Shelby, Iowa
+1 _UID CD7E3AF39186954093B6A55D482BCFE4D5B9
+1 FAMS @F57@
+1 SOUR @S15@
+2 NOTE Sarah Van Arsdale, Born: February 22, 1831 of Shelby County, Iowa; Died: March 8, 1893 in She
+3 CONC lby County, Iowa.
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 15; Image: 250
+2 NOTE Dwelling #110 and Family #98 
+3 CONT Sarah Roundy age 28 making her birth year around 1831-32 in Ohio.
+2 DATA
+3 DATE June 14, 1860 in Shelby, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:28:04
+0 @I209@ INDI
+1 NAME Mary /Roundy/
+2 SURN Roundy
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 20 Feb 1854
+2 PLAC Grove Township, , Shelby, Iowa
+1 DEAT
+2 DATE Mar 1900
+2 PLAC unknown
+1 _UID 969FD9DED8A97F4A93B2D5F5726246096888
+1 FAMC @F57@
+1 SOUR @S15@
+2 NOTE Mary Roundy, Born: February 20, 1854 in Grove Township, Shelby, Iowa; Died: March 1900.
+1 SOUR @S27@
+2 PAGE Roll:M653_339; Page: 15; Image: 250
+2 NOTE Dwelling #110 and Family #98
+3 CONT Mary Roundy age 6 making her birth year around 1853-54 in Iowa.
+2 DATA
+3 DATE June 14, 1860 in Shelby, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:33:35
+0 @I210@ INDI
+1 NAME Annie /Roundy/
+2 SURN Roundy
+2 GIVN Annie
+1 SEX F
+1 BIRT
+2 DATE 28 Apr 1856
+2 PLAC Grove Township, , Shelby, Iowa
+1 DEAT
+2 DATE 14 Mar 1882
+2 PLAC unknown
+1 _UID 59DDD7B49BDDF84684DD7595A7C7BC8A9617
+1 FAMC @F57@
+1 SOUR @S15@
+2 NOTE Annie Roundy, Born: April 20, 1856 in Grove Township, Shelby, Iowa; Died: March 14, 1882.
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 15; Image: 250
+2 NOTE Dwelling #110 and Family #98
+3 CONT Anna J. Roundy age 4 making her birth year around 1855-56 in Iowa.
+2 DATA
+3 DATE June 14, 1860 in Shelby, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:36:24
+0 @I211@ INDI
+1 NAME Martha Alvira /Roundy/
+2 SURN Roundy
+2 GIVN Martha Alvira
+1 SEX F
+1 BIRT
+2 DATE 20 Apr 1858
+2 PLAC Grove Township, , Shelby, Iowa
+1 DEAT
+2 DATE Dec 1924
+2 PLAC unknown
+1 _UID E1E858C40CF5A74A96C51BC32E7374B9DED9
+1 FAMC @F57@
+1 SOUR @S15@
+2 NOTE Martha Alvira Roundy, Born: April 20, 1858 in Grove Township, Shelby, Iowa; Died: December 19
+3 CONC 24.
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 15; Image: 250
+2 NOTE Dwelling #110 and Family #98
+3 CONT Martha A. Roundy age 2 making her birth year around 1857-58 in Iowa.
+2 DATA
+3 DATE June 14, 1860 in Shelby, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:39:31
+0 @I212@ INDI
+1 NAME Zebedee /Roundy/
+2 SURN Roundy
+2 GIVN Zebedee
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Spafford, Onondaga, New York
+1 DEAT
+2 DATE Feb 1855
+1 _UID 3982DC178A2B5B45A9EE0E65830CFCF088DC
+1 FAMC @F55@
+1 NOTE Most likely died in Shelby County, Iowa
+1 SOUR @S15@
+2 NOTE Zebedee Roundy, Born: 1830 in Spafford, Onondaga, New York; Died: February 1855.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 120; Image: 241
+2 NOTE Dwelling and Family #889
+3 CONT Zebadee Roundy age 20 making his birth year around 1829-30 in Pennsylvania.
+2 DATA
+3 DATE October 29, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:45:41
+0 @I213@ INDI
+1 NAME Emma /Roundy/
+2 SURN Roundy
+2 GIVN Emma
+1 SEX F
+1 BIRT
+2 DATE ABT 1847/1848
+2 PLAC New York
+1 DEAT
+2 DATE unknown
+1 _UID B7E82D8A4F2F6048AA79F26772A7203A6B06
+1 FAMC @F55@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 120; Image: 241
+2 NOTE Dwelling and Family #889
+3 CONT Emma Roundy age 12 making her birth year around 1847-48 in New York.
+2 DATA
+3 DATE October 29, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:48:31
+0 @I214@ INDI
+1 NAME Martha /Roundy/
+2 SURN Roundy
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE ABT 1850
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID A5EE93300B1F534EBFEE3ED566BF3BB2F3A5
+1 FAMC @F56@
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 120; Image: 241
+2 NOTE Dwelling and Family #889
+3 CONT Martha Roundy age 5 months making her birth year around June 1850 in Iowa.
+2 DATA
+3 DATE October 29, 1850 in Pottawattamie, Iowa
+1 SOUR @S27@
+2 PAGE Roll: M653_339; Page: 17; Image: 252
+2 NOTE Dwelling #129 and Family #111
+3 CONT Martha J. Roundy age 9 making her birth year around 1850-51 in Iowa.
+2 DATA
+3 DATE June 15, 1860 in Shelby, Iowa
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 11:56:14
+0 @I215@ INDI
+1 NAME Francis E. /Cazier/
+2 SURN Cazier
+2 GIVN Francis E.
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1826
+1 _UID 85BDC57CDC85204B9A90663DF182BDD01C48
+1 FAMS @F58@
+1 CHAN
+2 DATE 10 Dec 2008
+3 TIME 15:12:37
+0 @I216@ INDI
+1 NAME John /BRYAN/
+2 SURN BRYAN
+2 GIVN John
+1 SEX M
+1 _UID 526F0D93DBAF3041BA6805FC5CE624AB9087
+1 FAMS @F59@
+1 SOUR @S15@
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:30:41
+0 @I217@ INDI
+1 NAME Elizabeth /Hinkle/
+2 SURN Hinkle
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 5ED8816434ADEF45AE1B76F68910548DDF94
+1 FAMS @F59@
+1 SOUR @S15@
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 09:30:58
+0 @I218@ INDI
+1 NAME Lemuel /LeMaster/
+2 SURN LeMaster
+2 GIVN Lemuel
+1 SEX M
+1 _UID 09E36DD2AECE1F4CBBB0C9DD9293C0717902
+1 FAMS @F61@
+1 SOUR @S15@
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:29:06
+0 @I219@ INDI
+1 NAME Frances /Hooper/
+2 SURN Hooper
+2 GIVN Frances
+1 SEX F
+1 _UID E65B4B2DD7A6A54EA15563243C91FD77E7F3
+1 FAMS @F61@
+1 SOUR @S15@
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:29:21
+0 @I220@ INDI
+1 NAME Jasper /CAZIER/
+2 SURN CAZIER
+2 GIVN Jasper
+1 SEX M
+1 BIRT
+2 DATE 26 Dec 1843
+2 PLAC Lovington, Moutlrie, Illinois
+1 DEAT
+2 DATE 26 Dec 1843
+2 PLAC Lovington, Moutlrie, Illinois
+1 _UID 9BF00D27A15FB7458CC60F3370BB1E98308D
+1 FAMC @F60@
+1 SOUR @S15@
+2 NOTE Jasper Cazier, Born: December 26, 1843 in Lovington, Moultrie, Illinois; Died: December 26, 1
+3 CONC 843 in Lovington, Moultrie, Illinois.
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:31:29
+0 @I221@ INDI
+1 NAME Maranda Jane /CAZIER/
+2 SURN CAZIER
+2 GIVN Maranda Jane
+1 SEX F
+1 BIRT
+2 DATE 1 Aug 1845
+2 PLAC Lovington, Moutlrie, Illinois
+1 DEAT
+2 DATE unknown
+1 _UID 414FE5C4027F0D4B8EA67F6732F79E3F32FC
+1 FAMC @F60@
+1 SOUR @S15@
+2 NOTE Maranda Jane Cazier, Born: August 1, 1845 in Lovington, Moultrie, Illinois. 
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 52; Image: 103
+2 NOTE Dwelling and Family #412
+3 CONT Miranda Cazier age 5 making her birth year around 1844-45 in Illinois.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:34:22
+0 @I222@ INDI
+1 NAME John William /CAZIER/
+2 SURN CAZIER
+2 GIVN John William
+1 SEX M
+1 BIRT
+2 DATE ABT 9 Oct 1848
+2 PLAC St, Joseph, Buchanan, Missouri
+1 DEAT
+2 DATE 8 Oct 1938
+2 PLAC Reese Creek, Gallatin, Montana
+1 _UID 1582266B3832D6418FD1E4C91B83DDC1F2C0
+1 FAMC @F60@
+1 SOUR @S15@
+2 NOTE John WIlliams Cazier, Born: October 9, 1845 in St. Joseph, Buchanan, Missouri; Died: Octobe
+3 CONC r 8, 1938 Reese Creek, Gallatin, Montana; Burial: October 10, 1934 [sic] (probably 1938 or h
+3 CONC e Died in 1934) in Reese Creek, Gallatin, Montana.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 52; Image: 103
+2 NOTE Dwelling and Family #412
+3 CONT John Cazier age 2 making his birth year around 1847-48 in Missouri.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 10:42:19
+0 @I223@ INDI
+1 NAME Margaret Phillis /Ewin/
+2 SURN Ewin
+2 GIVN Margaret Phillis
+1 SEX F
+1 BIRT
+2 DATE 11 Aug 1804
+2 PLAC Beaver, , Pennsylvania
+1 DEAT
+2 DATE 18 Mar 1867
+2 PLAC Nephi, Juab, Utah
+1 _UID FAAD34BEF0B0AD4E94315A8ADBC542C5845A
+1 FAMS @F62@
+1 SOUR @S36@
+2 NOTE Margaret Phillis Ewan, Born: August 11, 1804 in Beaver, Beaver, Pennsylvania; Died: March 29
+3 CONC , 1867 in Nephi, Juab, Utah. 
+1 SOUR @S37@
+2 NOTE Margaret Phillis Cazier, Born: August 11, 1804; Died: March 13, 1867; Burial: in Nephi City C
+3 CONC emetery, Nephi, Juab, Utah.
+1 SOUR @S2@
+2 NOTE Margaret Phillis Cazier, Born: August 11, 1804; Died: March 18, 1867; Trekked with the Morri
+3 CONC s Phelps Company in 1851.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #73
+3 CONT Margaret Cazier age 44 making her birth year around 1805-06 in Pennsylvania.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Dec 2008
+3 TIME 16:31:53
+0 @I224@ INDI
+1 NAME Sisson /Chase/
+2 SURN Chase
+2 GIVN Sisson
+1 SEX M
+1 BIRT
+2 DATE 1 Oct 1808
+2 PLAC Bristol, Addison, Vermont
+1 DEAT
+2 DATE 4 Apr 1892
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 PLAC City Cemetery Salt Lake City, Salt Lake, Utah
+1 _UID F8645A744DE6754B9E77AD137DD854771218
+1 FAMS @F66@
+1 NOTE On the Branch record of the High Council Branch Records his name is spelled Lisson but the on
+2 CONC ly information we have is for a Sisson, and there is a question mark by the name.  We have re
+2 CONC ason to believe that Sisson is the real name due to the sources of Sisson.
+1 SOUR @S14@
+2 NOTE Sisson Almadorous Chase, Born: October 1, 1808 in Bristol, Addison, Vermont; Died: April 4, 1
+3 CONC 892 in Salt Lake City, Salt Lake, Utah; Burial: in City Cemetery, Salt Lake City, Utah.
+1 SOUR @S2@
+2 NOTE Sisson Almadorous Chase, Born: October 1, 1808; Died: April 4, 1892; Trekked with the Danie
+3 CONC l A. Miller/John W. Cooley Company in 1853.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family #767
+3 CONT Sisson Chase age 45 making his birth year around 1804-05 in Vermont.
+2 DATA
+3 DATE October 12, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 11:21:39
+0 @I225@ INDI
+1 NAME Breed /Searle/
+2 SURN Searle
+2 GIVN Breed
+1 SEX M
+1 BIRT
+2 DATE 7 Apr 1803
+2 PLAC Groton, New London, Connecticut
+1 DEAT
+2 DATE 14 Feb 1879
+2 PLAC Payson, Utah, Utah
+1 _UID E48A559592C64849BF17CAAB47C8BCCA21AA
+1 FAMS @F63@
+1 SOUR @S15@
+2 NOTE Breed Searle, Born: April 7, 1803 in Groton, New London, Connecticut; Died: February 15, 187
+3 CONC 9 in Payson, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Breed Searle, Born: April 7, 1803; Died: February 14, 1879; Trekked with the James Pace Compa
+3 CONC ny in 1879 in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT Breed Seare [sic] age 47 making his birth year around 1802-03 in Connecticut.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:03:01
+0 @I226@ INDI
+1 NAME Rebecca Ann /Saxton/
+2 SURN Saxton
+2 GIVN Rebecca Ann
+1 SEX F
+1 BIRT
+2 DATE 15 Dec 1809
+2 PLAC Brookfield, Madison, New York
+1 DEAT
+2 DATE 26 Apr 1897
+2 PLAC Payson, Utah, Utah
+1 _UID CDD839FEA6CBD84B951EEA936EDA0DC1B606
+1 FAMS @F63@
+1 SOUR @S15@
+2 NOTE Rebecca Ann Saxton, Born: December 15, 1809 in Brookfield, Madison, New York; Died: April 26
+3 CONC , 1897 in Payson, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Rebecca Ann Saxton Searle, Born: December 15, 1809; Died: April 26, 1897; Trekked with the Ja
+3 CONC mes Pace Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT Rebecca Seare [sic] age 41 making her birth year around 1808-09 in New York.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:02:54
+0 @I227@ INDI
+1 NAME John Courtland /Searle/
+2 SURN Searle
+2 GIVN John Courtland
+1 SEX M
+1 BIRT
+2 DATE 30 Jan 1828
+2 PLAC Butler, Wayne, New York
+1 DEAT
+2 DATE 17 Nov 1920
+2 PLAC Payson, Utah, Utah
+1 BURI
+2 DATE 20 Nov 1920
+2 PLAC Payson Cemetery, Payson, Utah, Utah
+1 _UID 1AB87C9D969CF6478905246CA59FBFFA7548
+1 FAMS @F64@
+1 FAMC @F63@
+1 SOUR @S15@
+2 NOTE John Courtland Searle, Born: January 30, 1828 in Butler, Wayne, New York; Died: November 17
+3 CONC , 1920 in Payson, Utah, Utah; Burial: November 20, 1920 in Payson Cemetery, Payson, Utah, Uta
+3 CONC h.
+1 SOUR @S2@
+2 NOTE John Courtland Searle, Born: January 30, 1828; Died: November 17, 1920; Trekked with the Jame
+3 CONC s Pace Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT John C. Seare [sic] age 23 making his birth year around 1826-27 in New York.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:02:41
+0 @I228@ INDI
+1 NAME Jerusha Morrison /Hill/
+2 SURN Hill
+2 GIVN Jerusha Morrison
+1 SEX F
+1 BIRT
+2 DATE 27 Nov 1832
+2 PLAC Pittsburg, Coos, New Hampshire
+1 DEAT
+2 DATE 4 Aug 1904
+2 PLAC Payson, Utah, Utah
+1 BURI
+2 PLAC Payson Cemetery, Payson, Utah, Utah
+1 _UID 6D54C8ABD9B90F4A9C8225EE098C66D82308
+1 FAMS @F64@
+1 SOUR @S15@
+2 NOTE Jerusha Marrison Hill, Born: November 27, 1832 in Pittsburgh [sic], Coos, New Hampshire; Died
+3 CONC : August 4, 1904 in Payson, Utah, Utah; Burial: in Payson Cemetery, Payson, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Jerusha Morrison Hill Searle, Born: November 27, 1832; Died: August 4, 1904; Trekked with th
+3 CONC e James Pace Company in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT Jerusha Seare age 18 making her birth year around 1831-32 in New Hampshire.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 16 Dec 2008
+3 TIME 16:57:01
+0 @I229@ INDI
+1 NAME Rebecca Ann /Searle/
+2 SURN Searle
+2 GIVN Rebecca Ann
+1 SEX F
+1 BIRT
+2 DATE 6 Dec 1829
+2 PLAC Butler, Wayne, New York
+1 DEAT
+2 DATE 14 May 1894
+2 PLAC Payson, Utah, Utah
+1 _UID EE874ADE5D27104E94BEB4D14405B9459D77
+1 FAMS @F65@
+1 FAMC @F63@
+1 SOUR @S15@
+2 NOTE Rebecca Ann Searles [sic], Born: December 6, 1829 in Butler, Wayne, New York; Died: May 14, 1
+3 CONC 894 in Payson, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Rebecca Ann Searles, Born: December 6, 1829; Died: May 14, 1894; Trekked with an Unidentifie
+3 CONC d Company in 1852 but may have traveled with the David Wood Company in 1852.
+1 SOUR @S37@
+2 NOTE Rebecca A. Cloward, Born: December 6, 1829; Died: May 14, 1896; Burial: in Payson City Cemete
+3 CONC ry, Payson, Utah, Utah.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:02:27
+0 @I230@ INDI
+1 NAME William /Cloward/
+2 SURN Cloward
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 4 Mar 1822
+2 PLAC New London, Chester, Pennsylvania
+1 DEAT
+2 DATE 13 Sep 1895
+2 PLAC Payson, Utah, Utah
+1 _UID FDA49D04F40F4E41BFC7E1FE83FF1AF0C572
+1 FAMS @F65@
+1 SOUR @S15@
+2 NOTE William Cloward, Born: March 4, 1822 in New London, Chester, Pennsylvania; Died: September 13
+3 CONC , 1895 in Payson, Utah, Utah.
+1 SOUR @S2@
+2 NOTE William Cloward, Born: March 4, 1822; Died: September 13, 1895; Trekked with an Unidentifie
+3 CONC d Company in 1852 but could have traveled with the David Wood Company in 1852.
+1 SOUR @S37@
+2 NOTE William Cloward, Born: March 11, 1821; Died: August 9, 1895; Burial: Payson City Cemetery, Pa
+3 CONC yson, Utah, Utah.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 10:25:36
+0 @I231@ INDI
+1 NAME Lenorah Mariah /Cloward/
+2 SURN Cloward
+2 GIVN Lenorah Mariah
+1 SEX F
+1 BIRT
+2 DATE 21 Apr 1850
+2 PLAC , Pottawattamie, Iowa
+1 DEAT
+2 DATE 1921
+2 PLAC Payson, Utah, Utah
+1 _UID 473EDC23D15D4C4FBE2C3DB15912D43CA0F0
+1 FAMC @F65@
+1 SOUR @S15@
+2 NOTE Lenorah Mariah, Born: April 21, 1850 in Pottawattamie, Iowa; Died: in 1921 in Payson, Utah, U
+3 CONC tah.
+1 SOUR @S2@
+2 NOTE Lenorah Mariah Cloward, Born: April 22, 1850; Died: June 28, 1921; Trekked with an Unidentifi
+3 CONC ed Company in 1852 but may have traveled with the David Wood Company in 1852.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 10:35:23
+0 @I232@ INDI
+1 NAME Adeline /Searle/
+2 SURN Searle
+2 GIVN Adeline
+1 SEX M
+1 BIRT
+2 DATE 7 Sep 1831
+2 PLAC Butler, Wayne, New York
+1 DEAT
+2 DATE 18 Dec 1831
+2 PLAC Butler, Wayne, New York
+1 _UID BE6DD040FA138C48AFB2289D624410362E6D
+1 FAMC @F63@
+1 SOUR @S15@
+2 NOTE Adeline Searles [sic], Born: September 7, 1831 in Butler, Wayne, New York; Died: December 18
+3 CONC , 1831 in Butler, Wayne, New York.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:02:17
+0 @I233@ INDI
+1 NAME Joseph Saxton /Searle/
+2 SURN Searle
+2 GIVN Joseph Saxton
+1 SEX M
+1 BIRT
+2 DATE 25 Apr 1833
+2 PLAC Butler, Wayne, New York
+1 DEAT
+2 DATE 4 May 1896
+2 PLAC , , Utah
+1 _UID AFABC1C967D1084BBD365A4D602920DC8E90
+1 FAMC @F63@
+1 SOUR @S15@
+2 NOTE Joseph Saxton Searle, Born: April 25, 1833 in Butler, Wayne, New York; Died: May 4, 1896 in U
+3 CONC tah.
+1 SOUR @S2@
+2 NOTE Joseph Saxton Searle, Born: April 25, 1833; Died: May 4, 1896; Trekked with the James Pace Co
+3 CONC mpany in 1850.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT Joseph S. Seare [sic] age 18 making his birth year around 1831-33 in New Hampshire.
+2 DATA
+3 DATE 1850 in Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:02:12
+0 @I234@ INDI
+1 NAME Charles Decater /Searle/
+2 SURN Searle
+2 GIVN Charles Decater
+1 SEX M
+1 BIRT
+2 DATE 26 Oct 1836
+2 PLAC Butler, Wayne, New York
+1 DEAT
+2 DATE 9 Aug 1909
+2 PLAC Dry Fork, Uintah, Utah
+1 _UID C51A588034AC294C8EC02F4268EA9168163C
+1 FAMC @F63@
+1 SOUR @S15@
+2 NOTE Charles Decater Searle, Born: October 26, 1838 in Butler, Wayne, New York; Died: August 9, 19
+3 CONC 09 in Dry Fork, Uintah, Utah.
+1 SOUR @S2@
+2 NOTE Charles Decater Searle, Born: October 26, 1836 in Butler, Wayne, New York; Died: August 9, 19
+3 CONC 09 in Dry Fork, Uintah, Utah.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT Charles D. Seare [sic] age 15 making his birth year around 1834-35 in New York.
+2 DATA
+3 DATE 1850 Great Salt Lake, Utah Territory
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 11:30:04
+0 @I235@ INDI
+1 NAME James Lafayette /Searle/
+2 SURN Searle
+2 GIVN James Lafayette
+1 SEX M
+1 BIRT
+2 DATE 30 Apr 1841
+2 PLAC Pleasant Valley, Livingston, Michigan
+1 DEAT
+2 DATE 14 Oct 1897
+2 PLAC Vernal, Uintah, Utah
+1 BURI
+2 DATE 17 Oct 1897
+2 PLAC Vernal, Uintah, Utah
+1 _UID 6644717E8130A345A0DDED7C8DE899BCE2B6
+1 FAMC @F63@
+1 SOUR @S15@
+2 NOTE James Lafayette Searle, Born: April 30, 1841 Pleasant Valley, Livingston, Michigan; Died: Oct
+3 CONC ober 14, 1897 in Vernal, Uintah, Utah; Burial: October 17, 1897 in Vernal, Uintah, Utah. 
+1 SOUR @S2@
+2 NOTE James Lafeyette Searle, Born: April 30, 1841; Died: October 14, 1897; Trekked with the Jame
+3 CONC s Pace Company in 1852.
+1 SOUR @S18@
+2 PAGE Roll: M432_919; Page: 123; Image: 248
+2 NOTE Dwelling and Family #62
+3 CONT James L. Seare [sic] age 10 making his birth year around 1849-50 in Michigan.
+2 DATA
+3 DATE 1850 Great Salt Lake, Utah Territorry
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 13:09:28
+0 @I236@ INDI
+1 NAME Merit Delos /Searle/
+2 SURN Searle
+2 GIVN Merit Delos
+1 SEX M
+1 BIRT
+2 DATE 6 Feb 1844
+2 PLAC Pleasant Valley, Livingston, Michigan
+1 DEAT
+2 DATE 20 Aug 1844
+2 PLAC Pleasant Valley, Livingston, Michigan
+1 _UID C3C1EDC4DBE7B44F81761F7D2C2F9B71F4BA
+1 FAMC @F63@
+1 NOTE The source says Midland County but another source labels Pleasant Valley in Livingston County
+2 CONC .
+1 SOUR @S15@
+2 NOTE Merit Delos Searle, Born: February 6, 1844 in Pleasant Valley, Livingston, Midland [sic], Mic
+3 CONC higan; Died: August 20, 1844 in Pleasant Valley, Midland [sic], Michigan.
+1 CHAN
+2 DATE 17 Dec 2008
+3 TIME 13:29:25
+0 @I237@ INDI
+1 NAME Rachael /Chase/
+2 SURN Chase
+2 GIVN Rachael
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1834
+2 PLAC Lincoln, Addison, Vermont
+1 DEAT
+2 DATE 11 Jan 1834
+2 PLAC Lincoln, Addison, Vermont
+1 _UID 5C86A1685983104D8FB0486D5058CE901E5F
+1 FAMC @F66@
+1 SOUR @S14@
+2 NOTE Rachael Chase, Born: January 10, 1834 in Lincoln, Addison, Vermont; Died: January 11, 1834 i
+3 CONC n Lincoln, Addison, Vermont.
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 11:37:24
+0 @I238@ INDI
+1 NAME Hannah Gove /Chase/
+2 SURN Chase
+2 GIVN Hannah Gove
+1 SEX F
+1 BIRT
+2 DATE 11 Dec 1834
+2 PLAC Lincoln, Addison, Vermont
+1 DEAT
+2 DATE 27 Jul 1897
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 29 Jul 1897
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID DB97736D63B32441B31B4173FD05DE093844
+1 FAMC @F66@
+1 SOUR @S14@
+2 NOTE Hannah Gove Chase, Born: December 11, 1834 in Lincoln, Addison, Vermont; Died; July 27, 189
+3 CONC 7 in Salt Lake City, Salt Lake, Utah; Burial: July 29, 1897 in Salt Lake City, Salt Lake, Uta
+3 CONC h.
+1 SOUR @S2@
+2 NOTE Hannah Gove Chase, Born: December 11, 1834; Died: July 27, 1897; Trekked with the Daniel A. M
+3 CONC iller/John W. Cooley Company in 1853.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family #767
+3 CONT Hannah Chase age 14 making her birth year around 1835-36 in Vermont.
+2 DATA
+3 DATE October 12, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 11:44:34
+0 @I239@ INDI
+1 NAME Jane Ann Mason /Chase/
+2 SURN Chase
+2 GIVN Jane Ann Mason
+1 SEX F
+1 BIRT
+2 DATE 15 Jun 1839
+2 PLAC Stocksborough, Adams, Vermont
+1 DEAT
+2 DATE 5 Jul 1881
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 36D0E1F6A3DC39498D92B7FD56F062B20B7E
+1 FAMC @F66@
+1 SOUR @S14@
+2 NOTE Jane Ann Mason Chase, Born: June 15, 1839 in Stocksborough, Adams, Vermont; Died: July 5, 188
+3 CONC 1 in Salt Lake City, Salt Lake, Utah; Burial: in Salt Lake City, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Jane Ann Mason Chase, Born: June 15, 1839; Died: July 5, 1881; Trekked with the Daniel A. Mil
+3 CONC ler/John W. Cooley Company in 1853. 
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family #767
+3 CONT Jane Chase age 12 making her birth year around 1837-38 in Vermont.
+2 DATA
+3 DATE October 12, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 11:53:37
+0 @I240@ INDI
+1 NAME Lurancy or Larancy /Chase/
+2 SURN Chase
+2 GIVN Lurancy or Larancy
+1 SEX F
+1 BIRT
+2 DATE 17 May 1842
+2 PLAC Lincoln, Addison, Vermont
+1 DEAT
+2 DATE 28 Aug 1926
+2 PLAC Payson, Utah, Utah
+1 BURI
+2 DATE 30 Aug 1926
+2 PLAC Payson, Utah, Utah
+1 _UID 89FA2AC7D9C2B042894751EB0EDDAA0BAD35
+1 FAMC @F66@
+1 NOTE An Ancestral file lists him as Larancy Chase.
+1 SOUR @S14@
+2 NOTE Lurancy Chase, Born: May 17, 1842 in Lincoln, Addison, Vermont; Died: August 28, 1926 in Pays
+3 CONC on, Utah, Utah; Burial: August 30, 1926 in Payson, Utah, Utah.
+1 SOUR @S2@
+2 NOTE Larancy (or Miranda) Chase, Born: May 17, 1842; Died: August 28, 1927; Trekked with the Danie
+3 CONC l A. Miller/John W. Cooley Company in 1853.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family #767
+3 CONT Miranda Chase age 8 making her birth year around 1841-42 in Illinois.
+2 DATA
+3 DATE October 12, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 12:01:24
+0 @I241@ INDI
+1 NAME Stephern /Chase/
+2 SURN Chase
+2 GIVN Stephern
+1 SEX M
+1 BIRT
+2 DATE 15 Sep 1844
+2 PLAC Lincoln, Addison, Vermont
+1 DEAT
+2 DATE 15 Sep 1844
+2 PLAC Lincoln, Addison, Vermont
+1 _UID 06ABF24FFEE7C9408033ACD2B427E0C28EE1
+1 FAMC @F66@
+1 SOUR @S14@
+2 NOTE Stephen Chase, Born: September 15, 1844 in Lincoln, Addison, Vermont; Died: September 15, 184
+3 CONC 4.
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 12:03:11
+0 @I242@ INDI
+1 NAME Sisson Almadous /Chase/
+2 SURN Chase
+2 GIVN Sisson Almadous
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1847
+2 PLAC , Pottawattamie, Iowa
+1 DEAT
+2 DATE 12 Jan 1918
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 15 Jan 1918
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 _UID 37780F187C24334786DEBAAF5DBA6EFC3EDE
+1 FAMC @F66@
+1 SOUR @S14@
+2 NOTE Sisson Almadorous Chase, Born: January 19, 1847 in Pottawattamie, Pottawattamie, Iowa; Died
+3 CONC : January 12, 1918 in Salt Lake City, Salt Lake, Utah; Burial: January 15, 1918 in Salt Lak
+3 CONC e City, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Sisson A. Chase Jr., Born: January 19, 1847; Died: January 12, 1918; Trekked with the Danie
+3 CONC l A. Miller/John W. Cooley Company in 1853.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family #767
+3 CONT Cisson Chase age 5 making her birth year around 1844-45 in Illinois.
+2 DATA
+3 DATE October 12, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 12:32:31
+0 @I243@ INDI
+1 NAME Marian or Miriam /Chase/
+2 SURN Chase
+2 GIVN Marian or Miriam
+1 SEX F
+1 BIRT
+2 DATE 3 Mar 1849
+2 PLAC , Pottawattamie, Iowa
+1 DEAT
+2 DATE ABT 3 Jul 1878
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 PLAC City Cemetery Salt Lake City, Salt Lake, Utah
+1 _UID 9DF3CD5074A600429755D8ADFD384DDEDAC7
+1 FAMC @F66@
+1 SOUR @S14@
+2 NOTE Marian Chase, Born: March 3, 1849 in Pottawattamie, Iowa; Died: July 3 or 23, 1878 in Salt La
+3 CONC ke City, Salt Lake, Utah; Burial: in City Cemetery, Salt Lake City, Salt Lake, Utah.
+1 SOUR @S2@
+2 NOTE Mirian (or Miriam) Chase, Born: March 3, 1849; Died: July 1878; Trekked with the Daniel A. Mi
+3 CONC ller/John W. Cooley Company in 1853.
+1 SOUR @S18@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Dwelling and Family # 767
+3 CONT Miriam Chase age 1 making her birth year around 1848-49 in Iowa.
+2 DATA
+3 DATE October 12, 1850 in Pottawattamwi, Iowa
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 12:32:13
+0 @F1@ FAM
+1 _UID 9BDE843841E4FA428C2407A27ADA1ABB18C5
+1 HUSB @I6@
+1 WIFE @I5@
+1 CHIL @I4@
+1 CHIL @I3@
+1 CHIL @I2@
+1 CHIL @I1@
+1 CHIL @I8@
+1 CHIL @I40@
+1 CHIL @I7@
+1 CHIL @I33@
+1 CHIL @I36@
+1 MARR
+2 DATE 29 Apr 1810
+2 PLAC Bloomfield, Ontario, New York
+1 SOUR @S15@
+2 NOTE Married: April 29, 1810 in Bloomfield, Ontario, New York.
+0 @F2@ FAM
+1 _UID 154C0A2437DA67448289EDF91C8937ED0520
+1 HUSB @I9@
+1 WIFE @I12@
+1 CHIL @I19@
+1 CHIL @I20@
+1 CHIL @I21@
+1 CHIL @I22@
+1 CHIL @I17@
+1 CHIL @I23@
+1 CHIL @I15@
+1 MARR
+2 DATE 2 Jun 1835
+2 PLAC Byton, Hereford, England
+1 SOUR @S15@
+2 NOTE Married: June 2, 1835 in Bryton, Hereford, England.
+0 @F3@ FAM
+1 _UID 241614BA0166144AA468129908E828831FF0
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I9@
+0 @F4@ FAM
+1 _UID 43FB783F88961C46A09E4D6706B4970CC499
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I12@
+0 @F5@ FAM
+1 _UID 5D4DA6577DE2F3418E5314CF02E4D40EC6CD
+1 HUSB @I39@
+1 WIFE @I37@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 CHIL @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I30@
+1 CHIL @I49@
+1 CHIL @I48@
+1 CHIL @I41@
+1 MARR
+2 DATE 20 Mar 1827
+2 PLAC Bart, Lancaster, Pennsylvania
+1 SOUR @S8@
+1 SOUR @S19@
+2 NOTE Married: March 20, 1827 in Bart, Lancaster, Pennsylvania.
+0 @F6@ FAM
+1 _UID 47CAD85FB0E4204A927DB7EEB96617285826
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I6@
+0 @F7@ FAM
+1 _UID 3C75B3979BE1764EB3A698EC8576E7AAA495
+1 HUSB @I31@
+1 WIFE @I32@
+1 CHIL @I5@
+0 @F8@ FAM
+1 _UID 23509675ACC1334CBBDA27EDCE584CBD42F8
+1 HUSB @I34@
+1 WIFE @I38@
+1 CHIL @I39@
+0 @F9@ FAM
+1 _UID E536E3B836A05C4DB61CFFBE55359004E22C
+1 HUSB @I27@
+1 WIFE @I35@
+1 CHIL @I37@
+0 @F10@ FAM
+1 _UID 0DBB764C826A654DAC046BA6EDCFC65FCAAA
+1 HUSB @I50@
+1 WIFE @I53@
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+1 MARR
+2 DATE 24 Jan 1836
+2 PLAC , , England
+1 NOTE There first daughter was born in England so it would be assumed they were also married there.
+1 SOUR @S12@
+2 NOTE Married: January 24, 1836.
+0 @F11@ FAM
+1 _UID 8D44FBA16D48E248A22BEA3F2A8F2EE20BCA
+1 HUSB @I52@
+1 WIFE @I71@
+1 CHIL @I74@
+1 MARR
+2 DATE 8 Dec 1834
+2 PLAC Decatur, Macon, Illinois
+1 SOUR @S15@
+2 NOTE Married: December 8, 1834 near Decatur, Macon, Illinois.
+1 SOUR @S13@
+2 PAGE Page: 127
+2 NOTE Married: December 8, 1834 in Decatur, Illinois.
+0 @F12@ FAM
+1 _UID FAD995E41FD66E4E984AFBD879D234C0F123
+1 HUSB @I50@
+1 WIFE @I61@
+1 CHIL @I65@
+1 CHIL @I66@
+1 CHIL @I67@
+1 CHIL @I64@
+1 MARR
+2 DATE 18 Aug 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S12@
+2 NOTE Married: August 18, 1843 in Nauvoo, Hancock, Illinois.
+0 @F13@ FAM
+1 _UID C7F9DF013DF389478E1F21796570D82ABE96
+1 HUSB @I59@
+1 WIFE @I60@
+1 CHIL @I50@
+0 @F14@ FAM
+1 _UID 9D210328FF30F547B1B6E08292BB0F84FD6D
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I61@
+0 @F15@ FAM
+1 _UID 860A7EF19D406144A1DD2C26D31B875A203F
+1 HUSB @I51@
+1 WIFE @I58@
+1 CHIL @I52@
+0 @F16@ FAM
+1 _UID 8A3FE045BCB3F54B8B48E6F096524CBF39D1
+1 HUSB @I73@
+1 WIFE @I103@
+1 CHIL @I136@
+1 CHIL @I132@
+1 CHIL @I135@
+1 CHIL @I137@
+1 CHIL @I138@
+1 CHIL @I133@
+1 CHIL @I142@
+1 CHIL @I139@
+1 CHIL @I131@
+1 CHIL @I140@
+1 CHIL @I141@
+1 CHIL @I134@
+1 MARR
+2 DATE 22 Aug 1818
+2 PLAC Greenfield, Franklin, Ma
+0 @F17@ FAM
+1 _UID DC7EC671F3229949A46A40D9C5351A13D6D5
+1 HUSB @I81@
+1 WIFE @I79@
+1 CHIL @I80@
+0 @F18@ FAM
+1 _UID ACF2C1EDC6322946A79BBDC2F5086A01DC71
+1 WIFE @I78@
+0 @F19@ FAM
+1 _UID 470F61E52FF44D4E9BBBFD03F14C0EB3AE19
+1 HUSB @I80@
+1 WIFE @I86@
+1 CHIL @I87@
+1 MARR
+2 DATE 17 Nov 1844
+2 PLAC Ripponden, Yorkshire, England
+1 SOUR @S15@
+2 NOTE Married: November 17, 1844 in Rippondin [sic], Yorkshire, England.
+1 SOUR @S13@
+2 PAGE Page: 438
+2 NOTE Married: November 17, 1844.
+0 @F20@ FAM
+1 _UID A0F0EF7101601E4BAE2FBCD00889B89E0AD4
+1 HUSB @I83@
+1 WIFE @I101@
+1 MARR
+2 DATE 7 May 1848
+2 PLAC St Joseph, Buchanan, New York
+0 @F21@ FAM
+1 _UID AF6A84CA2F4D5B439BB8C1866CB6B6463994
+1 HUSB @I88@
+1 WIFE @I82@
+1 CHIL @I86@
+1 CHIL @I96@
+1 CHIL @I94@
+1 CHIL @I97@
+1 CHIL @I98@
+1 CHIL @I99@
+1 CHIL @I100@
+1 MARR
+2 DATE 31 Aug 1822
+2 PLAC Halifax, Yorkshire, England
+1 SOUR @S15@
+2 NOTE Married: August 31, 1833 in Halifax, Yorkshire, England.
+0 @F22@ FAM
+1 _UID 982A25988301CF4C849C3787DFC4FBCB657F
+1 HUSB @I77@
+1 WIFE @I76@
+1 CHIL @I88@
+0 @F23@ FAM
+1 _UID 4CE8FA9FD1CF524D86B2271AA5101EBD15E8
+1 HUSB @I92@
+1 WIFE @I93@
+1 CHIL @I82@
+0 @F24@ FAM
+1 _UID 1582E014B816B943B6D89A35D41099A6D5EE
+1 HUSB @I90@
+1 WIFE @I95@
+1 CHIL @I71@
+1 CHIL @I83@
+0 @F25@ FAM
+1 _UID 995272463BBC444EB3805470F294EAE679E4
+1 HUSB @I72@
+1 WIFE @I130@
+1 CHIL @I73@
+0 @F26@ FAM
+1 _UID 4C41B12A4D2C954E8682366536D438CF78FD
+1 HUSB @I114@
+1 WIFE @I117@
+1 CHIL @I120@
+1 CHIL @I121@
+1 CHIL @I122@
+1 CHIL @I129@
+1 CHIL @I123@
+1 CHIL @I101@
+1 CHIL @I125@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I128@
+1 MARR
+2 DATE 3 Dec 1815
+2 PLAC , Wood Co., Va
+1 SOUR @S15@
+2 NOTE Married: December 3, 1815 in Wood County, Virginia.
+0 @F27@ FAM
+1 _UID 5880908EEC3E9345AC056C43DA97223823FE
+1 HUSB @I115@
+1 WIFE @I116@
+1 CHIL @I114@
+0 @F28@ FAM
+1 _UID 7FBBBB58FDDB564492C4B96F2FAF68840726
+1 HUSB @I118@
+1 WIFE @I119@
+1 CHIL @I117@
+0 @F29@ FAM
+1 _UID A9DB73872338864F94F709F2BB700026854C
+1 HUSB @I102@
+1 WIFE @I124@
+1 CHIL @I103@
+0 @F30@ FAM
+1 _UID EBFBB4FFDE5547488AA205493132206BC3DB
+1 HUSB @I143@
+1 WIFE @I146@
+1 CHIL @I150@
+1 CHIL @I151@
+1 CHIL @I152@
+1 CHIL @I153@
+1 CHIL @I154@
+1 CHIL @I158@
+1 CHIL @I155@
+1 CHIL @I156@
+1 CHIL @I149@
+1 MARR
+2 DATE 1 Jan 1812
+2 PLAC Victor, Ontario, New York
+1 SOUR @S15@
+2 NOTE Married: January 1, 1812 in Victor, Ontario, New York.
+0 @F31@ FAM
+1 _UID 278EE56EF869F54DBCD08ED2D5E9B42D36EA
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I143@
+0 @F32@ FAM
+1 _UID C0D4B1424729A549B9F24044F6023225632F
+1 HUSB @I147@
+1 WIFE @I148@
+1 CHIL @I146@
+0 @F33@ FAM
+1 _UID BAFB77244C65454786092686AF7619232927
+1 HUSB @I129@
+1 WIFE @I149@
+1 MARR
+2 DATE 7 Mar 1848
+2 SOUR @S20@
+3 NOTE "History of Benjamin Cazier, Sr." by Helen Cazier Norton
+4 CONT http://cazier.org/FamilyHistories/CAZ%2004072007%20History%20of%20Benjamin%20Cazier%20Sr.%20b
+4 CONC y%20Helen%20Cazier%20Norton.pdf
+0 @F34@ FAM
+1 _UID F095A463ECA7584ABDC31DD2A351FE3A5CBB
+1 HUSB @I150@
+1 WIFE @I162@
+1 CHIL @I170@
+1 CHIL @I166@
+1 CHIL @I171@
+1 CHIL @I177@
+1 MARR
+2 DATE 17 Sep 1839
+2 PLAC Vermont, Wyoming, New York
+1 SOUR @S15@
+2 NOTE Married: September 17, 1839 in Vermont, Wyoming, New York.
+0 @F35@ FAM
+1 _UID A95BBC03C9291944A20314C56A22BF856068
+1 HUSB @I161@
+1 WIFE @I121@
+1 CHIL @I160@
+1 CHIL @I159@
+1 CHIL @I178@
+1 CHIL @I180@
+1 MARR
+2 DATE 27 Jun 1842
+2 PLAC Black Horse Tavern, Lovington, Moultrie, Illinois
+2 SOUR @S19@
+3 NOTE Married: June 27, 1842 in Black Horse Tavern, Lovington, Moultrie, Illinois.
+0 @F36@ FAM
+1 _UID CB7753A8F6298841A29A1D29B66BC51BA81E
+1 HUSB @I163@
+1 WIFE @I164@
+1 CHIL @I162@
+0 @F37@ FAM
+1 _UID 35FD5ADCC9C709488DD6E7F0806ADFB60224
+1 HUSB @I161@
+1 WIFE @I183@
+1 CHIL @I184@
+1 MARR
+2 DATE 15 Sep 1831
+2 PLAC , Oldham, Kentucky
+1 NOTE Oldham is a County in Kentucky and not a city.
+1 SOUR @S15@
+2 NOTE Married: September 15, 1831 in Oldham [sic], , Kentucky.
+0 @F38@ FAM
+1 _UID B9E9D61AB797D249843BAD543ADA9B168044
+1 HUSB @I186@
+1 WIFE @I187@
+1 CHIL @I185@
+0 @F39@ FAM
+1 _UID 8543C14A4F7A2B44B4D3A6920EB5F0EB68D6
+1 WIFE @I189@
+1 MARR
+2 DATE 1837
+2 PLAC Boonville, Oneida, New York
+1 SOUR @S19@
+2 NOTE Has Hiram Hoyt married twice, once to Serah Rude, another to Sarah Rude.  It is assumed tha
+3 CONC t they are the same person.
+0 @F40@ FAM
+1 _UID 0014078E1165A94A8FC0D31D973F7207A05A
+1 HUSB @I190@
+1 WIFE @I191@
+1 CHIL @I167@
+1 CHIL @I182@
+1 CHIL @I111@
+1 CHIL @I192@
+1 CHIL @I109@
+1 CHIL @I107@
+1 CHIL @I113@
+1 CHIL @I85@
+1 CHIL @I84@
+1 CHIL @I75@
+1 MARR
+2 DATE 1807
+0 @F41@ FAM
+1 _UID FFEAAEBB86AAC54589280029D6E46BCD5832
+1 HUSB @I192@
+1 WIFE @I2@
+1 CHIL @I193@
+1 MARR
+2 DATE 15 Apr 1849
+2 PLAC Salt Lake, Salt Lake, Utah
+1 SOUR @S19@
+1 SOUR @S26@
+2 NOTE Lists marriage as 14 Apr 1849
+0 @F42@ FAM
+1 _UID FA08BD94D9E7DA499504F18B7DF907481076
+1 HUSB @I165@
+1 WIFE @I137@
+1 CHIL @I176@
+1 MARR
+2 DATE 1 Jan 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S19@
+2 NOTE Married: January 1, 1846 in Nauvoo, Hancock, Illinois. 
+1 SOUR @S28@
+2 NOTE Married: January 1, 1845 in Nauvoo, Hancock, Illinois.
+1 SOUR @S26@
+2 NOTE Married: January 1, 1845 in Nauvoo, Hancock, Illinois.
+0 @F43@ FAM
+1 _UID 1023EA075136AF4F95ACA2B7617AAA4B133B
+1 HUSB @I168@
+1 WIFE @I175@
+1 CHIL @I165@
+0 @F44@ FAM
+1 _UID A798FF3FD40FAC428225ACD409A3E77078A6
+1 HUSB @I174@
+1 WIFE @I133@
+1 MARR
+2 DATE 7 Feb 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S19@
+2 NOTE Married: February 7, 1846 in Nauvoo, Hancock, Illinois.
+0 @F45@ FAM
+1 _UID 481A776DD54AB04E95AF5C317942900F8E40
+1 HUSB @I173@
+1 WIFE @I172@
+1 CHIL @I174@
+0 @F46@ FAM
+1 _UID D622442CABA4FF429297F7B54A281A18719A
+1 HUSB @I169@
+1 WIFE @I167@
+1 MARR
+2 DATE Jan 1825
+2 PLAC Booneville, Oneida, New York
+1 SOUR @S16@
+2 NOTE Married: January 1825 in Booneville, Oneida, New York.
+0 @F47@ FAM
+1 _UID 14129C8CA4FC3F468B64B84C4D373F1039A9
+1 HUSB @I182@
+1 WIFE @I181@
+1 CHIL @I112@
+1 CHIL @I188@
+1 MARR
+2 DATE 1837
+2 PLAC Booneville, Oneida, New York
+1 SOUR @S16@
+2 NOTE Married: 1837 in Booneville, Oneida, New York.
+0 @F48@ FAM
+1 _UID FE7C55C34392B0449EE632C0318CECEF69B4
+1 HUSB @I111@
+1 WIFE @I110@
+1 MARR
+2 DATE 21 Aug 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S28@
+2 PAGE Page: 18
+2 NOTE Married: August 21, 1842 in Nauvoo.
+1 SOUR @S16@
+2 NOTE Married: August 21, 1842 in Booneville, Oneida, New York.
+0 @F49@ FAM
+1 _UID 6A5FBFEC0D5DA540B20963D3583F2F8A0431
+1 HUSB @I109@
+1 WIFE @I105@
+1 MARR
+2 DATE 23 May 1841
+2 PLAC Walnut Grove, Knox, Illinois
+1 SOUR @S16@
+2 NOTE Married: May 23, 1841 in Booneville, Oneida, New York.
+1 SOUR @S28@
+2 PAGE Page: 6
+2 NOTE Married: Homer C. Hoyt and Sarah Fuller in Walnut Grove, Knox, Illinois.
+2 DATA
+3 DATE 2 Aug 1841
+0 @F50@ FAM
+1 _UID 1E5802B04262884E8FAA57D89F7C17DF1BCD
+1 HUSB @I109@
+1 WIFE @I108@
+1 MARR
+2 DATE 2 Jun 1845
+2 PLAC unknown
+1 SOUR @S16@
+2 NOTE Married: June 2, 1845.
+0 @F51@ FAM
+1 _UID A7C5B08522CA804DACC9C8162FC21616CA98
+1 HUSB @I104@
+1 WIFE @I113@
+1 CHIL @I106@
+1 CHIL @I91@
+1 CHIL @I89@
+1 MARR
+2 DATE 26 Nov 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S16@
+2 NOTE Married: November 26, 1843 in Nauvoo, Hancock, Illinois.
+1 SOUR @S28@
+2 NOTE Married: November 26, 1843 in Nauvoo, Hancock, Illinois.
+2 DATA
+3 DATE 30 Nov 1843
+0 @F52@ FAM
+1 _UID 5F851DECB74FCF4B9252013A81B2B894AB13
+1 HUSB @I70@
+1 WIFE @I69@
+1 CHIL @I68@
+1 CHIL @I24@
+1 CHIL @I26@
+1 CHIL @I25@
+1 CHIL @I16@
+1 MARR
+2 DATE 28 Dec 1823
+2 PLAC Williston, Chittenden, Vermont
+1 SOUR @S16@
+2 NOTE Married: December 28, 1823 in Willistown [sic], Chittenden, Vermont.
+0 @F53@ FAM
+1 _UID EDCFB19E6568344C875693B25251DCF4EDF2
+1 HUSB @I70@
+1 WIFE @I18@
+1 CHIL @I194@
+1 CHIL @I195@
+1 CHIL @I196@
+1 CHIL @I197@
+1 CHIL @I198@
+1 CHIL @I199@
+1 CHIL @I200@
+1 MARR
+2 DATE Oct 1834
+2 PLAC Springdale, Washington, Utah
+1 SOUR @S16@
+2 NOTE Married: October 1834 in Springdale, Washington, Utah.
+0 @F54@ FAM
+1 _UID BA154C0D5A7A724192B95B67028823EA5373
+1 HUSB @I201@
+1 WIFE @I202@
+1 CHIL @I203@
+1 MARR
+2 DATE unknown
+1 SOUR @S32@
+2 NOTE Husband to Clarissa Hart.
+0 @F55@ FAM
+1 _UID 05FD59758D86AA4195C1529605A8045F1C79
+1 HUSB @I204@
+1 WIFE @I205@
+1 CHIL @I207@
+1 CHIL @I212@
+1 CHIL @I213@
+1 MARR
+2 DATE unknown
+2 PLAC Rockingham, Windham, Vermont
+1 SOUR @S16@
+2 NOTE Married: in Rockingham, Windham, Vermont
+1 SOUR @S26@
+2 NOTE Married: unknown.
+1 SOUR @S30@
+2 NOTE Listed as his first wife.
+0 @F56@ FAM
+1 _UID 8DEB315050ACD24686E80B3A63E06EAF20C4
+1 HUSB @I204@
+1 WIFE @I206@
+1 CHIL @I214@
+1 MARR
+2 DATE 15 Jul 1848
+1 NOTE Most likely married in Pottawattamie, Iowa.
+1 SOUR @S33@
+2 NOTE Married: July 15, 1848 by George A. Smith.
+1 SOUR @S26@
+2 NOTE Married: July 15, 1848 by George A. Smith.
+0 @F57@ FAM
+1 _UID 746A96CBCF170B40BC0D4BD234A3DCE6EFC6
+1 HUSB @I207@
+1 WIFE @I208@
+1 CHIL @I209@
+1 CHIL @I210@
+1 CHIL @I211@
+0 @F58@ FAM
+1 _UID B916C4ABAE8F5F44A02799F8366C661A9829
+1 HUSB @I120@
+1 WIFE @I215@
+0 @F59@ FAM
+1 _UID F73CAF1AA54DE84CA7136E9229D83AEB0255
+1 HUSB @I216@
+1 WIFE @I217@
+1 CHIL @I161@
+0 @F60@ FAM
+1 _UID 59D7C2968FBB644F859F7925369F3B96EDA0
+1 HUSB @I122@
+1 WIFE @I179@
+1 CHIL @I220@
+1 CHIL @I221@
+1 CHIL @I222@
+1 MARR
+2 DATE Feb 1843
+2 PLAC Lovington, Moutlrie, Illinois
+1 SOUR @S15@
+2 NOTE Married: February 1843 in Lovington, Moultrie, Illinois.
+0 @F61@ FAM
+1 _UID 06619C5ED7A6DB418D3F66D82D0F9FF7D63D
+1 HUSB @I218@
+1 WIFE @I219@
+1 CHIL @I179@
+0 @F62@ FAM
+1 _UID 39F295A65C37CF44A6B7AC62BAEC1AFF367B
+1 HUSB @I114@
+1 WIFE @I223@
+1 MARR
+2 DATE Apr 1847
+2 PLAC , Pottawattamie, Iowa
+1 SOUR @S36@
+2 NOTE Married: April 1847 in Pottawattamie, Iowa.
+0 @F63@ FAM
+1 _UID C0B1B392B6EA9642B2A8ADFB3ADD3E0F947E
+1 HUSB @I225@
+1 WIFE @I226@
+1 CHIL @I227@
+1 CHIL @I229@
+1 CHIL @I232@
+1 CHIL @I233@
+1 CHIL @I234@
+1 CHIL @I235@
+1 CHIL @I236@
+1 MARR
+2 DATE 3 May 1827
+2 PLAC Butler, Wayne, New York
+1 SOUR @S15@
+2 NOTE Married: May 3, 1827 in Butler, Wayne, New York.
+0 @F64@ FAM
+1 _UID 52C6E4F4DEB5E74D807A0BD855D761C0E1AB
+1 HUSB @I227@
+1 WIFE @I228@
+1 MARR
+2 DATE 20 Mar 1850
+1 NOTE The source says Salt Lake, Utah as the place of marriage but they only left Iowa in the Sprin
+2 CONC g at the latest so they probably got married in Pottawattamie, Iowa.
+1 SOUR @S15@
+2 NOTE Married: March 20, 1850 in Salt Lake County, Utah.
+0 @F65@ FAM
+1 _UID 6385C6E5F67603408FD83A9471AA6F3435DC
+1 HUSB @I230@
+1 WIFE @I229@
+1 CHIL @I231@
+1 MARR
+2 DATE 4 Mar 1841
+2 PLAC unknown
+1 NOTE The marriage date is a bit faulty but it is all we could find.  The date is more likely the M
+2 CONC arch 4, 1847-48.
+1 SOUR @S15@
+2 NOTE Married: March 4, 1841.
+0 @F66@ FAM
+1 _UID FD391898027D164EA782E5303C6218D89572
+1 HUSB @I224@
+1 WIFE @I157@
+1 CHIL @I237@
+1 CHIL @I238@
+1 CHIL @I239@
+1 CHIL @I240@
+1 CHIL @I241@
+1 CHIL @I242@
+1 CHIL @I243@
+1 MARR
+2 DATE 16 May 1832
+2 PLAC Bristol, Addison, Vermont
+1 SOUR @S14@
+2 NOTE Married: May 16, 1832 in Bristol, Addison, Vermont.
+0 @S1@ SOUR
+1 REPO @REPO1@
+1 TITL International Genealogical Index (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1980, 2002, data as of October 16, 2007
+0 @S2@ SOUR
+1 TITL Mormon Pioneer Overland Travel 1847-1868
+1 PUBL The Church of Jesus Christ of Latter-day Saints
+1 CALN http://www.lds.org/churchhistory/library/pioneercompanysearch/1,15773,3966-1,00.html
+0 @S3@ SOUR
+1 REPO @REPO2@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S4@ SOUR
+1 REPO @REPO3@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S5@ SOUR
+1 TITL Our Pioneer Heritage 
+1 AUTH Carter, Kate B., ed
+1 PUBL Salt Lake City: International Society, Daughters of Utah Pioneers, 1958-1977
+1 NOTE 20 vols. 
+0 @S6@ SOUR
+1 REPO @REPO4@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S7@ SOUR
+1 TITL The story of the Mantle and Watkins family
+1 CALN http://www.geocities.com/iluv_familyhistory/mantles.htm
+1 NOTE Full Title: From Wales to Presting, England; Nauvoo, Illinois; Highland Grove, Iowa to Salt L
+2 CONC ake City and Taylorsville, Utah, as Mormon Pioneers: The story of the Mantle and Watkins fami
+2 CONC ly
+2 CONT Author Contact information: mouse40@comcast.net or iluv_familyhistory@yahoo.com 
+0 @S8@ SOUR
+1 TITL Sharing our Links to the Past
+1 AUTH Gray, Wally and Frances
+1 PUBL 	
+2 CONT Wallace F. and Frances M. Gray, ©1998-2005.	
+2 CONT 
+1 CALN http://www.geocities.com/~wallyg/M28.htm
+1 NOTE Author Contact Info: grayfox2@cox.net
+2 CONT Includes: Biography of Martin Bushman and Elizabeth Degen, Sketch of the Life of Martin and E
+2 CONC lizabeth Bushman, Patriarchal Blessing of Martin Bushman, Patriarchal Blessing of Elizabeth D
+2 CONC egen, etc.
+2 CONT 
+0 @S9@ SOUR
+1 TITL Sharing our Links to the Past [Sarah Ann Bushman]
+1 AUTH Gray, Wally and Frances
+1 PUBL Wallace F. and Frances M. Gray, ©1998-2007
+1 CALN http://www.geocities.com/~wallyg/L5sarah_ann_bushman.htm
+1 NOTE Author Contact Info: grayfox2@cox.netIncludes: A Short Biographical Sketch of Sarah Ann Bush
+2 CONC man (Mrs. Alonzo D. Rhodes) (1833-1917), Bushman Family History, etc. see website for specifi
+2 CONC c publishing information
+0 @S10@ SOUR
+1 REPO @REPO5@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S11@ SOUR
+1 REPO @REPO6@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S12@ SOUR
+1 REPO @REPO7@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S13@ SOUR
+1 TITL History of Utah
+1 AUTH Whitney, Orson F.
+1 PUBL vol. IV Biographical, (Salt Lake City: George Q. Cannon and Sons Co., Oct. 1904)
+0 @S14@ SOUR
+1 REPO @REPO8@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S15@ SOUR
+1 REPO @REPO9@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S16@ SOUR
+1 REPO @REPO10@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S17@ SOUR
+1 TITL A Sketch of my Life
+1 AUTH Stott, Edwin
+1 PUBL Utah Historical Quarterly, July/October 1941, vol. 9, no. 3-4, 184-185.
+0 @S18@ SOUR
+1 TITL 1850 US Federal Census
+1 AUTH District 21, Pottowattamie, Iowa
+0 @S19@ SOUR
+1 REPO @REPO11@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S20@ SOUR
+1 TITL William Cazier and Pleasant Drake Family Organization
+1 AUTH Gail A. Cazier (contact)
+1 CALN cazier.org
+0 @S21@ SOUR
+1 REPO @REPO12@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S22@ SOUR
+1 REPO @REPO13@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S23@ SOUR
+1 TITL John Bushman, Utah-Arizona Pioneer 1843-1926: Based on the personal diaries and consolidate
+2 CONC d Journal of John Bushman
+1 AUTH Derryfield N. Smith, ed.
+1 PUBL (Provo, UT: John Bushman Family Association, 1975)
+0 @S24@ SOUR
+1 REPO @REPO14@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S25@ SOUR
+1 REPO @REPO15@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S26@ SOUR
+1 TITL Early Latter-day Saints Database
+1 AUTH Darrin Lythgoe
+1 PUBL Sandy, UT: 1991
+1 CALN http://www.earlylds.com/index.html
+0 @S27@ SOUR
+1 TITL 1860 US Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2004.
+1 CALN ancestry.com
+1 TEXT United States of America, Bureau of the Census. Eighth Census of the United States, 1860. Was
+2 CONC hington, D.C.: National Archives and Records Administration, 1860. M653, 1,438 rolls.
+0 @S28@ SOUR
+1 TITL Nauvoo Marriages
+1 AUTH Lyndon W. Cook
+1 PUBL Liberty Publishing Company, 1980
+1 CALN 3-1197-22689-8259 at the Harol B. Lee Library BYU.
+0 @S29@ SOUR
+1 TITL Nauvoo Record of Deaths: Sexton Record of Burials 1839-1846
+1 AUTH Nauvoo Lands and Records Office
+0 @S30@ SOUR
+1 TITL Find A Grave
+1 AUTH findagrave.com
+1 CALN findagrave.com
+0 @S31@ SOUR
+1 TITL Membership of The Church of Jesus Christ of Latter-day Saints 1830-1848
+1 AUTH The Church of Jesus Christ of Latter-day Saint
+1 CALN www.worldvitalrecords.com
+0 @S32@ SOUR
+1 TITL A "Grave" Experience at the Mormon Pioneer Winter Quarters Cemetery
+1 AUTH Carlyle B. Jensen and Gail Geo. Holmes
+1 PUBL October 1999
+0 @S33@ SOUR
+1 TITL Iowa Branch Member Index 1839-1859
+1 AUTH Ronald G. Watt
+1 PUBL Historical Department of The Church of Jesus Christ of Latter-day Saints, 1991
+1 CALN Volume 1
+0 @S34@ SOUR
+1 TITL History of Benjamin Cazier Sr.
+1 AUTH Helen Cazier Norton
+1 TEXT http://cazier.org/FamilyHistories/CAZ%2004072007%20History%20of%20Benjamin%20Cazier%20Sr.%20b
+2 CONC y%20Helen%20Cazier%20Norton.pdf
+0 @S35@ SOUR
+1 TITL Webtree.com
+1 PUBL FamilyLink.com, Inc. 2008
+1 CALN Webtree.com
+0 @S36@ SOUR
+1 TITL One World Tree
+1 AUTH Ancestry.com
+1 CALN trees.ancestry.com
+0 @S37@ SOUR
+1 TITL Utah State History- Burials Database
+1 AUTH Utah History Research Center: Archives & History
+1 PUBL State of Utah 2007
+1 CALN history.utah.gov
+0 @S38@ SOUR
+1 TITL 1870 US Federal Census
+1 AUTH The Generations Network, Inc., 2003.
+1 PUBL Ancestry.com. 1870 United States Federal Census [database on-line]. Provo, UT, USA.
+1 CALN ancestry.com
+1 TEXT United States. Ninth Census of the United States, 1870. Washington, D.C. National Archives an
+2 CONC d Records Administration. M593, RG29, 1,761 rolls.
+2 CONT Minnesota. Minnesota Census Schedules for 1870. Washington, D.C.: National Archives and Recor
+2 CONC ds Administration. T132, RG29, 13 rolls.
+0 @S39@ SOUR
+1 TITL 1840 US Federal Census
+1 AUTH The Generations Network, Inc., 2004
+1 PUBL Ancestry.com. 1840 United States Federal Census [database on-line]. Provo, UT, USA
+1 CALN ancestry.com
+1 TEXT United States of America, Bureau of the Census. Sixth Census of the United States, 1840. Wash
+2 CONC ington, D.C.: National Archives and Records Administration, 1840. M704, 580 rolls.
+0 @REPO1@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO2@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO3@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO4@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO5@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO6@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO7@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO8@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO9@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO10@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO11@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO12@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO13@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO14@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 @REPO15@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 TRLR

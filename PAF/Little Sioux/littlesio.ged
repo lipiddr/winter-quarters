@@ -1,0 +1,1642 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 26 Jul 2013
+2 TIME 08:32:55
+1 FILE littlesio.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I1@ INDI
+1 NAME Silas Whitehead /Condit/
+2 SURN Condit
+2 GIVN Silas Whitehead
+1 SEX M
+1 BIRT
+2 DATE 17 Jul 1819
+2 PLAC Newark, Essex, New Jersey
+2 SOUR @S2@
+3 PAGE page 36
+3 NOTE Newark, New Jersey
+3 DATA
+4 DATE 1885
+1 DEAT
+2 DATE 27 Oct 1879
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID C5794C4AA7F4C94F8003D96E13C242D03879
+1 FAMS @F1@
+1 FAMS @F2@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE District 21 Pottawattamie, Iowa; Dwelling #766; Family #766
+3 CONT Silas W. Condit  Age: 30; Gender: Male; Occupation: Shoemaker; Born: New Jersey; 
+2 DATA
+3 DATE 12 Oct 1850
+1 SOUR @S2@
+2 PAGE page 36
+2 NOTE Newark, New Jersey
+3 CONT Silas W. Condit  Born: June 17, 1819
+2 DATA
+3 DATE 1885
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Newark, New Jersey
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Born: July 17, 1819; Died: October 27, 1879 
+1 CHAN
+2 DATE 27 Sep 2008
+3 TIME 09:32:08
+0 @I2@ INDI
+1 NAME Julia N. /Parker/
+2 SURN Parker
+2 GIVN Julia N.
+1 SEX F
+1 BIRT
+2 DATE 3 Feb 1821
+2 PLAC Maine
+1 DEAT
+2 DATE 17 Jan 1844
+1 _UID 070A7D21FFF2BA4EA27FA0254446498BECE6
+1 FAMS @F1@
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Julia was his first wife and had only one son, Parker
+3 CONT Born: Feb 3, 1821; Married june 17,1842; Died Jan 17, 1844. 
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 PAGE http://www.familysearch.org/Eng/search/frameset_search.asp?PAGE=ancestorsearchresults.asp
+2 NOTE Married Feb 3, 1842
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:19:20
+0 @I3@ INDI
+1 NAME Parker S. /Condit/
+2 SURN Condit
+2 GIVN Parker S.
+1 SEX M
+1 BIRT
+2 DATE 3 May 1843
+1 _UID ADA2208B7158044E9D8684841A5D6C395CE5
+1 FAMC @F1@
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Parker was the first son of Silas Born on May 3, 1843
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Parker S. Born May 3, 1843
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE He was about 8 years of age making his birth around 1842-43
+1 CHAN
+2 DATE 2 May 2008
+3 TIME 11:32:58
+0 @I4@ INDI
+1 NAME Sarah P. /Hiscock (Hitchcock)/
+2 SURN Hiscock (Hitchcock)
+2 GIVN Sarah P.
+1 SEX F
+1 BIRT
+2 DATE 18 Dec 1824
+2 PLAC Maine
+1 DEAT
+2 DATE 3 May 1867
+1 _UID 6E6BB42B77F9424E86FD87DF60D5B7DE6BB0
+1 FAMS @F2@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Sarah was married to Silas, was 25 years old at the time making her birth around 1824-25.
+2 DATA
+3 DATE 12 Oct 1850
+1 SOUR @S3@
+2 NOTE Sarah was Born on December 18, 1824 in Maine; Married on September 27, 1844; Died on May 18
+3 CONC , 1867.
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Sarah was married on September 27, 1844; died May 3, 1867.
+2 DATA
+3 DATE 1885
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:18:29
+0 @I5@ INDI
+1 NAME Mary A. /Condit/
+2 SURN Condit
+2 GIVN Mary A.
+1 SEX F
+1 BIRT
+2 DATE 15 Nov 1845
+2 PLAC Sunbury, Delaware, Ohio
+1 DEAT
+2 DATE 20 Aug 1848
+1 _UID C7DED945A2A49C4EB4B5E68783F5FF458513
+1 FAMC @F2@
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Mary was born in 1845
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Mary was born November 15, 1845; Died August 20, 1848
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:18:13
+0 @I6@ INDI
+1 NAME John H. /Condit/
+2 SURN Condit
+2 GIVN John H.
+1 SEX M
+1 BIRT
+2 DATE 7 Jul 1847
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE Oct 1940
+1 _UID B36360CD62007640B472B5C4F8CCEFC370CF
+1 FAMC @F2@
+1 SOUR @S1@
+2 PAGE RRoll: M432_188; Page: 112; Image: 225
+2 NOTE John was three years old making his birth at the year 1847
+2 DATA
+3 DATE 12 Oct 1850
+1 SOUR @S3@
+2 NOTE John was Born July 7, 1847  and Died in October of 1940
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE John was born in 1847 to Sarah Hiscock (Hitchcock)
+2 DATA
+3 DATE 1885
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:17:58
+0 @I7@ INDI
+1 NAME Leonard D. /Condit/
+2 SURN Condit
+2 GIVN Leonard D.
+1 SEX M
+1 BIRT
+2 DATE 2 Jan 1850
+2 PLAC Little Sioux, Harrison, Iowa
+1 DEAT
+2 DATE 8 Oct 1912
+2 PLAC Malta, Cassia, ID
+1 BURI
+2 DATE Oct 1912
+2 PLAC Malta Cemetery
+1 _UID F22B4EE24A30DA4F87285C5AF1538B4F7392
+1 FAMC @F2@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE The Record indicates him as being a 6 month old boy
+2 DATA
+3 DATE 12 Oct 1850
+1 SOUR @S3@
+2 NOTE Born January 2, 1850; Died October 8, 1912; Buried in Malta Cemetery
+3 CONT His middle name is indicated as Merry in this document whereas everywhere else it is indicate
+3 CONC d as D.
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Born 1850
+2 DATA
+3 DATE 1885
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:17:43
+0 @I8@ INDI
+1 NAME Sarah M /Condit/
+2 SURN Condit
+2 GIVN Sarah M
+1 SEX F
+1 BIRT
+2 DATE 11 Apr 1852
+2 PLAC Little Sioux, Harrison, Iowa
+1 DEAT
+2 DATE 13 Nov 1895
+1 _UID 8266A0B8D726124AAB493A76F58371D8FE4E
+1 FAMC @F2@
+1 NOTE Sarah moved to Hagerman, Idaho and lived her life out there.  I tried to look up more informa
+2 CONC tion on her move and I found that she married Henry Secor, but that is all I could uncover th
+2 CONC us far.
+2 CONT  Familysearch.org, Ancestral File, The Church of Jesus Christ of Latter-Day Saints, familysea
+2 CONC rch.org.
+1 SOUR @S3@
+2 NOTE Born April 11, 1852; Died November 13, 1895
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Born 1852 
+2 DATA
+3 DATE 1885
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 320; Image: 304
+2 NOTE Sarah was 8 years old when this census was taken which puts her birth in the year 1852-53.
+2 DATA
+3 DATE 26 Jun 1860
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 08:39:03
+0 @I9@ INDI
+1 NAME Cordelia /Condit/
+2 SURN Condit
+2 GIVN Cordelia
+1 SEX F
+1 BIRT
+2 DATE 1 May 1855
+2 PLAC Little Sioux, Harrison, Iowa
+1 DEAT
+2 DATE 25 May 1855
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID 9C19A6FE0050874BBF6B0EDCA41314EB45EB
+1 FAMC @F2@
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Born: 1855; Died: as an infant
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Born: May 1, 1855; Died: May 25, 1855
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:17:08
+0 @I10@ INDI
+1 NAME Julia A /Condit/
+2 SURN Condit
+2 GIVN Julia A
+1 SEX F
+1 BIRT
+2 DATE 17 Sep 1856
+2 PLAC Little Sioux, Harrison, Iowa
+1 DEAT
+2 DATE ABT 1929
+1 _UID 11946AFE772FC5479A96F957DA594CE9A79F
+1 FAMC @F2@
+1 SOUR @S2@
+2 PAGE page 89
+2 NOTE Born: 1856
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Born: Sept 17, 1856; Died: about 1829
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:16:42
+0 @I11@ INDI
+1 NAME Dannet S /Condit/
+2 SURN Condit
+2 GIVN Dannet S
+1 SEX M
+1 BIRT
+2 DATE 1859
+1 _UID 11D80B69E90C404FA6784B7D29053DCE0004
+1 FAMC @F2@
+1 SOUR @S2@
+2 PAGE page 89
+2 NOTE Born: 1859
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Born: 1859
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:35:05
+0 @I12@ INDI
+1 NAME Frederick T /Condit/
+2 SURN Condit
+2 GIVN Frederick T
+1 SEX M
+1 BIRT
+2 DATE 11 Apr 1867
+1 _UID 986E5A9129E1554F8156DD9BE432567AD4CE
+1 FAMC @F2@
+1 NOTE When comparing the two records I find that the Geneological record of the Condit's is more re
+2 CONC liable than the Ancestral file but both are fairly close in dates.  But there is a descrepanc
+2 CONC y between the birth year concerning Frederick.
+1 SOUR @S2@
+2 PAGE page 89
+2 NOTE Born: 1867
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Says that he was born on Aprill 11, 1866; Died June 6, 1867
+1 CHAN
+2 DATE 5 May 2008
+3 TIME 15:42:05
+0 @I13@ INDI
+1 NAME T.B. /Neely/
+2 SURN Neely
+2 GIVN T.B.
+1 SEX M
+1 BIRT
+2 DATE ABT 1829
+2 PLAC Ohio
+1 _UID 88DFA20C1AF3EE4E800B7315E802C3F51345
+1 FAMS @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE His age is 51 years at the time of this census.
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE Born in Ohio about 1829.
+1 SOUR @S7@
+2 NOTE This places T.B. Neely in Little Sioux be the 17 of March, 1851 and all other children were b
+3 CONC orn in this general area.
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:20:39
+0 @I14@ INDI
+1 NAME Maggy /Neely/
+2 SURN Neely
+2 GIVN Maggy
+1 SEX F
+1 BIRT
+2 DATE ABT 1844
+2 PLAC Nova Scotia, Canada
+1 _UID 3FAD09FC2DB0574A8A6B79A5552C4666AF1F
+1 FAMS @F3@
+1 SOUR @S6@
+2 NOTE She is only labeled as 36 on this document.
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE She was 36 years old when this cenus was taken.
+2 DATA
+3 DATE 16 Jul 1880
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:40:34
+0 @I15@ INDI
+1 NAME Isabella /Neely/
+2 SURN Neely
+2 GIVN Isabella
+1 SEX F
+1 BIRT
+2 DATE ABT 1864
+2 PLAC Iowa
+1 _UID 54BFD9FE771C13469AE5189F339632525933
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE Born about 1864 and it was most likely in Little Sioux, Harrison County, Iowa.
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE She was born about the year of 1864 most likely in Little Sioux, Harrison, Iowa.
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:40:47
+0 @I16@ INDI
+1 NAME Frank T. /Neely/
+2 SURN Neely
+2 GIVN Frank T.
+1 SEX M
+1 BIRT
+2 DATE ABT 1865
+2 PLAC Iowa
+1 _UID C6499E18E748A94086479CEFCD7D64AF92DF
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE He is 15 when this census was taken, and he was most likely born in Little Sioux, Harrison, I
+3 CONC owa.
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE Born about 1865
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:41:13
+0 @I17@ INDI
+1 NAME George M. /Neely/
+2 SURN Neely
+2 GIVN George M.
+1 SEX M
+1 BIRT
+2 DATE ABT 1868
+2 PLAC Iowa
+1 _UID 626F27D0963DC2488AFB3D18CD8CC64CEAD9
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE When the census was taken he was 12 years old placing his birth about in 1868 in Little Sioux
+3 CONC , Iowa
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE Born about 1868 in Little Sioux
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:41:33
+0 @I18@ INDI
+1 NAME Charles A. /Neely/
+2 SURN Neely
+2 GIVN Charles A.
+1 SEX M
+1 BIRT
+2 DATE ABT 1870
+2 PLAC Iowa
+1 _UID 8207C589846F4946803CCD10EF6853E985CE
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE He was 10 years old at the time of this census and was most likely born in Little Sioux.
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE Born about in the year 1870 in Little Sioux, Iowa
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:41:49
+0 @I19@ INDI
+1 NAME James H. /Neely/
+2 SURN Neely
+2 GIVN James H.
+1 SEX M
+1 BIRT
+2 DATE ABT 1873
+2 PLAC Iowa
+1 _UID 4CFA622B9A0F9640838E8E4A96A558DFAD80
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE He was 7 at the time of this census and was born in Little Sioux, Iowa. 
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE He was born about 1873 in Little Sioux, Iowa.
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:42:26
+0 @I20@ INDI
+1 NAME Irene P. /Neely/
+2 SURN Neely
+2 GIVN Irene P.
+1 SEX F
+1 BIRT
+2 DATE ABT 1875
+2 PLAC Iowa
+1 _UID 33F65D3B780DF24F99CA3C675A52000D463D
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE She was 5 years old at the time of the census.
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE She is 5 years old at the time of theis record and born in Iowa (most likely in Little Sioux)
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:42:43
+0 @I21@ INDI
+1 NAME Maggy M. /Neely/
+2 SURN Neely
+2 GIVN Maggy M.
+1 SEX F
+1 BIRT
+2 DATE ABT 1877
+2 PLAC Iowa
+1 _UID 9BC6FE9155473947A75AF8035EDDF9CB07A6
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382; Page: 16.1000
+2 NOTE She was 3 years old when this census was being taken and was most likely born in Little Sioux
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE She was 3 years at the time of this record and was born in Iowa
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:43:04
+0 @I22@ INDI
+1 NAME Leroy R. /Neely/
+2 SURN Neely
+2 GIVN Leroy R.
+1 SEX M
+1 BIRT
+2 DATE ABT 1879
+1 _UID D1A16B559CA5484CAF1BEF4B7289FF989DCC
+1 FAMC @F3@
+1 SOUR @S5@
+2 PAGE Roll: T9_343; Image: 0382
+2 NOTE He was 1 year old at the tiem of the census and born most likely in Little Sioux, Iowa
+2 DATA
+3 DATE 16 Jul 1880
+1 SOUR @S6@
+2 NOTE He was 1 year at the time of this record and bonr in Iowa
+1 CHAN
+2 DATE 8 May 2008
+3 TIME 09:43:13
+0 @I23@ INDI
+1 NAME Charles /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE ABT 8 May 1803
+2 PLAC Fountainbleau, France
+1 DEAT
+2 DATE 15 Nov 1872
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID B015FCDB8DECD645BB32DC20591CCBDC35D3
+1 FAMS @F4@
+1 FAMS @F5@
+1 SOUR @S3@
+2 NOTE Born in 1807 in France; Died on November 5, 1872 in Little Sioux, Iowa.
+1 SOUR @S8@
+2 NOTE Born 1807 in France and a Little Sioux Pioneer
+1 SOUR @S9@
+2 NOTE Died November 15, 1872 at the age of 69 years 6 months 7 days, this would put his brithday ab
+3 CONC out May 8, 1803.
+1 SOUR @S10@
+2 NOTE Died November 15, 1872; Born: May 8, 1803.
+1 CHAN
+2 DATE 14 May 2008
+3 TIME 15:01:46
+0 @I24@ INDI
+1 NAME Rebecca White /Bingham/
+2 SURN Bingham
+2 GIVN Rebecca White
+1 SEX F
+1 BIRT
+2 DATE 3 May 1818
+2 PLAC Chitendon, Chester, Windsor, Vermont
+1 DEAT
+2 DATE 28 Mar 1899
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID 1C7EDD5426A09F4F95F655F29C50A8A1868C
+1 FAMS @F4@
+1 SOUR @S3@
+2 NOTE Born: May 3, 1818; Married: April 3, 1855; Died: March 28, 1899
+1 SOUR @S9@
+2 NOTE Died March 28, 1899 at the age of 81 years 9 months 28 days making her birth about July  181
+3 CONC 8 
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 35; Image: 309
+2 NOTE At the time of the census she was 41 years old making her born between 1818-19
+2 DATA
+3 DATE 27 Jun 1860
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 15:50:06
+0 @I25@ INDI
+1 NAME Mrs. Charles /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Mrs. Charles
+1 SEX F
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Assinobonen Tribe, , ,Dakota territory  
+1 DEAT
+2 DATE ABT 1854
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID 54D2A338CF5CC4439758099E63BB08FBEA2F
+1 FAMS @F5@
+1 SOUR @S3@
+2 NOTE Born: about 1820; Died: 1854
+1 SOUR @S11@
+2 NOTE Article says that the indian wife of Charles was killed in 1853 
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 15:49:44
+0 @I26@ INDI
+1 NAME Louisa /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Louisa
+1 SEX F
+1 BIRT
+2 DATE 9 Aug 1842
+1 DEAT
+2 DATE 12 Sep 1866
+1 _UID 9BA47D91D8C5EB4E8EF879416D05DA00AFCC
+1 FAMC @F5@
+1 SOUR @S10@
+2 NOTE Born: August 9, 1842; Died: September 12, 1866
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 35; Image: 309
+2 NOTE Was 17 years old at the time of the census so that would make her birth date around 1842-43.
+2 DATA
+3 DATE 27 Jun 1860
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 15:49:04
+0 @I27@ INDI
+1 NAME Charles J. /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Charles J.
+1 SEX M
+1 BIRT
+2 DATE 1845
+1 DEAT
+2 DATE 14 Feb 1867
+1 _UID B6ACBC2C84C83543B7CB6A1EBC44CF2D140B
+1 FAMC @F5@
+1 SOUR @S10@
+2 NOTE Born: 1845; Died: February 14, 1867 
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 35; Image: 309
+2 NOTE He was 15 years old at the time of the census making his birth year around 1845
+2 DATA
+3 DATE 27 Jun 1860
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 15:48:40
+0 @I28@ INDI
+1 NAME Elizabeth /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1847
+1 DEAT
+2 DATE 27 Feb 1871
+1 _UID 8E2C1BFA131E14488A062FF9A5ABDEF436D4
+1 FAMC @F5@
+1 SOUR @S10@
+2 NOTE Born: 1847; Died: February 27, 1871
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 35; Image: 309
+2 NOTE At the time of the census she was 13 years old which woul make her birth year about 1847
+2 DATA
+3 DATE 27 Jun 1860
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 15:54:11
+0 @I29@ INDI
+1 NAME Mr. /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Mr.
+1 SEX M
+1 BIRT
+2 DATE ABT 1859
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID F8583E88A4EC034683C6BE7A0320BD88D822
+1 FAMC @F5@
+1 SOUR @S10@
+2 NOTE Birth about 1849
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 35; Image: 309
+2 NOTE Birth about 1859-60.  This record is very different in determining the birth year and it labe
+3 CONC ls him as Wm H. Larpenteur.  Also since the census was taken in Little Sioux I am assuming th
+3 CONC at the child was born there since he was only about 6 months old.
+2 DATA
+3 DATE 27 Jun 1860
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 16:01:58
+0 @I30@ INDI
+1 NAME Miss /Larpenteur/
+2 SURN Larpenteur
+2 GIVN Miss
+1 SEX F
+1 BIRT
+2 DATE ABT 1851
+1 _UID FD2D03B0995D9B458FBC5836391CCC671424
+1 FAMC @F5@
+1 SOUR @S10@
+2 NOTE Born: about 1851   
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 35; Image: 309
+2 NOTE At the time of the census she was 7 years old so her birth year would be around 1852-53.   He
+3 CONC r name, Mary, is actually given in this record
+3 CONC .                                                  
+2 DATA
+3 DATE 27 Jun 1860
+1 CHAN
+2 DATE 9 May 2008
+3 TIME 16:05:56
+0 @I31@ INDI
+1 NAME David Mallory /Gamet/
+2 SURN Gamet
+2 GIVN David Mallory
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1811
+2 PLAC Laurens, Ostego, New York
+1 DEAT
+2 DATE 18 Dec 1884
+2 PLAC Little Sioux, Harrison, Iowa
+1 BURI
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID E8F76ADAE2F3C541A0EBC034847DBB387101
+1 FAMS @F6@
+1 SOUR @S3@
+2 NOTE Born: December 4, 1811; Died: December 18, 1884
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 29; Image: 303
+2 NOTE At the time of the census he was 48 which makes his birthday year about 1811-12
+2 DATA
+3 DATE 26 Jun 1860
+1 SOUR @S12@
+2 NOTE Born: December 1811 or 1812; Died December 1882 or 1884
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 14:06:04
+0 @I32@ INDI
+1 NAME Hannah Pember /Hyde/
+2 SURN Hyde
+2 GIVN Hannah Pember
+1 SEX F
+1 BIRT
+2 DATE 6 Mar 1807
+2 PLAC Litchfield, Ostego, New York
+1 DEAT
+2 DATE 13 Jan 1890
+2 PLAC Little Sioux, Harrison, Iowa
+1 BURI
+2 DATE 16 Jan 1890
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID 6C7DC69369404A4C85427AC1BEF68C22E545
+1 FAMS @F6@
+1 SOUR @S3@
+2 NOTE Born: March 6, 1815; Died: January 13, 1890; Buried: January 16, 1890
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 29; Image: 303
+2 NOTE At the time of the census she was 52 which makes her birth year about 1807-08
+2 DATA
+3 DATE 26 Jun 1860
+1 SOUR @S12@
+2 NOTE Born: March 1807; Died: 1890
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 14:06:27
+0 @I33@ INDI
+1 NAME David /Gamet/
+2 SURN Gamet
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1836
+2 PLAC Arnity, Orange, New York
+1 DEAT
+2 DATE 9 Nov 1906
+2 PLAC Mondamin, Harrison, Iowa
+1 BURI
+2 PLAC Little Sioux, Harrison, Iowa
+1 _UID 6D21C9724D0D4E41951B873BBEC3AA5EADB0
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: January 1, 1836; Died: November 9, 1906
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 19; Image: 293
+2 NOTE At the time of the census he was 23 years old which makes his birth year around 1836-37
+2 DATA
+3 DATE 19 Jun 1860
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 14:06:38
+0 @I34@ INDI
+1 NAME Solomon /Gamet/
+2 SURN Gamet
+2 GIVN Solomon
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1833
+2 PLAC Trixton, Courtland, New York
+1 DEAT
+2 DATE 3 Jan 1917
+2 PLAC Woodbine, Harrison, Iowa
+1 BURI
+2 PLAC Woodbine, Harrison, Iowa
+1 _UID 2003612DE4ED4F4ABC540337914B6E85342A
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: June 9, 1833; Died: January 3, 1917
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:00:39
+0 @I35@ INDI
+1 NAME Isaac /Gamet/
+2 SURN Gamet
+2 GIVN Isaac
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 1837
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 1920
+1 _UID BEC8993C923F33498B7DCAB33E00FCCA31D6
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: December 29, 1837; Died: 1920
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:08:47
+0 @I36@ INDI
+1 NAME Adelia Ann /Gamet/
+2 SURN Gamet
+2 GIVN Adelia Ann
+1 SEX F
+1 BIRT
+2 DATE 2 Apr 1840
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 22 Feb 1841
+1 _UID E3CAD850ABD52D438A96D6EB263DE65645A4
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: April 2, 1840; Died: Febraury 22, 1841 
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:10:52
+0 @I37@ INDI
+1 NAME Gilbert /Gamet/
+2 SURN Gamet
+2 GIVN Gilbert
+1 SEX M
+1 BIRT
+2 DATE 25 Feb 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 11 Feb 1906
+1 _UID 5E1F17CA8B502245A097578EEE9102175461
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: February 25, 1842; Died: February 11,1906
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:20:24
+0 @I38@ INDI
+1 NAME Sarah Ann /Gamet/
+2 SURN Gamet
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 29 Nov 1872
+1 _UID 1C8CA5FC6C64084A8C9BFF9879CEE60F65C4
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: February 26, 1845; Died: November 29, 1872
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 29; Image: 303
+2 NOTE She was 15 years old at the time of this census which puts her birth year around 1845
+2 DATA
+3 DATE 26 Jun 1860
+1 SOUR @S12@
+2 NOTE Born: February 1845; Died: November 1872; Married: Parker Smith Condit on May 1863
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:35:16
+0 @I39@ INDI
+1 NAME Levi /Gamet/
+2 SURN Gamet
+2 GIVN Levi
+1 SEX M
+1 BIRT
+2 DATE 3 Jun 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 16 Oct 1949
+2 PLAC Independence, Jackson, Missouri
+1 _UID 720ADA53799CC64BB0C19C9621BA913B1904
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: June 3, 1848; Died: October 16, 1949
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 29; Image: 303
+2 NOTE He was 12 years old when this census was taken making his birthday about 1848
+2 DATA
+3 DATE 26 Jun 1860
+1 SOUR @S12@
+2 NOTE Born: June 1848; Died: October 1948-49
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:51:45
+0 @I40@ INDI
+1 NAME Elizabeth Collar /Gamet/
+2 SURN Gamet
+2 GIVN Elizabeth Collar
+1 SEX F
+1 BIRT
+2 DATE 15 Mar 1851
+2 PLAC Cooville, Mills, Iowa
+1 DEAT
+2 DATE 19 Mar 1851
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 _UID FDD2370F995E584387733EDA2FD3BBD74D79
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: March 15, 1851; Died: March 19, 1851
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:49:55
+0 @I41@ INDI
+1 NAME Mary /Gamet/
+2 SURN Gamet
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1853
+2 PLAC Cooville, Mills, Iowa
+1 _UID 06BF95EF9B73F2479457F18D414DFAB233FB
+1 FAMC @F6@
+1 SOUR @S3@
+2 NOTE Born: About 1853
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 15:51:33
+0 @I42@ INDI
+1 NAME Moses /German/
+2 SURN German
+2 GIVN Moses
+1 SEX M
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Springfield, Sangaman, Illinois
+1 _UID 08887B9809FA1947B6CAF0F548964E0BA2B5
+1 FAMS @F7@
+1 SOUR @S4@
+2 NOTE Roll: M653_323; Page: 29; Image: 303
+1 SOUR @S3@
+2 NOTE Born: about 1824
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 16:46:56
+0 @I43@ INDI
+1 NAME Elizabeth Jane /Brazelton/
+2 SURN Brazelton
+2 GIVN Elizabeth Jane
+1 SEX F
+1 BIRT
+2 DATE 31 May 1828
+2 PLAC Springfield, Sangaman, Illinois
+1 _UID 8BD19C6C53008842ACB2FE86478E738F3A84
+1 FAMS @F7@
+1 SOUR @S3@
+2 NOTE Born: May 31, 1828; Died: After 1900
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page: 30; Image: 304
+2 NOTE Was 31 years old at the time of the census which makes her birth year about 1828-29.
+2 DATA
+3 DATE 26 Jun 1860
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 16:50:36
+0 @I44@ INDI
+1 NAME Mary F /German/
+2 SURN German
+2 GIVN Mary F
+1 SEX F
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Iowa
+1 _UID A58AE3D5D6DD3A40805854FD48A2DD7F833C
+1 FAMC @F7@
+1 SOUR @S4@
+2 PAGE Roll: M653_323; Page 30; Image: 304
+2 NOTE She was about 12 years old at the time of this census which makes her birth year around 1847-
+3 CONC 48
+2 DATA
+3 DATE 26 Jun 1860
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 17:03:24
+0 @I45@ INDI
+1 NAME Elijah /Ellis/
+2 SURN Ellis
+2 GIVN Elijah
+1 SEX M
+1 BIRT
+2 DATE ABT 1825
+1 _UID 1C8329155BB821488352AF48A60A3AAAB966
+1 FAMS @F8@
+1 SOUR @S13@
+2 PAGE Roll: M593_395; Page: 66; Image 134
+2 NOTE He was 45 years old when this census was taken wich would make his birth year around 1825
+2 DATA
+3 DATE 12 Aug 1870
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE He was 55 years old at the time of this census which makes his birth year about 1825
+2 DATA
+3 DATE 15 Jun 1880
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 17:51:57
+0 @I46@ INDI
+1 NAME Elizabeth /Ellis/
+2 SURN Ellis
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1832
+1 _UID 4ACCF4ED9E86A843A4DE2440C4C76A17F8A4
+1 FAMS @F8@
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE She was 48 years old at the time of this censes which makes her birth year about 1832
+2 DATA
+3 DATE 15 Jun 1880
+1 SOUR @S13@
+2 PAGE Roll: M593_395; Page: 66; Image 134
+2 NOTE At the time of the census she was 38 which makes her birth year about 1832
+2 DATA
+3 DATE 12 Aug 1870
+1 CHAN
+2 DATE 12 May 2008
+3 TIME 17:56:49
+0 @I47@ INDI
+1 NAME William /Ellis/
+2 SURN Ellis
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE ABT 1857
+1 _UID C50DB07E057C9D4485C8A1F5AF0DBCDA9793
+1 FAMC @F8@
+1 SOUR @S13@
+2 NOTE At the time of the census he was 13 years old makeing his birth year about 1857
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:11:48
+0 @I48@ INDI
+1 NAME John /Ellis/
+2 SURN Ellis
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1858
+1 _UID 3417DB507AAC53478C163E7F55DCCF20B50B
+1 FAMC @F8@
+1 SOUR @S13@
+2 PAGE Roll: M593_395; Page: 66; Image: 134
+2 NOTE He was 12 years old at the time of the census which makes his birth year about 1858
+2 DATA
+3 DATE 12 Aug 1870
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE He was 21 at the time of this census which makes his birth year about 1868-69
+2 DATA
+3 DATE 15 Jun 1880
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:19:51
+0 @I49@ INDI
+1 NAME Delmon /Ellis/
+2 SURN Ellis
+2 GIVN Delmon
+1 SEX M
+1 BIRT
+2 DATE ABT 1862
+1 _UID 6F805F885F8FE146AF4162856EB986EF5E65
+1 FAMC @F8@
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE He was 18 years old at the time of the census which makes his birth year about 1862
+2 DATA
+3 DATE 15 Jun 1880
+1 SOUR @S13@
+2 PAGE Roll: M593_395; Page: 66; Image: 134
+2 NOTE He was 8 years at the time of the census which makes his birth year about 1862
+2 DATA
+3 DATE 12 Aug 1870
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:30:24
+0 @I50@ INDI
+1 NAME Estel /Ellis/
+2 SURN Ellis
+2 GIVN Estel
+1 SEX F
+1 BIRT
+2 DATE ABT 1864
+1 _UID A785B41E5AA9BF4B8A15E76AF4EF39C6DD61
+1 FAMC @F8@
+1 SOUR @S13@
+2 PAGE Roll M593_395; Page: 66; Image: 134 
+2 NOTE She was 6 years at the time of the census which makes her birth year about 1864
+3 CONT Her name also looks a littel like Isabel in this record 
+2 DATA
+3 DATE 12 Aug 1870
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE She was 16 at the time of the census which makes her birth year about 1864
+2 DATA
+3 DATE 15 Jun 1880
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:38:31
+0 @I51@ INDI
+1 NAME Elbert /Ellis/
+2 SURN Ellis
+2 GIVN Elbert
+1 SEX M
+1 BIRT
+2 DATE ABT 1867
+1 _UID B7F8ACCF1054B842AC51C35F3E194361A2EF
+1 FAMC @F8@
+1 SOUR @S13@
+2 PAGE Roll: M593_395; Page: 66; Image: 134
+2 NOTE He was 3 at the time of this census which makes his birth year about 1867
+3 CONT His name looks somewhat like Elyah in this record
+2 DATA
+3 DATE 12 Aug 1870
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE He was 13 at the time of the census which makes his birth year about 1867
+2 DATA
+3 DATE 15 Jun 1880
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:43:31
+0 @I52@ INDI
+1 NAME Essie /Ellis/
+2 SURN Ellis
+2 GIVN Essie
+1 SEX F
+1 BIRT
+2 DATE ABT 1870
+2 PLAC Iowa
+1 _UID B12A000785241540AF368955D3233F946C53
+1 FAMC @F8@
+1 SOUR @S13@
+2 PAGE Roll: M593_395; Page: 66; Image: 134
+2 NOTE She was 5 months old at the time of this census which makes her birth year about 1870
+2 DATA
+3 DATE 12 Aug 1870
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE She was 10 at the time of this census which makes her birth year about 1870
+2 DATA
+3 DATE 15 Jun 1880
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:47:15
+0 @I53@ INDI
+1 NAME Mary /Ellis/
+2 SURN Ellis
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1872
+2 PLAC Iowa
+1 _UID 387BB30D2ACF1B4CA2882BA13918724EDA0C
+1 FAMC @F8@
+1 SOUR @S5@
+2 PAGE Roll: T9_357; Page: 96.4; Image: 0194
+2 NOTE She was 8 years old at the time of this census which makes her birth year about 1872
+2 DATA
+3 DATE 12 Jun 1880
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 10:49:01
+0 @I54@ INDI
+1 NAME George /Montague/
+2 SURN Montague
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE 24 Jun 1829
+2 PLAC Utica, Onieda, New York
+1 DEAT
+2 DATE 19 Sep 1904
+2 PLAC Wilburton, Latimer, Oklahoma
+1 _UID 04A2D00FFF546F4C9AE9868CC9B9D30D8A84
+1 FAMS @F9@
+1 SOUR @S3@
+2 NOTE Born: June 24, 1829; Died: September 19, 1904; 
+1 SOUR @S10@
+2 NOTE Born: about 1830 in New York; Married: December 25, 1852
+1 SOUR @S14@
+2 PAGE page 160
+2 NOTE Born: June 24, 1829 near Utica, New York; Died: September 19, 1904; Married: 1853
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:29:36
+0 @I55@ INDI
+1 NAME Margaret Francis /Andrews/
+2 SURN Andrews
+2 GIVN Margaret Francis
+1 SEX F
+1 BIRT
+2 DATE 12 May 1833
+2 PLAC Cornersville, Giles, Tennesse
+1 DEAT
+2 DATE 27 Apr 1901
+2 PLAC Okarche, Kingfisher, Oklahoma
+1 _UID 34681886D2B9DE459375B10179FCDB837561
+1 FAMS @F9@
+1 SOUR @S10@
+2 NOTE Born: May 12, 1833; Died: April 27, 1901; Married: December 25, 1852
+1 SOUR @S3@
+2 NOTE Born: May 12, 1833; Died: April 27, 190; Married: December 25, 1852
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:33:55
+0 @I56@ INDI
+1 NAME Arrema Emily /Montague/
+2 SURN Montague
+2 GIVN Arrema Emily
+1 SEX F
+1 BIRT
+2 DATE 19 Jun 1855
+2 PLAC Bandera, Bandera, Texas
+1 _UID 1A8A32D9889C5345B4357125B28627034C53
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: June 19, 1855
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:40:56
+0 @I57@ INDI
+1 NAME George R. /Montague/
+2 SURN Montague
+2 GIVN George R.
+1 SEX M
+1 BIRT
+2 DATE 25 Dec 1856
+2 PLAC Bandera, Bandera, Texas
+1 DEAT
+2 DATE 13 Nov 1859
+2 PLAC Tulsa, Tulsa, Oklahoma
+1 _UID C87EA0A8C55F154592BDCF79FB29497F8F24
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: December 25, 1856; Died: November 13, 1859
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:42:39
+0 @I58@ INDI
+1 NAME Nancy Estella /Montague/
+2 SURN Montague
+2 GIVN Nancy Estella
+1 SEX F
+1 BIRT
+2 DATE 27 Oct 1859
+2 PLAC Bandera, Bexer, Texas
+1 _UID A8B55BA4E7AE554EB91C7AA00ACFD5CF005D
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: October 27, 1859
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:44:08
+0 @I59@ INDI
+1 NAME Joseph Elderidge /Montague/
+2 SURN Montague
+2 GIVN Joseph Elderidge
+1 SEX M
+1 BIRT
+2 DATE 11 Jul 1862
+2 PLAC Gallands Grove, , Iowa
+1 _UID 611073E785F1B14CA1F6DB87FFB4635BA8F2
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: July 11, 1862
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:45:44
+0 @I60@ INDI
+1 NAME Mary Emmeline /Montague/
+2 SURN Montague
+2 GIVN Mary Emmeline
+1 SEX F
+1 BIRT
+2 DATE 21 Oct 1864
+2 PLAC Little Sioux, Harrison, Iowa
+1 DEAT
+2 DATE 13 Aug 1957
+2 PLAC Dunlap, Harrison, Iowa
+1 _UID 1BD131342E8C2545888DDCFD97B73DB5A330
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: October 21, 1864; Died: August 13, 1957
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:57:27
+0 @I61@ INDI
+1 NAME Frances Grace /Montague/
+2 SURN Montague
+2 GIVN Frances Grace
+1 SEX F
+1 BIRT
+2 DATE 15 Nov 1867
+2 PLAC Dow City, Crawford, Iowa
+1 _UID B63AFC548DF76F4F922AC253D6084E149329
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: December 25, 1867
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 14:58:46
+0 @I62@ INDI
+1 NAME Alice Carmelia /Montague/
+2 SURN Montague
+2 GIVN Alice Carmelia
+1 SEX F
+1 BIRT
+2 DATE 26 Jan 1870
+2 PLAC Gallands Grove, , Iowa
+1 DEAT
+2 DATE 4 Aug 1960
+2 PLAC Independence, Jackson, Missouri
+1 _UID 12CA173339CA5E4EA7788B1240B2EA64D1FD
+1 FAMC @F9@
+1 SOUR @S3@
+2 NOTE Born: January 26, 1870; DIed: August 4, 1960
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 15:00:22
+0 @I63@ INDI
+1 NAME Gabriel Lovoen or Lovsen /Cotton/
+2 SURN Cotton
+2 GIVN Gabriel Lovoen or Lovsen
+1 SEX M
+1 BIRT
+2 DATE 28 Jan 1822
+2 PLAC Vienna, Johnson, Illinois
+1 DEAT
+2 DATE 24 Jul 1873
+1 _UID 610E95196DED4347908379A20CC20BD6DE2C
+1 FAMS @F10@
+1 SOUR @S10@
+2 NOTE Born: Januray 28, 1822; Died: July 24, 1873
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 15:05:43
+0 @I64@ INDI
+1 NAME Mary Jane /King/
+2 SURN King
+2 GIVN Mary Jane
+1 SEX F
+1 BIRT
+2 DATE 23 Jun 1825
+2 PLAC Bloomfield, Essex, New Jersey
+1 DEAT
+2 DATE 14 Jul 1893
+1 _UID 75468B51FEAFE8419CF707E3F1BDBCA9FD3D
+1 FAMS @F10@
+1 SOUR @S10@
+2 NOTE Born: June 23, 1825; Died: July 14, 1893
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 15:07:18
+0 @I65@ INDI
+1 NAME Alice /Cotton/
+2 SURN Cotton
+2 GIVN Alice
+1 SEX F
+1 BIRT
+2 DATE May 1867
+2 PLAC Bingham Canyon, Salt Lake, Utah
+1 DEAT
+2 DATE 9 Dec 1874
+1 _UID D93693F6191B0D47A182184272306D8C38C6
+1 FAMC @F10@
+1 SOUR @S10@
+2 NOTE Born: May 1867; Died: December 9, 1874
+1 CHAN
+2 DATE 13 May 2008
+3 TIME 15:09:31
+0 @F1@ FAM
+1 _UID 638F523CA0CBD3449F77528EC39BDFA5DA1F
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 MARR
+2 DATE 17 Jun 1842
+2 PLAC September Marriage in Deleware, Ohio
+2 SOUR @S2@
+3 PAGE page 88
+3 NOTE Marriage: Julia N. Parker 1842 (June 17 or Feb 3)
+3 DATA
+4 DATE 1885
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Marriage: Julia N. Parker June 17, 1842
+2 DATA
+3 DATE 1885
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 112; Image: 225
+2 NOTE Married to Sarah Hiscock (Hitchcock)
+2 DATA
+3 DATE 12 Oct 1850
+0 @F2@ FAM
+1 _UID AAED844663811E49BC9F1EE72B13F985C801
+1 HUSB @I1@
+1 WIFE @I4@
+1 CHIL @I5@
+1 CHIL @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 MARR
+2 DATE 27 Sep 1844
+2 PLAC Deleware, Ohio
+1 SOUR @S2@
+2 PAGE page 88
+2 NOTE Sarah was the Second wife of Silas. Hiscock is her surname in this document.
+2 DATA
+3 DATE 1885
+1 SOUR @S3@
+2 NOTE Her name is Hitchcock in this document.
+0 @F3@ FAM
+1 _UID 5F36A646D6359D4D8FCD9191BAE6702226CC
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+1 CHIL @I21@
+1 CHIL @I22@
+1 MARR
+2 DATE unknown
+0 @F4@ FAM
+1 _UID 450C2A5DEF44A64B8A175D98783BC98A980C
+1 HUSB @I23@
+1 WIFE @I24@
+1 MARR
+2 DATE 3 Apr 1854
+2 PLAC Little Sioux, Harrison, Iowa
+1 SOUR @S10@
+2 NOTE Marriage: April 3, 1855 in Little Sioux, Iowa 
+0 @F5@ FAM
+1 _UID C12E5BE438ECFA42B5F5F66EC6C993C684CE
+1 HUSB @I23@
+1 WIFE @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I30@
+1 CHIL @I29@
+1 MARR
+2 DATE unknown
+0 @F6@ FAM
+1 _UID FED29913072F2949BDB1CB563F7EB8AFD7CB
+1 HUSB @I31@
+1 WIFE @I32@
+1 CHIL @I34@
+1 CHIL @I33@
+1 CHIL @I35@
+1 CHIL @I36@
+1 CHIL @I37@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+1 CHIL @I41@
+1 MARR
+2 DATE 27 Aug 1832
+2 PLAC Richfield, Ostego, New York
+1 SOUR @S12@
+2 NOTE Married on August 27, 1832
+1 SOUR @S3@
+2 NOTE Married on August 17, 1832
+0 @F7@ FAM
+1 _UID 63281C106A538B4D96C9346F4D34B8CA5128
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I44@
+1 MARR
+2 DATE ABT 1846
+1 SOUR @S3@
+2 NOTE Married: About 1846 
+0 @F8@ FAM
+1 _UID C1269D334E99304385E333ADDB80A24DA35A
+1 HUSB @I45@
+1 WIFE @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+1 MARR
+2 DATE unknown
+0 @F9@ FAM
+1 _UID C9C5A7FFFEBE494E99DA0031CF8BB734700C
+1 HUSB @I54@
+1 WIFE @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I61@
+1 CHIL @I62@
+1 MARR
+2 DATE 25 Dec 1852
+2 PLAC Bandera, Bandera, Texas
+1 NOTE In the Pearl Wilcox book "Roots of the Reorganized Latter Day Saints in Southern Iowa" it men
+2 CONC tions that 5 girls and 1 boy were born to this couple.  This leaves one of the sons out of th
+2 CONC e count. 
+1 SOUR @S3@
+2 NOTE Married: December 25, 1852
+1 SOUR @S10@
+2 NOTE Married: December 25, 1852
+1 SOUR @S14@
+2 PAGE page 160
+2 NOTE Married: 1853
+0 @F10@ FAM
+1 _UID 7131765B50668842A91D0D1946B31E433954
+1 HUSB @I63@
+1 WIFE @I64@
+1 CHIL @I65@
+1 MARR
+2 DATE ABT 1848
+2 PLAC Iowa
+1 SOUR @S10@
+2 NOTE Married: About 1848
+0 @S1@ SOUR
+1 TITL 1850 U.S. Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 CALN Ancestry.com
+1 TEXT Original data: United States of America, Bureau of the Census. Seventh Census of the United S
+2 CONC tates, 1850. Washington, D.C.: National Archives and Records Administration, 1850. M432, 1,00
+2 CONC 9 rolls.
+0 @S2@ SOUR
+1 TITL Genealogical Record of the Condit Family, Descendant of John Condit, A Native of Great Britai
+2 CONC n, who Settled in Newark, NJ
+1 AUTH Jotham H. Condit and Eben Condit
+1 PUBL Ward & Tichenor: Newark, NJ
+1 CALN Ancestry.com
+1 TEXT Page 36.
+0 @S3@ SOUR
+1 TITL Ancestral File
+1 AUTH Familysearch.org
+1 PUBL The Church of Jesus Christ of Latter-Day Saints
+1 CALN familysearch.org
+0 @S4@ SOUR
+1 TITL 1860 U.S. Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2004. 
+1 CALN Ancestry.com
+1 TEXT Original Data: United States of America, Bureau of the Census. Eighth Census of the United St
+2 CONC ates, 1860. Washington, D.C.: National Archives and Records Administration, 1860. M653, 1,43
+2 CONC 8 rolls.
+0 @S5@ SOUR
+1 TITL 1880 U.S. Federal Census Record
+1 AUTH Ancestry.com 
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005.
+1 CALN Ancestry.com
+1 NOTE This is the earliest record I could find for this family.
+1 TEXT United States of America, Bureau of the Census. Tenth Census of the United States, 1880. Wash
+2 CONC ington, D.C.: National Archives and Records Administration, 1880. T9, 1,454 rolls.
+0 @S6@ SOUR
+1 TITL Household Record
+1 AUTH Familysearch.org
+1 CALN Familysearch.org
+0 @S7@ SOUR
+1 TITL  "The Hustler"
+1 AUTH T.B. Neely
+1 PUBL The Early History of Little Sioux, Little Sioux, IA. February 15, 1915  
+1 CALN www.condit-family.com
+1 NOTE This is a newspaper written by T.B. Neely and is a description of his duties and dealigs wit
+2 CONC h others in the twonship 
+0 @S8@ SOUR
+1 TITL Index to Family Histories; In the Bicentennial History of Little Sioux Township: Little Siou
+2 CONC x , River Sioux, Iowa 1976
+1 AUTH Mark Grassman
+1 PUBL Ancestry.com
+1 CALN http://www.rootsweb.ancestry.com/~iaharris/twp/lsioux76.htm
+0 @S9@ SOUR
+1 TITL Fountainbleau Cemetery Records and Gravestones
+1 AUTH Rootsweb.com
+1 PUBL Harrison County Iowa Geneology 
+1 CALN http://www.rootsweb.ancestry.com/~iaharris/cemetery/fountainbleau.htm
+0 @S10@ SOUR
+1 TITL International Geneological Index
+1 AUTH Familsearch.org
+1 CALN Familysearch.org
+0 @S11@ SOUR
+1 TITL A Brief hostory of Little Sioux Township Harrison County, Iowa
+1 AUTH Mark Grassman
+1 PUBL Harrison County Iowa Geneology Little Sioux Township. IAGenWeb Project
+1 CALN www.rootsweb.ancestry.com/~iaharris/twp/twplsiou.htm
+0 @S12@ SOUR
+1 TITL Early Members of the Reorganized Church of Jesus Christ of Latter-day Saints
+1 AUTH Susan Easton Black
+1 PUBL world.vital records.com
+1 CALN http://www.worldvitalrecords.com/SingleIndexListView.aspx?qt=l&ix=usa_il_nauvoo_reorg_membe
+0 @S13@ SOUR
+1 TITL 1870 Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2003.
+1 CALN Ancestry.com
+1 TEXT Original Data: 1870. United States. Ninth Census of the United States, 1870. Washington, D.C
+2 CONC . National Archives and Records Administration. M593, RG29, 1,761 rolls. Minnesota. Minnesot
+2 CONC a Census Schedules for 1870. Washington, D.C.: National Archives and Records Administration
+2 CONC . T132, RG29, 13 rolls.
+0 @S14@ SOUR
+1 TITL Roots of the Reorganized Latter Day Saints in Southern Iowa
+1 AUTH Pearl WIlcox
+1 PUBL P.G. Wilcox: Independence, Missouri, 1989
+1 NOTE Information found on page 160
+0 TRLR

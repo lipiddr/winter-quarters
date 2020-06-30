@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+
+<html lang="en" id="html">
+<head>
+    <script async src="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.css" media="all">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/site.css" rel="stylesheet">
+    <title>Winter Quarters</title>
+	
+<style>
+	.button {
+	border:none;
+        cursor:pointer;
+	padding: 10px;
+	text-align: center;
+	background-color: #E6E6E6;
+	font-size: 14px;
+	margin: 5px;
+		}
+	.button-active {
+	border:none;
+	padding: 10px;
+	text-align: center;
+	background-color: #0062B8;
+	font-size: 14px;
+	margin: 5px;
+		}
+	a:link {
+		text-decoration: none;
+			}
+	.flex {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content:flex-start;
+		}
+		
+	.button:hover {
+		background-color: #C5C5C5;
+		}
+</style>
+</head>
+<body>
+<div class="containing-element">
+    <byu-header>
+        <span slot="site-title">Winter Quarters</span>
+        
+        <byu-menu slot="nav">
+            <a href="/index.html">Home</a>
+            <a href="/about/index.html" >About</a>
+            <a href="/deaths/index.html">Deaths</a>
+            <a href="/cemeteries/">Cemeteries</a>
+            <a href="/settlements/index.html">Settlements</a>
+            <a href="/links/index.html">Links</a>
+            <a href="/maps/index.html">Maps</a>
+            <a href="/videos/index.html" class="active">Videos</a>
+        </byu-menu>
+    </byu-header>
+ <div class="page-content">
+		<h1>Videos</h1>
+                  	<h2>Printing Sites</h2>
+						<p>Printing sites of the Frontier Guardian and the Weekly Bugle</p>
+<div class="flex">
+	   <div><button class="button"><p><a href="/videos/carterville-cemetery.html" style= "color:black"><b>Carterville Cemetery</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/council-house.html" style= "color:black"><b>Council House</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/council-bluffs-blockhouse.html" style= "color:black"><b>Council Bluffs Blockhouse</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/cutlers-park.html" style= "color:black"><b>Cutler's Park</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/north-end-winter-quarters.html" style= "color:black"><b>North End of Winter Quarters</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/harris-grove-cemetery.html" style= "color:black"><b>Harris Grove Cemetery</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/hyde-park.html" style= "color:black"><b>Hyde Park</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/indian-country.html" style= "color:black"><b>Indian Country</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/iowa-settlements.html" style= "color:black"><b>Iowa Settlements</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/james-mitchell.html" style= "color:black"><b>James Mitchell</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/kanesville-tabernacle.html" style= "color:black"><b>Kanesville Tabernacle</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/kanesville-town-square.html" style= "color:black"><b>Kanesville Town Square</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/mormon-battalion.html" style= "color:black"><b>Mormon Battalion</b></a></p></button></div>
+	   <div><button class="button-active"><p><a href="/videos/printing-sites.html" style= "color:white"><b>Printing Sites</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/trail-markings.html" style= "color:black"><b>Trail Markings</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/various-sites.html" style= "color:black"><b>Various Sites</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/weber-mill.html" style= "color:black"><b>Weber Mill</b></a></p></button></div>
+	   <div><button class="button"><p><a href="/videos/winter-quarters-cemetery.html" style= "color:black"><b>Winter Quarters Cemetery</b></a></p></button></div>
+</div>
+	<div>
+		<iframe style="margin:5px 10px 5px 10px" frameborder="0" height="315" src="https://www.youtube.com/embed/jVFb6BMjTyM" width="420"></iframe>
+	</div>
+	<script>
+		var buttons = document.querySelectorAll('.button');
+		for	(const button of buttons)
+		{
+			button.addEventListener('click', function(event) {
+				button.querySelector('a').click();
+			});
+		}
+	</script>
+	</div>
+    <byu-footer></byu-footer>
+</div>
+</body>
+</html>

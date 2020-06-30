@@ -1,0 +1,2737 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 24 May 2010
+2 TIME 22:28:18
+1 FILE hydepark.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Shauna Anderson Young
+1 EMAIL shauna_anderson@byu.edu
+0 @I1@ INDI
+1 NAME Orson /HYDE/
+2 SURN HYDE
+2 GIVN Orson
+1 SEX M
+1 BIRT
+2 DATE 8 Jan 1805
+2 PLAC Oxford, New Haven, Connecticut
+1 DEAT
+2 DATE 28 Nov 1878
+2 PLAC Spring City, Sanpete, Utah
+1 BURI
+2 PLAC Spring City, Sanpete, Utah
+1 _UID 1E09E49710F60A48B199F0421FCDFAD12D11
+1 FAMS @F1@
+1 FAMS @F4@
+1 FAMS @F7@
+1 SOUR @S1@
+2 NOTE Name Listed: Orson Hyde
+3 CONT Birth date: 8 Jan 1805 
+1 SOUR @S2@
+2 NOTE Name Listed: Orson Hyde
+3 CONT Company: Orson Hyde Company (1850)
+3 CONT Birth Date: 8 Jan 1805
+3 CONT Gender: Male
+3 CONT Age: 45
+3 CONT (see website for sources)
+1 SOUR @S4@
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page 71, Image # 144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name Listed: Orson Hyde
+3 CONT Age: 45
+3 CONT Gender: Male
+3 CONT Profession: Editor
+3 CONT Birthplace: Connecticut
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:53
+0 @I2@ INDI
+1 NAME Miranda Nancy /JOHNSON/
+2 SURN JOHNSON
+2 GIVN Miranda Nancy
+1 SEX F
+1 BIRT
+2 DATE 28 Jun 1815
+2 PLAC Pomfret, Windsor, Vermont
+2 SOUR @S2@
+3 NOTE Birth Date Listed: 28 Jun 1815
+2 SOUR @S3@
+3 PAGE p. 245
+3 NOTE Birth Date listed as 28 Jun 1815
+2 SOUR @S1@
+3 NOTE Birth Date Listed: 24 Jun 1815
+1 DEAT
+2 DATE 24 Mar 1886
+2 PLAC Spring City, Sanpete, Utah
+2 SOUR @S2@
+3 NOTE Death Date Listed: 24 Mar 1886
+2 SOUR @S3@
+3 PAGE page 245
+3 NOTE Death Date listed as 24 Mar 1886
+2 SOUR @S1@
+3 NOTE Death Date Listed: 24 May 1886
+1 _UID E6AFC02B2570274CB146516E3878726BCB23
+1 FAMS @F1@
+1 FAMC @F12@
+1 SOUR @S1@
+1 SOUR @S2@
+2 NOTE Name Listed: Marinda Nancy Johnson Hyde
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 28 Jun 1815
+3 CONT Gender: Female
+3 CONT Age: 37
+3 CONT (see website for sources)
+1 SOUR @S3@
+2 PAGE page 245
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page 71, Image #144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name Listed: Marinda Hyde
+3 CONT Age: 35
+3 CONT Gender: Female
+3 CONT Birthplace: Vermont
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:18
+0 @I3@ INDI
+1 NAME Nathan /HYDE/
+2 SURN HYDE
+2 GIVN Nathan
+1 SEX M
+1 BIRT
+2 DATE 1835
+2 PLAC Kirtland, Geauga, Ohio
+1 DEAT
+2 DATE 1835
+2 PLAC Kirtland, Geauga, Ohio
+2 SOUR @S4@
+3 PAGE page 496
+1 _UID 0E0358451C016C449E9F90F2B60349E82413
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Nathan Hyde
+3 CONT Birth Date: 1835
+1 SOUR @S4@
+2 PAGE Page 496
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:58
+0 @I4@ INDI
+1 NAME Frank Henry /HYDE/
+2 SURN HYDE
+2 GIVN Frank Henry
+1 SEX M
+1 BIRT
+2 DATE 23 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S1@
+3 NOTE Name: Frank Henry HYDE
+4 CONT Brith Date: 23 Jan 1846
+2 SOUR @S15@
+3 PAGE Roll: M432_188, Page: 71, Image #144
+3 NOTE Dwelling #111, Household #111
+4 CONT Name: Frank Hyde
+4 CONT Age: 5
+3 DATA
+4 DATE 4 Sep 1850
+1 DEAT
+2 DATE 28 Jun 1908
+2 PLAC Salt Lake, Salt Lake, Utah
+1 _UID D29F855F1ED93C48AAF648E36A98657E8006
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Frank Henry Hyde
+3 CONT Birth Date: 23 Jan 1846
+1 SOUR @S2@
+2 NOTE Name Listed: Frank Hyde
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: Unknown
+3 CONT Gender: Male
+3 CONT Age: 5
+3 CONT (see website for sources)
+1 SOUR @S4@
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page: 71, Image #144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name: Frank Hyde
+3 CONT Age: 5
+3 CONT Gender: Male
+3 CONT Birth Place: Illinois
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:10
+0 @I5@ INDI
+1 NAME Alonzo Eugene /HYDE/
+2 SURN HYDE
+2 GIVN Alonzo Eugene
+1 SEX M
+1 BIRT
+2 DATE 28 Feb 1848
+2 PLAC Hyde Park, Pottawattamie, Iowa
+2 SOUR @S1@
+3 NOTE NOTE: Has Birth location as Council Bluffs, Pottawattamie, Iowa
+4 CONT Name: Alonzo Eugene HYDE
+4 CONT Birth Date: 28 Feb 1848
+2 SOUR @S4@
+3 PAGE Page 496
+3 NOTE Lists Birth Location As: Hyde Park (in what is now East Lewis Township), Pottawattamie, Iowa
+2 SOUR @S15@
+3 PAGE Roll: 432_188, Page 71, Image #144
+3 NOTE Dwelling #111, Household #111
+4 CONT Name: Alonzo Hyde
+4 CONT Age: 3
+3 DATA
+4 DATE 4 Sep 1850
+1 DEAT
+2 DATE 14 Jun 1910
+2 PLAC Salt Lake, Salt Lake, Utah
+2 SOUR @S4@
+3 PAGE page 496
+3 NOTE Lists Birth Date as: 14/15 Jun 1910
+1 BURI
+2 DATE 19 Jun 1910
+2 PLAC Salt Lake City, Salt Lake, Utah
+2 SOUR @S1@
+3 NOTE Name: Alonzo Eugene HYDE
+4 CONT Death Date: 14 Jun 1910
+4 CONT Burial Place: City Cemetery, Salt Lake City, Salt Lake, Utah
+1 _UID AD24EEC81C58F8429F280D702210C0B21DAA
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Alonzo Eugene Hyde
+3 CONT Birth Date: 28 Feb 1848
+1 SOUR @S2@
+2 NOTE Name Listed: Alonzo Hyde
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: Unknown
+3 CONT Gender: Male
+3 CONT Age: 3
+3 CONT (see website for sources)
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page 71, Image #144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name: Alonzo Hyde
+3 CONT Age: 3
+3 CONT Gender: Male
+3 CONT Birth Place: Iowa
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:24
+0 @I6@ INDI
+1 NAME Laura Marinda /HYDE/
+2 SURN HYDE
+2 GIVN Laura Marinda
+1 SEX F
+1 BIRT
+2 DATE 21 May 1837
+2 PLAC Kirtland, Geauga, Ohio
+1 DEAT
+2 DATE 10 Aug 1909
+2 PLAC Salt Lake, Salt Lake, Utah
+1 BURI
+2 PLAC Salt Lake City, Salt Lake, Utah
+2 SOUR @S1@
+3 NOTE Name: Laura Marinda HYDE
+4 CONT Death Date: 10 Aug 1909
+4 CONT Burial Place Listed: City Cemetery, Salt Lake City, Salt Lake, Utah
+1 _UID 445F2A48DD7316449C618166BDD38BBA781A
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Laura Marinda Hyde
+3 CONT Birth Date: 21 May 1837
+1 SOUR @S2@
+2 NOTE Name Listed: Laura Marinda Hyde
+3 CONT Company: Henry W. Miller (1852)
+3 CONT Birth Date: 21 May 1837
+3 CONT Gender: Female
+3 CONT Age: 15
+3 CONT (see website for sources)
+1 SOUR @S4@
+2 PAGE Page 496
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page 71, Image #144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name Listed: Laura Hyde
+3 CONT Age: 13
+3 CONT Gender: Female
+3 CONT Birthplace: Ohio
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:05
+0 @I7@ INDI
+1 NAME Orson Washington /HYDE/
+2 SURN HYDE
+2 GIVN Orson Washington
+1 SEX M
+1 BIRT
+2 DATE 9 Nov 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 23 Nov 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID C0D5F9CD09B6974286951EE7DA1F1FDD0852
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Orson Washington Hyde
+3 CONT Birth Date: 9 Nov 1843
+1 SOUR @S4@
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:48
+0 @I8@ INDI
+1 NAME Emily Matlida /HYDE/
+2 SURN HYDE
+2 GIVN Emily Matlida
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1839
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 9 Dec 1909
+2 PLAC Salt Lake, Salt Lake, Utah 
+2 SOUR @S4@
+3 PAGE Page 496
+1 _UID E0A57AEC876E524AB089BE5A8F13B5ACD02F
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Emily Matlida Hyde
+3 CONT Birth Date: 9 Dec 1909
+1 SOUR @S2@
+2 NOTE Name Listed: Emily Matilda Hyde
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 13 Dec 1839
+3 CONT Gender: Female
+3 CONT Age: 12
+3 CONT (see website for sources)
+1 SOUR @S4@
+2 PAGE page 496
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page 71, Image #144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name Listed: Emily Hyde
+3 CONT Age: 11
+3 CONT Gender: Female
+3 CONT Birthplace: Illinois
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:18
+0 @I9@ INDI
+1 NAME Delia Annette /HYDE/
+2 SURN HYDE
+2 GIVN Delia Annette
+1 SEX F
+1 BIRT
+2 DATE 28 Dec 1849
+2 PLAC Kanesville, Pottawattamie, Iowa
+2 SOUR @S1@
+3 NOTE Name: Delia Annette HYDE
+4 CONT Birth Date: 28 Dec 1849
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 71, image #144
+3 NOTE Dwelling #111, Household #111
+4 CONT Name: Delia Hyde
+4 CONT Age: 1
+4 CONT Gender: Female
+4 CONT Birth Place: Iowa
+3 DATA
+4 DATE 4 Sep 1850
+1 DEAT
+2 DATE 25 Dec 1907
+2 PLAC Battle Creek, Calhoun, Michigan
+2 SOUR @S4@
+3 PAGE page 496
+3 NOTE Birth location listed as: Kanesville (now Council Bluffs), Pottawattamie, Iowa
+4 CONT Death location as: Battle Creek, Calhoun, Michigan
+1 _UID 3C47B7C670E88645AFC7ED87F47DA78EB317
+1 FAMC @F1@
+1 SOUR @S1@
+2 NOTE Name Listed: Delia Annette Hyde
+3 CONT Birth Date: 25 Dec 1907
+3 CONT Birth Place Listed: Kanesville, Pottawattamie, Ia (Council Bluffs)
+1 SOUR @S2@
+2 NOTE Name Listed: Delia Annette Hyde
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 28 Dec 1849
+3 CONT Gender: Female
+3 CONT Age: 2
+3 CONT (see website for sources)
+1 SOUR @S4@
+2 PAGE page 496
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 71, image #144
+2 NOTE Dwelling #111, Household #111
+3 CONT Name: Delia Hyde
+3 CONT Age: 1
+3 CONT Gender: Female
+3 CONT Birth Place: Iowa
+2 DATA
+3 DATE 4 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:21
+0 @I10@ INDI
+1 NAME Emma Geneva /BENTLEY/
+2 SURN BENTLEY
+2 GIVN Emma Geneva
+1 SEX F
+1 BIRT
+2 DATE 11 May 1847
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 13 May 1922
+2 PLAC Kanab, Kane, Utah
+1 BURI
+2 DATE 14 May 1922
+2 PLAC Kanab, Kane, Utah
+1 _UID 9EAF6CEE0B077C46B781B7579C681CF1D24B
+1 FAMC @F8@
+1 SOUR @S1@
+2 NOTE Name Listed: Emma Geneva Bentley
+3 CONT Birth Date: 11 May 1847
+1 SOUR @S2@
+2 NOTE Name Listed: Emma Geneva Bentley
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 11 May 1847
+3 CONT Gender: Female
+3 CONT Age: 5
+3 CONT (see website for sources)
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 74, image #150
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #160, Household #160
+3 CONT Name: Emma Bentley
+3 CONT Age: 3
+3 CONT Gender: Female
+3 CONT Birthplace: Iowa
+2 DATA
+3 DATE 9 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:51
+0 @I11@ INDI
+1 NAME Mary Ann /PRICE/
+2 SURN PRICE
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 14 Mar 1791
+2 PLAC Hereford, Herefordshire, England
+2 SOUR @S7@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Birth Date: 14 Mar 1791
+4 CONT Brithplace: Lea, Heredfordshire, England
+2 SOUR @S8@
+3 NOTE Birth Date: 14 Mar 1792
+2 SOUR @S7@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Birth Date: 14 Mar 1792 (Heredford, Heredfords, England)
+2 SOUR @S1@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Birth Date: 14 Mar 1791
+4 CONT Birthplace: Lea, Herefordshire Or Gloucestershire, England
+2 SOUR @S12@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Birth Date: 14 Mar 1791
+4 CONT Birth Location: Hereford, Herefordshire, England
+2 SOUR @S18@
+3 PAGE GSU Roll: 288776, Enumeration District 11, Folio 4, Page 8
+3 NOTE Class: HO107, Piece: 365, Book 8
+4 CONT Civil Parish: Lea, County: Gloucestershire
+4 CONT Name: Mary Price
+4 CONT Census states that she was NOT born in the same county and that she was born in Scotland, Ire
+4 CONC land, or foreign parts.
+4 CONT Age: 50
+4 CONT Profession: Grocer
+1 CHR
+2 DATE 16 May 1791
+2 PLAC Hereford, Herefordshire, England
+2 SOUR @S1@
+3 NOTE Name: Mary Ann Price
+4 CONT Birth Date: 14 Mar 1791
+4 CONT Christened: St. Martin, Hereford, Herefordshire, England 
+1 DEAT
+2 DATE 10 Mar 1847
+2 PLAC Hyde Park, Pottawattamie, Iowa
+2 SOUR @S8@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Death Date Listed: 10 Oct 1847
+2 SOUR @S9@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Death Date: TWO DEATH DATES, depending on which one you choose. One listed as Oct 1846 (Potta
+4 CONC wattamie, IA), the other as 10 Oct 1847 (Council Bluffs, Pottawattamie, IA)
+2 SOUR @S1@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Death Date: Not Listed
+4 CONT Death Location: Pottawattamie, (hyde Park), Iowa
+1 _UID A3E98CC9E303E3469C845FC1D7D9C9BC657D
+1 FAMS @F5@
+1 FAMC @F6@
+1 SOUR @S1@
+2 NOTE Name Listed: Mary Ann Price
+3 CONT Birth Date: 12 Mar 1791
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:21
+0 @I12@ INDI
+1 NAME Mary Ann /PRICE/
+2 SURN PRICE
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1816
+2 PLAC Lea, Herefordshire, England
+2 SOUR @S4@
+3 PAGE page 498
+3 NOTE Has birth location listed as: Lea, Hereford, England
+2 SOUR @S12@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Birth Date: 5 Jun 1816
+4 CONT Birth Place: Leigh, Gloucestershire, England
+2 SOUR @S1@
+3 NOTE Name: Mary Ann PRICE
+4 CONT Birth Date: 5 Jun 1816
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #129
+3 NOTE Dwelling #10, Household #10
+4 CONT Name: Mary Ann Price
+4 CONT Age: 33
+4 CONT Gender: Female
+4 CONT Birth Place: England
+3 DATA
+4 DATE 30 Aug 1850
+1 CHR
+2 DATE 5 Jun 1816
+2 PLAC Lea, Herefordshire, England
+1 DEAT
+2 DATE 16 Jun 1900
+2 PLAC Salt Lake, Salt Lake, Utah 
+2 SOUR @S4@
+3 PAGE page 498
+2 SOUR @S12@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Death Date: 16 Jan 1901 - Manti, Sanpete, Utah
+1 BURI
+2 PLAC Spring City, Sanpete, Utah
+2 SOUR @S4@
+3 PAGE page 498
+1 _UID 25E7E2E91AE0FA418AFD77FD9E76121643F9
+1 FAMS @F7@
+1 FAMS @F13@
+1 FAMC @F5@
+1 SOUR @S1@
+2 NOTE Name Listed: Mary Ann Price
+3 CONT Birth Date: 6 Jun 1816
+1 SOUR @S3@
+2 PAGE page 245
+2 NOTE Name Listed on page: Mary Ann Price Hyde.
+3 CONT Gives birth/family information, VERY brief explanation of her marriage and life after.
+3 CONT Author's source for this information: Susan Easton Black, Membership of the Church of Jesus C
+3 CONC hrist of Latter-day Saints, 1830-1848, 50 vols. Provo, UT: Religious Studies Center, Brigha
+3 CONC m Young University (vol.24, pp. 979-87).
+1 SOUR @S4@
+2 PAGE page 498
+1 SOUR @S2@
+2 NOTE Name Listed: Mary Ann Price
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 5 Jun 1816
+3 CONT Gender: Female
+3 CONT Age: 35
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:24
+0 @I13@ INDI
+1 NAME William /PRICE/
+2 SURN PRICE
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 6 Dec 1791
+2 PLAC Lea, Herefordshire, England
+1 DEAT
+2 DATE Jan 1840
+2 SOUR @S4@
+3 PAGE page 153
+3 NOTE end note attached:
+4 CONT Geneva Hyde Justesen to Weston Nordgren, 15 September 1951, WNNP, Box 1 FOlder 2; Diocese o
+4 CONC f Gloucester Marriage Licenses, 1836, microfilm, FHL; Lea, Hereford, Parish Registers, 1836
+4 CONC , microfilm, FHL; 1841 Census Sollers Hope, 6; William Price and Mary Ann Price family grou
+4 CONC p record, Archives, FHL.
+4 CONT (WNNP = W.N. Nordgren. Papers. Library-Archives of the Historical Department, The Church of J
+4 CONC esus Christ of Latter-day Saints, Church Office Building, Salt Lake City, Utah
+4 CONT FHL = Family History Library of The Church of Jesus Christ of Latter-day Saint, Salt Lake Cit
+4 CONC y, Utah)
+1 _UID B5B5C3B707DA0A48B82A249717ADEB2B8E93
+1 FAMS @F5@
+1 SOUR @S1@
+2 NOTE Name Listed: William Price
+3 CONT Birth Date: 6 Dec 1791
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:32:57
+0 @I14@ INDI
+1 NAME William /PRICE/
+2 SURN PRICE
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1818
+2 PLAC Lea, Gloucestershire, England
+2 SOUR @S12@
+3 NOTE Name Listed: William Price
+4 CONT Birth Date: 4 Dec 1818
+4 CONT Birth Location: Leigh, Gloucestershire, England
+2 SOUR @S1@
+3 NOTE Name: William PRICE
+4 CONT Birth Date: 4 Dec 1818
+4 CONT Birthplace: Lea, Gloucester, England
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #129
+3 NOTE Dwelling #10, Household #10
+4 CONT Name: William Price
+4 CONT Age: 31
+4 CONT Gender: Male
+4 CONT Profession: Farmer
+4 CONT Birth Place: England
+3 DATA
+4 DATE 30 Aug 1850
+2 SOUR @S18@
+3 PAGE GSU Roll: 288776, Enumeration District 11, Folio 4, Page 8
+3 NOTE Class: HO107, Piece: 365, Book:8
+4 CONT Civil Parish: Lea, County: Gloucestershire
+4 CONT Name: William Price
+4 CONT Age: 20
+1 CHR
+2 DATE 6 Dec 1818
+2 PLAC Lea, Gloucestershire, England
+1 DEAT
+2 DATE 18 Sep 1906
+2 PLAC Goshen, Utah, Utah
+1 BURI
+2 PLAC Salt Lake, Salt Lake, Utah
+1 _UID FEEEE84D3A2AF042B84A9D8C2B0E6544C4B7
+1 FAMC @F5@
+1 NOTE In regards to his place of birth: 
+2 CONT Formerly Lea, Gloucestershire and Lea, Herefordshire until both were united in 1844. Include
+2 CONC s townships of Upper Lea, and Lower Lea formerly in Gloucestershire. Transferred from ...Glou
+2 CONC cester to Hereford [Diocese] in 1975."
+2 CONT (Ref: The Parish Registers of Herefordshire, J Harnden, 1987, ISBN 0 9512347 0 6)
+1 SOUR @S1@
+2 NOTE Name Listed: William Price
+3 CONT Birth Date: 4 Dec 1818
+1 SOUR @S2@
+2 NOTE Name Listed: William Price
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 4 Dec 1818
+3 CONT Gender: Male
+3 CONT Age: 33
+3 CONT Pioneer Information: Captain of 3rd Ten
+3 CONT (see website for sources)
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 64, image #129
+2 NOTE Location: Pottawattamie County, Iowa
+3 CONT Dwelling #10, Household #10
+3 CONT Name Listed: William Price
+3 CONT Age: 31
+3 CONT Gender: Male
+3 CONT Occupation: Farmer
+3 CONT Birthplace: England
+2 DATA
+3 DATE 30 Aug 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:10
+0 @I15@ INDI
+1 NAME Elizabeth /PRICE/
+2 SURN PRICE
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 29 Jun 1821
+2 PLAC Lea, Herefordshire, England
+2 SOUR @S3@
+3 PAGE p. 223
+3 NOTE has birth date as Jun/Jul 29, 1821
+2 SOUR @S12@
+3 NOTE Name Listed: Elizabeth Price
+4 CONT Birth Date: 29 Jun 1821
+4 CONT Birth Place: Gloucestershire, England
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 74, image #150
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #160, Household #160
+4 CONT Name: Elizabeth Bentley
+4 CONT Age: 3 [certainly miswritten]
+4 CONT Birthplace: England
+3 DATA
+4 DATE 9 Sep 1850
+1 CHR
+2 DATE 29 Jul 1821
+2 PLAC Lea, Herefordshire, England
+1 DEAT
+2 DATE 6 Dec 1882
+2 PLAC St. George, Washington, Utah
+1 BURI
+2 DATE 9 Dec 1882
+2 PLAC St. George, Washington, Utah
+1 _UID 831A072A39BD63489B9F964A548224F073A0
+1 FAMS @F8@
+1 FAMC @F5@
+1 SOUR @S1@
+2 NOTE Name Listed: Elizabeth Price
+3 CONT Birth Date: 29 Jun 1821
+1 SOUR @S3@
+2 PAGE p.223, 245 
+2 NOTE birth/death information
+1 SOUR @S2@
+2 NOTE Name Listed: Elizabeth Price Bentley
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 29 Jun 1821
+3 CONT Gender: Female
+3 CONT Age: 31
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name Listed: Elizabeth Price
+3 CONT Birth Date: 29 Jun 1821
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:54
+0 @I16@ INDI
+1 NAME Charles /PRICE/
+2 SURN PRICE
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 12 Dec 1829
+2 PLAC Lea, Gloucestershire, England
+2 SOUR @S1@
+3 NOTE Name: Charles PRICE
+4 CONT Birth: 12 Dec 1829
+4 CONT Birthplace: Lea, Glostershire, Lancaster, Lancashire, England
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #130
+3 NOTE Dwelling #11, Household #11
+4 CONT Name: Charles Price
+4 CONT Age: 20 [?]
+4 CONT Gender: Male
+4 CONT Profession: Farmer
+4 CONT Birth Place: England
+3 DATA
+4 DATE 30 Aug 18500
+2 SOUR @S18@
+3 PAGE GSU Roll: 288776, Enumeration District 11, Folio 4, Page 8
+3 NOTE Class: HO107, Piece: 365, Book: 8
+4 CONT Civil Parish: Lea, County: Gloucestershire
+4 CONT Name: Charles Price
+4 CONT Age: 10
+1 CHR
+2 DATE 13 Dec 1829
+2 PLAC Lea, Gloucestershire, England
+1 DEAT
+2 DATE 24 Mar 1905
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 27 Mar 1905
+2 PLAC Nephi, Juab, Utah
+1 _UID 3F9EF99BDAB3B848B27345FBBA3319B019ED
+1 FAMS @F3@
+1 FAMC @F5@
+1 NOTE In regards to his place of birth: 
+2 CONT Formerly Lea, Gloucestershire and Lea, Herefordshire until both were united in 1844. Include
+2 CONC s townships of Upper Lea, and Lower Lea formerly in Gloucestershire. Transferred from ...Glou
+2 CONC cester to Hereford [Diocese] in 1975."
+2 CONT (Ref: The Parish Registers of Herefordshire, J Harnden, 1987, ISBN 0 9512347 0 6)
+1 SOUR @S1@
+2 NOTE Name Listed: Charles Price
+3 CONT Birth Date: 12 Dec 1829
+1 SOUR @S2@
+2 NOTE Name Listed: Charles Price
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 12 Dec 1829
+3 CONT Gender: Male
+3 CONT Age: 22
+3 CONT Pioneer Information: with 1 male, 1 female and 1 child
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:04
+0 @I17@ INDI
+1 NAME John /PRICE/
+2 SURN PRICE
+2 GIVN John
+1 SEX M
+1 _UID 32AEDAD24680794EB88BDBD899C6F83DA3F2
+1 FAMS @F6@
+1 SOUR @S1@
+2 NOTE Name Listed: John Price
+3 CONT Spouse: Fanny Constance
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:40
+0 @I18@ INDI
+1 NAME Fanny /CONSTANCE/
+2 SURN CONSTANCE
+2 GIVN Fanny
+1 SEX F
+1 _UID DFCE63186B090C45B07845CE3769B8E161C4
+1 FAMS @F6@
+1 SOUR @S1@
+2 NOTE Name Listed: Fanny Constance
+3 CONT Spouse: John Price
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:58
+0 @I19@ INDI
+1 NAME Richard /BENTLEY/
+2 SURN BENTLEY
+2 GIVN Richard
+1 SEX M
+1 BIRT
+2 DATE 1 Oct 1820
+2 PLAC Great Aycliffe, Durham, England
+2 SOUR @S1@
+3 NOTE Name Listed: Richard Bentley
+4 CONT Birth Date: 1 Oct 1820
+2 SOUR @S12@
+3 NOTE Name Listed: Richard Bentley
+4 CONT Birth Date: 1 Oct 1820
+4 CONT Birth Location: Aycliffe, Durham, England
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 74, image #150
+3 NOTE Location: District 21, Pottwattamie, Iowa
+4 CONT Dwelling #160, Household #150
+4 CONT Name Listed: Richard Bentley
+4 CONT Age: 39
+4 CONT Gender: Male
+4 CONT Occupation: Clerk
+4 CONT Birthplace: England
+3 DATA
+4 DATE 9 Sep 1850
+1 DEAT
+2 DATE 24 Mar 1906
+2 PLAC St. George, Washington, Utah
+2 SOUR @S17@
+3 NOTE Name: Richard Bentley
+4 CONT Death Date: 24 Mar 1906
+4 CONT Cause of Death: Chronic Bronchitis
+4 CONT Burial Place: St. George Cemetery
+1 BURI
+2 DATE 25 Mar 1906
+2 PLAC St. George, Washington, Utah
+1 _UID C96F2C970182A44EA8EF77E7369200ADDA3D
+1 FAMS @F8@
+1 FAMC @F9@
+1 SOUR @S1@
+2 NOTE Name Listed: Richard Bentley
+3 CONT Birth Date: 1 Oct 1820
+1 SOUR @S3@
+2 PAGE p. 223
+2 NOTE birth/death information, as well as information on residence in Iowa
+1 SOUR @S2@
+2 NOTE Name Listed: Richard Bentley
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Gender: Male
+3 CONT Age: 31
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name Listed: Richard Bentley
+3 CONT Birth Date: 1 Oct 1820
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:45
+0 @I20@ INDI
+1 NAME Thomas /BENTLEY/
+2 SURN BENTLEY
+2 GIVN Thomas
+1 SEX M
+1 _UID 1A5C45BAF82A4F42857EAD19B0CD7C9781ED
+1 FAMS @F9@
+1 SOUR @S1@
+2 NOTE Name Listed: Thomas Bentley
+3 CONT Spouse: Ann Wood
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:36
+0 @I21@ INDI
+1 NAME Ann /WOOD/
+2 SURN WOOD
+2 GIVN Ann
+1 SEX F
+1 _UID 964012E81216AD46B958C49274E1375E3CC7
+1 FAMS @F9@
+1 SOUR @S1@
+2 NOTE Name Listed: Ann Wood
+3 CONT Spouse: Thomas Bentley
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:32:27
+0 @I22@ INDI
+1 NAME Mary Lavinia /BENTLEY/
+2 SURN BENTLEY
+2 GIVN Mary Lavinia
+1 SEX F
+1 BIRT
+2 DATE 8 Jun 1849
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 23 Jul 1918
+2 PLAC Salt Lake, Salt Lake, Utah
+1 BURI
+2 DATE 25 Jul 1918
+2 PLAC Salt Lake City Cemetery, Salt Lake, Salt Lake, Utah
+1 _UID 8B17DF0FD4A8CD468201C8B16416CAC22102
+1 FAMC @F8@
+1 SOUR @S1@
+2 NOTE Name Listed: Mary Lavinia Bentley
+3 CONT Birth Date: 8 Jun 1849
+1 SOUR @S2@
+2 NOTE Name Listed: Mary Lavinia Bentley
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 8 Jun 1849
+3 CONT Gender: Female
+3 CONT Age: 3
+3 CONT (see website for sources)
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 74, image #150
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #160, Household #160
+3 CONT Name: Lavina Bentley
+3 CONT Age: 2
+3 CONT Gender: Female
+3 CONT Birthplace: Iowa
+2 DATA
+3 DATE 9 Sep 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:48
+0 @I23@ INDI
+1 NAME William Oscar /BENTLEY/
+2 SURN BENTLEY
+2 GIVN William Oscar
+1 SEX M
+1 BIRT
+2 DATE 24 Aug 1851
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 15 Mar 1920
+2 PLAC St. George, Washington, Utah
+1 BURI
+2 DATE 16 Mar 1920
+2 PLAC St. George, Washington, Utah
+1 _UID 20B8F32D3FB1F649A08F8CC8C6C868A94919
+1 FAMC @F8@
+1 SOUR @S1@
+2 NOTE Name Listed: William Oscar Bentley
+3 CONT Birth Date: 24 Aug 1851
+3 CONT * Also a William Oscar Bentley born Abt. 1853, Kanesville, IA
+1 SOUR @S2@
+2 NOTE Name Listed: William Oscar Bentley
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 24 Aug 1851
+3 CONT Gender: Male
+3 CONT Age: infant
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:33
+0 @I24@ INDI
+1 NAME Benjamin /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Benjamin
+1 SEX M
+1 BIRT
+2 DATE 30 Mar 1792
+2 PLAC Grafton, Grafton, New Hampshire 
+2 SOUR @S1@
+3 NOTE Name: Benjamin BULLOCK
+4 CONT Birth Date: 30 Mar 1792
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, Image #129
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #8, Household #8
+4 CONT Name Listed: Benjamin Bollock
+4 CONT Age: 58
+4 CONT Gender: Male
+4 CONT Profession: Farmer
+4 CONT Birth Place: New Hampshire
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 27 Jul 1852
+2 PLAC On the Plains, North Platte, Nebraska
+1 BURI
+2 DATE 27 Jul 1852
+2 PLAC On the Plains, North Platte, Nebraska
+1 _UID 9884B2042FA1A941B4CB82A1AAC99B448009
+1 FAMS @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Benjamin Bullock
+3 CONT Birth Date: 30 Mar 1792
+1 SOUR @S2@
+2 NOTE Name Listed: Benjamin Bullock
+3 CONT Company: Isaac Bullcok Company (1852)
+3 CONT Birth Date: 30 Mar 1792
+3 CONT Gender: Male
+3 CONT Age: 60
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name Listed: Benjamin Bullock, III
+3 CONT Birth Date: 30 Mar 1792
+1 SOUR @S15@
+2 PAGE Roll: M432_188, Page 64, image #129
+2 NOTE Location: Pottawattamie County, Iowa
+3 CONT Dwelling # 8, Household #8
+3 CONT Name Listed: Benjamin Bollock [or Bullock]
+3 CONT Age: 58
+3 CONT Gender: Male
+3 CONT Occupation: Farmer
+3 CONT Birthplace: New Hampshire
+2 DATA
+3 DATE 30 Aug 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:37
+0 @I25@ INDI
+1 NAME Dorothy /KIMBALL/
+2 SURN KIMBALL
+2 GIVN Dorothy
+2 _AKA Dollie
+1 SEX F
+1 BIRT
+2 DATE 6 Apr 1799
+2 PLAC Grafton, Grafton, New Hampshire 
+2 SOUR @S1@
+3 NOTE Name: (Dollie) Dorothy KIMBALL
+4 CONT Birth Date: 6 Apr 1799
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #129
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #8, Household #8
+4 CONT Name: Dolly Bollock
+4 CONT Age: 51
+4 CONT Gender: Female
+4 CONT Birth Place: New Hampshire
+3 DATA
+4 DATE 30 Aug 1830
+1 DEAT
+2 DATE 23 Sep 1853
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE Sep 1853
+2 PLAC Provo, Utah, Utah
+1 _UID FD70510CA7853B43A231B9E0F0391CDC013A
+1 FAMS @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: (Dollie) Dorothy Kimball
+3 CONT BIrth Date: 6 Apr 1799
+1 SOUR @S2@
+2 NOTE Name Listed: Dorothy [or Dolly] Bullock
+3 CONT Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: 6 Apr 1799
+3 CONT Gender: Female
+3 CONT Age: 53
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name: Dorothy Kimball
+3 CONT Birth Date: 6 Apr 1799
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 64, image #129
+2 NOTE Location: Pottawattamie County, Iowa
+3 CONT Dwelling #8, Household #8
+3 CONT Name Listed: Dolly Bollock [or Bullock]
+3 CONT Age: 51
+3 CONT Gender: Female
+3 CONT Birthplace: New Hampshire
+2 DATA
+3 DATE 30 Aug 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:15
+0 @I26@ INDI
+1 NAME Benjamin Kimball /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Benjamin Kimball
+1 SEX M
+1 BIRT
+2 DATE 27 Jan 1821
+2 PLAC Grafton, Grafton, New Hampshire 
+1 CHR
+2 DATE 17 Feb 1821
+2 PLAC Grafton, Grafton, New Hampshire 
+1 DEAT
+2 DATE 22 Mar 1901
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE 25 Mar 1901
+2 PLAC Provo, Utah, Utah
+1 _UID C43E1D5F634E82409964F8B7F57F7145C7FC
+1 FAMS @F11@
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Benjamin Kimball Bullock
+3 CONT Birth Date: 27 Jan 1821
+3 CONT Birth Place: Grafton, N.h., England (Birth in England is highly unlikely, most likely New Ham
+3 CONC pshire, USA)
+1 SOUR @S2@
+2 NOTE Name Listed: Benjamin Kimball Bullock
+3 CONT Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: 27 Jan 1821
+3 CONT Gender: Male
+3 CONT Age: 31
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name Listed: Benjamin Kimball Bullock
+3 CONT Birth Date: 27 Jan 1821
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 64, image 129
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #8, Household #8
+3 CONT Name Listed: Kimbal Bollock [or Bullock]
+3 CONT Age: 29
+3 CONT Gender: Male
+3 CONT Occupation: Farmer
+3 CONT Birthplace: New Hampshire
+3 CONT  
+2 DATA
+3 DATE 30 Aug 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:27
+0 @I27@ INDI
+1 NAME Isaac /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Isaac
+1 SEX M
+1 BIRT
+2 DATE 21 Oct 1824
+2 PLAC Grafton, Grafton, New Hampshire 
+2 SOUR @S12@
+3 NOTE Name Listed: Isaac Bullock
+4 CONT Birth Date: 23 Oct 1825
+1 DEAT
+2 DATE 16 Mar 1891
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE 20 Mar 1891
+2 PLAC Provo City Cemetery, Provo, Utah, Utah
+1 _UID 5BF4E3D8B2E3B64A8385C40B35ECBDFF53C8
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Isaac Bullock
+3 CONT Birth Date: 21 Oct 1824
+1 SOUR @S2@
+2 NOTE Name Listed: Isaac Bullock
+3 CONT Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: 21 Oct 1824
+3 CONT Gender: Male
+3 CONT Age: 27
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name Listed: Isaac Bullock
+3 CONT Birth Date: 23 Oct 1825
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 64, image #129
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #8, Household #8
+3 CONT Name Listed: Isaac Bollock [or Bullock]
+3 CONT Age: 25
+3 CONT Gender: Male
+3 CONT Occupation: Farmer
+3 CONT Birthplace: New Hampshire
+2 DATA
+3 DATE 30 Aug 1850
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:20
+0 @I28@ INDI
+1 NAME Jared John /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Jared John
+1 SEX M
+1 BIRT
+2 DATE 2 Apr 1834
+2 PLAC Moira, Franklin, New York
+2 SOUR @S1@
+3 NOTE Name Listed: Jared John Bullock
+4 CONT Birth Date: 2 Apr 1834
+4 CONT Birthplace: Moira, Franklin, New York
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #129
+3 NOTE Location: Pottawattamie County, Iowa
+4 CONT Dwelling #8, Household #8
+4 CONT Name Listed: Jared Bollock [or Bullock]
+4 CONT Age: 16
+4 CONT Gender: Male
+4 CONT Occupation: Farmer
+4 CONT Birthplace: New Hampshire
+3 DATA
+4 DATE 30 Apr 1850
+2 SOUR @S16@
+3 NOTE Names Listed: Jared John Bullock
+4 CONT John Jared Bullock
+4 CONT Jared J Bullock
+4 CONT Jared Bullock
+4 CONT Birth Dates Listed: 2 Apr 1834
+4 CONT 22 Apr 1834
+4 CONT abt. 1825
+4 CONT Birth Places Listed: Moira, Franklin, New York
+4 CONT Moira, New York, New York
+4 CONT Moirie, [county], New York
+1 DEAT
+2 DATE 22 Nov 1909
+2 PLAC Lonetree, Uinta, Wyoming
+1 BURI
+2 DATE Nov 1909
+2 PLAC Lonetree, Uinta, Wyoming
+1 _UID 24B29E73363DB34E800A1A3155C81EAD1878
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Jared John Bullock
+3 CONT Birth Date: 2 Apr 1834
+3 CONT Birth Place: Moira, Franklin, New York
+1 SOUR @S2@
+2 NOTE Name Listed: Jared John Bullock
+3 CONT Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: 2 Apr 1834
+3 CONT Gender: Male
+3 CONT Age: 18
+3 CONT (see website for sources)
+1 SOUR @S15@
+2 PAGE Roll: M432_188, page 62, image #129
+2 NOTE Location: District 21, Pottawattamie, Iowa
+3 CONT Dwelling #8, Household #8
+3 CONT Name Listed: Jared Bollock [or Bullock]
+3 CONT Age: 16
+3 CONT Gender: Male
+3 CONT Occupation: Farmer
+3 CONT Birthplace: New Hampshire
+2 DATA
+3 DATE 30 Aug 1850
+1 SOUR @S16@
+2 NOTE Name: Jared John Bullock
+3 CONT Birth: 2 Apr 1834
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:15
+0 @I29@ INDI
+1 NAME Dorothy Melissa /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Dorothy Melissa
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1839
+2 PLAC Moira, Franklin, New York
+1 DEAT
+2 DATE 7 Jan 1844
+1 _UID 1160219493A996458339F8FD1DCDDA36E89F
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Dorothy Melissa Bullock
+3 CONT Birth Date: 10 Feb 1839
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:22
+0 @I30@ INDI
+1 NAME Jane Kelton /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Jane Kelton
+1 SEX F
+1 BIRT
+2 DATE 4 Sep 1819
+2 PLAC Grafton, Grafton, New Hampshire 
+1 DEAT
+2 DATE 15 Sep 1910
+2 PLAC Provo, Utah, Utah
+2 SOUR @S12@
+3 NOTE Name Listed: Jane Kelton Bullock
+4 CONT Birth Date: 4 Sep 1819
+4 CONT Death Date: 5 Sep 1910
+1 BURI
+2 DATE 1910
+2 PLAC Provo, Utah, Utah
+1 _UID 14563E7ED6EC5E42A0E362A065A0646BE186
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Jane Kelton Bullock
+3 CONT Birth Date: 4 Sep 1819
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:17
+0 @I31@ INDI
+1 NAME Mary Ann /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Mary Ann
+2 _AKA Polly
+1 SEX F
+1 BIRT
+2 DATE 19 Sep 1829
+2 PLAC Moira, Franklin, New York
+1 DEAT
+2 DATE 18 Aug 1901
+2 PLAC Provo, Utah, Utah
+1 _UID 2F4F7D4343576244AE9971C49445A1CE422F
+1 FAMC @F10@
+1 SOUR @S1@
+2 NOTE Name Listed: Polly Mary Ann Bullock
+3 CONT Birth Date: 19 Sep 1829
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:11
+0 @I32@ INDI
+1 NAME Martha Elizabeth /HART/
+2 SURN HART
+2 GIVN Martha Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 4 Oct 1837
+2 PLAC Oxford, New Haven, Connecticut
+1 DEAT
+2 DATE 19 Aug 1912
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE Aug 1912
+2 PLAC Provo, Utah, Utah
+1 _UID BA010D851488E94D949590209D5178BC1A83
+1 FAMS @F11@
+1 SOUR @S1@
+2 NOTE Name Listed: Martha Elizabeth Hart
+3 CONT Birth Date: 4 Oct 1837
+1 SOUR @S2@
+2 NOTE Name Listed: Martha Elizabeth Bullock
+3 CONT Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: 4 Oct 1837
+3 CONT Gender: Female
+3 CONT Age: 14
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:56
+0 @I33@ INDI
+1 NAME Benjamin Kimball /BULLOCK/
+2 SURN BULLOCK
+2 GIVN Benjamin Kimball
+1 SEX M
+1 BIRT
+2 DATE 11 Jun 1852
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 16 Oct 1853
+1 _UID CEFAF5920ACC57479E9C624DAE8302C9A886
+1 FAMC @F11@
+1 SOUR @S1@
+2 NOTE Name Listed: Benjamin Kimball Bullock
+3 CONT Birth Date: 11 Jun 1852
+1 SOUR @S2@
+2 NOTE Name Listed: Bejamin Kimball Bullock 
+3 CONT Company: Isaac Bullock Company (1852)
+3 CONT Birth Date: 11 Jun 1852
+3 CONT Gender: Male
+3 CONT Age: infant
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:30
+0 @I34@ INDI
+1 NAME John /JOHNSON/
+2 SURN JOHNSON
+2 GIVN John
+1 SEX M
+1 _UID 25AC27E48FB5EA4E946C3239545D91C8CDA5
+1 FAMS @F12@
+1 SOUR @S4@
+2 PAGE Page 496
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:27
+0 @I35@ INDI
+1 NAME Alice /JACOB/
+2 SURN JACOB
+2 GIVN Alice
+2 NICK Elsa
+1 SEX F
+1 _UID 1381FDF2FAB5DA479AF507BE2C4DB0E0B09B
+1 FAMS @F12@
+1 SOUR @S4@
+2 PAGE Page 496
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:39
+0 @I36@ INDI
+1 NAME Urania /HYDE/
+2 SURN HYDE
+2 GIVN Urania
+1 SEX F
+1 BIRT
+2 DATE 15 Aug 1846
+2 PLAC Hyde Park, Pottawattamie, Iowa
+2 SOUR @S4@
+3 PAGE page 498
+1 DEAT
+2 DATE 27 Aug 1846
+2 PLAC Hyde Park, Pottawattamie, Iowa
+2 SOUR @S4@
+3 PAGE page 498
+1 _UID F9E98021E2B1FA459FDE973D288DBA5C7124
+1 FAMC @F7@
+1 SOUR @S4@
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:44
+0 @I37@ INDI
+1 NAME Thomas /PRICE/
+2 SURN PRICE
+2 GIVN Thomas
+1 SEX M
+1 _UID 454E5E2DD54D1645AB92D0B1EF57B6C61B81
+1 FAMS @F13@
+1 SOUR @S4@
+2 PAGE page 498
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:17
+0 @I38@ INDI
+1 NAME Martha Rebecca /BROWETT/
+2 SURN BROWETT
+2 GIVN Martha Rebecca
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1817
+2 PLAC Tewkesbury, Gloucestershire, England
+2 SOUR @S1@
+3 NOTE Birth Date Listed: Abt. 1809
+4 CONT Birth Place Listed: <Oxford, New Haven, Connecticut>
+2 SOUR @S4@
+3 PAGE page 497
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 115, image #232
+3 NOTE Dwelling #816, Household #816
+4 CONT Name Listed: Martha Browell
+4 CONT Age: 31
+4 CONT Gender: Female
+4 CONT Birth Place: England
+3 DATA
+4 DATE 19 Oct 1850
+1 CHR
+2 DATE 16 Oct 1825
+2 PLAC Tewkesbury, Gloucestershire, England
+2 SOUR @S6@
+3 NOTE Name Listed: Martha BROWETT
+4 CONT Birth Date: 05 Jun 1817
+1 DEAT
+2 DATE 30 Oct 1904
+2 PLAC Salt Lake, Salt Lake, Utah 
+1 BURI
+2 PLAC Salt Lake, Salt Lake, Utah 
+1 _UID 439489CA8FD99D479F5D15AE8FB51D1EB45E
+1 FAMS @F4@
+1 FAMC @F14@
+1 SOUR @S4@
+2 PAGE page 497
+1 SOUR @S1@
+2 NOTE Name Listed: Martha Rebecca BROWETT
+3 CONT Birth Date: Abt. 1809
+1 SOUR @S6@
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:31
+0 @I39@ INDI
+1 NAME Thomas /BROWETT/
+2 SURN BROWETT
+2 GIVN Thomas
+1 SEX M
+1 _UID A34E2D34B405AB44BB22F8AF3EC8FC0686E4
+1 FAMS @F14@
+1 SOUR @S4@
+2 PAGE page 497
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:28
+0 @I40@ INDI
+1 NAME Martha /PULLER/
+2 SURN PULLER
+2 GIVN Martha
+1 SEX F
+1 _UID ABB2CAC4E03BF74D8D221F9811EECEFF7C33
+1 FAMS @F14@
+1 SOUR @S4@
+2 PAGE page 497
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:32:46
+0 @I41@ INDI
+1 NAME Adella Marie /HYDE/
+2 SURN HYDE
+2 GIVN Adella Marie
+1 SEX F
+1 BIRT
+2 DATE Apr 1850
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 DEAT
+2 DATE Jul 1850
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 _UID 67BE00EA5D835E4B92DBDBDDA45EA5E04494
+1 FAMC @F4@
+1 SOUR @S4@
+2 PAGE page 497
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:26
+0 @I42@ INDI
+1 NAME Jonathan /BROWNING/
+2 SURN BROWNING
+2 GIVN Jonathan
+1 SEX M
+1 BIRT
+2 DATE 22 Oct 1805
+2 PLAC Brushby Fork, Sumner, Tennessee
+2 SOUR @S12@
+3 NOTE Name Listed: Jonathan Browning
+4 CONT Birth Date Listed: 29 Oct 1805 - (near) Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name Listed: Johnathan Browning
+4 CONT Birth Date: 22 Oct 1805
+4 CONT Birth Location: Brushby Fork, Sumner, Tennessee
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottwattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Jonathan Browning
+4 CONT Age: 44
+4 CONT Gender: Male
+4 CONT Occupation: Gunsmith
+4 CONT Birthplace: Tennessee
+3 DATA
+4 DATE 30 Aug 1850
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Lists birthplace as: Brushy Fork of Bledsoe Creek near Nashville, Sumner, Tennessee
+1 DEAT
+2 DATE 21 Jun 1879
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S12@
+3 NOTE Name Listed: Jonathan Browning
+4 CONT Birth Date: 29 Oct 1805
+1 BURI
+2 DATE 25 Jun 1879
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S20@
+3 PAGE page 1
+3 NOTE Buried in Ogden City Cemetery, Ogden, Weber, Utah
+1 _UID 1B4DAB2656AF244FBE0BF172BFE339853DF0
+1 FAMS @F15@
+1 FAMC @F16@
+1 SOUR @S1@
+2 NOTE Name Listed: Johnathan Browning
+3 CONT Brith Date: 22 Oct 1805
+1 SOUR @S2@
+2 NOTE Name Listed: Jonathan Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 22 Oct 1805
+3 CONT Gender: Male
+3 CONT Age: 46
+3 CONT Pioneer Information: Captain of 2nd Ten
+3 CONT (see website for sources)
+1 SOUR @S20@
+2 PAGE Page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:59
+0 @I43@ INDI
+1 NAME Elizabeth /STALCUP/
+2 SURN STALCUP
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 23 Jun 1803
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S1@
+3 NOTE Name Listed: Elizabeth STALCUP
+4 CONT Birth Date: 23 Jun 1803
+4 CONT Birth Location: Nashville, Davidson, Tennessee
+2 SOUR @S12@
+3 NOTE Name Listed: Elizabeth Stalcup
+4 CONT Birth Date: 22 Jun 1805
+4 CONT Birth Location: Davidson County, Tennessee
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Elizabeth Browning
+4 CONT Age: 44
+4 CONT Gender: Female
+4 CONT Birthplace: Tennessee
+3 DATA
+4 DATE 30 Aug 1850
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Birthdate listed: 22 Jun 1803
+1 DEAT
+2 DATE 21 May 1884
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE 22 May 1884
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S20@
+3 NOTE Buried in Ogden City Cemetery, Ogden, Weber, Utah
+1 _UID 0A495D5EE7F5EC4584C35B1E43879AB0EF75
+1 FAMS @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Elizabeth Stalcup
+3 CONT Birth Date: 23 Jun 1803
+1 SOUR @S2@
+2 NOTE Name Listed: Elizabeth Stalcup Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 23 Jun 1803
+3 CONT Gender: Female
+3 CONT Age: 48
+3 CONT (see website for sources)
+1 SOUR @S12@
+2 NOTE Name Listed: Elizabeth Stalcup
+3 CONT Birth Date: 22 Jun 1805
+1 SOUR @S20@
+2 PAGE page 1
+2 NOTE Nickname: Betsy
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:32:33
+0 @I44@ INDI
+1 NAME Nancy Lovina /BROWNING/
+2 SURN BROWNING
+2 GIVN Nancy Lovina
+1 SEX F
+1 BIRT
+2 DATE 13 Jan 1842
+2 PLAC Adams, Illinois
+2 SOUR @S12@
+3 NOTE Name Listed: Nancy Lovina Browning
+4 CONT Birth Date: 31 Jan 1842
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Nancy Browning
+4 CONT Age: 8
+4 CONT Gender: Female
+4 CONT Birthplace: Illinois
+3 DATA
+4 DATE 30 Aug 1830
+1 DEAT
+2 DATE 22 Jun 1875
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S12@
+3 NOTE Name Listed: Nancy Lovina Browning
+4 CONT Birth Date: 31 Jan 1842
+1 _UID 407EB24FC594EA4AA386BE0FBDE6795CBAEC
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Nancy Lovina Browning
+3 CONT Birth Date: 13 Jan 1842
+1 SOUR @S2@
+2 NOTE Name Listed: Nancy Lovina Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 13 Jan 1842
+3 CONT Gender: Female
+3 CONT Age: 10
+1 SOUR @S20@
+2 PAGE Page 1
+2 NOTE Name: Nancy Lavina Browning
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:43
+0 @I45@ INDI
+1 NAME Mary Melvina /BROWNING/
+2 SURN BROWNING
+2 GIVN Mary Melvina
+1 SEX F
+1 BIRT
+2 DATE 15 Jan 1840
+2 PLAC Quincy, Adams, Illinois
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Malvina Browning
+4 CONT Age: 10
+4 CONT Gender: Female
+4 CONT Birthplace: Illinois
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 31 Jul 1931
+2 PLAC Provo, Utah, Utah
+1 BURI
+2 DATE 1931
+2 PLAC Ogden, Weber, Utah
+1 _UID 6CE5DEF0EF1AC44D85E7E3694F237505DD9A
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Mary Melvina Browning
+3 CONT Birth Date: 15 Jan 1840
+1 SOUR @S2@
+2 NOTE Name Listed: Mary Melvina Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 15 Jan 1840
+3 CONT Gender: Female
+3 CONT Age: 12
+1 SOUR @S20@
+2 PAGE page 1
+2 NOTE Name Listed: Mary Malvina Browning
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:49
+0 @I46@ INDI
+1 NAME David Elias /BROWNING/
+2 SURN BROWNING
+2 GIVN David Elias
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1829
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: David Browning
+4 CONT Age: 21
+4 CONT Gender: Male
+4 CONT Occupation: Gunsmith
+4 CONT Birthplace: Tennessee
+3 DATA
+4 DATE 30 Aug 1830
+1 DEAT
+2 DATE 14 Dec 1901
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 PLAC Ogden, Weber, Utah
+1 _UID C1FA925FA9F6884F82178CD206B0F23BFC74
+1 FAMC @F15@
+1 SOUR @S1@
+2 PAGE page 1
+2 NOTE Name Listed: David Elias Browning
+3 CONT Birth Date: 19 Jan 1829
+1 SOUR @S2@
+2 NOTE Name Listed: David Elias Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 19 Jan 1829
+3 CONT Gender: Male
+3 CONT Age: 23
+1 SOUR @S12@
+2 NOTE Name Listed: David Elias Browning
+3 CONT Birth Date: 19 Jan 1829
+1 SOUR @S20@
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:21
+0 @I47@ INDI
+1 NAME Jonathan Alma /BROWNING/
+2 SURN BROWNING
+2 GIVN Jonathan Alma
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1845
+2 PLAC Quincy, Adams, Illinois
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Alma Browning
+4 CONT Age: 5
+4 CONT Gender: Male
+4 CONT Birthplace: Illinois
+3 DATA
+4 DATE 30 Aug 1850
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Birth Date: 9 Oct 1844, Illinois
+1 DEAT
+2 DATE 1 Sep 1913
+2 PLAC Layton, Davis, Utah
+1 BURI
+2 DATE Sep 1913
+2 PLAC Ogden, Weber, Utah
+1 _UID C813457DB2F1234DB92674587A290B222B5F
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Jonathan Alma Browning
+3 CONT Birth Date: 8 Oct 1845
+1 SOUR @S2@
+2 NOTE Name Listed: Jonathan Alma Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 8 Oct 1845
+3 CONT Gender: Male
+3 CONT Age 6
+1 SOUR @S20@
+2 PAGE Page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:55
+0 @I48@ INDI
+1 NAME Emma Eliza /BROWNING/
+2 SURN BROWNING
+2 GIVN Emma Eliza
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 27 Nov 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 BURI
+2 DATE Nov 1843
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Buried at Browning Homestead, Nauvoo, Hancock, Illinois
+1 _UID 7ACE8522CE6D1047BAB790454EF6288CBFA8
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Emma Eliza Browning
+3 CONT Birth Date: 10 Oct 1843
+1 SOUR @S12@
+2 NOTE Name Listed: Emma E. Browning
+3 CONT Birth Date: 10 Oct 1843
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:16
+0 @I49@ INDI
+1 NAME Martha Clarissa /BROWNING/
+2 SURN BROWNING
+2 GIVN Martha Clarissa
+1 SEX F
+1 BIRT
+2 DATE 24 Oct 1837
+2 PLAC Quincy, Adams, Illinois
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Martha Browning
+4 CONT Age: 12
+4 CONT Gender: Female
+4 CONT Birthplace: Illinois
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 18 Jul 1930
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 DATE Jul 1830
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S1@
+3 NOTE Burial Place: Ogden City Cemetery, Ogden, Weber, Utah
+1 _UID 022E7ECBC474E245B7911803C5E97185DFF6
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Marth Clarissa Browning
+3 CONT Birth Date: 24 Oct 1837
+1 SOUR @S2@
+2 NOTE Name Listed: Martha Clarissa Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 24 Oct 1837
+3 CONT Gender: Female
+3 CONT Age: 14
+1 SOUR @S20@
+2 PAGE Page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:52
+0 @I50@ INDI
+1 NAME Sarah Ann /BROWNING/
+2 SURN BROWNING
+2 GIVN Sarah Ann
+1 SEX F
+1 BIRT
+2 DATE 4 Aug 1827
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S12@
+3 NOTE Name Listed: Sarah Ann Browning
+4 CONT Birth Date: 4 Aug 1827
+4 CONT Birth Location: Davidson, Fentress, Tennessee
+1 DEAT
+2 DATE 1 May 1901
+2 PLAC Sublett, Cassia, Idaho
+2 SOUR @S12@
+3 NOTE Name Listed: Sarah Ann Browning
+4 CONT Birth Date: 4 Aug 1827
+4 CONT Death Date: Abt 1924
+2 SOUR @S1@
+3 NOTE Name Listed: Sarah Ann Browning
+4 CONT Birth Date: 4 Aug 1827
+4 CONT Death Date: 1 May 1901
+4 CONT Death Place: Utah
+2 SOUR @S20@
+3 NOTE Death place: Sublett, Sublett, Cassia, Idaho
+1 BURI
+2 DATE May 1901
+1 _UID 9DEEBFE1CAF60848A491DCDF2BB418B1D3C6
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Sarah Ann Browning
+3 CONT Birth Date: 4 Aug 1827
+1 SOUR @S20@
+2 PAGE page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:40
+0 @I51@ INDI
+1 NAME John Wesley /BROWNING/
+2 SURN BROWNING
+2 GIVN John Wesley
+1 SEX M
+1 BIRT
+2 DATE 7 Aug 1832
+2 PLAC Davidson County, Tennessee
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Westley Browning
+4 CONT Age: 18
+4 CONT Gender: Male
+4 CONT Occupation: Gunsmith
+4 CONT Birthplace: Tennessee
+3 DATA
+4 DATE 30 Aug 1850
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Birth Date: 7 Mar 1832
+2 SOUR @S1@
+3 NOTE Birth Date: 7 Aug 1832
+1 DEAT
+2 DATE 7 Oct 1913
+2 PLAC Ogden, Weber, Utah
+1 BURI
+2 PLAC Oct 1913
+1 _UID 8D7A51EB51AE2C43914C40ACAE9699DD34AD
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: John Wesley BROWNING
+3 CONT Birth Date: 7 Aug 1832
+1 SOUR @S2@
+2 NOTE Name Listed: John Wesley Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 7 Aug 1832
+3 CONT Gender: Male 
+3 CONT Age: 19
+3 CONT (see website for sources)
+1 SOUR @S20@
+2 PAGE Page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:09
+0 @I52@ INDI
+1 NAME Barbara Jane /BROWNING/
+2 SURN BROWNING
+2 GIVN Barbara Jane
+1 SEX F
+1 BIRT
+2 DATE 23 Aug 1830
+2 PLAC Davidson County, Tennessee
+2 SOUR @S1@
+3 NOTE Name Listed: Barbara Jane BROWNING
+4 CONT Birth Date: 23 Aug 1830
+2 SOUR @S12@
+3 NOTE Name Listed: Barbara Jane Browning
+4 CONT Birth Date: 26 Nov 1830
+4 CONT Birth Location: Sumner [county?], Tennessee
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Barbara Browning
+4 CONT Age: 19
+4 CONT Gender: Female
+4 CONT Birthplace: Tennessee
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 10 Feb 1898
+2 PLAC Morgan, Morgan, Utah
+2 SOUR @S12@
+3 NOTE Name Listed: Barbara Jane Browning
+4 CONT Birth Date: 26 Nov 1830
+4 CONT Death Location: Morgan, Morgan, Utah
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Death Location: Morgan, Morgan, Utah
+2 SOUR @S1@
+3 NOTE Death Place: Ogden, Weber, Utah
+2 SOUR @S17@
+3 NOTE Place of Death: Morgan, UT
+4 CONT Cause of Death: Heart Trouble
+1 BURI
+2 DATE Feb 1898
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S17@
+3 NOTE Burial Location: Ogden City Cemetery, Ogden, Weber, Utah
+4 CONT C-2-26-4E
+1 _UID 36FB74D351C7E24D9AF56301C855B352D4B7
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Barbara Jane BROWNING
+3 CONT Birth Date: 23 Aug 1830
+1 SOUR @S2@
+2 NOTE Name Listed: Barbara Jane Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 23 Aug 1830
+3 CONT Gender: Female
+3 CONT Age: 21
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:23
+0 @I53@ INDI
+1 NAME James Allen /BROWNING/
+2 SURN BROWNING
+2 GIVN James Allen
+1 SEX F
+1 BIRT
+2 DATE 16 Nov 1833
+2 PLAC Davidson County, Tennessee
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: James Browning
+4 CONT Age: 17
+4 CONT Gender: Male
+4 CONT Occupation: Laborer
+4 CONT Birthplace: Tennessee
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 23 Jul 1902
+2 PLAC Salt Lake, Salt Lake, Utah 
+2 SOUR @S20@
+3 PAGE Page 1
+3 NOTE Death Date: 25 Jul 1902
+4 CONT Death Place: Ogden, Weber, Utah
+2 SOUR @S1@
+3 NOTE Death Date: 23 Jul 1902
+4 CONT Death Place: Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE Jul 1902
+1 _UID 9C6336F06965DC418C72E6C11B61E6ABC282
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: James Allen BROWNING
+3 CONT Birth Date: 16 Nov 1833
+1 SOUR @S2@
+2 NOTE Name Listed: James Allen Browning 
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 16 Nov 1833
+3 CONT Gender: Male
+3 CONT Age: 18
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:13
+0 @I54@ INDI
+1 NAME Asenath Elizabeth /BROWNING/
+2 SURN BROWNING
+2 GIVN Asenath Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 17 Nov 1835
+2 PLAC Quincy, Adams, Illinois
+2 SOUR @S5@
+3 NOTE Name Listed: Asenath Elizabeth Browning
+4 CONT Birth Date: 17 Nov 1835
+2 SOUR @S12@
+3 NOTE Name Listed: Asenath Elizabeth Browning
+4 CONT Birth Date: 17 Nov 1835
+4 CONT Birth Location: Quincy, Adams, Illinois
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name Listed: Asemth [Asenith]
+4 CONT Age: 15
+4 CONT Gender: Female
+4 CONT Birthplace: Illinois
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 3 Jan 1899
+2 PLAC Orderville, Kane, Utah
+1 BURI
+2 DATE 4 Jan 1899
+2 PLAC Orderville, Kane, Utah
+1 _UID 1D982F3BB25BA14D8CFB0594AA545AFC8E1C
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Asenath Elizabeth BROWNING
+3 CONT Birth Date: 17 Nov 1835
+1 SOUR @S5@
+2 NOTE Name Listed: Asenath Elizabeth Browning
+3 CONT Birth Date: 17 Nov 1835
+1 SOUR @S2@
+2 NOTE Name Listed: Aseneth Elizabeth Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 17 Nov 1835
+3 CONT Gender: Female
+3 CONT Age: 17
+1 SOUR @S12@
+2 NOTE Name Listed: Asenath Elizabeth Browning
+3 CONT Birth Date: 17 Nov 1835
+1 SOUR @S20@
+2 PAGE page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:26
+0 @I55@ INDI
+1 NAME Melinda Vashti /BROWNING/
+2 SURN BROWNING
+2 GIVN Melinda Vashti
+1 SEX F
+1 BIRT
+2 DATE 28 Nov 1847
+2 PLAC Mosquito Creek, Pottawattamie, Iowa
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 65, image #131
+3 NOTE Location: District 21, Pottawattamie, Iowa
+4 CONT Dwelling #23, Household #23
+4 CONT Name: Malinda Browning
+4 CONT Age: 2
+4 CONT Gender: Female
+4 CONT Birthplace: Iowa
+3 DATA
+4 DATE 30 Aug 1850
+2 SOUR @S19@
+3 NOTE Name: Melinda Vashti Browning
+4 CONT Birth Date: 28 Nov 1847
+4 CONT Birthplace: Mosquito Ck, Pattawatamie, Iowa
+2 SOUR @S1@
+3 NOTE Name: Melinda Vashti Browning
+4 CONT Birth Date: 28 Nov 1847
+4 CONT Birthplace: Adams County, Illinois
+1 DEAT
+2 DATE 12 May 1926
+2 PLAC Ogden, Weber, Utah
+2 SOUR @S19@
+3 NOTE Name: Melinda Vashti Browning
+4 CONT Death Date: 12 May 1926
+4 CONT Birth Place: Ogden, Weber, Utah
+1 _UID 2E0DC7F538E3A84A94D1968CA834D6B7F4B7
+1 FAMC @F15@
+1 SOUR @S1@
+2 NOTE Name Listed: Melinda Vashti BROWNING
+3 CONT Birth Date: 28 Nov 1847
+1 SOUR @S2@
+2 NOTE Name Listed: Melinda Vashti Browning
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 28 Nov 1847
+3 CONT Gender: Female
+3 CONT Age: 4
+1 SOUR @S20@
+2 PAGE page 1
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:36:46
+0 @I56@ INDI
+1 NAME John /PRICE/
+2 SURN PRICE
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 6 Nov 1814
+2 PLAC Lea, Herefordshire, England
+1 CHR
+2 DATE 6 Nov 1814
+2 PLAC Lea, Herefordshire, England
+1 DEAT
+2 DATE 16 Nov 1836
+1 _UID 6D1DE53177DAEA41B835529A1BD892A11BBF
+1 FAMC @F5@
+1 SOUR @S1@
+2 NOTE Name Listed: John PRICEBirth Date: 16 Nov 1836
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:45
+0 @I57@ INDI
+1 NAME Lavinia /PRICE/
+2 SURN PRICE
+2 GIVN Lavinia
+1 SEX F
+1 BIRT
+2 DATE 14 Mar 1832
+2 PLAC Lea, Gloucestershire, England
+2 SOUR @S1@
+3 NOTE Name Listed: Lavinia PRICE
+4 CONT Birth Date: 14 Mar 1832
+4 CONT Birthplace: Lea, Heref Or Glouc, England
+2 SOUR @S8@
+3 NOTE Name Listed: Lavinia Price
+4 CONT Birth Date: 21 Mar 1832
+2 SOUR @S18@
+3 PAGE GSU Roll: 288776, Enumeration District 11, Folio 4, Page 8
+3 NOTE Class: HO107, Piece 365, Book 8
+4 CONT Civil Parish: Lea, County: Gloucestershire
+4 CONT Name: Lavinia Price
+4 CONT Age: 8
+1 CHR
+2 DATE 21 May 1832
+2 PLAC Lea, Gloucestershire, England
+1 DEAT
+2 DATE May 1849
+1 _UID D5039D47933F30409511B7D4EF3D3136C2FF
+1 FAMS @F2@
+1 FAMC @F5@
+1 NOTE In regards to her place of birth: 
+2 CONT Formerly Lea, Gloucestershire and Lea, Herefordshire until both were united in 1844. Include
+2 CONC s townships of Upper Lea, and Lower Lea formerly in Gloucestershire. Transferred from ...Glou
+2 CONC cester to Hereford [Diocese] in 1975."
+2 CONT (Ref: The Parish Registers of Herefordshire, J Harnden, 1987, ISBN 0 9512347 0 6)
+1 SOUR @S1@
+2 NOTE Name Listed: Lavinia PRICE
+3 CONT Birth Date: 14 Mar 1832
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:28
+0 @I58@ INDI
+1 NAME Emma /PRICE/
+2 SURN PRICE
+2 GIVN Emma
+1 SEX F
+1 BIRT
+2 DATE 21 Jul 1824
+2 PLAC Lea, Gloucestershire, England
+2 SOUR @S1@
+3 NOTE Name: Emma Price
+4 CONT Birth Date: 21 Jul 1824
+4 CONT Birthplace: Lea, Heref Or Glouc, England
+2 SOUR @S18@
+3 PAGE GSU Roll: 288776, Enumeration District 11, Folio 4, Page 8
+3 NOTE Class: HO107, Piece: 365, Book: 8
+4 CONT Civil Parish: Lea, County: Gloucestershire
+4 CONT Name: Emma Price
+4 CONT Age: 15
+1 CHR
+2 DATE 21 Jul 1824
+2 PLAC Lea, Gloucestershire, England
+1 DEAT
+2 DATE 24 Mar 1842
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S4@
+3 PAGE page 155
+1 _UID F473A7C7590A0943A9FA38541BDF7E2550C5
+1 FAMC @F5@
+1 NOTE In regards to her place of birth: 
+2 CONT Formerly Lea, Gloucestershire and Lea, Herefordshire until both were united in 1844. Include
+2 CONC s townships of Upper Lea, and Lower Lea formerly in Gloucestershire. Transferred from ...Glou
+2 CONC cester to Hereford [Diocese] in 1975."
+2 CONT (Ref: The Parish Registers of Herefordshire, J Harnden, 1987, ISBN 0 9512347 0 6)
+1 SOUR @S1@
+2 NOTE Name Listed: Emma PRICE
+3 CONT Birth Date: 21 Jul 1824
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:49
+0 @I59@ INDI
+1 NAME John /HODGES/
+2 SURN HODGES
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE Abt. 1828
+2 PLAC Of Lea, Hereford, England
+2 SOUR @S6@
+3 NOTE Name Listed: John Hodges
+4 CONT Birth Date: About 1828
+2 SOUR @S1@
+3 NOTE Name Listed: John HODGES
+4 CONT Birth Date: Abt. 1830 <Lea, Heref or Glouc, England>
+1 _UID 802101ADCCFD5946A8C9BC58F88DFBD79358
+1 FAMS @F2@
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:35:53
+0 @I60@ INDI
+1 NAME Elsa Mary /JOHNSON/
+2 SURN JOHNSON
+2 GIVN Elsa Mary
+1 SEX F
+1 BIRT
+2 DATE 8 Mar 1834
+2 PLAC Kirtland, Geauga, Ohio
+2 SOUR @S1@
+3 NOTE Name: Elsa Mary (Mary Elsa) JOHNSON
+4 CONT Birth Date: 8 Mar 1834
+4 CONT Birth Place: Kirtland, Lake, Ohio
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #130
+3 NOTE Dwelling #11, Household #11
+4 CONT Name: Elsa Price
+4 CONT Age: 16
+4 CONT Gender: Female
+4 CONT Birth Place: Ohio
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 23 Apr 1912
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 28 Apr 1912
+2 PLAC Nephi, Juab, Utah
+1 _UID 2B328DD5304E1C47B5515299FD8D8511B1D4
+1 FAMS @F3@
+1 FAMC @F17@
+1 SOUR @S1@
+2 NOTE Name Listed:  Elsa Mary (Mary Elsa) JOHNSON
+3 CONT Birth Date: 8 Mar 1834
+1 SOUR @S2@
+2 NOTE Name Listed: Elsa Mary Johnson Price
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 8 Mar 1834
+3 CONT Gender: Female
+3 CONT Age: 18
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:35
+0 @I61@ INDI
+1 NAME Mary Alice /PRICE/
+2 SURN PRICE
+2 GIVN Mary Alice
+1 SEX F
+1 BIRT
+2 DATE 22 Jan 1851
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 3 Oct 1922
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 6 Oct 1922
+2 PLAC Nephi, Juab, Utah
+1 _UID A6E501145E84CA4FB496F70131B129E4CC32
+1 FAMC @F3@
+1 SOUR @S1@
+2 NOTE Name Listed: Mary Alice PRICEBirth Date: 22 Jan 1851
+1 SOUR @S2@
+2 NOTE Name Listed: Mary Alice Price
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 22 Jan 1851
+3 CONT Gender: Female
+3 CONT Age: 1
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:32
+0 @I62@ INDI
+1 NAME Laura Marinda /PRICE/
+2 SURN PRICE
+2 GIVN Laura Marinda
+1 SEX F
+1 BIRT
+2 DATE 27 Jul 1849
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+2 SOUR @S1@
+3 NOTE Name: Laura Marinda PRICE
+4 CONT Birth Date: 27 Jul 1849
+2 SOUR @S15@
+3 PAGE Roll: M432_188, page 64, image #130
+3 NOTE Dwelling #11, Household #11
+4 CONT Name: Laura Price
+4 CONT Age: 1
+4 CONT Gender: Female
+4 CONT Birth Place: Iowa
+3 DATA
+4 DATE 30 Aug 1850
+1 DEAT
+2 DATE 17 Feb 1917
+2 PLAC Nephi, Juab, Utah
+1 BURI
+2 DATE 20 Feb 1917
+2 PLAC Nephi, Juab, Utah
+1 _UID 6840A2D82D70D2489F4B3133BE99C1B2F1DD
+1 FAMC @F3@
+1 SOUR @S1@
+2 NOTE Name Listed: Laura Marinda JOHNSON
+3 CONT Birth Date: 27 Jul 1849
+1 SOUR @S2@
+2 NOTE Name Listed: Laura Marinda Price
+3 CONT Company: Henry W. Miller Company (1852)
+3 CONT Birth Date: 27 Jul 1849
+3 CONT Gender: Female
+3 CONT Age: 2
+3 CONT (see website for sources)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:33:36
+0 @I63@ INDI
+1 NAME Edmund /BROWNING/
+2 SURN BROWNING
+2 GIVN Edmund
+1 SEX M
+1 _UID 766C00CBDB4DC94FA4DF4E630BC0C1A04DC1
+1 FAMS @F16@
+1 SOUR @S12@
+2 NOTE Father of:
+3 CONT Jonathan Browning (b. 29 Oct 1805)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:18
+0 @I64@ INDI
+1 NAME Sarah /ALLEN/
+2 SURN ALLEN
+2 GIVN Sarah
+1 SEX F
+1 _UID 8A6EB6700B4BAB48B721BC1AA5D8739499C8
+1 FAMS @F16@
+1 SOUR @S12@
+2 NOTE Mother of:
+3 CONT      Jonathan Browning (b. 29 Oct 1805)
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:37:58
+0 @I65@ INDI
+1 NAME Luke Samuel /JOHNSON/
+2 SURN JOHNSON
+2 GIVN Luke Samuel
+1 SEX M
+1 _UID 3B6E1575CA7C824CB09652641530940C2857
+1 FAMS @F17@
+1 SOUR @S14@
+2 NOTE Name Listed: Luke Samuel JOHNSON
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:22
+0 @I66@ INDI
+1 NAME Susan Harmida /POTEET/
+2 SURN POTEET
+2 GIVN Susan Harmida
+1 SEX F
+1 _UID 44283AADDD4A0746B43A1B2AAF51B3AF5C41
+1 FAMS @F17@
+1 SOUR @S14@
+2 NOTE Name Listed: Susan Harmida POTEET
+1 CHAN
+2 DATE 12 Jan 2009
+3 TIME 12:34:09
+0 @F1@ FAM
+1 _UID 1A24AC004C53284091680A19C9A68D757ED3
+1 DIV Y
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I6@
+1 CHIL @I8@
+1 CHIL @I7@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I9@
+1 MARR
+2 DATE 4 Sep 1834
+2 PLAC Kirtland, Geauga, Ohio
+2 SOUR @S1@
+2 SOUR @S4@
+3 PAGE page 496
+1 NOTE Divorced 1870 (Myrtle Stevens Hyde, Orson Hyde: The Olive Branch of Israel, (Salt Lake City
+2 CONC : Agreka Books, 2000), 496. 
+0 @F2@ FAM
+1 _UID 3DEB6669F3152C42959459DD7733F8B9270C
+1 HUSB @I59@
+1 WIFE @I57@
+1 MARR
+2 DATE 11 Nov 1847
+2 PLAC St. Louis, Missouri
+2 SOUR @S10@
+3 PAGE vol. 4, page 95
+3 NOTE Name Listed: Lavinia Price
+4 CONT Spouse: John D Hodges
+4 CONT Marriage Date: 11 Nov 1847
+2 SOUR @S11@
+3 NOTE Spouse 1: Hodges, John G.
+4 CONT Spouse 2: Price, Lavinia
+4 CONT Marriage Date: 11 Nov 1847
+4 CONT Location: Missouri, St. Louis County
+2 SOUR @S1@
+3 NOTE Name Listed: John HODGES
+4 CONT Birth Date: Abt. 1830
+4 CONT Marriage Date: 25 Nov 1847
+2 SOUR @S6@
+3 NOTE Name Listed: John Hodges
+4 CONT Birth Date: About 1828
+4 CONT Marriage Date: 25 Nov 1847
+4 CONT Marriage Location: Lea, Hereford, England
+0 @F3@ FAM
+1 _UID 63D2BF2C9A64544788B5F0D9226387C8930E
+1 HUSB @I16@
+1 WIFE @I60@
+1 CHIL @I62@
+1 CHIL @I61@
+1 MARR
+2 DATE 25 Nov 1847
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+2 SOUR @S1@
+1 SOUR @S4@
+2 PAGE page 237-238
+0 @F4@ FAM
+1 _UID D042C7B16F884448B36717A256501CC96B5F
+1 DIV Y
+1 HUSB @I1@
+1 WIFE @I38@
+1 CHIL @I41@
+1 MARR
+2 DATE Feb or Mar 1843
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S4@
+3 PAGE page 497
+0 @F5@ FAM
+1 _UID 14F08EDE830EA9488DAD5B30A22A6DCABA19
+1 HUSB @I13@
+1 WIFE @I11@
+1 CHIL @I56@
+1 CHIL @I12@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I58@
+1 CHIL @I16@
+1 CHIL @I57@
+1 NOTE Several sources list Deborah Ann Price as a child in this family.  However, her birth locatio
+2 CONC n is said to be in Bucks County, Pennsylvania in 1817 - a period when the Price family is bel
+2 CONC ived to be in England.  (Source: Ancestral File.  Name: Deborah Ann Price.  Birth: 13 Sep 181
+2 CONC 7.)  
+2 CONT 
+2 CONT Another search lists a Deborah Price, born about 1814 in Middletown, Bucks, PA to a William P
+2 CONC rice and Mary Mahan.  Researchers could have confused the two families since the father has t
+2 CONC he same name and Mary Mahan Price sounds much like Mary Ann Price.  (Source: Ancestral File
+2 CONC .  Name: Deborah Price.  Birth: 1814).
+0 @F6@ FAM
+1 _UID 57223DB9DA10CC4BB6AF0E52EB162E248881
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I11@
+0 @F7@ FAM
+1 _UID 09A85332997FED42B6EFFFC17AA433598C3C
+1 HUSB @I1@
+1 WIFE @I12@
+1 CHIL @I36@
+1 MARR
+2 DATE 20 Jul 1843
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S4@
+3 PAGE page 498
+2 SOUR @S1@
+3 NOTE Marriage date listed as: Apr 1843
+2 SOUR @S12@
+3 NOTE Name Listed: Mary Ann Price
+4 CONT Birth Date: 5 Jun 1816
+4 CONT Marriage Date: Apr 1843
+1 SOUR @S3@
+2 PAGE p. 245
+0 @F8@ FAM
+1 _UID 6D486195477EAD44BF32CFCBA13C273020A8
+1 HUSB @I19@
+1 WIFE @I15@
+1 CHIL @I10@
+1 CHIL @I22@
+1 CHIL @I23@
+1 MARR
+2 DATE 9 Sep 1843
+2 PLAC Nauvoo, Hancock, Illinois
+2 SOUR @S12@
+3 NOTE Name Listed: Elizabeth Price
+4 CONT Birth Date: 29 Jun 1821
+0 @F9@ FAM
+1 _UID B9FC92D8AE191E4EB294DC3AA5609F7CCEC1
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I19@
+0 @F10@ FAM
+1 _UID 35FD8D0ED8FA7D409FF897B1C5C95FDC0457
+1 HUSB @I24@
+1 WIFE @I25@
+1 CHIL @I30@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I31@
+1 CHIL @I28@
+1 CHIL @I29@
+1 MARR
+2 DATE 24 Jan 1818
+2 PLAC Grafton, Grafton, New Hampshire 
+1 SOUR @S12@
+2 NOTE Marriage Date: 24 Jan 1818
+0 @F11@ FAM
+1 _UID 08D6974B24DE5D46A3D640A306724262DD62
+1 HUSB @I26@
+1 WIFE @I32@
+1 CHIL @I33@
+1 MARR
+2 DATE 26 Jan 1851
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+0 @F12@ FAM
+1 _UID F733AFE16912074DB91AA0D0DE9C52F08847
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I2@
+0 @F13@ FAM
+1 _UID 7D815A2744EE134CB1E8F3B2FAF7E64B700A
+1 HUSB @I37@
+1 WIFE @I12@
+1 MARR
+2 DATE 30 Jun 1836
+2 PLAC Lea, Herefordshire, England
+0 @F14@ FAM
+1 _UID 79BFB93C5F53A34FB5BCAFABD0E2DDB2DDA4
+1 HUSB @I39@
+1 WIFE @I40@
+1 CHIL @I38@
+0 @F15@ FAM
+1 _UID 828C7C46E7DCDE42812B2A3AAC13128A1EDA
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I50@
+1 CHIL @I46@
+1 CHIL @I52@
+1 CHIL @I51@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHIL @I49@
+1 CHIL @I45@
+1 CHIL @I44@
+1 CHIL @I48@
+1 CHIL @I47@
+1 CHIL @I55@
+1 MARR
+2 DATE 9 Nov 1826
+2 PLAC Busy Fork, Bledsoe Creek, Tennessee
+2 SOUR @S1@
+3 NOTE Name Listed: Johnathan Browning
+4 CONT Birth Date: 29 Oct 1805
+2 SOUR @S12@
+3 NOTE Name Listed: Jonathan Browning
+4 CONT Birth Date: 29 Oct 1805
+4 CONT Marriage Location: Tennessee
+2 SOUR @S20@
+3 NOTE Marriage date given as 7 Nov 1823 in Gallatin, Sumner, Tennessee
+1 SOUR @S1@
+0 @F16@ FAM
+1 _UID 3A41AB1FA834894BA34F896FE8480BDDF782
+1 HUSB @I63@
+1 WIFE @I64@
+1 CHIL @I42@
+0 @F17@ FAM
+1 _UID 6B60F5B3218AA24F960CEC547E83C5B66D53
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I60@
+0 @S1@ SOUR
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S2@ SOUR
+1 TITL Mormon Pioneer Overland Travel, 1847-1868
+1 PUBL The Church of Jesus Christ of Latter-day Saints
+1 CALN http://www.lds.org/churchhistory/library/pioneercompanysearch/1,15773,3966-1,00.html
+0 @S3@ SOUR
+1 TITL Winter Quarters: The 1846-1848 Life Writings of Mary Haskin Parker Richards
+1 AUTH Maurine Carr Ward, ed.
+1 PUBL (Logan, UT: Utah State University Press, 1996)
+0 @S4@ SOUR
+1 TITL Orson Hyde: The Olive Branch of Israel
+1 AUTH Myrtle Stevens Hyde
+1 PUBL (Salt Lake City: Agreka Books, 2000)
+0 @S5@ SOUR
+1 TITL Family Data Collection - Individual Records
+1 AUTH Edmund West, comp.
+1 PUBL Provo, UT: The Generations Network, Inc., 2000
+1 CALN ancestry.com
+0 @S6@ SOUR
+1 TITL International Genealogical Index (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1980, 2002, data as of October 16, 2007
+0 @S7@ SOUR
+1 TITL Family Data Collection - Births
+1 AUTH Edmund West, comp.
+1 PUBL Provo, UT: The Generations Network, Inc., 2001
+1 CALN Ancestry.com
+0 @S8@ SOUR
+1 TITL Millennium File
+1 AUTH Heritage Consulting
+1 PUBL Provo, UT: The Generations Network, Inc. 2003.
+1 CALN Ancestry.com
+0 @S9@ SOUR
+1 TITL Family Data Collection - Deaths
+1 AUTH Edmund West, comp.
+1 PUBL Provo, UT: The Generations Network, 2001
+1 CALN Ancestry.com
+0 @S10@ SOUR
+1 TITL St. Louis, Missouri Marriages, 1804-76
+1 AUTH St. Louis Genealogical Society, comp.
+1 PUBL Provo, UT: The Generations Network, Inc., 2000
+1 CALN Ancestry.com
+0 @S11@ SOUR
+1 TITL Missouri Marriages to 1850
+1 AUTH Jordan Dodd
+1 PUBL Provo, UT: The Generations Network, Inc., 1997
+1 CALN Ancestry.com
+1 NOTE Original data: Electronic transcription of marriage records held by the individual cocuntie
+2 CONC s in Missouri
+0 @S12@ SOUR
+1 TITL Early Latter-day Saints Database
+1 AUTH Darrin Lythgoe, site creator 
+1 PUBL Sandy, UT, (C) 2001-2006
+1 CALN earlylds.com
+0 @S14@ SOUR
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @S15@ SOUR
+1 TITL 1850 United States Federal Census [database on-line]
+1 AUTH District 21, Pottawattamie County, Iowa
+1 PUBL Provo, UT: The Generations Network, Inc., 2005
+1 CALN Ancestry.com
+1 NOTE Original Data: United States of America, Bureau of the Census. Seventh Census of the United S
+2 CONC tates, 1850. Washington, D.C.: National Archives and Records Administration, 1850. M432, 1,00
+2 CONC 9 rolls.
+0 @S16@ SOUR
+1 TITL OneWorldTree
+1 AUTH Ancestry.com
+1 PUBL (c) 2008 The Generations Network
+0 @S17@ SOUR
+1 TITL Utah State History - Burials Database
+1 PUBL (c) 2008, State of Utah
+1 CALN http://history.utah.gov/apps/burials
+0 @S18@ SOUR
+1 TITL 1841 England Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2006.
+1 TEXT Original data: Census Returns of England and Wales, 1841. Kew, Surrey, England: The Nationa
+2 CONC l Archives of the UK (TNA): Public Record Office (PRO), 1841. 
+0 @S19@ SOUR
+1 TITL Web Family Cards
+1 AUTH growguide@colfax.com
+1 CALN http://www.growersguide.com/bill/Carroll/wc01/wc01_388.htm
+0 @S20@ SOUR
+1 TITL Descendants of Jonathan Browning
+1 AUTH Jonathan Browning Organization
+1 CALN jonathanbrowning.org/browning.pdf
+1 NOTE Date on document: 23 Feb 2007
+0 TRLR

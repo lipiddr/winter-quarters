@@ -1,0 +1,4637 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 25 Jul 2013
+2 TIME 10:42:12
+1 FILE ponycreek.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @I1@ INDI
+1 NAME William Addington /Martindale/
+2 SURN Martindale
+2 GIVN William Addington
+1 SEX M
+1 BIRT
+2 DATE 11 Jun 1814/1821
+2 PLAC Washington, Wayne, Indiana
+1 DEAT
+2 DATE 14 Feb 1873
+2 PLAC Duncan's Retreat, Washington, Utah
+1 BURI
+2 DATE 16 Feb 1873
+2 PLAC Virgin City, Washington, Utah
+1 _UID FE1557536B4F2E439E78B0BF2CC79D17140D
+1 FAMS @F1@
+1 FAMS @F4@
+1 FAMS @F6@
+1 FAMC @F2@
+1 NOTE Sources are mixed on his birth year. Also his death place is most likely Virgin, Washington
+2 CONC , Utah which is a town on the Virgin River.
+1 SOUR @S1@
+2 PAGE Roll: M432_184; Page: 153; Image: 45
+2 NOTE Dwelling and Family #164
+3 CONT William Martindale age 26 making his birth year around 1824 in Indiana.
+2 DATA
+3 DATE September 12, 1850 in Fremont, Iowa
+1 SOUR @S2@
+2 NOTE William Addington Martindale, Born: June 11, 1814 in Washington, Wayne, Indiana; Died: Februa
+3 CONC ry 14, 1873 in Duncan Retreat, Washington, Utah; Buried: February 16, 1873 in Virgin City, Wa
+3 CONC shington, Utah.
+1 SOUR @S3@
+2 NOTE William Martindale, Born: ca 1821; Died: unknown; Trekked with the James C. Snow Company in 1
+3 CONC 852 at the age of 31 years.
+1 SOUR @S5@
+2 NOTE William Martindale, Born: 1814; Died: 1873.
+1 CHAN
+2 DATE 18 Mar 2009
+3 TIME 11:33:35
+0 @I2@ INDI
+1 NAME Mahala /Stigleman/
+2 SURN Stigleman
+2 GIVN Mahala
+1 SEX F
+1 BIRT
+2 DATE 1812
+2 PLAC Greens Fork, Wayne, Indiana
+1 DEAT
+2 DATE 2 Jan 1898
+1 BURI
+2 DATE 4 Jan 1898
+1 _UID F224168B6F481647B5C323A11092A3EC3842
+1 FAMS @F1@
+1 FAMC @F3@
+1 NOTE Her name is also sourced as Mahaha. If there is anymore information let us know.
+1 SOUR @S2@
+2 NOTE Mahala Stigleman, Born: 1812 in Greensfork, Wayne, Indiana; Died: January 2, 1898; Burial: Ja
+3 CONC nuary 4, 1898.
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:05:31
+0 @I3@ INDI
+1 NAME William Clinton /Martindale/
+2 SURN Martindale
+2 GIVN William Clinton
+1 SEX M
+1 BIRT
+2 DATE 10 Jul 1834
+2 PLAC Greensfork, Wayne, Indiana
+1 DEAT
+2 DATE 4 Jul 1911
+2 PLAC Oakley, Cassia, Idaho
+1 BURI
+2 DATE 11 Jul 1911
+2 PLAC Oakley Cemetery, Oakley, Cassia, Idaho
+1 _UID 7B987D74AB861641ACDA7C00F0493ED9DE6B
+1 FAMC @F1@
+1 SOUR @S2@
+2 NOTE William Clinton Martindale, Born: July 10, 1834 in Greensfork, Wayne, Indiana; Died: July 4
+3 CONC , 1911 in Oakley, Cassia, Idaho; Burial: July 11, 1911 in Oakley Cemetery, Oakley, Cassia, Id
+3 CONC aho.
+1 SOUR @S3@
+2 NOTE William Clinton Martindale, Born: July 10, 1834; Died: July 4, 1911; Trekked with the James C
+3 CONC . Snow Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_184; Page: 153; Image: 45
+2 NOTE Dwelling and Family #164
+3 CONT Clinton Martindale age 16 making his birth year around 1834 in Indiana.
+2 DATA
+3 DATE September 12, 1850 in Fremont, Iowa
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:03:33
+0 @I4@ INDI
+1 NAME Martha Jane /Martindale/
+2 SURN Martindale
+2 GIVN Martha Jane
+1 SEX F
+1 BIRT
+2 DATE 21 Feb 1837
+2 PLAC Greensfork, Wayne, Indiana
+1 DEAT
+2 DATE 18 Nov 1860
+2 PLAC Grantsville, Tooele, Utah
+1 BURI
+2 PLAC Grantsville, Tooele, Utah
+1 _UID 3B5A4F2DE8A9774987A1D8496D9BE70BA565
+1 FAMC @F1@
+1 SOUR @S2@
+2 NOTE Martha Jane Martindale, Born: February 21, 1837 in Greensfork [sic], Wayne, Indiana; Died: No
+3 CONC vember 18, 1860 in Grantsville, Tooele, Utah; Burial: in Grantsville, Tooele, Utah.
+1 SOUR @S3@
+2 NOTE Martha Jane Martindale, Born: February 21, 1837; Died: November 18, 1860; Trekked with the Ja
+3 CONC mes C. Snow Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_184; Page: 153; Image: 45
+2 NOTE Dwelling and Family #164 
+3 CONT Martha Martindale age 13 making her birth year around 1837 in Indiana.
+2 DATA
+3 DATE September 12, 1850 in Fremont, Iowa
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:03:48
+0 @I5@ INDI
+1 NAME James /Martindale/
+2 SURN Martindale
+2 GIVN James
+1 SEX M
+1 _UID 19F74EF37917B84891996512620BFA846D95
+1 FAMS @F2@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:33
+0 @I6@ INDI
+1 NAME Elizabeth /Addington/
+2 SURN Addington
+2 GIVN Elizabeth
+1 SEX F
+1 _UID E39FDE6F99B8B74EAA609BEC24E404B87A6A
+1 FAMS @F2@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:32
+0 @I7@ INDI
+1 NAME John /Stigleman/
+2 SURN Stigleman
+2 GIVN John
+1 SEX M
+1 _UID 3F7A976190BEA241B25EEB129674697BDDCB
+1 FAMS @F3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:31
+0 @I8@ INDI
+1 NAME Frances /Wade/
+2 SURN Wade
+2 GIVN Frances
+1 SEX F
+1 _UID 0B849622C9383C41B0886105059277DE4FFC
+1 FAMS @F3@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:30
+0 @I9@ INDI
+1 NAME Rebecca Ann /Haines/
+2 SURN Haines
+2 GIVN Rebecca Ann
+1 SEX F
+1 BIRT
+2 DATE 13 May 1825
+2 PLAC , Greene, Tennessee
+1 DEAT
+2 DATE 9 Dec 1865
+2 PLAC Duncan's Retreat, Washington, Utah
+1 _UID 21FAD18C60253A479CBC48822064D106FBAC
+1 FAMS @F4@
+1 FAMC @F5@
+1 SOUR @S2@
+2 NOTE Rebecca Ann Haines, Born: May 13, 1825 in Greene County Tennessee; Died: December 9, 1865 i
+3 CONC n Duncan's Retreat, Washington, Utah.
+1 SOUR @S3@
+2 NOTE Rebecca Ann Haines Marshall Martindale, Born: May 13, 1825; Died: December 9, 1865; Trekked w
+3 CONC ith the James C. Snow Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_184; Page: 153; Image: 45
+2 NOTE Dwelling and Family # 164
+3 CONT Rebecca Martindale age 25 making her birth year around 1825 in Tennessee.
+2 DATA
+3 DATE September 12, 1850 in Fremont, Iowa
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:05:55
+0 @I10@ INDI
+1 NAME Azariah /Haines/
+2 SURN Haines
+2 GIVN Azariah
+1 SEX M
+1 _UID D66D23AB94BDAE488825324B6AEE34879506
+1 FAMS @F5@
+1 SOUR @S2@
+2 NOTE Azariah Haines (Hanes)
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:27
+0 @I11@ INDI
+1 NAME Polly Ann /Newman/
+2 SURN Newman
+2 GIVN Polly Ann
+1 SEX F
+1 _UID A17607FBD1BAF94F9C8D782EB6208EFD1C28
+1 FAMS @F5@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:26
+0 @I12@ INDI
+1 NAME Franklin /Martindale/
+2 SURN Martindale
+2 GIVN Franklin
+1 SEX M
+1 BIRT
+2 DATE ABT 1849/1850
+2 PLAC , Pottawattamie, Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 9DD0C41BE131D94BBB28D8F5F3F00A315085
+1 FAMC @F4@
+1 SOUR @S3@
+2 NOTE Franklin Martindale, Born: unknown; Died: unknown; Trekked with the James C. Snow Company i
+3 CONC n 1852.
+1 SOUR @S4@
+2 PAGE Roll: M653_1313; Page: 300; Image: 306
+2 NOTE Dwelling #2193 and Family #8
+3 CONT Frank Martindale age 12 making his birth year around 1848 in Iowa.
+2 DATA
+3 DATE August 27, 1860 in Tooele, Utah
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:02:28
+0 @I13@ INDI
+1 NAME Caroline /Smith/
+2 SURN Smith
+2 GIVN Caroline
+1 SEX F
+1 BIRT
+2 DATE ABT 1818
+2 PLAC <Washington, Wayne, Indiana>
+1 DEAT
+2 DATE unknown
+1 _UID 10FE5750FEFC3044B1D68959404DF5E6F4C0
+1 FAMS @F6@
+1 SOUR @S2@
+2 NOTE Carline Smith, Born: about 1818 and lived in Washington, Wayne, Indiana.
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:24
+0 @I14@ INDI
+1 NAME Lucien /Woodworth/
+2 SURN Woodworth
+2 GIVN Lucien
+1 SEX M
+1 BIRT
+2 DATE 3 Apr 1799
+2 PLAC Thetford, Orange, Vermont
+1 DEAT
+2 DATE unknown
+1 _UID 0E5F1571506B8841B237A4DAF2CE80C4E267
+1 FAMS @F7@
+1 FAMS @F8@
+1 FAMS @F9@
+1 FAMS @F10@
+1 FAMS @F11@
+1 SOUR @S6@
+2 PAGE CD #126; Pin #744042
+2 NOTE Lucian Woodworth, Born: April 3, 1799 in Thetford, Orange, Vermont.
+1 SOUR @S7@
+2 PAGE Page: 85
+2 NOTE Lucian Woodworth, Born: April 3, 1799 in Thetford, Orange, Vermont; Died: 1867 probably in Sa
+3 CONC nbernardino, Sanbernardino, California.
+1 SOUR @S3@
+2 NOTE Lucien Woodworth, Born: April 3, 1799; Died: Unknown; Trekked with an Unknown Company in arou
+3 CONC nd 1850.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 136; Image: 274
+2 NOTE Dwelling and Family #244
+3 CONT Lucien Woodworth age 46 making his birth year around 1804 in Vermont.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #296
+3 CONT Lucien Woodworth age 50 making his birth year around 1800 in Vermont.
+2 DATA
+3 DATE Sept 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:23
+0 @I15@ INDI
+1 NAME Phebe /Watrous/
+2 SURN Watrous
+2 GIVN Phebe
+1 SEX F
+1 BIRT
+2 DATE 1 Oct 1805
+2 PLAC Sharon, Ostego, New York
+1 DEAT
+2 DATE 25 Oct 1887
+2 PLAC , , Utah
+1 _UID 3D6E809610CD7240B89F7BB6308F2E955A0A
+1 FAMS @F7@
+1 NOTE Was sealed to Joseph Smith Jr. while in life and the sealing was repeated in 1846 with Lucie
+2 CONC n being proxy for Joseph and then Lucien and her were married for time.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744040
+2 NOTE Phebe Watrous, Born: October 1, 1805 in Sharon, Ostego, New York.
+1 SOUR @S7@
+2 PAGE Page 84-85 
+2 NOTE Phebe Watrous, Born: Octocber 1, 1805 in Sharon, Ostego, New York; Died: after 1872 probabl
+3 CONC y in Utah.
+1 SOUR @S3@
+2 NOTE Phebe Watrous Woodworth, Born: October 1, 1805; Died: October 25, 1887; Trekked with an Unkno
+3 CONC wn Company in 1856 or 1857.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #296
+3 CONT Phoebe Woodworth age 45 making her birth year around 1805 in Kentucky.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:22
+0 @I16@ INDI
+1 NAME Flora Ann /Woodworth/
+2 SURN Woodworth
+2 GIVN Flora Ann
+1 SEX F
+1 BIRT
+2 DATE 12 Jun 1826
+2 PLAC Sharon, Ostego, New York
+1 DEAT
+2 DATE 1850
+2 PLAC Winter Quarters, Nebraska
+1 _UID CA565689FD64C742927FA9EFAF1ABC0BA2CA
+1 FAMC @F7@
+1 NOTE She was also sealed to Joseph Smith during in 1843 in Nauvoo bur was later married to Carolo
+2 CONC s Gove.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744037
+2 NOTE Flora Ann Woodworth, Born: June 12, 1826 in New York; Died: 1850 in Winter Quarters, Nebraska
+3 CONC .
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #296
+3 CONT Flora Woodworth age 24 making her birth year around 1826 in Kentucky.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:21
+0 @I17@ INDI
+1 NAME Araminta Maria /Williams/
+2 SURN Williams
+2 GIVN Araminta Maria
+1 SEX F
+1 BIRT
+2 DATE 20 Sep 1815
+2 PLAC Henderson, Jefferson, New York
+1 DEAT
+2 DATE 1870
+2 PLAC Unknown
+1 _UID DD6E14CAAAD0924D8BEB68221CB42C1896C8
+1 FAMS @F8@
+1 FAMC @F21@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744042
+2 NOTE Araminta Maria Williams, Born: September 20, 1815 in Henderson, Jefferson, New York; Died: 18
+3 CONC 70.
+1 SOUR @S3@
+2 NOTE Araminta Maria Williams, Born: September 20, 1815; Died: 1870; Trekked with an Unknown Compan
+3 CONC y in 1850 at the age of 34.
+1 SOUR @S1@
+2 PAGE Roll: M42_919; Page: 136; Image: 274
+2 NOTE Dwelling and Family #244
+3 CONT Maria Woodworth age 35 making her birth year around 1815 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:20
+0 @I18@ INDI
+1 NAME Margaret /Johnson/
+2 SURN Johnson
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE 16 Dec 1819
+2 PLAC Cornwall, Ontario, Canada
+1 DEAT
+2 DATE unknown
+1 _UID 1C3B6567CC7E95459FB4C44253674A46EA50
+1 FAMS @F9@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744044
+2 NOTE Margaret Johnson, Born: December 16, 1819 in Cornwall, Ontario, Canada.
+1 SOUR @S3@
+2 NOTE Margaret Johnson Woodworth, Born: December 16, 1819; Died: Unknown; Trekked with an Unknown C
+3 CONC ompany in 1850.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 136; Image: 275
+2 NOTE Dwelling and Family #244
+3 CONT Margaret Woodworth age 30 making her birth year around 1820 in Canada.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:19
+0 @I19@ INDI
+1 NAME Rachel /Kingsley/
+2 SURN Kingsley
+2 GIVN Rachel
+1 SEX F
+1 BIRT
+2 DATE 6 Jul 1805
+2 PLAC Lyme, New London, Connecticut
+1 DEAT
+2 DATE unknown
+1 _UID 08422396CF56294499967AB81702AA4D06A3
+1 FAMS @F10@
+1 NOTE The source states that the birth place is Lime, Connecticut but the City name should be Lym
+2 CONC e within New London County.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744043
+2 NOTE Rachel Kingsley, Born: July 6, 1805 in Lime [sic], Connecticut.
+1 SOUR @S8@
+2 NOTE Rachel Kingsley, Born: July 6, 1805 in Lyme, New London, Connecticut.
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:17
+0 @I20@ INDI
+1 NAME Charlotte /Fox/
+2 SURN Fox
+2 GIVN Charlotte
+1 SEX F
+1 BIRT
+2 DATE 6 Nov 1801
+2 PLAC Rome, Oneida, New York
+1 DEAT
+2 DATE 13 Sep 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 381C3EC71D02E946B9CD78FF04225C5D835E
+1 FAMS @F11@
+1 FAMC @F22@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744041
+2 NOTE Charlotte Fox, Born: November 6, 1801 in Rome, New York; Died: September 13, 1846 in Nauvoo
+3 CONC , Hancock, Illinois.
+1 SOUR @S8@
+2 NOTE Charlotte Fox, Born: November 6, 1801 in Rome, Oneida, New York.
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:14
+0 @I21@ INDI
+1 NAME Debroah /Woodworth/
+2 SURN Woodworth
+2 GIVN Debroah
+1 SEX F
+1 BIRT
+2 DATE ABT 1847
+2 PLAC Iowa
+1 DEAT
+2 DATE unknown
+1 _UID D865C9259C701941B74D232CDAD86F4D5249
+1 FAMC @F9@
+1 NOTE Was most likely born in Iowa.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 136; Image: 275
+2 NOTE Dwelling and Family #244
+3 CONT Deborah Woodworth age 3 making her birth year aroudn 1847 in Iowa.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:13
+0 @I22@ INDI
+1 NAME Mary /Woodworth/
+2 SURN Woodworth
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1835
+2 PLAC , , Kentucky
+1 DEAT
+2 DATE unknown
+1 _UID 09738D09B9B15B46915F15E414889DF635EE
+1 FAMC @F7@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #296
+3 CONT Mary Woodworth age 15 making her birth year around 1835 in Kentucky.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:12
+0 @I23@ INDI
+1 NAME John /Woodworth/
+2 SURN Woodworth
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1839
+2 PLAC , , Missouri
+1 DEAT
+2 DATE unknown
+1 _UID 87E32C9D28BFF34E950965FB4A9057DD67FE
+1 FAMC @F7@
+1 SOUR @S3@
+2 NOTE John Woodworth, Born: unknown; Died: Unknown; Trekked with and Unknown Company in 1856 (assum
+3 CONC ed to have traveled with mother).
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #296
+3 CONT John Woodworth age 11 making his birth year around 1839 in Missouri.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:11
+0 @I24@ INDI
+1 NAME John Orson /Thompson/
+2 SURN Thompson
+2 GIVN John Orson
+1 SEX M
+1 BIRT
+2 DATE 8 Aug 1844
+2 PLAC Nashville, Lee, Iowa
+1 DEAT
+2 DATE 31 Oct 1906
+2 PLAC Theodore, Wasatch, Utah
+1 BURI
+2 DATE 2 Nov 1906
+2 PLAC Theodore, Wasatch, Utah
+1 _UID 6A7FC05B7582FA4C8E9152B30730D53EAF18
+1 FAMC @F12@
+1 NOTE Nashville is in Jackson County Iowa not Lee County.
+1 SOUR @S6@
+2 PAGE CD#130; PIN#112189
+2 NOTE John Orson Thompson, Born: August 8, 1844 in Nashville, Lee, Iowa; Died: October 31, 1906 i
+3 CONC n Theodore, Wasatch, Utah; Burial: November 2, 1906 in Theodore, Wasatch, Utah.
+1 SOUR @S3@
+2 NOTE John Orson Thompson, Born: August 8, 1844; Died: October 31, 1906; Trekked with the Isaac Bul
+3 CONC lock Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT John Thompson age 5 making his birth year around 1845 in Iowa.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:10
+0 @I25@ INDI
+1 NAME James Lewis /Thompson/
+2 SURN Thompson
+2 GIVN James Lewis
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1818
+2 PLAC Pomfret, Chautauqua, New York
+1 DEAT
+2 DATE 25 Mar 1891
+2 PLAC Henrieville, Garfield, Utah
+1 BURI
+2 PLAC Henrieville, Garfield, Utah
+1 _UID 3C8396D38939C74D8995B63E43FCE1CFFF18
+1 FAMS @F12@
+1 FAMC @F16@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149011
+2 NOTE James Lewis Thompson, Born: January 22, 1818 Pomfret, Chautauqua, New York; Died: March 25, 1
+3 CONC 891 in Henrieville, Garfield, Utah; Burial: in Henrieville, Garfield, Utah. 
+1 SOUR @S3@
+2 NOTE James Lewis Thompson, Born: January 22, 1818; Died: March 25, 1890; Trekked with the Isaac Bu
+3 CONC llock Company in 1852. 
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT James Thompson age 32 making his birth year around 1818 in New York.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:09
+0 @I26@ INDI
+1 NAME John David /Thompson/
+2 SURN Thompson
+2 GIVN John David
+1 SEX M
+1 BIRT
+2 DATE 15 Oct 1838
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 28 Oct 1838
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 167A80638E6FDC498083FC4ED66E7827C5DF
+1 FAMC @F12@
+1 NOTE Nauvoo was not yet settled so I don't think this information is absolutely accurate but thi
+2 CONC s is all the information that I have.
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149046
+2 NOTE John David Thompson, Born: October 15, 1838 in Nauvoo, Hancock, Illinois; Died: October 28, 1
+3 CONC 838 in Nauvoo, Hancock, Illinois.
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:08
+0 @I27@ INDI
+1 NAME Matilda Delila /Willis/
+2 SURN Willis
+2 GIVN Matilda Delila
+1 SEX F
+1 BIRT
+2 DATE 16 Feb 1819
+2 PLAC Gallatin, Sumner, Tennessee
+1 DEAT
+2 DATE 25 Mar 1890
+2 PLAC St. Anthony, Fremont, Idaho
+1 _UID 168EE4E932623040ACD16EE23B4CD49532CF
+1 FAMS @F12@
+1 FAMC @F17@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149012
+2 NOTE Matilda Delila Willis, Born: February 16, 1819 in Gallatin, Sumner, Tennessee; Died: March 25
+3 CONC , 1890 in St. Anthony, Fremont, Idaho.
+1 SOUR @S3@
+2 NOTE Matilda Delila Thompson, Born: February 16, 1819; Died: March 25, 1890; Trekked with the Isaa
+3 CONC c Bullock Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT Matilda Thompson age 31 making her birth year around 1819 in New York.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:07
+0 @I28@ INDI
+1 NAME Leah Jane /Thompson/
+2 SURN Thompson
+2 GIVN Leah Jane
+1 SEX F
+1 BIRT
+2 DATE 1 Dec 1840
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 20 Feb 1858
+2 PLAC Unknown
+1 _UID AA65F789320AF849882A25DEF90AA4DF47CC
+1 FAMC @F12@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149043
+2 NOTE Leah Jane Thompson, Born: December 1, 1840 in Nauvoo, Hancock, Illinois; Died: February 20, 1
+3 CONC 858.
+1 SOUR @S3@
+2 NOTE Leah Jane Thompson, Born: December 1, 1840; Died: February 20, 1858; Trekked with the Isaac B
+3 CONC ullock Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT Leah Thompson age 9 making her birth year around 1841 in Illinois.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:06
+0 @I29@ INDI
+1 NAME Lucy Lucretia /Thompson/
+2 SURN Thompson
+2 GIVN Lucy Lucretia
+1 SEX F
+1 BIRT
+2 DATE 24 Dec 1842
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 9 May 1891
+2 PLAC Unknown
+1 _UID D75CB6D4BB793B4FA0CD2CEB495DAC81D2E6
+1 FAMC @F12@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149047
+2 NOTE Lucy Lucretia Thompson, Born: December 24, 1842 in Nauvoo, Hancock, Illinois; Died: May 9, 18
+3 CONC 91.
+1 SOUR @S3@
+2 NOTE Lucy Lucretia Thompson, Born: December 24, 1842; Died: May 9, 1891; Trekked with the Isaac Bu
+3 CONC llock Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT Lucy Thompson age 7 making her birth year around 1843 in Iowa.
+2 DATA
+3 DATE September 17, 1850 Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:05
+0 @I30@ INDI
+1 NAME James Brigham /Thompson/
+2 SURN Thompson
+2 GIVN James Brigham
+1 SEX M
+1 BIRT
+2 DATE 12 Oct 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE 25 Jun 1919
+2 PLAC Idaho Falls, Bonneville, Idaho
+1 BURI
+2 DATE 28 Jun 1919
+2 PLAC Ucon, Bonneville, Idaho
+1 _UID DB4CC7ED0EB6294ABC29A17A3ACD246DAAE8
+1 FAMC @F12@
+1 NOTE Jefferson County could not be the death county if he died in Idaho Falls because that city i
+2 CONC s in Bonneville County since 1911 and before that the city's county was Bingham County.
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149048
+2 NOTE James Brigham Thompson, Born: October 12, 1848 in Council Bluffs, Pottawattamie, Iowa; Died
+3 CONC : June 25, 1919 in Idaho Falls, Jefferson, Idaho [sic]; Burial: June 28, 1919 in Ucon, Bonnev
+3 CONC ille, Idaho.
+1 SOUR @S3@
+2 NOTE James Brigham Thompson, Born: October 12, 1848; Died: June 25, 1919; Trekked with the Isaac B
+3 CONC ullock Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT Brigham Thompson age 2 making his birth year around 1848 in Iowa.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:04
+0 @I31@ INDI
+1 NAME Mary Matilda /Thompson/
+2 SURN Thompson
+2 GIVN Mary Matilda
+1 SEX F
+1 BIRT
+2 DATE 7 Jun 1850
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 DEAT
+2 DATE unknown
+1 _UID BE8955DAD8E48248AB802FE9314F6B5C8689
+1 FAMC @F12@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149049
+2 NOTE Mary Matilda Thompson, Born: June 7, 1850 in Council Bluffs, Pottawattamie, Iowa; Died: young
+3 CONC .
+1 SOUR @S3@
+2 NOTE Mary Matilda Thompson, Born: June 7, 1850; Died: unkown; Trekked with the Isaac Bullock Compa
+3 CONC ny in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #295
+3 CONT Mary Thompson age 1 making her birth year around 1849 in Iowa.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:03
+0 @I32@ INDI
+1 NAME Timothy /King/
+2 SURN King
+2 GIVN Timothy
+1 SEX M
+1 BIRT
+2 DATE 22 Aug 1803
+2 PLAC Pittstown, Rensselaer, New York
+1 DEAT
+2 DATE 13 Oct 1867
+2 PLAC Fillmore, Millard, Utah
+1 _UID 9D9FA7717C89BF4DAD4C658ACDDA12BCC20C
+1 FAMS @F13@
+1 FAMC @F14@
+1 SOUR @S6@
+2 PAGE CD#124; PIN#108727
+2 NOTE Timothy Hyde King, Born: August 22, 1803 in Pittstown, Rensselaer, New York; Died: October 13
+3 CONC , 1867 in Fillmore, Millard, Utah.
+1 SOUR @S3@
+2 NOTE Timothy H. King, Born: August 22, 1803; Died: October 13, 1867; Trekked with the Isaac Bulloc
+3 CONC k Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #297
+3 CONT Timothy King age 49 making his birth year around 1801 in New York.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:02
+0 @I33@ INDI
+1 NAME Mary /Fay/
+2 SURN Fay
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 10 Sep 1799
+2 PLAC Kingsbury, Washington, Vermont
+1 DEAT
+2 DATE unknown
+1 _UID 62E18551BDCD9D418F08F9A558676EF7DAEF
+1 FAMS @F13@
+1 FAMC @F15@
+1 SOUR @S6@
+2 PAGE CD#124; PIN#198728
+2 NOTE Mary Fay, Born: September 10, 1799 in Kingsbury, Washington, New York.
+1 SOUR @S3@
+2 NOTE Mary King, Born: September 10, 1799; Died: unknown; Trekked with the Isaac Bullock Company i
+3 CONC n 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #297
+3 CONT Mary King age 53 making her birth year around 1797 in New York.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:16:00
+0 @I34@ INDI
+1 NAME Hiram /King/
+2 SURN King
+2 GIVN Hiram
+1 SEX M
+1 BIRT
+2 DATE 12 Jun 1834
+2 PLAC Cicero, Onondaga, New York
+1 DEAT
+2 DATE 11 Sep 1845
+2 PLAC Unknown
+1 _UID AA45AACD217B2742938EDA003DB58995765D
+1 FAMC @F13@
+1 SOUR @S6@
+2 PAGE CD#124; PIN#108729
+2 NOTE Hiram King, Born: June 12, 1834 in Cicero, Onondaga, New York; Died: September 11, 1845.
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:57
+0 @I35@ INDI
+1 NAME Mary Elizabeth /King/
+2 SURN King
+2 GIVN Mary Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 6 Mar 1835
+2 PLAC Palmyra, Wayne, New York
+1 DEAT
+2 DATE 28 Oct 1903
+2 PLAC Vernal, Uintah, Utah
+1 _UID B8156FBAD52A774CB0EEF92FEF2C0B2BCF9F
+1 FAMC @F13@
+1 NOTE The burial date is May 22, 1903 in Vernal but the death date is only October 28, 1903.  Thi
+2 CONC s raises many questions but I was unable to find any other information.
+1 SOUR @S6@
+2 PAGE CD#124; PIN#108726
+2 NOTE Mary Elizabeth King, Born: March 6, 1835 in Palmyra, Wayne, New York; Died: October 28, 190
+3 CONC 3 in Vernal, Uintah, Utah.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 83; Image: 168
+2 NOTE Dwelling and Family #297
+3 CONT Mary King age 14 making her birth year around 1836 in New York.
+2 DATA
+3 DATE September 17, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:56
+0 @I36@ INDI
+1 NAME Thomas /King/
+2 SURN King
+2 GIVN Thomas
+1 SEX M
+1 _UID 78A7235A5C7DB744ACABA6369909D646616E
+1 FAMS @F14@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:53
+0 @I37@ INDI
+1 NAME Ruth /Hyde/
+2 SURN Hyde
+2 GIVN Ruth
+1 SEX F
+1 _UID CB62A47589670440A34A18A15DB35AA42E50
+1 FAMS @F14@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:51
+0 @I38@ INDI
+1 NAME Paul /Fay/
+2 SURN Fay
+2 GIVN Paul
+1 SEX M
+1 _UID 0EBCC7FE5813C6449762ED17043723BA19D9
+1 FAMS @F15@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:48
+0 @I39@ INDI
+1 NAME Sarah /Allen/
+2 SURN Allen
+2 GIVN Sarah
+1 SEX F
+1 _UID 34B543347BE8534FB1F91AFE41D97414C95E
+1 FAMS @F15@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:46
+0 @I40@ INDI
+1 NAME David (John David) /Thompson/
+2 SURN Thompson
+2 GIVN David (John David)
+1 SEX M
+1 _UID 9AA94D210664D54EABC889EFA8552A3585E7
+1 FAMS @F16@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#135160
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:44
+0 @I41@ INDI
+1 NAME Leah /Lewis/
+2 SURN Lewis
+2 GIVN Leah
+1 SEX F
+1 _UID ED3561DED7630249920AA2C9B4AC1BA008B2
+1 FAMS @F16@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#135161
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:42
+0 @I42@ INDI
+1 NAME John /Willis/
+2 SURN Willis
+2 GIVN John
+1 SEX M
+1 _UID 6AB2E886C63EED4D9B139C9E45DB0FC1A014
+1 FAMS @F17@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#116405
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:38
+0 @I43@ INDI
+1 NAME Jane (Jenny) /Kirkpatrick/
+2 SURN Kirkpatrick
+2 GIVN Jane (Jenny)
+1 SEX F
+1 _UID AA60297401C0FF4F87379016D60A73A20FF0
+1 FAMS @F17@
+1 SOUR @S6@
+2 PAGE CD#130; PIN#116406
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:36
+0 @I44@ INDI
+1 NAME Benjamin /Gonsolly/
+2 SURN Gonsolly
+2 GIVN Benjamin
+1 SEX M
+1 BIRT
+2 DATE 1818 or 1824
+2 PLAC , , New York
+1 DEAT
+2 DATE 30 Sep 1903
+1 _UID 260C7A36B8CDAF409102464863B0A45E8CE7
+1 FAMS @F18@
+1 NOTE Surname could also be spelled Gunsolly, Gonovly, or Gunsolla.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #79
+3 CONT Benjamin Gonsolly/Gonovly age 26 making his birth year around 1824 in New York.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S2@
+2 NOTE Benjamin Gunsolly, Born: 1818 in New York; Died: September 30, 1903.
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Benjamin Gunsolly age 39 making his birth year around 1821 in New York.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:33
+0 @I45@ INDI
+1 NAME Eliza Ann /Brower/
+2 SURN Brower
+2 GIVN Eliza Ann
+1 SEX F
+1 BIRT
+2 DATE 26 Apr 1825
+2 PLAC Phelps, Ontario, New York
+1 DEAT
+2 DATE 26 Mar 1862
+1 _UID C1194561AF743B489BDB52C0FFCD86B9B9E9
+1 FAMS @F18@
+1 FAMC @F20@
+1 SOUR @S2@
+2 NOTE Eliza Ann Brower, Born: April 26, 1825 in Phelps, Ontario, New York; Died: March 26, 1862. 
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #79
+3 CONT Eliza Gonsolly (Gonovlly on census database) age 25 making her birth year around 1825 in Ne
+3 CONC w York.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Eliza A. Gunsolly age 36 making her birth year around 1824 in New York.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:32
+0 @I46@ INDI
+1 NAME Albert /Gonsolly/
+2 SURN Gonsolly
+2 GIVN Albert
+1 SEX M
+1 BIRT
+2 DATE 1846
+2 PLAC , , Illinois
+1 DEAT
+2 DATE 1913
+2 PLAC Decatur, Burt, Nebraska
+1 BURI
+2 PLAC Hill Crest Cemetery, Decatur, Burt, Nebraska
+1 _UID AB5B8028BBC227468F8AB926662F24529B34
+1 FAMC @F18@
+1 SOUR @S2@
+2 NOTE Albert H. Gunsolly, Born: 1846 in Illinois; Died: 1913 in Decatur, Burt, Nebraska; Burial: i
+3 CONC n Hill Crest Cemetery, Decatur, Burt, Iowa.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #79
+3 CONT Albert Gonsolly age 3 making his birth year around1847 in Illinois.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Albert Gunsolly age 13 making his birth year around 1860 in Illinois.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:31
+0 @I47@ INDI
+1 NAME Lucinda /Gonsolly/
+2 SURN Gonsolly
+2 GIVN Lucinda
+1 SEX F
+1 BIRT
+2 DATE ABT 1848
+2 PLAC , , Illinois
+1 DEAT
+2 DATE unknown
+1 _UID DAF24CCCADB143408789C5C3E2C89251EAA0
+1 FAMC @F18@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #79
+3 CONT Lucinda Gonsolly age 2 making her birth year around 1848 in Illinois.
+2 DATA
+3 DATE September 2, 1860 in Pottawattamie, Iowa
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Lucinda Gunsolly age 12 making her birth year around 1848 in Illinois.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:30
+0 @I48@ INDI
+1 NAME Thomas /Gonsolly/
+2 SURN Gonsolly
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE ABT 1851
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID F6147EE556CED04590D4DFFF2AF7B810D10E
+1 FAMC @F18@
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Thomas Gunsolly age 9 making his birth year around 1851 in Iowa.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:29
+0 @I49@ INDI
+1 NAME Hiram /Gonsolly/
+2 SURN Gonsolly
+2 GIVN Hiram
+1 SEX M
+1 BIRT
+2 DATE ABT 1853
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID CBB5370E7990AC4F8D3C6B322847B5176ADC
+1 FAMC @F18@
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Hiram Gunsolly age 7 making his birth year around 1853 in Iowa.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 SOUR @S12@
+2 PAGE Roll: M593_411; Page: 50; Image: 101
+2 NOTE Dwelling #13 and Family #13
+3 CONT Hiram Gunsolla age 17 making his birth year around 1853 in Iowa.
+2 DATA
+3 DATE August 8, 1870 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:28
+0 @I50@ INDI
+1 NAME John or Joshua /Gonsolly/
+2 SURN Gonsolly
+2 GIVN John or Joshua
+1 SEX M
+1 BIRT
+2 DATE ABT 1857
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 6304272408776140B4C71D41997D44D0D520
+1 FAMC @F18@
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT John Gunsolly age 3 making his birth year around 1857 in Iowa.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 SOUR @S12@
+2 PAGE Roll: M593_411; Page: 50; Image: 101
+2 NOTE Dwelling and Family #13
+3 CONT Joshua Gunsolla age 13 making his birth year around 1857 in Iowa.
+2 DATA
+3 DATE August 8, 1870 in Mills, Iowa
+1 CHAN
+2 DATE 9 Feb 2009
+3 TIME 17:15:29
+0 @I51@ INDI
+1 NAME Jospeh /Gonsolly/
+2 SURN Gonsolly
+2 GIVN Jospeh
+1 SEX M
+1 BIRT
+2 DATE ABT 1859
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 46EACD82DCFA4F46B88B3B4766A690176293
+1 FAMC @F18@
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 25; Image: 42
+2 NOTE Dwelling #234 and Family #185
+3 CONT Joseph Gunsolly age 1 making his birth year around 1859 in Iowa.
+2 DATA
+3 DATE June 19, 1860 in Mills, Iowa
+1 SOUR @S12@
+2 PAGE Roll: M593_411; Page: 50; Image: 101
+2 NOTE Dwelling and Family #13 
+3 CONT Joseph Gunsolla age 11 making his birth year around 1859 in Iowa.
+2 DATA
+3 DATE August 8, 1870 in Mills, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:25
+0 @I52@ INDI
+1 NAME David /Holman/
+2 SURN Holman
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 15 Jul 1808
+2 PLAC Templeton, Worcester, Massachusetts
+1 DEAT
+2 DATE 20 Dec 1862
+2 PLAC Gold Hill, Storey, Nevada
+1 BURI
+2 PLAC Gold Hill Cemetery, Gold Hill, Storey, Nevada
+1 _UID 84D7F793A2A9E44FBE752024E791FDC312FF
+1 FAMS @F19@
+1 FAMC @F23@
+1 SOUR @S6@
+2 PAGE CD#85; PIN#259747
+2 NOTE David Holman, Born: July 15, 1808 in Templeton, Worcester, Massachusetts.
+1 SOUR @S13@
+2 NOTE David Holman, Born: March 8, 1808 (See text on page) in Worcester, Massachusetts; Died: Decem
+3 CONC ber 20, 1862 in Gold Hill, Storey, Nevada; Burial: in Gold Hill Cemetery, Gold Hill, Storey
+3 CONC , Nevada.
+1 SOUR @S1@
+2 PAGE Roll: M423_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #78
+3 CONT David Holman age 42 making his birth year around 1808 in Massachusetts.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:24
+0 @I53@ INDI
+1 NAME Eliza (Fittsman) /Coffman/
+2 SURN Coffman
+2 GIVN Eliza (Fittsman)
+1 SEX F
+1 BIRT
+2 DATE 3 Feb 1819
+2 PLAC Meadville, Crawford, Pennsylvania
+1 DEAT
+2 DATE 21 Nov 1883
+2 PLAC Gold Hill, Storey, Nevada
+1 BURI
+2 PLAC Gold Hill Cemetery, Gold Hill, Storey, Nevada
+1 _UID DBE825B111DA2F4A98ECEB6B97A4D6BAA260
+1 FAMS @F19@
+1 SOUR @S8@
+2 NOTE Eliza Coffman, Born: March 5, 1819 in Erie, Erie, Pennsylvania
+1 SOUR @S13@
+2 NOTE Eliza (Fittsman) Holman, Born: February 3, 1819 in Meadville, Crawford, Pennsylvania; Died: N
+3 CONC ovember 21, 1883 in Gold Hill, Storey, Nevada; Burial: in Gold Hill Cemetery, Gold Hill, Stor
+3 CONC ey, Nevada.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #78
+3 CONT Eliza Holman age 32 making her birth year around 1818 in Pennsylvania.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:23
+0 @I54@ INDI
+1 NAME Hiram /Holman/
+2 SURN Holman
+2 GIVN Hiram
+1 SEX M
+1 BIRT
+2 DATE 27 Jan 1841
+2 PLAC Meadville, Crawford, Pennsylvania
+1 DEAT
+2 DATE 14 Nov 1880
+2 PLAC Gold Hill, Storey, Nevada
+1 BURI
+2 PLAC Gold Hill Cemetery, Gold Hill, Storey, Nevada
+1 _UID CCAB07E08D6E8140ADBC1A26C4D0AB2B2D0E
+1 FAMC @F19@
+1 SOUR @S13@
+2 NOTE Hiram Holman, Born: January 27, 1841 in Meadville, Crawford, Pennsylvania; Died: November 14
+3 CONC , 1880 in Gold Hill, Storey, Nevada; Burial: Gold Hill Cemetery, Gold Hill, Storey, Nevada.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #78
+3 CONT Hyram Holman age 10 making his birth year around 1840 in Pennsylvania.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S12@
+2 PAGE Roll: M593_835; Page: 317; Image: 11
+2 NOTE Dwelling and Family #2
+3 CONT Hiram Holman age 27 making his birth year around 1843 in Pennsylvania.
+2 DATA
+3 DATE June 16, 1870 in Storey, Nevada
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:22
+0 @I55@ INDI
+1 NAME Selina /Holman/
+2 SURN Holman
+2 GIVN Selina
+1 SEX F
+1 BIRT
+2 DATE ABT 1845
+2 PLAC , , Illinois
+1 DEAT
+2 DATE unknown
+1 _UID 00B12FFF9ED72246BE9D62441B65A38F6F9E
+1 FAMC @F19@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #78
+3 CONT Selina Holman age 5 making her birth year around 1845 in Illinois.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S12@
+2 PAGE Roll: M593_835; Page: 317; Image: 11
+2 NOTE Dwelling and Family #2
+3 CONT Salina Holman age 25 making her birth year around 1845 in Illinois.
+2 DATA
+3 DATE June 16, 1870 in Storey, Nevada
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:21
+0 @I56@ INDI
+1 NAME Paulina /Holman/
+2 SURN Holman
+2 GIVN Paulina
+1 SEX F
+1 BIRT
+2 DATE ABT 1847
+2 PLAC , , Iowa
+1 _UID 58CCD8E600C3C9458CFE408D71518A43993B
+1 FAMC @F19@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #78
+3 CONT Paulina Holman age 3 making her birth year around 1847 in Iowa.  She is also not on the 187
+3 CONC 0 Census which could indicate that she passed away prior to that or was married and there i
+3 CONC s no trace of her.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:20
+0 @I57@ INDI
+1 NAME Heber /Holman/
+2 SURN Holman
+2 GIVN Heber
+1 SEX M
+1 BIRT
+2 DATE Jan 1850
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 736D03F6C0244C4C98E3BC0BACA9293E533A
+1 FAMC @F19@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #78
+3 CONT Heber Holman age 8/12 months making his birthdate and year around January 1850 in Iowa.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S12@
+2 PAGE Roll: M593_835; Page: 317; Image: 11
+2 NOTE Dwelling and Family #2
+3 CONT Heber age 19 making his birth year around 1850-51in Iowa.
+2 DATA
+3 DATE June 16, 1870 in Storey, Nevada
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:19
+0 @I58@ INDI
+1 NAME Lizzie (Elizabeth) /Holman/
+2 SURN Holman
+2 GIVN Lizzie (Elizabeth)
+1 SEX F
+1 BIRT
+2 DATE ABT 1853
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 61E59465430F554FBB6466C1B4A8E57D3962
+1 FAMC @F19@
+1 SOUR @S12@
+2 PAGE Roll: M593_835; Page: 317; Image: 11
+2 NOTE Dwelling and Family #2
+3 CONT Lizzie Holman age 17 making her birth year around 1853 in Iowa.
+2 DATA
+3 DATE June 16, 1870 in Storey, Nevada
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:17
+0 @I59@ INDI
+1 NAME Laura /Holman/
+2 SURN Holman
+2 GIVN Laura
+1 SEX F
+1 BIRT
+2 DATE ABT 1855
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 0F18C01FBD66B341907BCAFC5E8AADBA3D9F
+1 FAMC @F19@
+1 SOUR @S12@
+2 PAGE Roll: M593_835; Page: 317; Image: 11
+2 NOTE Dwelling and Family #2
+3 CONT Laura Holman age 15 making her birth year around 1855 in Iowa.
+2 DATA
+3 DATE June 16, 1870 in Storey, Nevada
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:06
+0 @I60@ INDI
+1 NAME John Taylor /Brower/
+2 SURN Brower
+2 GIVN John Taylor
+1 SEX M
+1 _UID CF625F53EAD4EA4692EE9E23654D54F1094E
+1 FAMS @F20@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:04
+0 @I61@ INDI
+1 NAME Fannie /Coates/
+2 SURN Coates
+2 GIVN Fannie
+1 SEX F
+1 _UID EB8CACBB9449124AB7D61124653510078A32
+1 FAMS @F20@
+1 SOUR @S2@
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:02
+0 @I62@ INDI
+1 NAME Elijah /Williams/
+2 SURN Williams
+2 GIVN Elijah
+1 SEX M
+1 _UID A18B435EB0B65548AAB834455FBEBC92163A
+1 FAMS @F21@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#748015
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:15:00
+0 @I63@ INDI
+1 NAME Mary /McCumber/
+2 SURN McCumber
+2 GIVN Mary
+1 SEX F
+1 _UID 1B143F24ECCC59479586D64CACDD57646B1A
+1 FAMS @F21@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#748016
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:14:57
+0 @I64@ INDI
+1 NAME Samuel /Fox/
+2 SURN Fox
+2 GIVN Samuel
+1 SEX M
+1 _UID C79BBA2FBFB963429A3200BF5020F2E4397C
+1 FAMS @F22@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#747926
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:14:53
+0 @I65@ INDI
+1 NAME Lucy /Williams/
+2 SURN Williams
+2 GIVN Lucy
+1 SEX F
+1 _UID A354853E90549D429022D1B5A3F4F9D41963
+1 FAMS @F22@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#747927
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:14:51
+0 @I66@ INDI
+1 NAME Jonothan /Holman/ Jr.
+2 SURN Holman
+2 GIVN Jonothan
+2 NSFX Jr.
+1 SEX M
+1 _UID 027237031C73A04796C4427371A05A7D1BA3
+1 FAMS @F23@
+1 SOUR @S6@
+2 PAGE CD#85; PIN#259575
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:14:46
+0 @I67@ INDI
+1 NAME Zilpha /Sawyer/
+2 SURN Sawyer
+2 GIVN Zilpha
+1 SEX F
+1 _UID 25F7D5FB70C049438A53E4B2CA05AE0BA3E8
+1 FAMS @F23@
+1 SOUR @S6@
+2 PAGE CD#85; 	PIN#259576
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 10:14:42
+0 @I68@ INDI
+1 NAME James /Davenport/
+2 SURN Davenport
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 1 May 1802
+2 PLAC Danville, Caledonia, Vermont
+1 DEAT
+2 DATE 23 Jul 1883
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE 25 Jul 1883
+2 PLAC Richmond, Cache, Utah
+1 _UID 2565A4A3C610ED4FBFD9AF3ACF9EB626AD46
+1 FAMS @F24@
+1 FAMS @F29@
+1 FAMC @F30@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996212
+2 NOTE James Davenport, Born: May 1, 1802 in Danville, Caledonia, Vernmont; Died: July 23, 1883 in R
+3 CONC ichmond, Cache, Utah; Burial: July 25, 1883 in Richmond, Cache, Utah.
+1 SOUR @S3@
+2 NOTE James Davenport, Born: May 1, 1802; Died: July 23, 1883; Trekked with the Brigham Young Pione
+3 CONC er Company in 1847.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT James Davenport age 48 making his birth year around 1802 in Vermont.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 12:09:12
+0 @I69@ INDI
+1 NAME Almira /Phelps/
+2 SURN Phelps
+2 GIVN Almira
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1805
+2 PLAC Canajoharie, Montgomery, New York
+1 DEAT
+2 DATE 28 Dec 1881
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE 31 Dec 1881
+2 PLAC Richmond, Cache, Utah
+1 _UID 8BA8F3ED81AB7441983FC51448994F310546
+1 FAMS @F24@
+1 FAMC @F31@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996252
+2 NOTE Almira Phelps, Born: January 23, 1805 in Canajoharie, Mongtgomery [sic], New York; Died: Dece
+3 CONC mber 28, 1881 in Richmond, Cache, Utah; Burial: December 31, 1881 in Richmond, Cache, Utah. 
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Almira Davenport age 45 making her birth year around 1805 in New York.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 11 Feb 2009
+3 TIME 12:39:10
+0 @I70@ INDI
+1 NAME Mary Maurine /Davenport/
+2 SURN Davenport
+2 GIVN Mary Maurine
+1 SEX F
+1 BIRT
+2 DATE 27 Feb 1824
+2 PLAC Covington, Genesee, New York
+1 DEAT
+2 DATE 11 Feb 1905
+1 _UID B5F929F26882274BA76DE862BF126B844327
+1 FAMS @F25@
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996251
+2 NOTE Mary Maurine Davenport, Born: February 27, 1824 in Covington, Genessee [sic], New York; Died
+3 CONC : February 11, 1905.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 76; Image: 152
+2 NOTE Dwelling and Family #111
+3 CONT Mary Kimball age 27 making her birth year around 1823 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 SOUR @S2@
+2 NOTE Mary Maurine Davenport, Born: February 27, 1824 in Covington, Genessee [sic], New York; Died
+3 CONC : February 11, 1905. 
+1 SOUR @S3@
+2 NOTE Mary Maurine Davenport Kimball, Born: February 27, 1824; Died: February 11, 1905; Trekked wit
+3 CONC h the Heber C. Kimball Company in 1848.
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 15:27:19
+0 @I71@ INDI
+1 NAME William Henry /Kimball/
+2 SURN Kimball
+2 GIVN William Henry
+1 SEX M
+1 BIRT
+2 DATE 10 Apr 1826
+2 PLAC Mendon, Monroe, New York
+1 DEAT
+2 DATE 30 Dec 1907
+2 PLAC Coalville, Summit, Utah
+1 BURI
+2 DATE 2 Jan 1908
+2 PLAC Coalville, Summit, Utah
+1 _UID 2CFF0D9808F6A04C92D4FE0B9DE2D168E1A8
+1 FAMS @F25@
+1 FAMC @F26@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996039
+2 NOTE William Henry Kimball, Born: about 1820 in Covington, Genessee [sic], New York.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 76; Image: 152
+2 NOTE Dwelling and Family #111
+3 CONT William Kimball age 25 making his birth year around 1825 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 SOUR @S2@
+2 NOTE William Henry Kimball, Born: April 10, 1826 in Mendon, Monroe, New York; Died: December 30, 1
+3 CONC 907 in Coalville, Summit, Utah; Buried: January 2, 1908 in Coalville, Summit, Utah.
+1 SOUR @S3@
+2 NOTE William Henry Kimball, Born: April 10, 1826; Died: December 30, 1907; Trekked with the Hebe
+3 CONC r C. Kimball Company in 1848.
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 15:26:03
+0 @I72@ INDI
+1 NAME Heber Chase /Kimball/
+2 SURN Kimball
+2 GIVN Heber Chase
+1 SEX M
+1 _UID 70A30E00C61FBA4B8A1C52ADD6B786B77A76
+1 FAMS @F26@
+1 SOUR @S2@
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 15:19:25
+0 @I73@ INDI
+1 NAME Vilate /Murray/
+2 SURN Murray
+2 GIVN Vilate
+1 SEX F
+1 _UID FDCB1D429881534B9631655C18D59C7968F2
+1 FAMS @F26@
+1 SOUR @S2@
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 15:19:47
+0 @I74@ INDI
+1 NAME Helen Vilate /Kimball/
+2 SURN Kimball
+2 GIVN Helen Vilate
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 13 May 1921
+2 PLAC Salt Lake, Salt Lake, Utah
+1 _UID 06CD3ECE79456C41B413A7A599303451AB56
+1 FAMC @F25@
+1 SOUR @S2@
+2 NOTE Helen Vilate Kimball, Born: March 13, 1845 in Nauvoo, Hancock, Illinois; Died: May 13, 1921 i
+3 CONC n Salt Lake, Salt Lake, Utah.
+1 SOUR @S3@
+2 NOTE Helen Vilate Kimball, Born: March 13, 1845; Died: May 13, 1921; Trekked with the Heber C. Kim
+3 CONC ball Company in 1848.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 76; Image: 152
+2 NOTE Dwelling and Family #111
+3 CONT Helen Kimball age 6 making her birth year around 1844 in Illinois.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 15:24:59
+0 @I75@ INDI
+1 NAME Marian Anna /Kimball/
+2 SURN Kimball
+2 GIVN Marian Anna
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1847
+2 PLAC Florence, , Nebraska
+1 DEAT
+2 DATE 19 Jan 1919
+2 PLAC Salt Lake, Salt Lake, Utah
+1 _UID 26F1559AF82CE649A12033BEA5DFF9A72FA2
+1 FAMC @F25@
+1 SOUR @S2@
+2 NOTE Marian Anna Kimball, Born: February 26, 1847 in Florence, Nebrask; Died: January 19, 1919 i
+3 CONC n Salt Lake, Salt Lake, Utah. 
+1 SOUR @S3@
+2 NOTE Marian Anna Kimball, Born: February 26, 1847; Died: January 19, 1919; Trekked with the Hebe
+3 CONC r C. Kimball Company in 1848.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 76; Image: 152
+2 NOTE Dwelling and Family #111
+3 CONT Anna Kimball age 4 making her birth year aorund 1846 in Missouri.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 09:35:37
+0 @I76@ INDI
+1 NAME John Squire /Davenport/
+2 SURN Davenport
+2 GIVN John Squire
+1 SEX M
+1 BIRT
+2 DATE 25 Feb 1826
+2 PLAC Granger, Harding, Kentucky
+1 DEAT
+2 DATE 8 Apr 1902
+1 BURI
+2 DATE 9 Apr 1902
+1 _UID 49D46B6A96D99647B1C2895B691C8B60052F
+1 FAMS @F27@
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996250
+2 NOTE John Squire Davenport, Born: February 25, 1826 in Granger, Harding [sic], Kentucky; Died: Apr
+3 CONC il 8, 1902; Burial: April 9, 1902. 
+1 SOUR @S15@
+2 NOTE John Squire Davenport, Born: 1826 in Kentucky; Died: 1902; Parents: James Davenport and Almir
+3 CONC a Phelps; Wife: Madora Pack.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 10; Image: 20
+2 NOTE Dwelling and Family #121
+3 CONT John Davenport age 24 making his birth year around 1826 in Kentucky.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 17:05:09
+0 @I77@ INDI
+1 NAME Madora /Pack/
+2 SURN Pack
+2 GIVN Madora
+1 SEX F
+1 BIRT
+2 DATE 1826
+2 PLAC Granger, Harding, Kentucky
+1 DEAT
+2 DATE unknown
+1 _UID 77C78632031B30469A757210820E3E503997
+1 FAMS @F27@
+1 SOUR @S2@
+2 NOTE Madora Pack, Born: 1826 in Granger, Harding [sic], Kentucky.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 10; Image: 20
+2 NOTE Dwelling and Family #121
+3 CONT Madorah Davenport age 19 making her birth year around 1831 in New York.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 16:40:11
+0 @I78@ INDI
+1 NAME John S. /Davenport/
+2 SURN Davenport
+2 GIVN John S.
+1 SEX M
+1 BIRT
+2 DATE ABT 1849
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID BDF8F06EECD50F498F9E43BB0834D147AB14
+1 FAMC @F27@
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 10; Image: 20
+2 NOTE Dwelling and Family #121
+3 CONT John S. Davenport age 1 making his birth year around 1849 in Iowa.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 16:45:08
+0 @I79@ INDI
+1 NAME Olive Pack /Davenport/
+2 SURN Davenport
+2 GIVN Olive Pack
+1 SEX F
+1 BIRT
+2 DATE ABT 1842
+2 PLAC , , Illinois
+1 DEAT
+2 DATE unknown
+1 _UID 21284271E71F5F4AAADEA7291189AA76BDFC
+1 FAMC @F27@
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 10; Image: 21
+2 NOTE Dwelling and Family #121
+3 CONT Olive Pack age 8 making her birth year around 1842 in Illinois
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 16:47:09
+0 @I80@ INDI
+1 NAME Almon /Davenport/
+2 SURN Davenport
+2 GIVN Almon
+1 SEX M
+1 BIRT
+2 DATE 14 Dec 1828
+2 PLAC , , Indiana
+1 BURI
+2 DATE 1830
+1 _UID C3EAA6ABB108304A87F1B5602980F286DF42
+1 FAMC @F24@
+1 NOTE It is assumed that he died in 1830.
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996249
+2 NOTE Almon Davenport, Born: December 14, 1828 in Indiana; Burial: 1830. 
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 16:52:00
+0 @I81@ INDI
+1 NAME Alfred Phelps /Davenport/
+2 SURN Davenport
+2 GIVN Alfred Phelps
+1 SEX M
+1 BIRT
+2 DATE 5 Nov 1832
+2 PLAC Granger, Medina, Ohio
+1 DEAT
+2 DATE 3 Jul 1907
+1 _UID 926D28622EB80D4699F333CF8E96974E59D5
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996248
+2 NOTE Alfred Phelps Davenport, Born: November 5, 1832 in Granger, Medina, Ohio; Died: July 3, 1907.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Alfred Davenport age 17 making his birth year around 1833 in Ohio.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 12 Feb 2009
+3 TIME 17:04:55
+0 @I82@ INDI
+1 NAME Martha Ann /Davenport/
+2 SURN Davenport
+2 GIVN Martha Ann
+1 SEX F
+1 BIRT
+2 DATE 14 Oct 1834
+2 PLAC Granger, Medina, Ohio
+1 DEAT
+2 DATE 15 Apr 1880
+1 BURI
+2 DATE 17 Apr 1880
+1 _UID 0E2F9F1E8C255E4DA5963B7E445E37446757
+1 FAMS @F28@
+1 FAMC @F24@
+1 NOTE Indicates that her Spouse is Thomas J. Phelps PIN#996036.  Could have also married Harrace Ma
+2 CONC rble because of the designation of the two in the 1850 census in Pottawattamie, Iowa.
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996247
+2 NOTE Martha Ann Davenport, Born: October 14, 1834 in Granger, Medina, Ohio; Died: April 15, 1880
+3 CONC ; Burial: April 17, 1880.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Martha Ann Marble age 16 making her birth year around 1834 in Ohio.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 09:46:37
+0 @I83@ INDI
+1 NAME Horrace /Marble/
+2 SURN Marble
+2 GIVN Horrace
+1 SEX M
+1 BIRT
+2 DATE ABT 1831
+2 PLAC , , New York
+1 DEAT
+2 DATE unknown
+1 _UID E11215E4B7DF7B498C03B2F83F3D5A5BB09B
+1 FAMS @F28@
+1 NOTE Most likely died prior to 1855 because that is when his wife Martha was married to Thomas J
+2 CONC . Phelps (The two, Horrace and Martha, could have also divorced but it is more likely that Ho
+2 CONC rrace died).
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Horrace Marble age 19 making his birth year around 1831 in New York.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 09:50:33
+0 @I84@ INDI
+1 NAME Sarah Mariah /Davenport/
+2 SURN Davenport
+2 GIVN Sarah Mariah
+1 SEX F
+1 BIRT
+2 DATE 22 Nov 1836
+2 PLAC Fentonville, Genesee, Michigan
+1 DEAT
+2 DATE 19 Nov 1914
+2 PLAC Weston, Franklin, Idaho
+1 BURI
+2 PLAC Weston, Franklin, Idaho
+1 _UID 438963A61E406B419F916FE1524716829067
+1 FAMC @F24@
+1 NOTE Franklin County was formed from part of Oneida County in 1913.
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996246
+2 NOTE Sarah Mariah Davenport, Born: November 22, 1836 in Fentonville, Genesse [sic], Michigan; Died
+3 CONC : Novmeber 19, 1914 in Weston, (Oneida) Franklin, Idaho; Burial: in Weston, Franklin, Idaho.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Sarah Davenport age 13 making her birth year around 1837 in Michigan.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa 
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 10:19:46
+0 @I85@ INDI
+1 NAME Lucinda Melissa /Davenport/
+2 SURN Davenport
+2 GIVN Lucinda Melissa
+1 SEX F
+1 BIRT
+2 DATE 1 Jul 1838
+2 PLAC Farmington, Oakland, Michigan
+1 DEAT
+2 DATE 3 Apr 1892
+1 BURI
+2 DATE 5 Apr 1892
+1 _UID 2C096E342AE7C14B92C654F14BB1BC085167
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996245
+2 NOTE Lucinda Melissa Davenport, Born: July 1, 1838 in Farmington, Oakland, Michigan; Died: April 3
+3 CONC , 1892.  Married to Stephen Fosdick.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74 
+3 CONT Lucinda Davenport age 11 making her birth year around 1839 in Michigan.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 10:28:46
+0 @I86@ INDI
+1 NAME James Nephi /Davenport/
+2 SURN Davenport
+2 GIVN James Nephi
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1841
+2 PLAC Walnut Grove, Knox, Illinois
+1 DEAT
+2 DATE 10 Jul 1902
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE 13 Jul 1902
+2 PLAC Richmond, Cache, Utah
+1 _UID 247611FC50A3504F977C9C914BA3F39AF4BA
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996244
+2 NOTE James Nephi Davenport, Born: August 14, 1841 in Walnut Grove, Knox, Illinois; Died: July 10
+3 CONC , 1902 in Richmond, Cache, Utah; Burial: July 13, 1902 in Richmond, Cache, Utah.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT James Davenport age 9 making his birth year around 1841 in Illinois.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 10:51:13
+0 @I87@ INDI
+1 NAME Antoinette /Davenport/
+2 SURN Davenport
+2 GIVN Antoinette
+1 SEX F
+1 BIRT
+2 DATE 2 Sep 1843
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 2 Oct 1880
+2 PLAC Wellsville, Cache, Utah
+1 BURI
+2 DATE 5 Oct 1880
+2 PLAC Wellsville Cemetery, Wellsville, Cache, Utah
+1 _UID 240945ABB2DBB640BC0355F9FCD7D5FC5144
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996243
+2 NOTE Antoinette Davenport Born: September 2, 1843 in Nauvoo, Hancock, Illinois; Died: October 2, 1
+3 CONC 880 in Wellsville, Cache, Utah; Burial: October 5, 1880 Wellsville Cemetery, Wellsville, Cach
+3 CONC e, Utah.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Antoinette Davenport age 7 making her birth year around 1843 in Illinois.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 10:50:54
+0 @I88@ INDI
+1 NAME Heber /Davenport/
+2 SURN Davenport
+2 GIVN Heber
+1 SEX M
+1 BIRT
+2 DATE 14 Dec 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 20 Dec 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 _UID 1DCA1DF3AF678F4C96D7FA56387BAD3B4077
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996242
+2 NOTE Heber Davenport, Born: December 14, 1845 in Nauvoo, Hancock, Illinois; Died: December 20, 184
+3 CONC 5 in Nauvoo, Hancock, Illinois; Burial: December 20, 1845 in Nauvoo, Hancock, Illinois.
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 10:54:33
+0 @I89@ INDI
+1 NAME Almira /Davenport/
+2 SURN Davenport
+2 GIVN Almira
+1 SEX F
+1 BIRT
+2 DATE 11 Mar 1847
+2 PLAC Winter Quarters, (Douglas), Nebraska
+1 DEAT
+2 DATE 16 Jan 1928
+2 PLAC Richmond, Cache, Utah
+1 BURI
+2 DATE 18 Jan 1928
+2 PLAC Richmond, Cache, Utah
+1 _UID 9EB497B96DCDAB49824CA92C5FCEF60CA211
+1 FAMC @F24@
+1 SOUR @S6@
+2 PAGE CD#28; PiN#995806
+2 NOTE Almira Davenport, Born: March 11, 1847 in Winter Quarters, Douglas, Nebraska; Died: January 1
+3 CONC 6, 1928 in Richmond, Cache, Utah; Burial: January 18, 1928 in Richmond, Cache, Utah.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT Almira Davenport age 3 making her birth year around 1847 in Iowa.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 11:15:41
+0 @I90@ INDI
+1 NAME Catherine /Tuttle/
+2 SURN Tuttle
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE ABT 1806
+2 PLAC Danville, Caledonia, Vermont
+1 DEAT
+2 DATE unknown
+1 _UID DAE76F81C6D4F047B1C3993242EE62499C57
+1 FAMS @F29@
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996041
+2 NOTE Mrs. Catherine Tuttle, Born: about 1806 in Danville, Caledonia, Vermont.
+1 SOUR @S2@
+2 NOTE Mrs. Catherine Tuttle, Born: about 1806 in Danville, Caledonia, Vermont.
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 11:19:35
+0 @I91@ INDI
+1 NAME Squire /Davenport/
+2 SURN Davenport
+2 GIVN Squire
+1 SEX M
+1 _UID 6A58C3237BDCF94DA569613AE40E53ED209C
+1 FAMS @F30@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 11:22:21
+0 @I92@ INDI
+1 NAME Susannah /Kittridge/
+2 SURN Kittridge
+2 GIVN Susannah
+1 SEX F
+1 _UID 9890FFC40AC7394CB9FB47E2B22240E2140A
+1 FAMS @F30@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 11:22:11
+0 @I93@ INDI
+1 NAME John /Phelps/
+2 SURN Phelps
+2 GIVN John
+1 SEX M
+1 _UID 1A5F1B36BA39CE4FB1F9F78A6C20D08FF079
+1 FAMS @F31@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 11:23:02
+0 @I94@ INDI
+1 NAME Polly /Rider/
+2 SURN Rider
+2 GIVN Polly
+1 SEX F
+1 _UID 24DA00466934D24BBCE239E56CFAAD703DD8
+1 FAMS @F31@
+1 SOUR @S2@
+1 CHAN
+2 DATE 17 Feb 2009
+3 TIME 11:23:20
+0 @I95@ INDI
+1 NAME Perry /Durfee/
+2 SURN Durfee
+2 GIVN Perry
+1 SEX M
+1 BIRT
+2 DATE 21 Sep 1797
+2 PLAC Broadalbin, Fulton, New York
+1 DEAT
+2 DATE 11 Mar 1872
+2 PLAC San Bernarrdino, San Bernarrdino, California
+1 _UID F96E16AF5F723A4EA208FF010FE5AB4A1847
+1 FAMS @F32@
+1 FAMS @F35@
+1 FAMS @F36@
+1 FAMC @F33@
+1 NOTE The death in San Bernardino makes more sense than the Missouri death because Perry was over i
+2 CONC n the west with his family and wife where many of them died.
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738291
+2 NOTE Perry Durfee, Born: September 21, 1797 in Broadalbin, Fulton, New York; Died: March 11, 187
+3 CONC 2 in Savannah, Andrew, Missouri; Burial: March 14, 1872.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #75
+3 CONT Perry Durphy age 51 making his birth year around 1799 in New York.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 SOUR @S16@
+2 NOTE Perry Durfee, Born: September 21, 1797 in Tiverton, Newport, Rhode Island; Died:  March 11, 1
+3 CONC 872 in San Bernardino, San Bernardino, California.
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 08:28:36
+0 @I96@ INDI
+1 NAME Ruth /McBride/
+2 SURN McBride
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1800
+2 PLAC Martinsburg, Berkeley, West Virginia
+1 DEAT
+2 DATE 28 Aug 1839
+2 PLAC Warsaw, Hancock, Illinois
+1 _UID 1BB76081B75F4F49BE595FAA08A9D7919ACB
+1 FAMS @F32@
+1 FAMC @F34@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738292
+2 NOTE Ruth Mc Bride, Born: September 7, 1800 in Martinsburg, Berkeley, West Virginia; Died: Augus
+3 CONC t 28, 1839 in Warsaw, Hancock, Illinois.
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 13:21:09
+0 @I97@ INDI
+1 NAME Jabez /Durfee/
+2 SURN Durfee
+2 GIVN Jabez
+1 SEX M
+1 BIRT
+2 DATE 22 May 1825
+2 PLAC Wayne, Wood, Ohio
+1 DEAT
+2 DATE 21 Jan 1843
+2 PLAC Warsaw, Hancock, Illinois
+1 _UID 5D363F7A7C00BB4A84110DC9EE8ED02DB157
+1 FAMC @F32@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738293
+2 NOTE Jabez Durfee, Born: May 22, 1825 in Wayne, Wood, Ohio; Died: January 21, 1843 in Warsaw, Hanc
+3 CONC ock, Illinois.
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 13:54:00
+0 @I98@ INDI
+1 NAME Elizabeth /Durfee/
+2 SURN Durfee
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 17 Dec 1828
+2 PLAC Wayne, Wood, Ohio
+1 DEAT
+2 DATE 4 Jun 1850
+2 PLAC Warsaw, Hancock, Illinois
+1 _UID 6B8EC1557063184CA1419F77A8BBD983FDE0
+1 FAMC @F32@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738294
+2 NOTE Elizabeth Durfee, Born: December 17, 1828 in Wayne, Wood, Ohio; Died: June 4, 1850 in Warsaw
+3 CONC , Hancock, Illinois.
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 13:53:53
+0 @I99@ INDI
+1 NAME Perry /Durfee/
+2 SURN Durfee
+2 GIVN Perry
+1 SEX M
+1 BIRT
+2 DATE 8 Aug 1830
+2 PLAC Wayne, Wood, Ohio
+1 DEAT
+2 DATE 22 May 1847
+2 PLAC Burlington, Des Moines, Iowa
+1 _UID CEAC0DE06E020D49A2A34143B651871B9FA9
+1 FAMC @F32@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738295
+2 NOTE Perry Durfee, Born: August 8, 1830 in Wayne, Wood, Ohio; Died: May 22, 1847 in Burlington, De
+3 CONC s Moines, Iowa.
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 13:53:35
+0 @I100@ INDI
+1 NAME Perry /Durfee/
+2 SURN Durfee
+2 GIVN Perry
+1 SEX M
+1 _UID EA1475ADD003624EBD1B33AC0C7F8F50C4BC
+1 FAMS @F33@
+1 SOUR @S2@
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:05:07
+0 @I101@ INDI
+1 NAME Annie /Salisbury/
+2 SURN Salisbury
+2 GIVN Annie
+1 SEX F
+1 _UID 239CF2F529357541B32146F487BF330142B6
+1 FAMS @F33@
+1 SOUR @S2@
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:05:34
+0 @I102@ INDI
+1 NAME Thomas White /McBride/
+2 SURN McBride
+2 GIVN Thomas White
+1 SEX M
+1 _UID 3CF5792C5EC03D4E8E96EB9E8815FB0ACE3E
+1 FAMS @F34@
+1 SOUR @S2@
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:05:54
+0 @I103@ INDI
+1 NAME Catherine /John/
+2 SURN John
+2 GIVN Catherine
+1 SEX F
+1 _UID 5E53E1AA182AF64490084862255999CFE08D
+1 FAMS @F34@
+1 SOUR @S2@
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:06:12
+0 @I104@ INDI
+1 NAME Hannah /Durfee/
+2 SURN Durfee
+2 GIVN Hannah
+1 SEX F
+1 BIRT
+2 DATE 6 Jul 1833
+2 PLAC Wayne, Wood, Ohio
+1 DEAT
+2 DATE 1864
+2 PLAC St. Louis, St. Louis, Missouri
+1 _UID 82037FBAA2BAB54F96E49E170647BA9EF232
+1 FAMC @F32@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738296
+2 NOTE Hannah Durfee, Born: July 6, 1833 in Wayne, Wood, Ohio; Died: 1864 in St. Louis, St. Louis, M
+3 CONC issouri.
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:21:58
+0 @I105@ INDI
+1 NAME Ether /Durfee/
+2 SURN Durfee
+2 GIVN Ether
+1 SEX F
+1 BIRT
+2 DATE 2 Mar 1836
+2 PLAC Liberty, Clay, Missouri
+1 DEAT
+2 DATE 13 May 1910
+2 PLAC Oakley, Cassia, Idaho
+1 _UID 682648734B6610409329DAC4B28FA7CE5A7F
+1 FAMC @F32@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738297
+2 NOTE Ether Durfee, Born: March 2, 1836 in Liberty, Clay, Missouri; Died: May 13, 1910 in Oakley, C
+3 CONC assia, Idaho.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #75
+3 CONT Ether Durphy age 14 making his birth year around 1836 in Ohio.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:28:38
+0 @I106@ INDI
+1 NAME Moroni /Durfee/
+2 SURN Durfee
+2 GIVN Moroni
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 1838
+2 PLAC , Davis, Missouri
+1 _UID BD2AA7A2A45C7D4CA7521A4D29FDF7158B05
+1 FAMC @F32@
+1 NOTE I have not been able to locate the death date for him.
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738298
+2 NOTE Moroni Durfee, Born: April 12, 1838 in Davis County, Missouri. 
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #75
+3 CONT Moroni Durphy age 12 making his birth year around 1838 in Missouri. 
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 18 Feb 2009
+3 TIME 15:36:05
+0 @I107@ INDI
+1 NAME Jane /Denmon/
+2 SURN Denmon
+2 GIVN Jane
+1 SEX F
+1 BIRT
+2 DATE 21 Apr 1804
+2 PLAC Neversink, Sullivan, New York
+1 DEAT
+2 DATE Nov 1863
+2 PLAC San Bernarrdino, San Bernarrdino, California
+1 _UID 2C550F7FBE52B445BE5A0F403D69D1CBC17F
+1 FAMS @F35@
+1 FAMC @F37@
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738299
+2 NOTE Jane Denmon, Born: April 21, 1804 in Neversink, Sullivan, New York; Died: November 1863 in Sa
+3 CONC n Bernarrdino, San Bernarrdino, California.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #75
+3 CONT Jane Durphy age 46 making her birth year around 1804 in New York.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 08:21:13
+0 @I108@ INDI
+1 NAME Miles /Durfee/
+2 SURN Durfee
+2 GIVN Miles
+1 SEX M
+1 BIRT
+2 DATE 1 Jun 1843
+2 PLAC Golden Point, Hancock, Illinois
+1 DEAT
+2 DATE 18 Jun 1923
+2 PLAC San Jose, Santa Clara, California
+1 BURI
+2 PLAC San Jose, Santa Clara, California
+1 _UID 1C9A42FB9E6BA5478C3672F7641CEB23A149
+1 FAMC @F35@
+1 SOUR @S2@
+2 NOTE Miles Durfee, Born: January 1, 1843 in Goldenpoint [sic], Hancock, Illinois.
+1 SOUR @S16@
+2 NOTE Miles Durfee, Born: June 1, 1843 in Golden Point, Hancock, Illinois; Died: June 18, 1923 in S
+3 CONC an Jose, Santa Clara, California; Burial: in San Jose, Santa Clara, California.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #75
+3 CONT Miles Durphy age 7 making his birth year around 1843 in Illinois. 
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 08:46:00
+0 @I109@ INDI
+1 NAME Ruth Jane /Durfee/
+2 SURN Durfee
+2 GIVN Ruth Jane
+1 SEX F
+1 BIRT
+2 DATE 19 Mar 1847
+2 PLAC Garden Grove, Decatur, Iowa
+1 DEAT
+2 DATE 22 Dec 1922
+2 PLAC Sacramento, Sacramento, California
+1 BURI
+2 PLAC Glendora, , California
+1 _UID 34745E2B56050749B1FA61D45CAC0E9A6C67
+1 FAMC @F35@
+1 SOUR @S2@
+2 NOTE Ruth Durfee, Born: March 19, 1847 in Garden Grove, Decatur, Iowa.
+1 SOUR @S16@
+2 NOTE Ruth Jane Durfee, Born: March 19, 1847 in Garden Grove, Deatur, Iowa; Died: December 22, 192
+3 CONC 2 in Sacramento, Sacramento, California; Burial: in Glendora, California.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #75
+3 CONT Ruth Durphy age 3 making her birth year around 1847 in Iowa.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 10:28:10
+0 @I110@ INDI
+1 NAME Mary Ann /Gaskell/
+2 SURN Gaskell
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE ABT 1797
+2 PLAC Broadalbin, Fulton, New York
+1 DEAT
+2 DATE unknown
+1 _UID 2FEE4957423C1646A8F1722B2D5A30901455
+1 FAMS @F36@
+1 SOUR @S2@
+2 NOTE Mary Ann Gaskell, Born: about 1797 in Broadalbin, Fulton, New York.
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738300
+2 NOTE Mary Ann Gaskell, Born: about 1797 in Broadalbin, Fulton, New York.
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 10:46:57
+0 @I111@ INDI
+1 NAME William /Durfee/
+2 SURN Durfee
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE ABT 1835
+2 PLAC , , New York
+1 DEAT
+2 DATE unknown
+1 _UID 5D172C90F3807245834A5475CACC65BEA919
+1 FAMC @F36@
+1 NOTE This child could also be one of Ruth's Children but was placed here because no specific mothe
+2 CONC r was sourced to this person.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68 Image: 138
+2 NOTE Dwelling and Family #75
+3 CONT William Durphy age 15 making his birth year around 1835 in New York.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 11:03:20
+0 @I112@ INDI
+1 NAME Jedediah /Durfee/
+2 SURN Durfee
+2 GIVN Jedediah
+1 SEX M
+1 BIRT
+2 DATE ABT 1838
+2 PLAC , , New York
+1 DEAT
+2 DATE unknown
+1 _UID 4F3421EE5CA0A34581C5D546C5E63CFAB8DA
+1 FAMC @F36@
+1 NOTE This child could also be one of Ruth's Children but was placed here because no specific mothe
+2 CONC r was sourced to this person.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #75 
+3 CONT Jedediah Durphy age 12 making his birth year around 1838 in New York.
+2 DATA
+3 DATE September 2, Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 11:03:03
+0 @I113@ INDI
+1 NAME Thomas /Denmon/
+2 SURN Denmon
+2 GIVN Thomas
+1 SEX M
+1 _UID 711D4E4016952941AD406190A8DDF4B23AA8
+1 FAMS @F37@
+1 SOUR @S2@
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 11:06:55
+0 @I114@ INDI
+1 NAME Jane /Denmon/
+2 SURN Denmon
+2 GIVN Jane
+1 SEX F
+1 _UID 19A867E74CDB3643AD835B8654B002D29828
+1 FAMS @F37@
+1 SOUR @S2@
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 11:07:17
+0 @I115@ INDI
+1 NAME Moses Isaac /Gardner/
+2 SURN Gardner
+2 GIVN Moses Isaac
+1 SEX M
+1 BIRT
+2 DATE 5 Jan 1793
+2 PLAC Morris, Hanover, New Jersey
+1 DEAT
+2 DATE 31 Jul 1852
+2 PLAC Kearney, , Nebraska
+1 _UID 6F5477D33AAB1244AC6B7AFFC3A202216079
+1 FAMS @F38@
+1 FAMC @F40@
+1 NOTE Kearney is now in the Buffalo county of Nebraska which was formed after Moses's death.  He al
+2 CONC so most likely died en route to Utah on the Mormon Trail.
+1 SOUR @S6@
+2 PAGE CD#129' PIN#2529887
+2 NOTE Moses Gardner, Born: January 5, 1793 in Morris, Hanover, New Jersey; Died: July 31, 1852 in K
+3 CONC earney, Nebraska.
+1 SOUR @S3@
+2 NOTE Moses Isaac Gardner, Born: January 5, 1793; Died: July 31, 1852; Trekked with the Isaac Bullo
+3 CONC ck Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #76
+3 CONT Moses Gardner age 55 making his birth year around 1795 in New Jersey.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 15:17:03
+0 @I116@ INDI
+1 NAME Polly Ann /Pierson/
+2 SURN Pierson
+2 GIVN Polly Ann
+1 SEX F
+1 BIRT
+2 DATE 2 Jan 1796
+2 PLAC Hanover, Morris, New Jersey
+1 DEAT
+2 DATE 29 Jul 1852
+2 PLAC Kearney, , Nebraska
+1 _UID BE730368B773E9499DDC7A65C69092589044
+1 FAMS @F38@
+1 FAMC @F41@
+1 NOTE The PRF record says she was buried in Colorado Springs, El Paso, Colorado in July but in 185
+2 CONC 2 it was a physical impossibility to transport someone that distance in two days.
+1 SOUR @S6@
+2 PAGE CD#129; PiN#2529888
+2 NOTE Polly Ann Pierson, Born: about 1794 in Hanover, Morris, New Jersey; Died: July 29, 1852 in Ke
+3 CONC arney, Nebraska.
+1 SOUR @S3@
+2 NOTE Polly Ann Pierson Gardner, Born: January 2, 1796; Died: July 29, 1852; Trekked with the Isaa
+3 CONC c Bullock Company in 1852. 
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #76
+3 CONT Polly Gardner age 53 making her birth year around 1797 in New Jersey.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 19 Feb 2009
+3 TIME 15:30:33
+0 @I117@ INDI
+1 NAME Matilda /Gardner/
+2 SURN Gardner
+2 GIVN Matilda
+1 SEX F
+1 BIRT
+2 DATE 2 Nov 1815
+2 PLAC Hanover, Morris, New Jersey
+1 DEAT
+2 DATE 5 Apr 1904
+2 PLAC Springfield, Sarpy, Nebraska
+1 BURI
+2 DATE 7 Apr 1904
+2 PLAC Ball Cemetery, Springfield, Sarpy, Nebraska
+1 _UID E2DBE730A3019044AF51672F8569B6E2685B
+1 FAMC @F38@
+1 NOTE She was married in 1833 in Ohio to Asa Holmes Anson so I am unsure whether she and her husban
+2 CONC d actually lived in Iowa or Winter Quarters but they did end up living rather close to thos
+2 CONC e sites for the rest of their lives.
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529889
+2 NOTE Matilda Gardner, Born: November 1815 in Hanover, Morris, New Jersey; Died: April 5, 1904 in S
+3 CONC pringfield, Sarpy, Nebraska; Burial: April 7, 1904 in Ball Cemetery, Springfield, Nebraska.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 09:29:59
+0 @I118@ INDI
+1 NAME Thomas C. /Gardner/
+2 SURN Gardner
+2 GIVN Thomas C.
+1 SEX M
+1 BIRT
+2 DATE 15 Jul 1817
+2 PLAC , Seneca, New York
+1 DEAT
+2 DATE unknown
+1 _UID 053CDE143E6DEF4E99723A73A350894F9E05
+1 FAMS @F39@
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529890
+2 NOTE Thomas C. Gardner, Born: July 15, 1817 in Seneca County, New York.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 09:57:20
+0 @I119@ INDI
+1 NAME Samantha /Royce or Rois/
+2 SURN Royce or Rois
+2 GIVN Samantha
+1 SEX F
+1 BIRT
+2 DATE ABT 1819
+2 PLAC Of , Seneca, New York
+1 DEAT
+2 DATE unknown
+1 _UID C5EBE491C32EBE4586D67862969588080AD4
+1 FAMS @F39@
+1 SOUR @S2@
+2 NOTE Samantha Rois, Born: about 1819 of Seneca County, New York.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 10:26:08
+0 @I120@ INDI
+1 NAME Alvin A. /Gardner/
+2 SURN Gardner
+2 GIVN Alvin A.
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1821
+2 PLAC Hanover, Morris, New Jersey
+1 DEAT
+2 DATE unknown
+1 _UID 35E85646D9206648A08565873AE70EE08077
+1 FAMC @F38@
+1 NOTE I believe that this person passed away close to thier birth.
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529891
+2 NOTE Alvin A. Gardner, Born: October 24, 1821 in Hanover, Morris, New Jersey.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 10:33:16
+0 @I121@ INDI
+1 NAME Chester A. /Gardner/
+2 SURN Gardner
+2 GIVN Chester A.
+1 SEX M
+1 BIRT
+2 DATE 22 Jul 1823
+2 PLAC Hanover, Morris, New Jersey
+1 DEAT
+2 PLAC , , Ohio
+1 _UID EB5FC6903F5C8246A1D656D80BC56CFFE347
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529892
+2 NOTE Chester A. Gardner, Born: July 22, 1823 in Hanover, Morris, New Jersey; Died: in Ohio.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 10:37:45
+0 @I122@ INDI
+1 NAME Lorin S. /Gardner/
+2 SURN Gardner
+2 GIVN Lorin S.
+1 SEX M
+1 BIRT
+2 DATE 23 May 1827
+2 PLAC , , New York
+1 DEAT
+2 DATE 2 Mar 1870
+2 PLAC Glenwood, Mills, Iowa
+1 _UID D39A2733B8CCAF46A49F21931C4192204634
+1 FAMC @F38@
+1 NOTE Married Hannah Williams Liston in February 13, 1853 in Glenwood, Mills, Iowa.
+1 SOUR @S6@
+2 PAGE CD#129;PIN#2529892
+2 NOTE Lorin S. Gardner, Born: May 23, 1827 in New York; Died: March 2, 1870 in Glenwood, Mills, Iow
+3 CONC a.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #76
+3 CONT Loran Gardner age 23 making his birth year around 1827 in New York.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 10:45:47
+0 @I123@ INDI
+1 NAME James Harvey /Gardner/
+2 SURN Gardner
+2 GIVN James Harvey
+1 SEX M
+1 BIRT
+2 DATE 10 Apr 1830
+2 PLAC , Seneca, New York
+1 DEAT
+2 DATE 25 Jan 1907
+2 PLAC Pocatello, Bannock, Idaho
+1 BURI
+2 DATE 27 Jan 1907
+2 PLAC Pocatello, Bannock, Idaho
+1 _UID 7B6A6F61E486E84C8123F84837FD5529E9EE
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529895
+2 NOTE James Harvey Gardner, Born: April 10, 1830 in Seneca County, New York; Died: January 25, 190
+3 CONC 7 in Pocatello, Bannock, Idaho; Burial: January 27, 1907 in Pocatello, Bannock, Idaho.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 11:40:13
+0 @I124@ INDI
+1 NAME Jane /Gardner/
+2 SURN Gardner
+2 GIVN Jane
+1 SEX F
+1 BIRT
+2 DATE 10 Apr 1830
+2 PLAC Hanover, Morris, New Jersey
+1 DEAT
+2 DATE 1852
+1 _UID AA0F3CCAE9FAB74FB90E21B0B3C3A81B7982
+1 FAMC @F38@
+1 NOTE She is a twin sister of James Harvey Gardner.
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529896
+2 NOTE Jane Gardner, Born: April 10, 1830 in Hanover, Morris, New Jersey; Died: 1852 prior to [leavi
+3 CONC ng for Utah].
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 11:43:27
+0 @I125@ INDI
+1 NAME Charles /Gardner/
+2 SURN Gardner
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1833
+2 PLAC Huntsburg, Geauga, Ohio
+1 DEAT
+2 DATE 24 Aug 1884
+2 PLAC Wallsburg, Wasatch, Utah
+1 _UID 4A1C707FE4BF214F8DDD66938ED5B6997D3F
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529852
+2 NOTE Charles Gardner, Born: January 19, 1833 in Hunstburgh [sic], Geauga, Ohio; Died: August 24, 1
+3 CONC 884 in Wallsburg, Wasatch, Utah.
+1 SOUR @S3@
+2 NOTE Charles Gardner, Born: January 19, 1833; Died: August 24, 1884; Trekked with the Isaac Bulloc
+3 CONC k Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #76 
+3 CONT Charles Gardner age 17 making his birth year around 1833 in Ohio.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 11:56:58
+0 @I126@ INDI
+1 NAME John /Gardner/
+2 SURN Gardner
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 19 Oct 1835
+2 PLAC Huntsburg, Geauga, Ohio
+1 DEAT
+2 DATE unknown
+1 _UID E529A72F7E485E42BFF86D943A9B145944A6
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529897
+2 NOTE John Gardner, Born: October 19, 1835 in Huntsburgh [sic], Geauga, Ohio.
+1 SOUR @S3@
+2 NOTE John Gardner, Born: October 19, 1835; Died: about 1901; Trekked with the Isaac Bullock Compan
+3 CONC y in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #76
+3 CONT John Gardner age 15 making his birth year around 1835 in Ohio.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:07:02
+0 @I127@ INDI
+1 NAME Amos /Gardner/
+2 SURN Gardner
+2 GIVN Amos
+1 SEX M
+1 BIRT
+2 DATE 4 Mar 1837
+2 PLAC Huntsburg, Geauga, Ohio
+1 DEAT
+2 DATE 23 Apr 1850
+2 PLAC , Mills, Iowa
+1 _UID CDA154F0C5B1674CB652F7DB54E8DE1BEA6E
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529898
+2 NOTE Amos Gardner, Born: March 4, 1837 Huntsburg, Geauga, Ohio; Died: April 23, 1850 in Mills Coun
+3 CONC ty, Iowa.
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:14:13
+0 @I128@ INDI
+1 NAME George Alma /Gardner/
+2 SURN Gardner
+2 GIVN George Alma
+1 SEX M
+1 BIRT
+2 DATE 7 Jun 1840
+2 PLAC Huntsburg, Geauga, Ohio
+1 DEAT
+2 DATE 7 Jul 1852
+2 PLAC , Buffalo, Nebraska
+1 _UID 51BB42CF43CB7B4FACE157AE0EF71D5B043F
+1 FAMC @F38@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529899
+2 NOTE George Alma Gardner, Born: June 7, 1840 in Huntsburg, Geauga, Ohio; Died: July 31, 1852 in Bu
+3 CONC ffalo County, Nebraska.
+1 SOUR @S3@
+2 NOTE George Alma Gardner, Born: June 7, 1840; Died: July 27, 1852; Trekked with the Isaac Bulloc
+3 CONC k Company in 1852.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #76
+3 CONT George Gardner age 10 making his birth year around 1840 in Illinois.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:26:32
+0 @I129@ INDI
+1 NAME Jotham /Gardner/
+2 SURN Gardner
+2 GIVN Jotham
+1 SEX M
+1 _UID CC65A3EE68FB394CA84FDF7BCF6CAD8366A1
+1 FAMS @F40@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529980
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:28:23
+0 @I130@ INDI
+1 NAME Hannah /Russell/
+2 SURN Russell
+2 GIVN Hannah
+1 SEX F
+1 _UID 15AB5292C5FEDA4B95B3AB8FD1CD449787AC
+1 FAMS @F40@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529981
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:29:39
+0 @I131@ INDI
+1 NAME John /Pierson/
+2 SURN Pierson
+2 GIVN John
+1 SEX M
+1 _UID C1E61F04EB49144984D961BB1D39E4808E53
+1 FAMS @F41@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529987
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:30:27
+0 @I132@ INDI
+1 NAME Susannah /Russell/
+2 SURN Russell
+2 GIVN Susannah
+1 SEX F
+1 _UID F80CEFC9B670F04B95CF992C32FDA2F0078C
+1 FAMS @F41@
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529988
+1 CHAN
+2 DATE 20 Feb 2009
+3 TIME 12:31:17
+0 @I133@ INDI
+1 NAME Joseph /Brown/
+2 SURN Brown
+2 GIVN Joseph
+1 SEX M
+1 BIRT
+2 DATE ABT 1811
+2 PLAC , , New York
+1 DEAT
+2 DATE unknown
+1 _UID F368A39460F908479DBC3CD8A0192E7402FF
+1 FAMS @F42@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #77
+3 CONT Joseph Brown age 39 making his birth year around 1811 in New York.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 30; Image: 47
+2 NOTE Dwelling #269 and Family #220
+3 CONT Joseph Brown age 48 making his birth year around 1812 in New York.
+2 DATA
+3 DATE July 26, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 23 Feb 2009
+3 TIME 11:32:52
+0 @I134@ INDI
+1 NAME Cordelia //
+2 GIVN Cordelia
+1 SEX F
+1 BIRT
+2 DATE ABT 1817
+2 PLAC , , New York
+1 DEAT
+2 DATE unknown
+1 _UID 9087181B4E9CFE46BCD9C9C85BA0FE34CB3F
+1 FAMS @F42@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #77
+3 CONT Cordelia Brown age 33 making her birth year around 1817 in New York.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 30; Image: 47
+2 NOTE Dwelling #269 and Family #220
+3 CONT Cordelia Brown age 43 making her birth year around 1817 in New York.
+2 DATA
+3 DATE July 26, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 23 Feb 2009
+3 TIME 11:42:43
+0 @I135@ INDI
+1 NAME Emma /Brown/
+2 SURN Brown
+2 GIVN Emma
+1 SEX F
+1 BIRT
+2 DATE ABT 1836
+2 PLAC , , Illinois
+1 DEAT
+2 DATE unknown
+1 _UID 05A60D5CA5FD5F43831777CC2D837097EC4B
+1 FAMC @F42@
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #77
+3 CONT Emma Brown age 14 making her birth year around 1836 in Illinois.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 23 Feb 2009
+3 TIME 11:40:25
+0 @I136@ INDI
+1 NAME Elijah /Brown/
+2 SURN Brown
+2 GIVN Elijah
+1 SEX M
+1 BIRT
+2 DATE ABT 1851
+2 PLAC , , Iowa
+1 DEAT
+2 DATE unknown
+1 _UID 301F02EDC48FBC408214558E9748560F4A32
+1 FAMC @F42@
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 30; Image: 47
+2 NOTE Dwelling #269 and Family #220
+3 CONT Elijah Brown age 9 making his birth year around 1851 in Iowa.
+2 DATA
+3 DATE July 26, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 23 Feb 2009
+3 TIME 11:42:13
+0 @I137@ INDI
+1 NAME William /Brittan/
+2 SURN Brittan
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 30 Oct 1818
+2 PLAC Deeping Fen, Lincolnshire, England
+1 DEAT
+2 DATE 12 Jul 1895
+2 PLAC Garden City, Finney, Kansas
+1 BURI
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 8A333AA089626749841DD221E22EDAF8A85C
+1 FAMS @F43@
+1 FAMC @F44@
+1 SOUR @S2@
+2 NOTE William Britain, Born: October 30, 1818 in Deeping Fen, Lincolnshire, England; Died: July 12
+3 CONC , 1895 in Garden City, Finney, Kansas; Burial: in Glenwood, Mills, Iowa.
+1 SOUR @S8@
+2 NOTE William Brittan, Born: about 1818 in England.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #80
+3 CONT William Brittan age 32 making his birth year around 1818 in England.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:14:05
+0 @I138@ INDI
+1 NAME Mary /Bains/
+2 SURN Bains
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1 Apr 1820
+2 PLAC Moulton Chapel, Lincolnshire, England
+1 DEAT
+2 DATE 13 Jun 1906
+2 PLAC , Rice, Kansas
+1 BURI
+2 PLAC Garden City, Finney, Kansas
+1 _UID 3FE53FECCEED0248AF6AA961966A6783615C
+1 FAMS @F43@
+1 FAMC @F45@
+1 SOUR @S2@
+2 NOTE Mary Bains, Born: April 1, 1820 in Moulton Chapel, Lincolnshire, England; Died: June13, 190
+3 CONC 6 in Rice County, Kansas; Burial: in Garden City, Finney, Kansas.
+1 SOUR @S8@
+2 NOTE Mary Bains, Born: about 1821 in England.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #80
+3 CONT Mary Brittan age 29 making her birth year around 1821 in England.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 10:28:57
+0 @I139@ INDI
+1 NAME Catherine Rebecca /Brittan/
+2 SURN Brittan
+2 GIVN Catherine Rebecca
+1 SEX F
+1 BIRT
+2 DATE 14 Jun 1844
+2 PLAC Moulton Chapel, Lincolnshire, England
+1 DEAT
+2 DATE 10 Apr 1910
+2 PLAC Springfield, Sarpy, Nebraska
+1 BURI
+2 PLAC Springfield, Sarpy, Nebraska
+1 _UID 3F2E0A56BDD9294B9259B47BF75E597918B7
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Catherine Rebecca Britain, Born: June 14, 1844 in Moulton Chapel, England; Died: April 10, 19
+3 CONC 10 in Springfield, Sarpy, Nebraska; Burial: in Springfield, Sarpy, Nebraska.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #80
+3 CONT Catherine Brittan age 6 making her birth year aroudn 1844 in England.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:14:15
+0 @I140@ INDI
+1 NAME Caroline Louisa /Brittan/
+2 SURN Brittan
+2 GIVN Caroline Louisa
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1847
+2 PLAC Rushville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 18 Jul 1939
+2 PLAC Hutchinson, Reno, Kansas
+1 _UID 6620046E68EA69458657DC753FABCB734E8B
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Caroline Louisa Britain, Born: January 12, 1847 in Rushville, Pottawattamie, Iowa; Died: Jul
+3 CONC y 18, 1939 in Hutchinson, Reno, Kansas.
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 69; Image: 139
+2 NOTE Dwelling and Family #80
+3 CONT Caroline Brittan age 4 making her birth year around 1846 in Iowa.
+2 DATA
+3 DATE September 2, 1850 in Pottawattamie, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:14:24
+0 @I141@ INDI
+1 NAME John William /Brittan/
+2 SURN Brittan
+2 GIVN John William
+1 SEX M
+1 BIRT
+2 DATE 11 Jan 1849
+2 PLAC Coonville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 10 Aug 1849
+2 PLAC , , Iowa
+1 _UID AB098C7BEBFE8A459ACFCF883BA87EE97DA1
+1 FAMC @F43@
+1 NOTE Subsequent children were born in Iowa and lived in Iowa at least until 1860 so we can assum
+2 CONC e he died in Iowa.
+1 SOUR @S2@
+2 NOTE John William Britain, Born: January 11, 1849 in Coonville, Pottawattamie, Iowa; Died: Augus
+3 CONC t 10, 1849.
+1 SOUR @S8@
+2 NOTE John William Brittan, Born: January 12, 1849 in Pottawattamie County, Iowa.
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:28:33
+0 @I142@ INDI
+1 NAME Mary Ann /Brittan/
+2 SURN Brittan
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 30 Jun 1850
+2 PLAC Coonville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 19 Aug 1928
+2 PLAC West Point, Cuming, Nebraska
+1 BURI
+2 DATE 31 Aug 1928
+2 PLAC Decatur, Burt, Nebraska
+1 _UID FA4E717CD696104B84CC5E5F41B78C69F6D6
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Mary Ann Britain, Born: June 30, 1850 in Coonville, Pottawattamie, Iowa; Died: August 19, 192
+3 CONC 8 in West Point, Cuming, Nebraska; Burial: August 21, 1928 in Decatur, Burt, Nebraska.
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 63; Image: 80
+2 NOTE Dwelling #510 and Family #452
+3 CONT Mary Ann Britton age 10 making her birth year around 1850 in Iowa.
+2 DATA
+3 DATE July 5, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:27:19
+0 @I143@ INDI
+1 NAME Eliza A. /Brittan/
+2 SURN Brittan
+2 GIVN Eliza A.
+1 SEX F
+1 BIRT
+2 DATE 28 Mar 1852
+2 PLAC Coonville, Pottawattamie, Iowa
+1 DEAT
+2 DATE 20 Feb 1875
+1 _UID 02E1983098C8194F879FDEE289D0314E31FB
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Eliza A. Britain, Born: March 28, 1852 in Coonville, Mills, Iowa; Died: February 20, 1875.
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 63; Image: 80
+2 NOTE Dwelling #510 and Family #452
+3 CONT Eliza A. Britton age 8 making her birth year around 1852 in Iowa.
+2 DATA
+3 DATE July 5, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:33:28
+0 @I144@ INDI
+1 NAME unknown /Brittan/
+2 SURN Brittan
+2 GIVN unknown
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1854
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+2 DATE 2 Jan 1854
+2 PLAC Glenwood, Mills, Iowa
+1 _UID 56AB7116BE36F74583276BADE2022F3CC932
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Baby Britain, Born: January 1, 1854 in Glenwood, Mills, Iowa; Died: January 2, 1854 in Glenwo
+3 CONC od, Mills, Iowa.
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:37:17
+0 @I145@ INDI
+1 NAME Julia A. /Brittan/
+2 SURN Brittan
+2 GIVN Julia A.
+1 SEX F
+1 BIRT
+2 DATE 31 May 1855
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+2 DATE 21 Feb 1927
+2 PLAC Sterling, Rice, Kansas
+1 _UID 73F25BCC08B80142A9C440942CDAA6C33FAD
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Julia A. Britain, Born: May 31, 1855 in Glenwood, Mills, Iowa; Died: February 21, 1927 in Ste
+3 CONC rling, Rice, Kansas.
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 63; Image: 80
+2 NOTE Dwelling #510 and Family #452
+3 CONT Julia A. Britton age 5 making her birth year around 1855 in Iowa.
+2 DATA
+3 DATE July 5, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:42:28
+0 @I146@ INDI
+1 NAME Willard Benjamin /Brittan/
+2 SURN Brittan
+2 GIVN Willard Benjamin
+1 SEX M
+1 BIRT
+2 DATE 6 Aug 1857
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+2 DATE 16 Jun 1920
+2 PLAC Salt Creek, Reno, Kansas
+1 BURI
+2 DATE 20 Jun 1920
+2 PLAC Alden, Rice, Kansas
+1 _UID 010B2B0BD46D174A9B625F8E17ADC839936F
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE Willard Benjamin Britain, Born: August 6, 1857 in Glenwood, Mills, Iowa; Died: June 16, 192
+3 CONC 0 in Salt Creek, Reno, Kansas; Burial: June 20, 1920 in Alden, Rice, Kansas
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 63; Image: 80
+2 NOTE Dwelling #510 and Family #452
+3 CONT Willard B. Britton age 2 making his birth year around 1858 in Iowa.
+2 DATA
+3 DATE July 5, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:47:17
+0 @I147@ INDI
+1 NAME George Edward /Brittan/
+2 SURN Brittan
+2 GIVN George Edward
+1 SEX M
+1 BIRT
+2 DATE 24 Apr 1859
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+2 DATE 6 Mar 1861
+2 PLAC Glenwood, Mills, Iowa
+1 _UID B3659597872DEF4FAEDD881341F3692F2834
+1 FAMC @F43@
+1 SOUR @S2@
+2 NOTE George Edward Britain, Born: April 24, 1859 in Glenwood, Mills, Iowa; Died: march 6, 1861 i
+3 CONC n Glenwood, Mills, Iowa.
+1 SOUR @S4@
+2 PAGE Roll: M653_336; Page: 63; Image: 80
+2 NOTE Dwelling #510 and Family #452
+3 CONT Geo A. Britton age 1 making his birth year around 1859 in Iowa.
+2 DATA
+3 DATE July 5, 1860 in Mills, Iowa
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:50:22
+0 @I148@ INDI
+1 NAME John /Brittan/
+2 SURN Brittan
+2 GIVN John
+1 SEX M
+1 _UID 64A81BF242040F41A9D73DAB7D6620A1BBF4
+1 FAMS @F44@
+1 SOUR @S2@
+2 NOTE John Britain
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:51:10
+0 @I149@ INDI
+1 NAME Rebecca /Willows/
+2 SURN Willows
+2 GIVN Rebecca
+1 SEX F
+1 _UID AD7BF0D701101C43BF71B87301DCCDEA4EF9
+1 FAMS @F44@
+1 SOUR @S2@
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:51:29
+0 @I150@ INDI
+1 NAME John /Bains/
+2 SURN Bains
+2 GIVN John
+1 SEX M
+1 _UID DBDA8A18C6F87C48B9403194924679685090
+1 FAMS @F45@
+1 SOUR @S2@
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:51:43
+0 @I151@ INDI
+1 NAME Carherine /Rand/
+2 SURN Rand
+2 GIVN Carherine
+1 SEX F
+1 _UID 334D89C3CE9433489F12AA55A3A9AAA3F23B
+1 FAMS @F45@
+1 SOUR @S2@
+1 CHAN
+2 DATE 24 Feb 2009
+3 TIME 11:52:03
+0 @I152@ INDI
+1 NAME William /Young/
+2 SURN Young
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 28 Aug 1804
+2 PLAC Springfield, Robertson, Tennessee
+1 DEAT
+2 DATE 2 Sep 1875
+2 PLAC Washington, Washington, Utah
+1 BURI
+2 DATE 4 Sep 1875
+2 PLAC Washington, Washington, Utah
+1 _UID F827FA41C286B148B8E3396FD2BD6C8F686A
+1 FAMS @F46@
+1 FAMS @F49@
+1 FAMC @F47@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196903
+2 NOTE William Young, Born: August 28, 1804 in Springfield, Robertson, Tennessee; Died: September 2
+3 CONC , 1875 in Washington, Washington, Utah; Burial: September 4, 1804 in Washington, Washington
+3 CONC , Utah.
+1 SOUR @S3@
+2 NOTE William Young, Born: August 28, 1805; Died: September 2, 1875; Trekked with the Samuel Gully/
+3 CONC Orson Spencer Company in  1849.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Family #154
+3 CONT William Young age 46 making his birth year around 1804 in Tennessee.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:01:24
+0 @I153@ INDI
+1 NAME Leah Ann /Smith/
+2 SURN Smith
+2 GIVN Leah Ann
+1 SEX F
+1 BIRT
+2 DATE 1 Dec 1810
+2 PLAC Nashville, Smith, Tennessee
+1 DEAT
+2 DATE 18 Aug 1897
+2 PLAC Oak Springs, Lincoln, Nevada
+1 BURI
+2 DATE 20 Aug 1897
+2 PLAC Oak Springs, Lincoln, Nevada
+1 _UID 1E35AF0CCFFC544FA829F551192C852C8990
+1 FAMS @F46@
+1 FAMC @F48@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196904
+2 NOTE Leah Ann Smith, Born: December 1, 1810 in Nashville, Smith, Tennessee; Died: August 18, 189
+3 CONC 7 in Oak Springs, Lincoln, Nevada; Burial: August 20, 1897 in Oak Springs, Lincoln, Nevada.
+1 SOUR @S3@
+2 NOTE Leah Smith Young, Born: December 1, 1810; Died: August 18, 1897; Trekked with the Samuel Gull
+3 CONC y/Orson Spencer Company in 1849.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Family #154
+3 CONT Leah Young age 42 making her birth year around 1808 in Tennessee.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:12:53
+0 @I154@ INDI
+1 NAME Jacob /Young/
+2 SURN Young
+2 GIVN Jacob
+1 SEX M
+1 _UID CD2FF94983A7334EAC6CC8F827D1586879F4
+1 FAMS @F47@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196988
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:23:56
+0 @I155@ INDI
+1 NAME Mary /Boren/
+2 SURN Boren
+2 GIVN Mary
+1 SEX F
+1 _UID 5EDC51A3AADC894EA7815A2A7586143E8476
+1 FAMS @F47@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196989
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:24:43
+0 @I156@ INDI
+1 NAME James Agee /Smith/
+2 SURN Smith
+2 GIVN James Agee
+1 SEX M
+1 _UID 5C9F84480177B44E91E18A51D1C7A6B480F9
+1 FAMS @F48@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196995
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:20:58
+0 @I157@ INDI
+1 NAME Margaret /Love/
+2 SURN Love
+2 GIVN Margaret
+1 SEX F
+1 _UID 7C41AB1A79B8034D98C7FC24A98BFFBB706D
+1 FAMS @F48@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196996
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:22:50
+0 @I158@ INDI
+1 NAME Mary /Young/
+2 SURN Young
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1827
+2 PLAC , Smith, Tennessee
+1 _UID 487ADE7B5F0B9E48A97F0DABECC2B908BA80
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196905
+2 NOTE Mary Young, Born: About 1827 in Smith County, Tennessee.
+1 CHAN
+2 DATE 27 Feb 2009
+3 TIME 12:40:14
+0 @I159@ INDI
+1 NAME Willis Smith /Young/
+2 SURN Young
+2 GIVN Willis Smith
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1829
+2 PLAC Trenton, Gibson, Tennessee
+1 DEAT
+2 DATE 16 May 1910
+2 PLAC Escalante, Garfield, Utah
+1 BURI
+2 DATE 19 May 1910
+2 PLAC Escalante, Garfield, Utah
+1 _UID 2ED40855CFAB604B8CDB2ED980896B94FA30
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196852
+2 NOTE Willis Smith Young, Born: March 16, 1829 in Trenton, Gibson, Tennessee; Died: May 16, 1910 i
+3 CONC n Escalante, Garfield, Utah; Burial: May 19, 1910 in Escalante, Garfield, Utah.
+1 SOUR @S3@
+2 NOTE Willis Smith Young, Born: March16, 1829; Died: May 16, 1910; Trekked with the Samuel Gully/Or
+3 CONC son Spencer Company in 1849.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Famliy #154
+3 CONT Willis S. Young age 22 making his birth year around 1838 in Tennessee.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 09:13:42
+0 @I160@ INDI
+1 NAME James /Young/
+2 SURN Young
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 15 Oct 1831
+2 PLAC Smith, Smith, Tennessee
+1 DEAT
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 _UID 369F689369C28A47ADC9EFD8B17CD1FA018A
+1 FAMC @F46@
+1 NOTE Most likely died around 1848 to 1849 in Pottawattamie, Iowa.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196906
+2 NOTE James Young, Born: October 15, 1831 Smith, Smith, Tennessee; Died: in Council Bluffs, Pottawa
+3 CONC ttamie, Iowa.
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 09:39:25
+0 @I161@ INDI
+1 NAME Ethalinda Margaret /Young/
+2 SURN Young
+2 GIVN Ethalinda Margaret
+1 SEX F
+1 BIRT
+2 DATE 12 Mar 1834
+2 PLAC Trenton, Gibson, Tennessee
+1 DEAT
+2 DATE 25 May 1917
+2 PLAC Monticello, San Juan, Utah
+1 BURI
+2 DATE 27 May 1917
+2 PLAC Monticello, San Juan, Utah
+1 _UID CF8AEEA7EDCFEA449682FA52DE79BBBA08D5
+1 FAMC @F46@
+1 NOTE She was born six months after Melinda so either she is not part of the family or Melina is no
+2 CONC t.  There are some files in Ancestral File that indicate Melinda is the child of Alfred Dougl
+2 CONC as Young adn Anna Mundine Chappell.  So for now she will remain in this PAF until we know fo
+2 CONC r certain Melinda is not part of this Young Family.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196908
+2 NOTE Ethalinda Margaret Young, Born: March 12, 1834 in Gibson County, Tennessee; Died: May 25, 191
+3 CONC 7 in in Monticello, San Juan, Utah; Burial: May 27, 1917 in Monticello, San Juan, Utah.
+1 SOUR @S3@
+2 NOTE Ethalinda Margaret Young, Born: March 12, 1834; Died: May 25, 1917; Trekked with the Samuel G
+3 CONC ully/Orson Spencer Company in 1849.
+1 SOUR @S13@
+2 NOTE Ethalinda Margaret Young, Born: March 12, 1834 in Trenton, Gibson, Tennessee; Died: March 25
+3 CONC , 1917 in Monticello, San Juan, Utah; Burial: in Monitcello City Cemetery, Monticello, San Ju
+3 CONC an, Utah.  Married John WIlliam Young on May 19, 1850 in Salt Lake, Salt Lake, Utah.
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 11:16:51
+0 @I162@ INDI
+1 NAME Melinda /Young/
+2 SURN Young
+2 GIVN Melinda
+1 SEX F
+1 BIRT
+2 DATE 3 Nov 1833
+2 PLAC Smith, Smith, Tennessee
+1 DEAT
+2 DATE 15 Jun 1902
+2 PLAC Scipio, Millard, Utah
+1 BURI
+2 DATE 17 Jun 1902
+2 PLAC Scipio, Millard, Utah
+1 _UID B4C977143C10C043B9272F448415A7816B4D
+1 FAMC @F46@
+1 NOTE There are some files in Ancestral File that indicate Melinda is the child of Alfred Douglas Y
+2 CONC oung adn Anna Mundine Chappell.  So for now she will remain in this PAF until we know for cer
+2 CONC tain Melinda is not part of this Young Family.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196907
+2 NOTE Melinda Young, Born: November 3, 1833 in Smith, Smith, Tennessee; Died: June 15, 1902 in Scip
+3 CONC io, Millard, Utah; Burial: June 17, 1902 in Scipio, Millard, Utah.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Family #154
+3 CONT Melinda Young age 17 making her birth year around 1833 in Tennessee.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 11:02:28
+0 @I163@ INDI
+1 NAME William Darius /Young/
+2 SURN Young
+2 GIVN William Darius
+1 SEX M
+1 BIRT
+2 DATE 4 Aug 1837
+2 PLAC , Gibson, Tennessee
+1 DEAT
+2 DATE Jan 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 BURI
+2 DATE Jan 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 _UID 94C214CBEC3BC941BEC98495441898403AF9
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196909
+2 NOTE William Darius Young, Born: August 4, 1837 in Gibson County, Tennessee; Died: January 1848 i
+3 CONC n Council Bluffs, Pottawattamie, Iowa; Burial: January 1848 in Council Bluffs, Pottawattamie
+3 CONC , Iowa.
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 11:16:49
+0 @I164@ INDI
+1 NAME Rachel Derinda /Young/
+2 SURN Young
+2 GIVN Rachel Derinda
+1 SEX F
+1 BIRT
+2 DATE 11 Apr 1839
+2 PLAC Smith, Smith, Tennessee
+1 DEAT
+2 DATE ABT 1894
+2 PLAC Pahreah (Pariah), Kane, Utah
+1 _UID 8D6EA99C66F8804C8FCE13C4F8C9E798DE89
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196910
+2 NOTE Rachel Derinda Young, Born: April 11, 1839 in Smith, Smith, Tennessee; Died: about 1894 in Pa
+3 CONC hreah, Kane, Utah; Burial: in Kane, Utah.
+1 SOUR @S3@
+2 NOTE Rachel Derinda Young, Born: April 11, 1839; Died: about 1894; Trekked with the Samuel Gully/O
+3 CONC rson Spencer Company in 1849.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Family #154
+3 CONT Rachel Young age 13 making her birth year around 1837 in Tennessee.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 11:32:52
+0 @I165@ INDI
+1 NAME Derias /Young/
+2 SURN Young
+2 GIVN Derias
+1 SEX M
+1 BIRT
+2 DATE 1839
+2 PLAC Smith, Smith, Tennessee
+1 DEAT
+2 DATE 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 _UID 3FF0E93095DCBB4BA6D61AE5BEEDA9901E4F
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196911
+2 NOTE Derias Young, Born: 1839 in Smith, Smith, Tennessee; Died: 1848 in Council Bluffs, Pottawatta
+3 CONC mie, Iowa.
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 11:43:54
+0 @I166@ INDI
+1 NAME Squire Lebastian /Young/
+2 SURN Young
+2 GIVN Squire Lebastian
+1 SEX M
+1 BIRT
+2 DATE 7 Oct 1841
+2 PLAC , Smith, Tennessee
+1 DEAT
+2 DATE Jan 1849
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 _UID DA78CBFE9B8FA441A4D86110D300BD751C9B
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196912
+2 NOTE Squire Lebastian Young, Born: October 7, 1841 in Smith County, Tennessee; Died: January 184
+3 CONC 9 in Council Bluffs, Pottawattamie, Iowa; Burial: January 1849 in Council Bluffs, Pottawattam
+3 CONC ie, Iowa.
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 11:48:10
+0 @I167@ INDI
+1 NAME Harriet /Young/
+2 SURN Young
+2 GIVN Harriet
+1 SEX F
+1 BIRT
+2 DATE 1843
+2 PLAC Dalmore, Smith, Tennessee
+1 DEAT
+2 DATE 1862
+2 PLAC , , Utah
+1 _UID 4D83238D4473C14F9BD803D11CDE9C2E5259
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196913
+2 NOTE Harriet Young, Born: 1843 in Dalmore, Smith, Tennessee; Died: 1862 in Utah.
+1 SOUR @S3@
+2 NOTE Harriet Young, Born: 1843; Died: unknown; Trekked with the Samuel Gully/Orson Spencer Compan
+3 CONC y in 1849.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Family #154
+3 CONT Harriet Young age 7 making her birth year around 1843 in Illinois.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 12:23:39
+0 @I168@ INDI
+1 NAME James Francis Marion /Young/
+2 SURN Young
+2 GIVN James Francis Marion
+1 SEX M
+1 BIRT
+2 DATE 6 Dec 1846
+2 PLAC Platte Territory, Smith, Tennessee
+1 DEAT
+2 DATE 29 Aug 1849
+2 PLAC En route to Utah
+1 _UID 7D09D78249C6FF44A00154F7135C9BB4DB17
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196914
+2 NOTE James Francis Marion Young, Born: December 6, 1846 in Platt Territory [sic], Smith, Tennessee
+3 CONC ; Died: August 1849 in Council Bluffs, Pottawattamie, Iowa.
+1 SOUR @S3@
+2 NOTE James Marion Young, Born: December 6, 1846; Died: August 29, 1849 en route to Utah; Trekked w
+3 CONC ith the Samuel Gully/Orson Spencer Company in 1849.
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 12:23:27
+0 @I169@ INDI
+1 NAME William Alma /Young/
+2 SURN Young
+2 GIVN William Alma
+1 SEX M
+1 BIRT
+2 DATE 3 Aug 1849
+2 PLAC Platt River, , Nebraska
+1 DEAT
+2 DATE 22 May 1914
+2 PLAC Showlow, Navajo, Arizona
+1 BURI
+2 DATE 23 May 1914
+2 PLAC Showlow, Navajo, Arizona
+1 _UID 07EAD5C43207C04AA01D839C9C56218541A1
+1 FAMC @F46@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196917
+2 NOTE William Alma Young, Born: August 3, 1849 in Platt River, Nebraska; Died: May 22, 1914 in Show
+3 CONC low, Navajo, Arizona; Burial: May 23, 1914 in Showlow, Navajo, Arizona.
+1 SOUR @S3@
+2 NOTE William Alma Young, Born: August 3, 1849; Died: May 22, 1914; Trekked with the Samuel Gully/O
+3 CONC rson Spencer Company in 1849.
+1 SOUR @S1@
+2 PAGE Roll: M432_919; Page: 129; Image: 261
+2 NOTE Dwelling and Family #154
+3 CONT Alma Young age 3 making his birth year around 1847 in Indian Territory.
+2 DATA
+3 DATE 1850 in Utah Territory
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 12:27:29
+0 @I170@ INDI
+1 NAME Anna /Reynolds/
+2 SURN Reynolds
+2 GIVN Anna
+1 SEX F
+1 BIRT
+2 DATE 8 Feb 1819
+2 PLAC Belleford, Jackson, Alabama
+1 DEAT
+2 DATE 8 Aug 1904
+2 PLAC Mathews, Graham, Arizona
+1 _UID 89C9B3A91CC27F4381784FD7BC9410B7848D
+1 FAMS @F49@
+1 FAMC @F50@
+1 SOUR @S6@
+2 PAGE CD#126; PIN#57919
+2 NOTE Anna Reynolds, Born: February 8, 1819 in Belleford, Jackson, Alabama; Died: August 8, 1904 i
+3 CONC n Mathews, Graham, Arizona.
+1 SOUR @S4@
+2 PAGE Roll: M653_1314; Page: 896; Image: 364
+2 NOTE Dwelling #2693 and Family #2116
+3 CONT Anna Riggs age 39 making her birth year around 1821 in Alabama.
+2 DATA
+3 DATE September 10, 1860 in Utah, Utah
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 12:50:10
+0 @I171@ INDI
+1 NAME Edward /Reynolds/
+2 SURN Reynolds
+2 GIVN Edward
+1 SEX M
+1 _UID 7A8AAD76FB70AE4DAF008D8D3BED4095538E
+1 FAMS @F50@
+1 SOUR @S2@
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 12:59:01
+0 @I172@ INDI
+1 NAME Jane /Ready/
+2 SURN Ready
+2 GIVN Jane
+1 SEX F
+1 _UID 48B031E336B91743AA0C67E0FC512BF9C361
+1 FAMS @F50@
+1 SOUR @S2@
+1 CHAN
+2 DATE 2 Mar 2009
+3 TIME 12:59:37
+0 @I173@ INDI
+1 NAME Daniel /Goss/
+2 SURN Goss
+2 GIVN Daniel
+1 SEX M
+1 _UID D5BE584E1EA3B54AAE1F11225BD80BFF36AF
+1 FAMS @F53@
+1 SOUR @S17@
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:41:01
+0 @I174@ INDI
+1 NAME Edson /Whipple/
+2 SURN Whipple
+2 GIVN Edson
+1 SEX M
+1 BIRT
+2 DATE 5 Feb 1805
+2 PLAC Dummerston, Windham, Vermont
+1 DEAT
+2 DATE 11 May 1894
+2 PLAC Colonia Juarez, Chihuahua, Mexico
+1 BURI
+2 DATE 12 May 1894
+2 PLAC Colonia Juarez, Chihuahua, Mexico
+1 _UID 825E4B7FD5DAC34AB6B724E2536776818AA2
+1 FAMS @F51@
+1 FAMC @F52@
+1 NOTE Came West with the Brigham Young Pioneer Company in 1847.
+1 SOUR @S17@
+2 NOTE Name: Edson Whipple
+3 CONT Birth: 5 Feb 1805
+3 CONT Place: Dummerston, Windham, Vermont
+3 CONT Death: 11 May 1894
+3 CONT Place: Colonia Juarez, Chihuahua, Mexico
+3 CONT Buried: 12 May 1894
+3 CONT Place: Colonia Juarez, Chihuahua, Mexico
+1 SOUR @S18@
+2 NOTE Name: Edson Whipple
+3 CONT Birth: 5 Feb 1805
+3 CONT Death: 11 May 1894
+3 CONT Age: 42
+3 CONT Company: Brigham Young Company (1847)
+1 SOUR @S19@
+2 PAGE Roll: M432_919, page 21, image #42
+2 NOTE Location: Iron, Utah Territory
+3 CONT Dwelling #54, Family #54
+3 CONT Name: Edson Whipple
+3 CONT Age: 46Place: Vermont
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:41:25
+0 @I175@ INDI
+1 NAME John /Whipple/
+2 SURN Whipple
+2 GIVN John
+1 SEX M
+1 _UID 9D89218DC198154D8C69227738DFE8839F17
+1 FAMS @F52@
+1 SOUR @S17@
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 00:00:00
+0 @I176@ INDI
+1 NAME Basmoth Elnore /Hutchins/
+2 SURN Hutchins
+2 GIVN Basmoth Elnore
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1769
+2 PLAC Harvard, Worcester, Massachusetts
+1 DEAT
+2 DATE 9 Sep 1846
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 _UID 02FABC28D7BF5B4AAA479B3B563249C578D6
+1 FAMS @F52@
+1 SOUR @S17@
+2 NOTE Name: Basmoth Elnore Hutchins
+3 CONT Birth: 7 Sep 1769
+3 CONT Place: Harvard, Worchester, Ma
+3 CONT Death: 9 Sep 1846
+3 CONT Place: Council Bluff, Pottawattamie, Ia
+1 SOUR @S24@
+2 PAGE Comments #61
+2 NOTE "On our arrival on the Missouri river we were counseled to locate for the winter on Poney Cre
+3 CONC ek, down the river about 30 miles, but on our arrival there we found the place very unhealth
+3 CONC y and thus unfit for habitation.  My mother (Basmath Hutchins Whipple) died September 9, 1846
+3 CONC . She was born September 7, 1769, in Massachusetts. A few days later (September 13, 1846) m
+3 CONC y wife died. She was born July 7, 1811, in Dummerston, Vermont. Of the whole camp consistin
+3 CONC g of 14 families all but two persons were sick, and while we were there we buried some whol
+3 CONC e families. We finally moved to another place, about 4 miles distant. My littel girl ( Maria
+3 CONC h Blanch), when twenty-two months old, died at our new location, December 8, 1846, and her re
+3 CONC mains were taken to the place where her mother was buried. She was born February 15, 1845; he
+3 CONC r remains were placed in a coffin made of split plank (bugswood tree)." 
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:52:25
+0 @I177@ INDI
+1 NAME Lavina /Goss/
+2 SURN Goss
+2 GIVN Lavina
+1 SEX F
+1 BIRT
+2 DATE 7 Jun 1811
+2 PLAC Dummerston, Windham, Vermont
+1 DEAT
+2 DATE 13 Sep 1846
+2 PLAC Pony Creek, Pottawattamie, Iowa
+1 _UID 68822EBBE9748E45946DA629BF85069BB880
+1 FAMS @F51@
+1 FAMC @F53@
+1 SOUR @S17@
+2 NOTE Name: Lavinia Goss
+3 CONT Birth: 1807
+3 CONT Place: Dummerston, Windham, Vt
+3 CONT Death: Abt 1877
+1 SOUR @S20@
+2 NOTE Name: Lovina Gass
+3 CONT Birth: 7 Jun 1811
+3 CONT Birth: Dummerston, Windham, VT
+1 SOUR @S21@
+2 NOTE Name: Lavinia Goss
+3 CONT Birth: 7 Jul 1811
+3 CONT Place: Dummerston, Windham, VT
+3 CONT Death: 13 Sep 1846
+3 CONT Place: Council Bluffs, IA
+1 SOUR @S24@
+2 PAGE Comments #61
+2 NOTE "On our arrival on the Missouri river we were counseled to locate for the winter on Poney Cre
+3 CONC ek, down the river about 30 miles, but on our arrival there we found the place very unhealth
+3 CONC y and thus unfit for habitation.  My mother (Basmath Hutchins Whipple) died September 9, 1846
+3 CONC . She was born September 7, 1769, in Massachusetts. A few days later (September 13, 1846) m
+3 CONC y wife died. She was born July 7, 1811, in Dummerston, Vermont. Of the whole camp consistin
+3 CONC g of 14 families all but two persons were sick, and while we were there we buried some whol
+3 CONC e families. We finally moved to another place, about 4 miles distant. My littel girl ( Maria
+3 CONC h Blanch), when twenty-two months old, died at our new location, December 8, 1846, and her re
+3 CONC mains were taken to the place where her mother was buried. She was born February 15, 1845; he
+3 CONC r remains were placed in a coffin made of split plank (bugswood tree)." 
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:52:07
+0 @I178@ INDI
+1 NAME Tirsah /Prouty/
+2 SURN Prouty
+2 GIVN Tirsah
+1 SEX F
+1 _UID 7A9439A993FC0847920AAE43105A2BB5A518
+1 FAMS @F53@
+1 SOUR @S17@
+1 CHAN
+2 DATE 19 Dec 2008
+3 TIME 00:00:00
+0 @I179@ INDI
+1 NAME Maria Blanch /Whipple/
+2 SURN Whipple
+2 GIVN Maria Blanch
+1 SEX F
+1 BIRT
+2 DATE 15 Feb 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 8 Dec 1846
+2 PLAC Pony Creek, Pottawattamie, Iowa
+1 _UID F0BF9ADDC4CB0F468D32A4815212C0EF01DB
+1 FAMC @F51@
+1 SOUR @S21@
+2 NOTE Name: Maria Blanch Whipple
+3 CONT Birth: 15 Feb 1845
+3 CONT Place: Nauvoo, Hancock, Illinois
+3 CONT Death: 8 Dec 1846
+3 CONT Place: Pony Creek, IA
+1 SOUR @S22@
+2 NOTE Name: Maria Blanch Whipple
+3 CONT Birth: 15 Feb 1845
+3 CONT Place: Nauvoo, Hancock, Illinois
+3 CONT Death: 8 Dec 1846
+3 CONT Place: Pony Creek, , Iowa
+1 SOUR @S23@
+2 NOTE Name: Maria Branch Whipple
+3 CONT Birth: 15 Feb 1845
+3 CONT Place: Nauvoo, Hancock, Illinois
+3 CONT Death: 8 Dec 1846
+1 SOUR @S24@
+2 PAGE Comments #61
+2 NOTE "On our arrival on the Missouri river we were counseled to locate for the winter on Poney Cre
+3 CONC ek, down the river about 30 miles, but on our arrival there we found the place very unhealth
+3 CONC y and thus unfit for habitation.  My mother (Basmath Hutchins Whipple) died September 9, 1846
+3 CONC . She was born September 7, 1769, in Massachusetts. A few days later (September 13, 1846) m
+3 CONC y wife died. She was born July 7, 1811, in Dummerston, Vermont. Of the whole camp consistin
+3 CONC g of 14 families all but two persons were sick, and while we were there we buried some whol
+3 CONC e families. We finally moved to another place, about 4 miles distant. My littel girl ( Maria
+3 CONC h Blanch), when twenty-two months old, died at our new location, December 8, 1846, and her re
+3 CONC mains were taken to the place where her mother was buried. She was born February 15, 1845; he
+3 CONC r remains were placed in a coffin made of split plank (bugswood tree)." 
+1 CHAN
+2 DATE 6 Mar 2009
+3 TIME 11:52:46
+0 @F1@ FAM
+1 _UID 277A345FFB983040B1C999A81336F34A78B0
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 MARR
+2 DATE 5 Aug 1833
+1 NOTE I'm assuming that they were married in Indiana seeing as that is where there children were al
+2 CONC l born and where they were born.
+0 @F2@ FAM
+1 _UID 555D7297D8B2B140BC0A97FEC22BE04EACD7
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I1@
+0 @F3@ FAM
+1 _UID 72EF96DC39FB0E439EFAC112C6C02B72E6A3
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I2@
+0 @F4@ FAM
+1 _UID 5A67D9084CC72C4C8BCB49E32D7F00FB56A6
+1 HUSB @I1@
+1 WIFE @I9@
+1 CHIL @I12@
+1 MARR
+2 DATE 23 Aug 1846
+2 PLAC Winter Quarters, Nebraska
+1 SOUR @S2@
+2 NOTE Married: August 23, 1846 in Winter Quarters, Nebraska.
+0 @F5@ FAM
+1 _UID C97A0BB18C7AB442B91B60CF7AEE0567D268
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I9@
+0 @F6@ FAM
+1 _UID 91F7184D17B9A64F8FFBBB9BFABACB6273D8
+1 HUSB @I1@
+1 WIFE @I13@
+1 MARR
+2 DATE unknown
+1 SOUR @S2@
+0 @F7@ FAM
+1 _UID 49709CA83A92E94F8A28B0EBD53CC8AED574
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I16@
+1 CHIL @I22@
+1 CHIL @I23@
+1 MARR
+2 DATE 1825
+2 PLAC Unknown
+1 SOUR @S7@
+2 PAGE Page 85
+2 NOTE Married: 1825 in an unknown place.  Sealed for time January 17, 1846 in Nauvoo Temple, Nauvoo
+3 CONC , Hancock, Illinois.
+0 @F8@ FAM
+1 _UID 129EB236726FC14CB0380D59CB01F616AC73
+1 HUSB @I14@
+1 WIFE @I17@
+1 MARR
+2 DATE 19 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S7@
+2 NOTE Married: January 19, 1846 in Nauvoo Temple, Nauvoo, Hancock, Illinois.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744042
+2 NOTE Married: December 25, 1845 in Nauvoo, Hancock, Illinois.
+0 @F9@ FAM
+1 _UID 496ECB595D4611428D05FC1F945CD59BDEB2
+1 HUSB @I14@
+1 WIFE @I18@
+1 CHIL @I21@
+1 MARR
+2 DATE 19 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S7@
+2 PAGE Page 85
+2 NOTE Married: January 19, 1846 in Nauvoo Temple, Nauvoo, Hancock, Illinois.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744044
+2 NOTE Married: December 25, 1845 in Nauvoo, Hancock, Illinois.
+0 @F10@ FAM
+1 _UID 76371A2B5EF1DD4892CEB4528D3C0C9738BC
+1 HUSB @I14@
+1 WIFE @I19@
+1 MARR
+2 DATE 19 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S7@
+2 PAGE Page: 85
+2 NOTE Married: (Rachel Thompson Kingsley) January 19, 1846 in Nauvoo Temple, Nauvoo, Hancock, Illin
+3 CONC ois. Divorced by 1850.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744043
+2 NOTE Married: January 22, 1846 in Nauvoo, Hancock, Illinois.
+0 @F11@ FAM
+1 _UID DE0424A859282F42B213338F7375B55216A1
+1 HUSB @I14@
+1 WIFE @I20@
+1 MARR
+2 DATE 19 Jan 1846
+2 PLAC Nauvoo, Hancock, Illinois
+1 SOUR @S7@
+2 PAGE Page 85
+2 NOTE Married: January 19, 1846 in Nauvoo Temple, Nauvoo, Hancock, Illinois.
+1 SOUR @S6@
+2 PAGE CD#126; PIN#744041
+2 NOTE Married: June 19, 1846 in Nauvoo, Hancock, Illinois.
+0 @F12@ FAM
+1 _UID 12DF981FB20EA64AB5D09E767E3E300CE994
+1 HUSB @I25@
+1 WIFE @I27@
+1 CHIL @I26@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I24@
+1 CHIL @I30@
+1 CHIL @I31@
+1 MARR
+2 DATE 5 Oct 1837
+2 PLAC Nauvoo, Hancock, Illinois
+1 NOTE Nauvoo was not yet settled so I don't think this information is absolutely accurate.
+1 SOUR @S6@
+2 PAGE CD#130; PIN#149011
+2 NOTE Married: October 5, 1837 in Nauvoo, Hancock, Illinois.
+0 @F13@ FAM
+1 _UID 64503EE59699D044913F15492B2DF2DC6E33
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I34@
+1 CHIL @I35@
+1 MARR
+2 DATE 15 Aug 1833
+2 PLAC Cicero, Onondaga, New York
+1 SOUR @S6@
+2 PAGE CD#124; PIN#108727
+2 NOTE Married: August 15, 1833 in Cicero, Onondaga, New York.
+0 @F14@ FAM
+1 _UID 205D1C687DF55848B34E7F5A5C16C7EB113F
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I32@
+0 @F15@ FAM
+1 _UID 71788E29FD3B774DBBADCCD33DA468483423
+1 HUSB @I38@
+1 WIFE @I39@
+1 CHIL @I33@
+0 @F16@ FAM
+1 _UID 1A7425532629BC4B9BE4CC2C36C32CF7EF57
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I25@
+0 @F17@ FAM
+1 _UID 7F244546BDCAAC479580D81C0A87221074F6
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I27@
+0 @F18@ FAM
+1 _UID FA8D7648B3ED2C409A1CB2E3B47A98BD1FE4
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+1 CHIL @I51@
+1 MARR
+2 DATE unknown
+1 NOTE The three census records and Ancestral File indicate that they are married and have a numbe
+2 CONC r of children.
+1 SOUR @S2@
+0 @F19@ FAM
+1 _UID F21362C589141B43B0EDF3330ADF77EB3595
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 MARR
+2 DATE 19 Jun 1838
+2 PLAC , , Pennsylvania
+1 NOTE Most likely in Pennsylvania because her first son was born there and she was also born there.
+1 SOUR @S13@
+2 NOTE Married: June 19, 1838.  Had her first son in Pennsylvania in 1841 and then moved to Nevada w
+3 CONC ith her husband in the 1850's.
+0 @F20@ FAM
+1 _UID B6DE0EE5DACD9748A06E3EBED05568C4683B
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I45@
+0 @F21@ FAM
+1 _UID 9EBF89BD3DD99A4ABD164DAE6D87E2C5067D
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I17@
+0 @F22@ FAM
+1 _UID 9A638C146C53964395B42BEFE79FAD27F22C
+1 HUSB @I64@
+1 WIFE @I65@
+1 CHIL @I20@
+0 @F23@ FAM
+1 _UID D7D1AD4D9A09B84297AB8F5C5DA46C13EC01
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I52@
+0 @F24@ FAM
+1 _UID 565155DB56BECA41A690636BD6B21DF59469
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I70@
+1 CHIL @I76@
+1 CHIL @I80@
+1 CHIL @I81@
+1 CHIL @I82@
+1 CHIL @I84@
+1 CHIL @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+1 MARR
+2 DATE 4 Sep 1822
+2 PLAC Olean, Cattaraugus, New York
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996253
+2 NOTE Married: September 4, 1822 in Olean, Cattaraugus, New York.
+0 @F25@ FAM
+1 _UID 1ECC2305751CEE4DB0E26154A595ABA5AF96
+1 HUSB @I71@
+1 WIFE @I70@
+1 CHIL @I74@
+1 CHIL @I75@
+1 MARR
+2 DATE 11 Feb 1845
+2 PLAC Nauvoo, Hancock, Illinois
+1 NOTE I chose February and 1845 as the date of marriage because the source indicating those dates i
+2 CONC s more reliable and is a complilation of primary sources.
+1 SOUR @S2@
+2 NOTE Married: January 11, 1844 in Nauvoo, Hancock, Illinois.
+1 SOUR @S14@
+2 PAGE Page 38
+2 NOTE Married February 11, 1845 in Nauvoo by Heber C. Kimball.
+2 DATA
+3 DATE Recorded February 12, 1845
+0 @F26@ FAM
+1 _UID 26FE67EB9CFEEA49BA7CF68E8FB43C2BA77B
+1 HUSB @I72@
+1 WIFE @I73@
+1 CHIL @I71@
+0 @F27@ FAM
+1 _UID 9A0510F55B4A9F4A898C79C86493426E2F93
+1 HUSB @I76@
+1 WIFE @I77@
+1 CHIL @I79@
+1 CHIL @I78@
+1 MARR
+2 DATE 16 Aug 1847
+2 PLAC Granger, Harding, Kentucky
+1 SOUR @S2@
+2 NOTE Married: August 16, 1847 in Granger, Harding [sic], Kentucky.
+0 @F28@ FAM
+1 _UID BB29FD9F56F99944B1C41CC7D0BD53FFE3A4
+1 HUSB @I83@
+1 WIFE @I82@
+1 MARR
+2 DATE BEF 31 Aug 1850
+1 SOUR @S1@
+2 PAGE Roll: M432_188; Page: 68; Image: 138
+2 NOTE Dwelling and Family #74
+3 CONT The record places the two together under the Davenport household by August 1850.
+2 DATA
+3 DATE August 31, 1850 in Pottawattamie, Iowa
+0 @F29@ FAM
+1 _UID D8F99BF0D3E7D2458FA85F1C31CFF00FDE29
+1 HUSB @I68@
+1 WIFE @I90@
+1 MARR
+2 DATE ABT 1827
+2 PLAC Danville, Caledonia, Vermont
+1 SOUR @S6@
+2 PAGE CD#28; PIN#996041
+2 NOTE Married: about 1827 in Danville, Caledonia, Vermont.
+0 @F30@ FAM
+1 _UID C710D0F238367F4A8456602A7DC010BB3C27
+1 HUSB @I91@
+1 WIFE @I92@
+1 CHIL @I68@
+0 @F31@ FAM
+1 _UID 3ABD1EAA5246B84CBE004EB706EF11779B84
+1 HUSB @I93@
+1 WIFE @I94@
+1 CHIL @I69@
+0 @F32@ FAM
+1 _UID 292C86400F7A4F489BCF5034294C6A99A1A2
+1 HUSB @I95@
+1 WIFE @I96@
+1 CHIL @I97@
+1 CHIL @I98@
+1 CHIL @I99@
+1 CHIL @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 MARR
+2 DATE 19 Aug 1824
+2 PLAC , Wayne, Ohio
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738292
+2 NOTE Married: August 19, 1824 in Wayne County, Ohio.
+0 @F33@ FAM
+1 _UID B6BA119744EA4748AAB74AC28505923391BC
+1 HUSB @I100@
+1 WIFE @I101@
+1 CHIL @I95@
+0 @F34@ FAM
+1 _UID 26F950AABD6E51478187711637F60D963B73
+1 HUSB @I102@
+1 WIFE @I103@
+1 CHIL @I96@
+0 @F35@ FAM
+1 _UID 37180783AC259B4EB058660728E06FF675D7
+1 HUSB @I95@
+1 WIFE @I107@
+1 CHIL @I108@
+1 CHIL @I109@
+1 MARR
+2 DATE 10 May 1842
+2 PLAC Neversink, Sullivan, New York
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738299
+2 NOTE Married: May 10, 1842 in Neversink, Sullivan, New York.
+0 @F36@ FAM
+1 _UID 54EB77F3F4FC344A8E849079A62A5C6BC9C6
+1 HUSB @I95@
+1 WIFE @I110@
+1 CHIL @I111@
+1 CHIL @I112@
+1 MARR
+2 DATE 1818
+2 PLAC Broadalbin, Fulton, New York
+1 SOUR @S6@
+2 PAGE CD#17; PIN#738300
+2 NOTE Married: 1818 in Broadalbin, Fulton, New York.
+0 @F37@ FAM
+1 _UID DEB626115960AA409D98BF2A5B7C6AC4917F
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I107@
+0 @F38@ FAM
+1 _UID 2D6CB8DE789FEF45BFF49373F1D547B2F28A
+1 HUSB @I115@
+1 WIFE @I116@
+1 CHIL @I117@
+1 CHIL @I118@
+1 CHIL @I120@
+1 CHIL @I121@
+1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I124@
+1 CHIL @I125@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I128@
+1 MARR
+2 DATE 2 Feb 1815
+2 PLAC , Seneca, New York
+1 SOUR @S6@
+2 PAGE CD#129; PIN#2529887
+2 NOTE Married: February 2, 1815 in Seneca County, New York.
+0 @F39@ FAM
+1 _UID 21F9A15C1A8E914F881A61556FA79901A7AD
+1 HUSB @I118@
+1 WIFE @I119@
+1 MARR
+2 DATE 28 Jan 1844
+2 PLAC , Hancock, Illinois
+1 SOUR @S14@
+2 PAGE Page: 12
+2 NOTE Married: January 28, 1844 in Hancock County, Illinois.
+0 @F40@ FAM
+1 _UID 83566908AE975742A758AF5341653A899246
+1 HUSB @I129@
+1 WIFE @I130@
+1 CHIL @I115@
+0 @F41@ FAM
+1 _UID 190826591B7FAC4AA1F27A28490F628DAC98
+1 HUSB @I131@
+1 WIFE @I132@
+1 CHIL @I116@
+0 @F42@ FAM
+1 _UID 7540C46D68FDB74DBB5EE7FBBD18A208C92E
+1 HUSB @I133@
+1 WIFE @I134@
+1 CHIL @I135@
+1 CHIL @I136@
+1 MARR
+2 DATE BEF 1836
+1 NOTE Their first child was born in 1836 so we can assume that they were married prior to this date
+2 CONC .
+0 @F43@ FAM
+1 _UID FF022E30BD7F894FA6DF00ED7385C39C3CDB
+1 HUSB @I137@
+1 WIFE @I138@
+1 CHIL @I139@
+1 CHIL @I140@
+1 CHIL @I141@
+1 CHIL @I142@
+1 CHIL @I143@
+1 CHIL @I144@
+1 CHIL @I145@
+1 CHIL @I146@
+1 CHIL @I147@
+1 MARR
+2 DATE 14 Aug 1843
+2 PLAC Moulton Chapel, Lincolnshire, England
+1 SOUR @S2@
+2 NOTE Married: August 14, 1843 in Moulton Chapel, Lincolnshire, England.
+0 @F44@ FAM
+1 _UID 8B460415E207624AB4B0DA7F7EED364A27E2
+1 HUSB @I148@
+1 WIFE @I149@
+1 CHIL @I137@
+0 @F45@ FAM
+1 _UID 7C5E6B15E056244DAC2E442570673C085FE4
+1 HUSB @I150@
+1 WIFE @I151@
+1 CHIL @I138@
+0 @F46@ FAM
+1 _UID 6B11C7245B9D2948B76B6CEFB7558903E552
+1 HUSB @I152@
+1 WIFE @I153@
+1 CHIL @I158@
+1 CHIL @I159@
+1 CHIL @I160@
+1 CHIL @I162@
+1 CHIL @I161@
+1 CHIL @I163@
+1 CHIL @I164@
+1 CHIL @I165@
+1 CHIL @I166@
+1 CHIL @I167@
+1 CHIL @I168@
+1 CHIL @I169@
+1 MARR
+2 DATE 11 Nov 1826
+2 PLAC , Gibson, Tennessee
+1 SOUR @S6@
+2 PAGE CD#126; PIN#2196904
+2 NOTE Married: November 11, 1826 in Gibson County, Tennessee.
+0 @F47@ FAM
+1 _UID 52559C77DB969F4280D9B98D34B882577045
+1 HUSB @I154@
+1 WIFE @I155@
+1 CHIL @I152@
+0 @F48@ FAM
+1 _UID 0BD61CC436D7264387B01ABCB4A51547F9D2
+1 HUSB @I156@
+1 WIFE @I157@
+1 CHIL @I153@
+0 @F49@ FAM
+1 _UID 083DCD61475B41439C67791087DDA0365F58
+1 DIV Y
+1 HUSB @I152@
+1 WIFE @I170@
+1 MARR
+2 DATE 1848
+2 PLAC Kanesville, Pottawattamie, Iowa
+1 SOUR @S6@
+2 PAGE CD#126; PIN#55723
+2 NOTE Married: 1848 in Kanesville, Pottawattamie, Iowa.
+0 @F50@ FAM
+1 _UID F9483B0F101BEE468FDC40C769CE3F370912
+1 HUSB @I171@
+1 WIFE @I172@
+1 CHIL @I170@
+0 @F51@ FAM
+1 _UID 2B5C444BA1591A4594C0A99CA2020B0AC1FB
+1 HUSB @I174@
+1 WIFE @I177@
+1 CHIL @I179@
+1 MARR
+2 DATE 18 Mar 1832
+2 PLAC Dummerston, Windham, Vermont
+1 SOUR @S17@
+2 NOTE Married: 18 Mar 1832
+0 @F52@ FAM
+1 _UID 74100971CDDF824C8D3E336EADD49B5A5A8E
+1 HUSB @I175@
+1 WIFE @I176@
+1 CHIL @I174@
+0 @F53@ FAM
+1 _UID 18A95E0EA917B945ACA9A91693EB1CEB8464
+1 HUSB @I173@
+1 WIFE @I178@
+1 CHIL @I177@
+0 @S1@ SOUR
+1 TITL 1850 US Federal Census
+1 AUTH United States of America, Bureau of the Census
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 CALN Ancestry.com
+1 TEXT Original Data: United States of America, Bureau of the Census. Seventh Census of the United S
+2 CONC tates, 1850. Washington, D.C.: National Archives and Records Administration, 1850. M432, 1,00
+2 CONC 9 rolls.
+0 @S2@ SOUR
+1 TITL Ancestral File 
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL The Church of Jesus Christ of Latter-day Saints
+2 CONT © 2008 Intellectual Reserve, Inc.
+1 CALN familysearch.org
+0 @S3@ SOUR
+1 TITL Mormon Pioneer Overland Travel, 1847-1868
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL The Church of Jesus Christ of Latter-day Saints © 2009 Intellectual Reserve Inc
+1 CALN http://www.lds.org/churchhistory/library/pioneercompanysearch/1,15773,3966-1,00.html
+0 @S4@ SOUR
+1 TITL 1860 US Federal Census
+1 AUTH United States of America, Bureau of the Census
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2004
+1 CALN ancestry.com
+1 TEXT United States of America, Bureau of the Census. Eighth Census of the United States, 1860. Was
+2 CONC hington, D.C.: National Archives and Records Administration, 1860. M653, 1,438 rolls.
+0 @S5@ SOUR
+1 TITL Utah State - Burials Database
+1 AUTH State of Utah
+1 PUBL Copyright © 2009 State of Utah
+1 CALN http://history.utah.gov/apps/burials/execute/searchburials
+0 @S6@ SOUR
+1 TITL Pedigree Resource File
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Intellectual Reserve, Inc. copyright 1999, 2007
+1 CALN familysearch.org
+0 @S7@ SOUR
+1 TITL Nauvoo Marriages Proxy Sealings 1843-1846
+1 AUTH Lyndon W. Cook
+1 PUBL Grandin Book Company Provo, UT 2004
+0 @S8@ SOUR
+1 TITL Early Latter-day Saints: A Mormon Pioneer Trail Database
+1 AUTH Nauvoo Land and Records Office and
+2 CONT The Pioneer Research Group of the "Winter Quarters" Nebraska area
+1 CALN http://earlylds.com/
+0 @S12@ SOUR
+1 TITL 1870 US Federal Census
+1 AUTH United States. Ninth Census of the United States, 1870. Washington, D.C. National Archives an
+2 CONC d Records Administration
+1 PUBL Ancestry.com. 1870 United States Federal Census [database on-line]. Provo, UT, USA: The Gener
+2 CONC ations Network, Inc., 2003
+1 CALN ancestry.com
+1 TEXT United States. Ninth Census of the United States, 1870. Washington, D.C. National Archives an
+2 CONC d Records Administration. M593, RG29, 1,761 rolls. Minnesota. Minnesota Census Schedules fo
+2 CONC r 1870. Washington, D.C.: National Archives and Records Administration. T132, RG29, 13 rolls.
+0 @S13@ SOUR
+1 TITL Find A Grave
+1 PUBL Find A Grave, Inc
+1 CALN findagrave.com
+0 @S14@ SOUR
+1 TITL Times and Seasons, The Wasp, Nauvoo Neighbor, and "A Record fo Marriages in the City of Nauvo
+2 CONC o" complilation
+1 AUTH Lyndon W. Cook
+1 PUBL Provo, Utah July 1980
+1 TEXT These sources for marriages have all been compliled into one source but there are also indivi
+2 CONC dual files for each of these separate sources.
+0 @S15@ SOUR
+1 TITL Seventy Quorum Membership, 1835-1846
+1 AUTH compiled by Harvey Bischoff Black.
+1 PUBL The Church of Jesus Christ of Latter-day Saints
+1 CALN worldvitalrecords.com
+0 @S16@ SOUR
+1 TITL WebTree.com
+1 AUTH FamilyLink.com
+1 PUBL Copyright FamilyLink.com, Inc. 2008
+1 CALN webtree.com
+0 @S17@ SOUR
+1 TITL Family Search, Ancestral File
+1 PUBL Church of Jesus Christ of Latter-day Saints
+0 @S18@ SOUR
+1 TITL Mormon Pioneer Overland Travel, 1847-1868.
+1 AUTH The Church of Jesus Christ of Latter-Day Saints
+1 CALN http://www.lds.org/churchhistory/library/pioneercompanysearch/1,15773,3966-1,00.html
+0 @S19@ SOUR
+1 TITL 1850 U.S. Federal Census
+1 CALN ancestry.com
+1 TEXT Original data: United States of America, Bureau of the Census. Seventh Census of the United S
+2 CONC tates, 1850. Washington, D.C.: National Archives and Records Administration, 1850. M432, 1,00
+2 CONC 9 rolls.
+0 @S20@ SOUR
+1 TITL Membership of the Church of Jesus Christ of Latter-day Saints, 1830-1848
+1 AUTH Susan Easton Black, comp.
+1 CALN worldvitalrecords.com
+0 @S21@ SOUR
+1 TITL OneWorldTree
+1 AUTH ancestry.com
+1 PUBL The Generations Network, Inc., 2008
+1 CALN ancestry.com
+0 @S22@ SOUR
+1 TITL Pedigree Resource File
+1 AUTH FamilySearch
+1 CALN familysearch.org
+0 @S23@ SOUR
+1 TITL International Geneological Index (IGI)
+1 PUBL Church of Jesus Christ of Latter-day Saints
+1 CALN familysearch.org
+0 @S24@ SOUR
+1 TITL Edson Whipple Journal
+1 AUTH Edson Whipple
+1 CALN From Susan Easton Black
+0 TRLR

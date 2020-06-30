@@ -1,0 +1,2792 @@
+﻿0 HEAD
+1 SOUR RootsMagic
+2 NAME RootsMagic
+2 VERS 7.2.1.0
+2 CORP RootsMagic, Inc.
+3 ADDR PO Box 495
+4 CONT Springville, UT 84663
+4 CONT USA
+3 PHON 1-800-ROOTSMAGIC
+3 WWW www.RootsMagic.com
+1 DEST RootsMagic
+1 DATE 2 JUL 2016
+1 FILE index.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Samuel /Hamer/
+2 GIVN Samuel
+2 SURN Hamer
+1 SEX M
+1 _UID 2C8DF0E1B9EF4094BA9C146AF9D06F627467
+1 _FSFTID L8BM-Q1T
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 28 MAY 1803
+2 PLAC Bolton, Lancastershire, England
+1 DEAT
+2 DATE 7 AUG 1843
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I2@ INDI
+1 NAME Jane /Thornley/
+2 GIVN Jane
+2 SURN Thornley
+1 SEX F
+1 _UID 8FFCE424792E456C9ED4EC1C64C94305DA6A
+1 _FSFTID KWVQ-4BN
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 14 APR 1802
+2 PLAC Horwich, Lancashire, England
+1 DEAT
+2 DATE 2 MAY 1885
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME John F /Thornley/
+2 GIVN John F
+2 SURN Thornley
+1 SEX M
+1 _UID 68AA0538945A486092C6FD508C631FA23A43
+1 _FSFTID MNT4-9J2
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE ABT 1767
+2 PLAC Newchurch, Lancs., Eng.
+1 CHR
+2 DATE 31 AUG 1773
+2 PLAC Deane By Bolton, Lancashire, England
+1 DEAT
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Ellen /Bentley/
+2 GIVN Ellen
+2 SURN Bentley
+1 SEX F
+1 _UID 9ED15A96E10145C6B97B4EFC53B0607EAB67
+1 _FSFTID LV1G-SXK
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE CALC 1780
+2 PLAC Lancashire, England, United Kingdom
+1 DEAT
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Jane Ellen /Hamer/
+2 GIVN Jane Ellen
+2 SURN Hamer
+1 SEX F
+1 _UID CD32D78F3D8145B4A03E56AACA177858ABED
+1 _FSFTID K2MW-DY9
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 12 NOV 1835
+2 PLAC Tottington, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 13 DEC 1835
+1 DEAT
+2 DATE 12 MAR 1919
+2 PLAC Springville, Utah, Utah, United States
+1 BURI
+2 DATE 19 MAR 1919
+2 PLAC Springville, Utah, Utah, United States
+1 FAMC @F1@
+0 @I6@ INDI
+1 NAME James /Hamer/
+2 GIVN James
+2 SURN Hamer
+1 SEX M
+1 _UID 25B025E95AFB4B9F9279054214C9D8C9F26C
+1 _FSFTID K2W6-TGV
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 12 SEP 1837
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 15 OCT 1837
+2 PLAC St. Peter, Bolton, Lancashire, England
+1 BURI
+2 DATE JAN 1887
+1 DEAT
+2 DATE 7 JAN 1887
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F1@
+0 @I7@ INDI
+1 NAME James /Hamer/
+2 GIVN James
+2 SURN Hamer
+1 SEX M
+1 _UID 50151CE9FA61411FA50F13DF77178321FDC2
+1 _FSFTID LWM1-83K
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 14 AUG 1832
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 22 SEP 1832
+2 PLAC St. Peter Parish, Bolton,, England
+1 DEAT
+2 DATE 1842
+2 PLAC Lancashire, England, United Kingdom
+1 BURI
+2 DATE 1842
+2 PLAC England
+1 FAMC @F1@
+0 @I8@ INDI
+1 NAME Samuel /Hamer/
+2 GIVN Samuel
+2 SURN Hamer
+1 SEX M
+1 _UID 5FC35864696042BFA4F601B87D191015B684
+1 _FSFTID KWJC-RZJ
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 31 AUG 1831
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 19 FEB 1832
+2 PLAC Bolton-le-Moors, Lancashire, England
+1 BURI
+2 DATE FEB 1895
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 DEAT
+2 DATE 8 FEB 1895
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMC @F1@
+0 @I9@ INDI
+1 NAME Ellen /Hamer/
+2 GIVN Ellen
+2 SURN Hamer
+1 SEX F
+1 _UID 375E948102AF4D8FBC8C0D4493D3FC2C5E7C
+1 _FSFTID LZX6-BH4
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 15 AUG 1830
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 18 AUG 1830
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 DEAT
+2 DATE 1842
+2 PLAC Lancashire, England, United Kingdom
+1 FAMC @F1@
+0 @I10@ INDI
+1 NAME Ann /Hamer/
+2 GIVN Ann
+2 SURN Hamer
+1 SEX F
+1 _UID 2E2F8B4A5A2C43989E0083B1FC765C1A4DAA
+1 _FSFTID KWV5-FY2
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 10 DEC 1839
+2 PLAC Tottington, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 1 MAR 1840
+2 PLAC Bolton-le-Moors, Lancashire, England
+1 DEAT
+2 DATE 5 DEC 1902
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 BURI
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F1@
+0 @I11@ INDI
+1 NAME Nancy /Hamer/
+2 GIVN Nancy
+2 SURN Hamer
+1 SEX F
+1 _UID 1AF849F802E642839B856E5409572DD140EE
+1 _FSFTID KWVQ-3HQ
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 1 APR 1828
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 18 MAY 1828
+2 PLAC Saint Peter,Bolton,Lancashire,England
+1 DEAT
+2 DATE 28 JUN 1889
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE 30 JUN 1889
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 FAMC @F1@
+0 @I12@ INDI
+1 NAME Joseph /Hamer/
+2 GIVN Joseph
+2 SURN Hamer
+1 SEX M
+1 _UID 2066932E855D48C9901C93B27E268CEF4A17
+1 _FSFTID 27C4-TL1
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 19 AUG 1841
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 DEAT
+2 DATE 30 SEP 1842
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 BURI
+2 DATE OCT 1842
+1 FAMC @F1@
+0 @I13@ INDI
+1 NAME Martha Jane /Hamer/
+2 GIVN Martha Jane
+2 SURN Hamer
+1 SEX F
+1 _UID EE885DBF712C47389EEC20EECE59F4BA1B3E
+1 _FSFTID KWNK-YB2
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 1 JUL 1826
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 11 AUG 1826
+2 PLAC St. Peter, Bolton, Lancashire, England
+1 DEAT
+2 DATE 16 JUN 1867
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE 18 JUN 1867
+2 PLAC City Cemetery, Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F1@
+0 @I14@ INDI
+1 NAME John /Hamer/
+2 GIVN John
+2 SURN Hamer
+1 SEX M
+1 _UID C9C12052DACC4D6BA299A3BB502C2B750FD1
+1 _FSFTID KWVG-YZC
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 2 JUL 1824
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 CHR
+2 DATE 22 AUG 1824
+2 PLAC Bolton, Lancashire, England, United Kingdom
+1 BURI
+2 DATE JUN 1874
+2 PLAC Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States
+1 DEAT
+2 DATE 26 JUN 1874
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMC @F1@
+0 @I15@ INDI
+1 NAME John /Hamer/
+2 GIVN John
+2 SURN Hamer
+1 SEX M
+1 _UID 22AB750485734A76923865533A4FE02E17CE
+1 _FSFTID KHP7-1TH
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 1774
+2 PLAC Great Bolton, Lancashire, England
+1 CHR
+2 DATE 2 OCT 1774
+2 PLAC Bolton, Lancashire, England
+1 DEAT
+2 DATE 27 MAY 1836
+2 PLAC Bolton, Lancashire, England
+1 BURI
+2 DATE 27 MAY 1836
+2 PLAC All Saints Chapel, Bolton-le-Moors, Lancashire, England
+1 FAMS @F3@
+0 @I16@ INDI
+1 NAME Jane /Bentley/
+2 GIVN Jane
+2 SURN Bentley
+1 SEX F
+1 _UID D5553E0311114DE0AA67507E1665ADD3946A
+1 _FSFTID LZPZ-KRM
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 1774
+2 PLAC Great Bolton, Lancashire, England
+1 CHR
+2 DATE 2 OCT 1774
+2 PLAC St. Peter Bolton le Moors, Lancashire, England
+1 DEAT
+2 DATE 14 APR 1838
+2 PLAC Bolton le Moors St Peter, Lancashire, England
+1 FAMS @F3@
+0 @I17@ INDI
+1 NAME Leonard /Hill/
+2 GIVN Leonard
+2 SURN Hill
+1 SEX M
+1 _UID 3EAF0603193540DC99DE02C7542D9B4C086D
+1 _FSFTID KWJX-XQ7
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 2 MAY 1800
+2 PLAC Dublin, Cheshire, New Hampshire, United States
+1 DEAT
+2 DATE 10 SEP 1846
+2 PLAC Des Moines, Polk, Iowa, United States
+1 FAMS @F4@
+1 FAMC @F5@
+0 @I18@ INDI
+1 NAME Sarah /Forbush/
+2 GIVN Sarah
+2 SURN Forbush
+2 NICK Sally
+1 SEX F
+1 _UID C6167ADC3A9A41D4BCE58AC2235F1DA04782
+1 _FSFTID LLQ6-LZC
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 14 MAR 1808
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 15 FEB 1847
+2 PLAC Winter Quarters, Nebraska Territory, United States
+2 NOTE Died of unknown causes and is buried in Grave # 81.
+1 FAMS @F4@
+1 FAMC @F6@
+0 @I19@ INDI
+1 NAME Asahel /Hill/
+2 GIVN Asahel
+2 SURN Hill
+1 SEX M
+1 _UID 216931EF5A274929A240D0077E2161499F71
+1 _FSFTID LZGS-MM2
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 22 MAR 1772
+2 PLAC Sherborn, Middlesex, Massachusetts, United States
+1 BURI
+2 DATE JUN 1831
+2 PLAC Middlesex, Massaschusetts, United States
+1 DEAT
+2 DATE 6 JUN 1831
+2 PLAC Middlesex, Massaschusetts, United States
+1 FAMS @F5@
+0 @I20@ INDI
+1 NAME Ruth /Rumrill/
+2 GIVN Ruth
+2 SURN Rumrill
+1 SEX F
+1 _UID B25B63CCDD95499F820C67B3E589AFA500EE
+1 _FSFTID LHVK-K79
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 21 DEC 1778
+2 PLAC Dublin, Cheshire, New Hampshire, United States
+1 BURI
+2 DATE FEB 1821
+2 PLAC Dublin, Cheshire, New Hampshire, United States
+1 DEAT
+2 DATE 14 FEB 1821
+2 PLAC Dublin, Cheshire, New Hampshire, United States
+1 FAMS @F5@
+0 @I21@ INDI
+1 NAME Maria Josephine /Hill/
+2 GIVN Maria Josephine
+2 SURN Hill
+1 SEX F
+1 _UID 76F1AA01EB4249A8A6AFBE5B707FBF59A5BC
+1 _FSFTID KWNK-KXD
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 13 APR 1840
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 7 APR 1929
+2 PLAC Payson, Utah, Utah, United States
+1 BURI
+2 DATE 10 APR 1929
+2 PLAC Payson City Cemetery, Plot: Blk 4 lot 8 pos 3, Payson, Utah, Utah, United States
+1 FAMC @F4@
+0 @I22@ INDI
+1 NAME George Elbridge /Hill/
+2 GIVN George Elbridge
+2 SURN Hill
+2 NSFX Sr
+1 SEX M
+1 _UID 85C16BCC4AD64353B4B62453317D291B06C1
+1 _FSFTID KWC8-84X
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 29 AUG 1838
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 28 MAY 1907
+2 PLAC Rigby, Jefferson, Idaho, United States
+1 BURI
+2 DATE 31 MAY 1907
+2 PLAC Rigby Pioneer Cemetery, Rigby, Fremont, Idaho
+1 FAMC @F4@
+0 @I23@ INDI
+1 NAME Heamon Allison /Hill/
+2 GIVN Heamon Allison
+2 SURN Hill
+1 SEX M
+1 _UID F19457608EE644A9A7D5B5A8C3048204C332
+1 _FSFTID KWNK-N96
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 24 DEC 1836
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 27 FEB 1907
+2 PLAC Payson, Utah, Utah, United States
+1 BURI
+2 DATE 27 FEB 1907
+2 PLAC Payson, Utah, Utah, United States
+1 FAMC @F4@
+0 @I24@ INDI
+1 NAME Cyrus Andrew /Hill/
+2 GIVN Cyrus Andrew
+2 SURN Hill
+1 SEX M
+1 _UID 40E526E4145C482CB26B868C9944E21314B7
+1 _FSFTID K196-H8S
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 3 APR 1834
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 BURI
+2 DATE 1840
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 30 JUN 1840
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 FAMC @F4@
+0 @I25@ INDI
+1 NAME Justis Franklin /Hill/
+2 GIVN Justis Franklin
+2 SURN Hill
+1 SEX M
+1 _UID 2C2E4EEE43AB464C9BEB321D897CC8692144
+1 _FSFTID KWJL-14R
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 16 NOV 1841
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 BURI
+2 DATE SEP 1847
+2 PLAC Nauvoo Township, Hancock, Illinois, United States
+1 DEAT
+2 DATE 30 SEP 1847
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 FAMC @F4@
+0 @I26@ INDI
+1 NAME Jerusha Morrison /Hill/
+2 GIVN Jerusha Morrison
+2 SURN Hill
+1 SEX F
+1 _UID B0E8D38B0938423BBA77141CA12F2FC9DDF9
+1 _FSFTID KWJZ-H4Y
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 27 NOV 1832
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 BURI
+2 DATE AUG 1904
+2 PLAC Payson City Cemetery, Plot: Blk 4 lot 8 pos 1, Payson, Utah County, Utah, United States
+1 DEAT
+2 DATE 4 AUG 1904
+2 PLAC Payson, Utah, Utah, United States
+1 FAMC @F4@
+0 @I27@ INDI
+1 NAME Emerald Jasper /Hill/
+2 GIVN Emerald Jasper
+2 SURN Hill
+1 SEX M
+1 _UID 95B9DF6052F141AAAF7577F6A48D8CFD067F
+1 _FSFTID LVGT-K48
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 30 SEP 1845
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 DEAT
+2 DATE 30 SEP 1846
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 FAMC @F4@
+0 @I28@ INDI
+1 NAME Sarah Julia /Hill/
+2 GIVN Sarah Julia
+2 SURN Hill
+1 SEX F
+1 _UID E4A4EA1BB582408F8B3B58EA9339CA6A9B2C
+1 _FSFTID LZ8F-G23
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 21 NOV 1830
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 4 MAY 1908
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 BURI
+2 DATE 6 MAY 1908
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F4@
+0 @I29@ INDI
+1 NAME Charles Frederick /Hill/
+2 GIVN Charles Frederick
+2 SURN Hill
+1 SEX M
+1 _UID C3D16CF66E4F40EFBEB68E6C693047E8184D
+1 _FSFTID K2WJ-KRM
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 6 JAN 1829
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 BURI
+2 DATE MAY 1847
+2 PLAC Winter Quarters, Pottawattamie, Iowa, United States
+1 DEAT
+2 DATE 6 MAY 1847
+2 PLAC Winter Quarters, Pottawattamie, Iowa, United States
+1 FAMC @F4@
+0 @I30@ INDI
+1 NAME Simeon /Forbush/
+2 GIVN Simeon
+2 SURN Forbush
+1 SEX M
+1 _UID 40B4BDE7C5854D90A610FD91E550EBE60945
+1 _FSFTID L85D-5Z4
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 22 FEB 1770
+2 PLAC Acton, Middlesex, Massachusetts
+1 BURI
+2 DATE APR 1860
+2 PLAC Peterborough, Peterborough, Hillsborough, New Hampshire, United States
+1 DEAT
+2 DATE 13 APR 1860
+2 PLAC Peterborough, Hillsborough, New Hampshire, United States
+1 FAMS @F6@
+0 @I31@ INDI
+1 NAME Catharine /Hosmer/
+2 GIVN Catharine
+2 SURN Hosmer
+1 SEX F
+1 _UID 9D003E4A31724199872CAB232746765359DD
+1 _FSFTID LWF8-P9G
+1 CHAN
+2 DATE 29 JUN 2016
+1 BIRT
+2 DATE 5 JUN 1775
+2 PLAC Acton, Middlesex, Massachusetts
+1 BURI
+2 DATE SEP 1841
+2 PLAC Peterboro, Hillsboro, New Hamnpshire, United States
+1 DEAT
+2 DATE 13 SEP 1841
+2 PLAC Peterborough, Hillsboro, New Hampshire, United States
+1 FAMS @F6@
+0 @I32@ INDI
+1 NAME Charles A. /Hopkins/
+2 GIVN Charles A.
+2 SURN Hopkins
+1 SEX M
+1 _UID 4228C999B02F40DE973A12AE6D34D70ADCF6
+1 _FSFTID KWJ4-KLY
+1 CHAN
+2 DATE 30 JUN 2016
+1 NOTE Served in the Mormon Battalion as a Private in Company D.
+1 BIRT
+2 DATE 20 FEB 1810
+2 PLAC Burlington, Burlington, New Jersey, United States
+1 DEAT
+2 DATE 12 OCT 1863
+2 PLAC Fillmore, Millard, Utah Territory, United States
+1 FAMS @F7@
+1 FAMS @F10@
+1 FAMS @F11@
+1 FAMC @F9@
+0 @I33@ INDI
+1 NAME Lydia /Okie/
+2 GIVN Lydia
+2 SURN Okie
+1 SEX F
+1 _UID DA19ACBC3EE044F9A1F8E2AE9099155A770D
+1 _FSFTID LHZ5-77B
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 21 JUN 1803
+2 PLAC Brooklyn, Kings, New York, United States
+1 DEAT
+2 DATE 14 OCT 1859
+2 PLAC Cedar City, Iron, Utah Territory, United States
+1 FAMS @F7@
+1 FAMS @F12@
+1 FAMC @F8@
+0 @I34@ INDI
+1 NAME Abraham /Okie/
+2 GIVN Abraham
+2 SURN Okie
+1 SEX M
+1 _UID D2A707E5526A4D75BE40F12E516EE2E889E7
+1 _FSFTID KZ3J-GBD
+1 CHAN
+2 DATE 30 JUN 2016
+1 CHR
+2 DATE 11 MAY 1761
+2 PLAC New Brunswick 1st Ref Ch,Middlesex,New Jersey
+1 DEAT
+1 FAMS @F8@
+0 @I35@ INDI
+1 NAME Elizabeth /Penier/
+2 GIVN Elizabeth
+2 SURN Penier
+1 SEX F
+1 _UID 385A384ADF07460F8937850A5F7306DD5373
+1 _FSFTID K8HH-9J3
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1762
+2 PLAC Of Brooklyn, Kings, NY
+1 DEAT
+1 FAMS @F8@
+0 @I36@ INDI
+1 NAME Daniel /Hopkins/
+2 GIVN Daniel
+2 SURN Hopkins
+1 SEX M
+1 _UID FA190ED092A04D939A825D6567B333F422E4
+1 _FSFTID LH1T-9ZB
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 1767
+2 PLAC Freehold, Monmouth, New Jersey, United States
+1 DEAT
+2 PLAC Montclair, Essex, New Jersey, United States
+1 FAMS @F9@
+0 @I37@ INDI
+1 NAME Ann Nancy /Simpson/
+2 GIVN Ann Nancy
+2 SURN Simpson
+1 SEX F
+1 _UID 3E04E428DDA2452499E96C3ECCC6ACBC5C5F
+1 _FSFTID 27JP-56K
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1765
+2 PLAC of Monmouth, New Jersey
+1 DEAT
+2 DATE ABT 1865
+1 FAMS @F9@
+0 @I38@ INDI
+1 NAME Ann /Steel/
+2 GIVN Ann
+2 SURN Steel
+1 SEX F
+1 _UID D25351C4633B4905A5C732D9392CF0594B36
+1 _FSFTID KJ42-74T
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1813
+2 PLAC Of Philadelphia, Philadelphia, Pennsylvania, USA
+1 DEAT
+2 DATE ABT 1835
+1 FAMS @F10@
+0 @I39@ INDI
+1 NAME Albert /Hopkins/
+2 GIVN Albert
+2 SURN Hopkins
+1 SEX M
+1 _UID B2D746B6AFCE408685342D9B71FD51D9E1EE
+1 _FSFTID KZ5N-G4D
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 1834
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+1 DEAT
+1 FAMC @F10@
+0 @I40@ INDI
+1 NAME Mary Ann Webber /Edds/
+2 GIVN Mary Ann Webber
+2 SURN Edds
+1 SEX F
+1 _UID 4DCC2FFD12CA444290A03BC7AD83A915C778
+1 _FSFTID KWJ4-KLT
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 16 APR 1824
+2 PLAC Dawlish, Beshapteignton, Devonshire, England
+1 CHR
+2 DATE 16 APR 1824
+2 PLAC St. Gregory's, Dawlish, Devonshire, England
+1 BURI
+2 DATE APR 1903
+2 PLAC Kanosh Cemetery, Kanosh, Millard, Utah, United States
+1 DEAT
+2 DATE 8 APR 1903
+2 PLAC Kanosh, Millard, Utah, United States
+1 FAMS @F11@
+1 FAMC @F14@
+0 @I42@ INDI
+1 NAME Edward O. /Hopkins/
+2 GIVN Edward O.
+2 SURN Hopkins
+1 SEX M
+1 _UID 4F07F531E10C4A8CB31B1DA90A941EA93835
+1 _FSFTID LH5D-D3F
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1849
+2 PLAC Iowa, United States
+1 DEAT
+1 FAMC @F11@
+0 @I43@ INDI
+1 NAME Jacob /Hopkins/
+2 GIVN Jacob
+2 SURN Hopkins
+1 SEX M
+1 _UID B20027D606C24523B5A08D0CD4FB02B45236
+1 _FSFTID KWC6-7YP
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 23 DEC 1858
+2 PLAC Cedar City, Iron, Utah Territory, United States
+1 DEAT
+2 DATE 14 JUN 1926
+2 PLAC Kanosh, Millard, Utah, United States
+1 BURI
+2 DATE AFT 14 JUN 1926
+2 PLAC Kanosh, Millard, Utah, United States
+1 FAMC @F11@
+0 @I44@ INDI
+1 NAME Nicholas /Van Dyke, Jr./
+2 GIVN Nicholas
+2 SURN Van Dyke, Jr.
+1 SEX M
+1 _UID 4D171B04125643369DDDA01F9D0DD94060C0
+1 _FSFTID LJL4-4Z5
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Duck Creek Hd, Kent, Delaware, United States
+1 DEAT
+2 DATE 17 SEP 1839
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+1 BURI
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+1 FAMS @F12@
+1 FAMC @F13@
+0 @I45@ INDI
+1 NAME William /Van Dyke/
+2 GIVN William
+2 SURN Van Dyke
+1 SEX M
+1 _UID 933B35703EF94DBDA4EB86D4FA1B34280E1B
+1 _FSFTID KWJC-WTB
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 11 DEC 1830
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+1 DEAT
+2 DATE 18 JAN 1901
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE 21 JAN 1901
+2 PLAC Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F12@
+0 @I46@ INDI
+1 NAME Alfred /Van Dyke/
+2 GIVN Alfred
+2 SURN Van Dyke
+1 SEX M
+1 _UID F55B7DA7184D40189CE44E12BAD8158D452E
+1 _FSFTID LCM8-BZ5
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 29 AUG 1829
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+1 DEAT
+2 DATE 26 DEC 1829
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, USA
+1 FAMC @F12@
+0 @I47@ INDI
+1 NAME Nicholas /Van Dyke/
+2 GIVN Nicholas
+2 SURN Van Dyke
+1 SEX M
+1 _UID F49B6E27B42641C5BF8D136426E7172C17BD
+1 _FSFTID M9XG-FTK
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 20 DEC 1769
+2 PLAC New Castle County, Delaware, USA
+1 DEAT
+2 DATE 29 MAY 1826
+2 PLAC Connecticut
+1 FAMS @F13@
+0 @I48@ INDI
+1 NAME Rebecca /Van Dyke/
+2 GIVN Rebecca
+2 SURN Van Dyke
+1 SEX F
+1 _UID 6C9790D1921945BB9307F0BB749BC779A3FE
+1 _FSFTID LJGH-C1H
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1772
+2 PLAC Little Creek, Kent, Delaware, United States
+1 DEAT
+2 DATE JUN 1817
+2 PLAC Duck Creek MM, Kent, Delaware, United States
+1 FAMS @F13@
+0 @I49@ INDI
+1 NAME Thomas /Edds/
+2 GIVN Thomas
+2 SURN Edds
+1 SEX M
+1 _UID 21708D30FE7A433B8FEF1A4D8C93F1E51E6B
+1 _FSFTID KJCK-X6V
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1798
+2 PLAC Dawlish, Devons, Eng.
+1 DEAT
+2 DATE 17 FEB 1847
+2 PLAC Dawlish, Devonshire, England
+1 BURI
+2 DATE 20 FEB 1847
+1 FAMS @F14@
+0 @I50@ INDI
+1 NAME Elisabeth /Webber/
+2 GIVN Elisabeth
+2 SURN Webber
+1 SEX F
+1 _UID 7BC559A33F1B4064BEC2B0CB97D6B58FE6AD
+1 _FSFTID 2YJD-1QJ
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1802
+2 PLAC Dawlish, Devon, Eng.
+1 DEAT
+1 FAMS @F14@
+0 @I51@ INDI
+1 NAME Ida Okie /Hopkins/
+2 GIVN Ida Okie
+2 SURN Hopkins
+1 SEX F
+1 _UID 0230CA01F6AF43F5948AE5FC868C0110FCCF
+1 _FSFTID K2WH-16P
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 9 AUG 1857
+2 PLAC Cedar City, Iron, Utah Territory, United States
+1 DEAT
+2 DATE 6 SEP 1939
+2 PLAC Kanosh, Millard, Utah, United States
+1 BURI
+2 DATE 10 SEP 1939
+2 PLAC Kanosh, Millard, Utah, United States
+1 FAMC @F11@
+0 @I52@ INDI
+1 NAME Mary Ann /Hopkins/
+2 GIVN Mary Ann
+2 SURN Hopkins
+1 SEX F
+1 _UID CB889D676C8D48D9ABE3AAF8A3B6A8892BF1
+1 _FSFTID KWZ6-DDV
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 9 JUN 1863
+2 PLAC Petersburg, Hatton, Millard, Utah Territory, United States
+1 DEAT
+2 DATE 2 JUN 1952
+2 PLAC Kanosh, Millard, Utah
+1 BURI
+2 DATE 4 JUN 1952
+2 PLAC Kanosh, Millard, UT
+1 FAMC @F11@
+0 @I53@ INDI
+1 NAME Brognard Dellacroix Webber /Hopkins/
+2 GIVN Brognard Dellacroix Webber
+2 SURN Hopkins
+1 SEX M
+1 _UID DCB585B68DF042BFB4C6B13605299C4CC167
+1 _FSFTID KW6D-6Q3
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 14 SEP 1855
+2 PLAC Cedar City, Iron, Utah Territory, United States
+1 DEAT
+2 DATE 30 JUN 1944
+2 PLAC Delta, Millard, Utah, United States
+1 BURI
+2 DATE 3 JUL 1944
+2 PLAC Delta City Cemetery, Delta, Millard, Utah, United States
+1 FAMC @F11@
+0 @I54@ INDI
+1 NAME Charles Webber /Hopkins/
+2 GIVN Charles Webber
+2 SURN Hopkins
+1 SEX M
+1 _UID 5EA8FF071B0B4084B368F38B891416F2343D
+1 _FSFTID KWVS-9WP
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 24 AUG 1853
+2 PLAC Lehi, Utah, UT
+1 DEAT
+2 DATE 3 NOV 1914
+1 BURI
+2 DATE 27 NOV 1914
+2 PLAC Kanosh, Millard, Utah
+1 FAMC @F11@
+0 @I55@ INDI
+1 NAME Joseph /Knight/
+2 GIVN Joseph
+2 SURN Knight
+1 SEX M
+1 _UID 562642C57AC942C18A199B54EEBB70FB6FF8
+1 _FSFTID KWJC-1S1
+1 CHAN
+2 DATE 30 JUN 2016
+1 NOTE Came to the Salt Lake Valley with the Benjamin Hawkins Company.  They d
+2 CONC eparted on 5 June 1850 and arrived on 9 September 1850 with 142 in the C
+2 CONC ompany.Came to the Salt Lake Valley with the Benjamin Hawkins Company.  T
+2 CONC hey departed on 5 June 1850 and arrived on 9 September 1850 with 142 in t
+2 CONC he Company.
+1 BIRT
+2 DATE 21 JUN 1808
+2 PLAC Halifax, Windham, Vermont, United States
+1 DEAT
+2 DATE 3 NOV 1866
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMS @F15@
+1 FAMS @F17@
+1 FAMC @F16@
+0 @I56@ INDI
+1 NAME Betsey /Covert/
+2 GIVN Betsey
+2 SURN Covert
+1 SEX F
+1 _UID 72E04F4A200649E5812FA24E2C95456E5307
+1 _FSFTID KWJY-YJD
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 27 JUL 1813
+2 PLAC Mayfield, Cuyahoga, Ohio, United States
+1 DEAT
+2 DATE 5 MAY 1876
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMS @F15@
+1 FAMC @F18@
+0 @I57@ INDI
+1 NAME Joseph /Knight/
+2 GIVN Joseph
+2 SURN Knight
+2 NSFX Sr.
+1 SEX M
+1 _UID 05E79CFB7B6E4AC39065E2214A823487F82E
+1 _FSFTID LDTG-SQK
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 26 NOV 1772
+2 PLAC Oakham, Worcester, Massachusetts, United States
+1 DEAT
+2 DATE 3 FEB 1847
+2 PLAC Mount Pisgah, Union, Iowa, United States
+1 BURI
+2 PLAC Mount Pisgah, Harrison, Iowa, United States
+1 FAMS @F16@
+0 @I58@ INDI
+1 NAME Polly /Peck/
+2 GIVN Polly
+2 SURN Peck
+1 SEX F
+1 _UID 5E6B46E2CD8A4AFF9925FFF17D164099ABA1
+1 _FSFTID LDRQ-T9T
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 16 APR 1772
+2 PLAC Guilford, Windham, Vermont, United States
+1 DEAT
+2 DATE 6 AUG 1831
+2 PLAC Kaw Township, Jackson, Missouri, United States
+1 BURI
+2 DATE 7 AUG 1831
+2 PLAC Kaw, Independence, Jackson, Missouri, United States
+1 FAMS @F16@
+0 @I59@ INDI
+1 NAME Joseph James /Knight/
+2 GIVN Joseph James
+2 SURN Knight
+1 SEX M
+1 _UID A2930566EE2B4574A618D7935831221F640F
+1 _FSFTID KWVC-HKP
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 25 DEC 1841
+2 PLAC Gallatin, Clay, Missouri, United States
+1 DEAT
+2 DATE 2 FEB 1846
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 FAMC @F15@
+0 @I60@ INDI
+1 NAME Orpha Florialla /Knight/
+2 GIVN Orpha Florialla
+2 SURN Knight
+1 SEX F
+1 _UID D0191465856845569B5611FF06AD66FBFF95
+1 _FSFTID KWVC-HKR
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 24 DEC 1844
+2 PLAC Gallatin, Clay, Missouri, United States
+1 DEAT
+2 DATE 20 OCT 1847
+2 PLAC Winter Quarters, Nebraska Territory, United States
+1 BURI
+2 PLAC Winter Quarters, Nebraska, United States
+2 NOTE Died of canker and buried in Grave # 251
+1 FAMC @F15@
+0 @I61@ INDI
+1 NAME Rhoda Caroline /Knight/
+2 GIVN Rhoda Caroline
+2 SURN Knight
+1 SEX F
+1 _UID ECDE6B6272B54DCF8DE3CE244A77602E8B9E
+1 _FSFTID KWV9-M3W
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 14 MAR 1839
+2 PLAC Far West, Caldwell, Missouri, United States
+1 DEAT
+2 DATE 20 FEB 1920
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 BURI
+2 DATE 25 FEB 1920
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F15@
+0 @I62@ INDI
+1 NAME Ellen Rebecca /Knight/
+2 GIVN Ellen Rebecca
+2 SURN Knight
+1 SEX F
+1 _UID 7D67FD614EEE44C396598BD6550203326122
+1 _FSFTID KWVC-H2S
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 8 MAR 1848
+2 PLAC Kanesville, Pottawattamie, Iowa, United States
+1 BURI
+2 DATE 1854
+2 PLAC Salt Lake City, Salt Lake, Utah, United States of America
+1 DEAT
+2 DATE 5 JAN 1854
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMC @F15@
+0 @I63@ INDI
+1 NAME Mary Elizabeth /Knight/
+2 GIVN Mary Elizabeth
+2 SURN Knight
+1 SEX F
+1 _UID 7B0E817DD9D3419A8258667910D48601321C
+1 _FSFTID KWNF-XL5
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 16 JUN 1836
+2 PLAC Gallatin, Clay, Missouri, United States
+1 DEAT
+2 DATE 16 NOV 1926
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 BURI
+2 DATE 18 NOV 1926
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F15@
+0 @I64@ INDI
+1 NAME Martha Ann /Knight/
+2 GIVN Martha Ann
+2 SURN Knight
+1 SEX F
+1 _UID 9A45FEFA48514F0EBD3386A3E0ABFFDC4CAB
+1 _FSFTID KWV9-YX8
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 11 JUN 1833
+2 PLAC Kaw Township, Jackson, Missouri, United States
+1 CHR
+2 DATE 11 JUN 1833
+2 PLAC Kaw Township, Jackson, Missouri, United States
+1 DEAT
+2 DATE 10 JAN 1919
+2 PLAC Cache, Utah, United States
+1 BURI
+2 DATE 12 JAN 1919
+2 PLAC Richmond, Cache, Utah, United States
+1 FAMC @F15@
+0 @I65@ INDI
+1 NAME Adeline /Johnson/
+2 GIVN Adeline
+2 SURN Johnson
+1 SEX F
+1 _UID 9647CFFFDD0B4580824BEA87638AF176EA93
+1 _FSFTID LHV7-LYD
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 21 MAY 1830
+2 PLAC Johnson Township, Ripley, Indiana, United States
+1 DEAT
+2 DATE 27 DEC 1874
+2 PLAC Provo, Utah, Utah, United States
+1 BURI
+2 PLAC Provo, Utah, Utah, United States
+1 FAMS @F17@
+0 @I66@ INDI
+1 NAME James /Covert/
+2 GIVN James
+2 SURN Covert
+1 SEX M
+1 _UID 6CFF6BAD66CF4E489A8B52AE1AEB83A8A35B
+1 _FSFTID LLMK-ZTN
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 18 MAY 1783
+2 PLAC , Essex, New Jersey
+1 BURI
+2 DATE 1880
+2 PLAC Gates Mills, Cuyahoga, Ohio, United States
+1 DEAT
+2 DATE 26 MAR 1880
+2 PLAC Mayfield, Cuyahoga, Ohio, United States
+1 FAMS @F18@
+0 @I67@ INDI
+1 NAME Martha /Judd/
+2 GIVN Martha
+2 SURN Judd
+1 SEX F
+1 _UID 14F93B1F1D15400192089B6FED973FCC0DC8
+1 _FSFTID LLMK-ZTJ
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 1784
+2 PLAC Watertown, Litchfield, Connecticut
+1 DEAT
+2 DATE 1833
+2 PLAC Mayfield, Cuyahoga, Ohio, United States
+1 BURI
+2 PLAC Gates Mills, Cuyahoga, Ohio, United States
+1 FAMS @F18@
+0 @I68@ INDI
+1 NAME Robert H. /Collins/
+2 GIVN Robert H.
+2 SURN Collins
+1 SEX M
+1 _UID 5B34E91D32014BB4B9E5B922B3D91B351C65
+1 _FSFTID KWVP-3VW
+1 CHAN
+2 DATE 30 JUN 2016
+1 NOTE Served in the Mormon Battalion as a Private in Company D.
+1 BIRT
+2 DATE DEC 1822
+2 PLAC England
+1 DEAT
+2 DATE 19 DEC 1889
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMS @F19@
+1 FAMC @F21@
+0 @I69@ INDI
+1 NAME Mary Jane /Mayberry/
+2 GIVN Mary Jane
+2 SURN Mayberry
+1 SEX F
+1 _UID 2F487AFB0D394171B46FCF75A4B14B03EE2D
+1 _FSFTID LL94-27F
+1 CHAN
+2 DATE 30 JUN 2016
+1 NOTE On the original Winter Quarters 23rd Ward, the enumerator started to wr
+2 CONC ite Colllins but then wrote Mabery.
+2 CONT
+2 CONT She is listed as age 19 but may have been 29.  Rebecca is listed with h
+2 CONC er.  Rebecca is her brother's daughter.
+2 CONT
+1 BIRT
+2 DATE 7 NOV 1819
+2 PLAC Hickman, Tennessee, United States
+1 DEAT
+2 DATE 1887
+2 PLAC Utah, United States
+1 FAMS @F19@
+1 FAMC @F20@
+0 @I70@ INDI
+1 NAME Mary Elizabeth /Collins/
+2 GIVN Mary Elizabeth
+2 SURN Collins
+1 SEX F
+1 _UID 2CD5EC64C12244F49F00F4821FCD8362527A
+1 _FSFTID K4KY-M7Q
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 1853
+2 PLAC Meadow, Millard, Utah Territory, United States
+1 DEAT
+2 DATE 1869
+2 PLAC Utah Territory, United States
+1 FAMC @F19@
+0 @I71@ INDI
+1 NAME Hyrum Dennis /Collins/
+2 GIVN Hyrum Dennis
+2 SURN Collins
+1 SEX M
+1 _UID 561E8EC8441542AE8E9A7CFAE240C0E174F0
+1 _FSFTID LW3R-XSZ
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 3 APR 1851
+2 PLAC Meadow, Millard, Utah Territory, United States
+1 DEAT
+2 DATE 17 JUL 1919
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 BURI
+2 PLAC ("Elliot Hill" Cemetery), Grace, Bannock, ID
+1 FAMS @F23@
+1 FAMC @F19@
+0 @I72@ INDI
+1 NAME Joseph Smith /Collins/
+2 GIVN Joseph Smith
+2 SURN Collins
+1 SEX M
+1 _UID 80C02F96A3D64280A8DF5AA4833799576F3D
+1 _FSFTID LHJ6-NH5
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 28 MAY 1849
+2 PLAC Little Cottonwood, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE SEP 1905
+2 PLAC Idaho State Hospital Cem Plot #23, Blackfoot, Idaho
+1 DEAT
+2 DATE 11 SEP 1905
+2 PLAC Blackfoot, Bingham, Idaho, United States
+1 FAMS @F22@
+1 FAMC @F19@
+0 @I73@ INDI
+1 NAME John /Mayberry/
+2 GIVN John
+2 SURN Mayberry
+1 SEX M
+1 _UID 50BB284D6E104C598A6E5056837FA4513801
+1 _FSFTID LVG5-TMK
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 5 APR 1792
+2 PLAC Bedford, Bedford City, Virginia, United States
+1 DEAT
+2 DATE 3 DEC 1857
+2 PLAC Salt Lake, Utah, United States
+1 BURI
+2 PLAC Mayberry cemetery in South Cottonwood (Renamed Murray Cemetery) , Utah
+1 FAMS @F20@
+0 @I74@ INDI
+1 NAME Mary /Younger/
+2 GIVN Mary
+2 SURN Younger
+1 SEX F
+1 _UID 117E263859344D5FA8EB7B9B6947CB5EA822
+1 _FSFTID KWV7-W9B
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 11 MAR 1792
+2 PLAC Chatham, North Carolina, United States
+1 DEAT
+2 DATE AUG 1878
+2 PLAC Kanesville, Weber, Utah, United States
+1 BURI
+2 DATE AUG 1878
+2 PLAC Hooper Cemetery, Weber, Utah Territory, United States
+1 FAMS @F20@
+0 @I75@ INDI
+1 NAME John /Collins/
+2 GIVN John
+2 SURN Collins
+1 SEX M
+1 _UID 5233586F8F3F40B1BF1F57BE8A76E8C5AB62
+1 _FSFTID MMNV-FST
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 27 AUG 1786
+2 PLAC , Hunworth, Norfolk, England
+1 CHR
+2 DATE 27 AUG 1786
+2 PLAC , Hunworth, Norfolk, England
+1 BURI
+2 DATE 26 OCT 1822
+2 PLAC , Hunworth, Norfolk, England
+1 DEAT
+1 FAMS @F21@
+0 @I76@ INDI
+1 NAME Emma /Bennett/
+2 GIVN Emma
+2 SURN Bennett
+1 SEX F
+1 _UID 32B724094D10403BA5CA2DC3E553CF50A42B
+1 _FSFTID KW6D-DYX
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 28 MAY 1847
+2 PLAC Oldbury, Worcestershire, England
+1 CHR
+2 DATE 29 OCT 1848
+2 PLAC St. Nicholas', Brighthelmston, Sussex, England
+1 DEAT
+2 DATE 18 JAN 1923
+2 PLAC Mound Valley, Franklin, Idaho, United States
+1 BURI
+2 DATE 21 JAN 1923
+2 PLAC Mound Valley Cemetery, Franklin, Idaho, United States
+1 FAMS @F22@
+0 @I77@ INDI
+1 NAME Elizabeth Lucy Ann /Bennett/
+2 GIVN Elizabeth Lucy Ann
+2 SURN Bennett
+1 SEX F
+1 _UID B14D02B4635340C3951262F05E62363C98CB
+1 _FSFTID LL97-2HY
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 24 MAY 1861
+2 PLAC Provo, Utah, Utah
+1 DEAT
+2 DATE 2 NOV 1893
+1 FAMS @F23@
+0 @I78@ INDI
+1 NAME Mary Rebecca /Mayberry/
+2 GIVN Mary Rebecca
+2 SURN Mayberry
+1 SEX F
+1 _UID 33353CD48FB64E5F818AACA252FB2092C24B
+1 _FSFTID 2WX5-YQK
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 23 SEP 1846
+2 PLAC Bonneport, Van Buren, Iowa Territory, United States
+1 DEAT
+2 DATE 6 JUN 1847
+2 PLAC Winter Quarters, Nebraska Territory, United States
+2 NOTE Died of a lung complaint and is buried in Grave # 163.
+1 FAMC @F24@
+0 @I79@ INDI
+1 NAME David /Mayberry/
+2 GIVN David
+2 SURN Mayberry
+1 SEX M
+1 _UID B919FF4579444890A95C520FAF7025C2170D
+1 _FSFTID KWVP-BJB
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 8 OCT 1825
+1 DEAT
+2 DATE 1848
+2 PLAC Iowa, United States
+1 FAMS @F24@
+1 FAMC @F20@
+0 @I80@ INDI
+1 NAME Clarissa Rebecca Frances /Hall/
+2 GIVN Clarissa Rebecca Frances
+2 SURN Hall
+1 SEX F
+1 _UID 230671E11C8C495D8B8D28C7CA4807FBE4A7
+1 _FSFTID KWVM-NSG
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 28 MAY 1827
+2 PLAC Cape Girardeau, Missouri, United States
+1 DEAT
+2 DATE 20 OCT 1898
+2 PLAC Vernal, Uintah, Utah, United States
+1 FAMS @F24@
+1 FAMS @F26@
+1 FAMC @F25@
+0 @I81@ INDI
+1 NAME Mathew William /Hall/
+2 GIVN Mathew William
+2 SURN Hall
+1 SEX M
+1 _UID 455B0CDAE1B54F0CB899678D4F62A9293F2B
+1 _FSFTID LZD8-83R
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Cape Giradeau, MO
+1 DEAT
+2 DATE 1840
+2 PLAC Missouri, United States
+1 FAMS @F25@
+0 @I82@ INDI
+1 NAME Sarah Clarissa /Green/
+2 GIVN Sarah Clarissa
+2 SURN Green
+1 SEX F
+1 _UID 8569DA733BC14BD88C2BFB47F5213D4FF5A1
+1 _FSFTID LHLP-YPR
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 5 DEC 1805
+2 PLAC Dist 11, Cape Girardeau C, Missouri
+1 DEAT
+2 DATE AFT 1842
+1 FAMS @F25@
+0 @I83@ INDI
+1 NAME Samuel Joseph /Campbell/
+2 GIVN Samuel Joseph
+2 SURN Campbell
+1 SEX M
+1 _UID 2EF57E8720B643009A2656E3D83063872C74
+1 _FSFTID KWVM-NSP
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 4 MAY 1827
+2 PLAC Hornby, Steuben, New York, United States
+1 DEAT
+2 DATE 18 FEB 1910
+2 PLAC Vernal, Uintah, Utah, United States
+1 BURI
+2 DATE 20 FEB 1910
+2 PLAC Vernal Memorial Cemetery, Uintah,  Utah, United States
+1 FAMS @F26@
+0 @I84@ INDI
+1 NAME Benjamin Benoni /Campbell/
+2 GIVN Benjamin Benoni
+2 SURN Campbell
+1 SEX M
+1 _UID D9066F05B9A94A339713E8D2DF024D3E02FC
+1 _FSFTID K2WH-MLK
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 27 FEB 1852
+2 PLAC Ogden, Weber, Utah, United States
+1 DEAT
+1 FAMC @F26@
+0 @I85@ INDI
+1 NAME Samuel Joseph /Campbell/
+2 GIVN Samuel Joseph
+2 SURN Campbell
+1 SEX M
+1 _UID DE169EDF38E846C79BEBAFB2D81E8FE6F00B
+1 _FSFTID KWJK-174
+1 CHAN
+2 DATE 30 JUN 2016
+1 BIRT
+2 DATE 10 FEB 1850
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 DEAT
+2 DATE 29 OCT 1924
+2 PLAC Vernal, Uintah, Utah, United States
+1 BURI
+2 DATE 2 NOV 1924
+2 PLAC Vernal Memorial Park, Uintah, Utah, United States
+1 FAMC @F26@
+0 @I86@ INDI
+1 NAME Dolly /Gridley/
+2 GIVN Dolly
+2 SURN Gridley
+1 SEX F
+1 _UID E878309F431E42DB98544B52F0A5936FCD9C
+1 _FSFTID K241-CJD
+1 CHAN
+2 DATE 1 JUL 2016
+1 NOTE The Edward Hunter/Joseph Horne Company began with 197 individuals and 7
+2 CONC 2 wagons were in the company when it began its journey from the outfitt
+2 CONC ing post on the Elkhorn River about 27 miles west of Winter Quarters, N
+2 CONC ebraska.  It departed 17 June 1847 and arrived in the Valley on 29 Sept
+2 CONC ember 1847.
+1 BIRT
+2 DATE 30 JUN 1784
+2 PLAC Connecticut, United States
+1 DEAT
+2 DATE 13 SEP 1871
+2 PLAC Springville, Utah, Utah Territory, United States
+1 FAMS @F27@
+1 FAMS @F29@
+1 FAMC @F31@
+0 @I87@ INDI
+1 NAME Robert W. /Newton/
+2 GIVN Robert W.
+2 SURN Newton
+1 SEX M
+1 _UID 8703D9C1E7CC4A6199F60908A884C48C9E4D
+1 _FSFTID 9Q7L-D9J
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1778
+2 PLAC Russell, Hampden, Massachusettes, United States
+1 DEAT
+2 DATE 1860
+2 PLAC Angelica, Allegany, New York, United States
+1 FAMS @F27@
+1 FAMC @F28@
+0 @I88@ INDI
+1 NAME Jesse /Newton/
+2 GIVN Jesse
+2 SURN Newton
+1 SEX M
+1 _UID 15808B4CC4B841BEBB19247755BB3BE7882A
+1 _FSFTID KH4R-39G
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1 JUN 1739
+2 PLAC Groton Twp, New London, Connecticut
+1 DEAT
+2 DATE 1810
+2 PLAC Russell, Hampden, Massachusetts, United States
+1 FAMS @F28@
+0 @I89@ INDI
+1 NAME Thomas /Noakes/
+2 GIVN Thomas
+2 SURN Noakes
+1 SEX M
+1 _UID 1C568AFF33FA4D54A1A0BCD8E2C466832D8C
+1 _FSFTID KWVS-3YF
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 18 APR 1791
+2 PLAC Udimore, Sussex, England
+1 DEAT
+2 DATE 1 SEP 1871
+2 PLAC Springville, Utah, Utah Territory, United States
+1 FAMS @F29@
+1 FAMC @F30@
+0 @I90@ INDI
+1 NAME William /Noakes/
+2 GIVN William
+2 SURN Noakes
+1 SEX M
+1 _UID C375FB573DC9472CB91293C8E1130B29519D
+1 _FSFTID LC5V-DLT
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 10 JAN 1762
+2 PLAC Udimore, Sussex, England
+1 CHR
+2 DATE 10 JAN 1762
+2 PLAC Udimore, Sussex, England
+1 DEAT
+2 DATE AFT 1797
+2 PLAC Udimore, Sussex, England, United Kingdom
+1 BURI
+2 PLAC Udimore
+1 FAMS @F30@
+0 @I91@ INDI
+1 NAME Elizabeth /Honice/
+2 GIVN Elizabeth
+2 SURN Honice
+1 SEX F
+1 _UID FE305821D97A4E8DA8D35AB8681FA59E2C36
+1 _FSFTID L7TB-J37
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE ABT 1762
+2 PLAC Udimore, Sussex, England
+1 CHR
+2 DATE 1762
+2 PLAC Udimore, Sussex, England
+1 DEAT
+2 DATE AFT 1792
+1 FAMS @F30@
+0 @I92@ INDI
+1 NAME Seth /Gridley/
+2 GIVN Seth
+2 SURN Gridley
+1 SEX M
+1 _UID 0C787041B4BD41648F98C598CF529EDE6C54
+1 CHAN
+2 DATE 1 JUL 2016
+1 DEAT Y
+1 FAMS @F31@
+0 @I93@ INDI
+1 NAME Esther /Blakeslee/
+2 GIVN Esther
+2 SURN Blakeslee
+1 SEX F
+1 _UID 640D341FD3B24564B9D1A91D9B8B837661BD
+1 CHAN
+2 DATE 1 JUL 2016
+1 DEAT Y
+1 FAMS @F31@
+0 @I94@ INDI
+1 NAME Nancy /Babcock/
+2 GIVN Nancy
+2 SURN Babcock
+1 SEX F
+1 _UID 9644AA2DA3E346D894CE55C6EE2454FF3793
+1 CHAN
+2 DATE 1 JUL 2016
+1 DEAT Y
+1 FAMS @F28@
+0 @I95@ INDI
+1 NAME Chauncey /Newton/
+2 GIVN Chauncey
+2 SURN Newton
+1 SEX M
+1 _UID 7D1F8DFC11FC4B6F89A6C73B0280E208898F
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1804
+1 DEAT
+2 DATE 1846
+1 FAMC @F27@
+0 @I96@ INDI
+1 NAME Rufus /Newton/
+2 GIVN Rufus
+2 SURN Newton
+1 SEX M
+1 _UID F49CFD630905454BA320589C05FE872CFB95
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1806
+1 DEAT Y
+1 FAMC @F27@
+0 @I97@ INDI
+1 NAME Earl /Newton/
+2 GIVN Earl
+2 SURN Newton
+1 SEX M
+1 _UID F97668B4E8AD4E579558234AE2EF617FD0A2
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1808
+1 DEAT Y
+1 FAMC @F27@
+0 @I98@ INDI
+1 NAME Hannah /Newton/
+2 GIVN Hannah
+2 SURN Newton
+1 SEX F
+1 _UID EAAF840C9556488BA466C14825854D4233ED
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1810
+1 DEAT Y
+1 FAMC @F27@
+0 @I99@ INDI
+1 NAME Diantha /Newton/
+2 GIVN Diantha
+2 SURN Newton
+1 SEX F
+1 _UID 9FA3468C12784D38AB3E5781AB49C972138B
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1812
+1 DEAT Y
+1 FAMC @F27@
+0 @I100@ INDI
+1 NAME Adelia /Newton/
+2 GIVN Adelia
+2 SURN Newton
+1 SEX F
+1 _UID D143ED231E9446F4BF0EF3DA21B6D0C01122
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1814
+1 DEAT Y
+1 FAMC @F27@
+0 @I101@ INDI
+1 NAME Liza /Newton/
+2 GIVN Liza
+2 SURN Newton
+1 SEX F
+1 _UID F8F0E7CC90F64C2EBB0C79C6D71DECE465C5
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1816
+1 DEAT Y
+1 FAMC @F27@
+0 @I102@ INDI
+1 NAME Lucy /Newton/
+2 GIVN Lucy
+2 SURN Newton
+1 SEX F
+1 _UID 2A9BE8C1033041F4A54C700E81B0DE9CF012
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1818
+1 DEAT Y
+1 FAMC @F27@
+0 @I103@ INDI
+1 NAME Palmer Fitzallen /Newton/
+2 GIVN Palmer Fitzallen
+2 SURN Newton
+1 SEX M
+1 _UID 52103EB9278D411D8D688CF5606AD31B991B
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 23 MAR 1821
+2 PLAC Allegany, New York, United States
+1 DEAT
+2 DATE 8 MAR 1885
+2 PLAC Brush Creek, Fayette, Iowa, United States
+1 FAMC @F27@
+0 @I104@ INDI
+1 NAME Richard /Ballantyne/
+2 GIVN Richard
+2 SURN Ballantyne
+1 SEX M
+1 _UID 9411426A13854F568BAACC2202F3FFD17614
+1 _FSFTID KWN5-BQW
+1 CHAN
+2 DATE 1 JUL 2016
+1 NOTE Came West with the Brigham Young Company of 1848.  They departed on 5 J
+2 CONC une 1848 and arrived in the Salt Lake Valley on 20 September 1848. Ther
+2 CONC e were 1053 people in the Company.
+1 BIRT
+2 DATE 26 AUG 1817
+2 PLAC Earlston, Berwickshire, Scotland
+1 DEAT
+2 DATE 8 NOV 1898
+2 PLAC Ogden, Weber, Utah, United States
+1 FAMS @F33@
+1 FAMC @F32@
+0 @I105@ INDI
+1 NAME David /Ballantyne/
+2 GIVN David
+2 SURN Ballantyne
+1 SEX M
+1 _UID EDF9AADCE4D041EF95A6CFC4F18D3102CF1F
+1 _FSFTID LZK9-MV5
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE AUG 1748
+2 PLAC Redpath, Berwickshire, Scotland
+1 CHR
+2 DATE 7 AUG 1748
+2 PLAC Redpath, Berwickshire, Scotland
+1 BURI
+2 DATE DEC 1829
+2 PLAC Ednam, The Scottish Borders, Scotland
+1 DEAT
+2 DATE 12 DEC 1829
+2 PLAC Kelso, The Scottish Borders, Scotland
+1 FAMS @F32@
+0 @I106@ INDI
+1 NAME Anne /Bannerman/
+2 GIVN Anne
+2 SURN Bannerman
+1 SEX F
+1 _UID BE22BECAE5874C73B4E5EC27870DA752CC21
+1 _FSFTID KWVM-8TT
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1791
+2 PLAC Dundee, Angus, Scotland
+1 BURI
+2 DATE OCT 1871
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 DEAT
+2 DATE 11 OCT 1871
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMS @F32@
+0 @I107@ INDI
+1 NAME Huldah Meriah /Clark/
+2 GIVN Huldah Meriah
+2 SURN Clark
+1 SEX F
+1 _UID CD0E3998AE55452985116F9E056C375CC4DB
+1 _FSFTID KWVM-DMS
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 26 OCT 1823
+2 PLAC Geneseo, Livingston, New York, United States
+1 DEAT
+2 DATE 2 APR 1883
+2 PLAC Ogden, Weber, Utah, United States
+1 BURI
+2 DATE 5 APR 1883
+2 PLAC Ogden City Cemetery, Ogden, Weber, Utah, United States
+1 FAMS @F33@
+1 FAMC @F34@
+0 @I108@ INDI
+1 NAME David Henry /Ballantyne/
+2 GIVN David Henry
+2 SURN Ballantyne
+1 SEX M
+1 _UID CB828AE556B740578D2713343C3C596A969E
+1 _FSFTID LL32-ZTH
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 16 NOV 1851
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE 1863
+2 PLAC Ogden, Weber, Utah, United States of America
+1 DEAT
+2 DATE 31 AUG 1863
+2 PLAC Ogden, Weber, Utah, United States
+1 FAMC @F33@
+0 @I109@ INDI
+1 NAME Richard Alando /Ballantyne/
+2 GIVN Richard Alando
+2 SURN Ballantyne
+1 SEX M
+1 _UID EB66380B02FC46C08C39B61B8F7158971D41
+1 _FSFTID KWC1-64W
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1 JUN 1848
+2 PLAC Pottawattamie, Iowa, United States
+1 DEAT
+2 DATE 28 SEP 1926
+2 PLAC Logan, Cache, Utah, United States
+1 BURI
+2 DATE 1 OCT 1926
+2 PLAC Logan Cemetery, Logan, Cache, Utah, United States
+1 FAMC @F33@
+0 @I110@ INDI
+1 NAME Delecta Annie Jane /Ballantyne/
+2 GIVN Delecta Annie Jane
+2 SURN Ballantyne
+1 SEX F
+1 _UID EDB5862172AE47339F0D9025F70FBE2D35ED
+1 _FSFTID KWV3-YGK
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 22 NOV 1849
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE DEC 1876
+2 PLAC Ogden, Weber, Utah Territory, United States
+1 DEAT Y
+1 FAMC @F33@
+0 @I111@ INDI
+1 NAME Gardner /Clark/
+2 GIVN Gardner
+2 SURN Clark
+1 SEX M
+1 _UID 27EADC4D85BB458FB596B286739AE2C686C5
+1 _FSFTID KWVM-DMM
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 15 JAN 1791
+2 PLAC Lee, Berkshire, Massachusetts, United States
+1 BURI
+2 DATE 1847
+2 PLAC Winter Quarters, Douglas, Nebraska, United States
+1 DEAT
+2 DATE 11 APR 1847
+2 PLAC Winter Quarters, Pottawattamie, Iowa, United States
+1 FAMS @F34@
+0 @I112@ INDI
+1 NAME Delecta /Farrar/
+2 GIVN Delecta
+2 SURN Farrar
+1 SEX F
+1 _UID FBF400F3B0D6461581602AFB0A59E26C7A2C
+1 _FSFTID KWVM-DM9
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 30 JAN 1796
+2 PLAC Chittenden, Rutland, Vermont, United States
+1 DEAT
+2 DATE 22 SEP 1861
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 DATE 30 SEP 1862
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMS @F34@
+0 @I113@ INDI
+1 NAME Evan /Evans/
+2 GIVN Evan
+2 SURN Evans
+1 SEX M
+1 _UID FC5856A7EAB3401696F63EB3341A48E63DF7
+1 _FSFTID KG1T-XN2
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 16 OCT 1798
+2 PLAC Vincent Twp, Chester, Pennsylvania, United States
+1 DEAT
+2 DATE 1844
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 FAMS @F35@
+1 FAMC @F39@
+0 @I114@ INDI
+1 NAME Elizabeth /Cook/
+2 GIVN Elizabeth
+2 SURN Cook
+1 SEX F
+1 _UID 8380D147E7064651B338927E9B6E54ADA471
+1 _FSFTID KWVC-FLL
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 24 JUL 1809
+2 PLAC Chester, Pennsylvania, United States
+1 DEAT
+2 DATE 26 MAR 1899
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMS @F35@
+1 FAMS @F37@
+1 FAMS @F38@
+1 FAMC @F36@
+0 @I115@ INDI
+1 NAME Stephen Beecher /Cook/
+2 GIVN Stephen Beecher
+2 SURN Cook
+2 NSFX Sr.
+1 SEX M
+1 _UID 870F9BB3B74F4A49A0F083599AF7F2036FE3
+1 _FSFTID LK29-19Y
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE ABT 1765
+2 PLAC Chester, Pennsylvania, United States
+1 DEAT
+2 DATE 1821
+2 PLAC Union Township, Berks, Pennsylvania, United States
+1 FAMS @F36@
+0 @I116@ INDI
+1 NAME Isabella /Norris/
+2 GIVN Isabella
+2 SURN Norris
+1 SEX F
+1 _UID B0DB0E1902984776963A062B585AA7C5282C
+1 _FSFTID LH8D-V8X
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE ABT 1775
+2 PLAC Pennsylvania, United States
+1 DEAT
+2 DATE ABT 1821
+2 PLAC ,, Pennsylvania
+1 FAMS @F36@
+0 @I117@ INDI
+1 NAME Thomas /Kirkpatrick/
+2 GIVN Thomas
+2 SURN Kirkpatrick
+1 SEX M
+1 _UID 8715F30D8CE14657B05BDF4B4FE3D7785C5D
+1 _FSFTID L71S-63L
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1797
+2 PLAC Chester, Pennsylvania, United States
+1 DEAT
+2 DATE 19 APR 1830
+2 PLAC , Chester, Pennsylvania, USA
+1 FAMS @F37@
+0 @I118@ INDI
+1 NAME Clement Brook /Kirkpatrick/
+2 GIVN Clement Brook
+2 SURN Kirkpatrick
+1 SEX M
+1 _UID EB4D6A9FE85F4458AA7289C3B38B40212B48
+1 _FSFTID LL9G-G16
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 25 FEB 1830
+2 PLAC Hopewell Furnace, Berks, Pennsylvania, United States
+1 DEAT
+2 DATE 25 JUN 1899
+2 PLAC San Bernardino, San Bernardino, California, United States
+1 BURI
+2 PLAC Pioneer Memorial Cemetery, Plot: Block 5, 211 East 9th Street, San Bernardino, San Bernardino, California, United States
+1 FAMC @F37@
+0 @I119@ INDI
+1 NAME Robert /Kirkpatrick/
+2 GIVN Robert
+2 SURN Kirkpatrick
+1 SEX M
+1 _UID 0D45656592AA4954AD713B6E5454A3F7FE06
+1 _FSFTID K488-3QP
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1827
+2 PLAC Pennsylvania, United States
+1 DEAT
+2 DATE ABT 1880
+2 PLAC Coatesville, Chester, Pennsylvania, United States
+1 FAMC @F37@
+0 @I120@ INDI
+1 NAME Isabella Margaret /Evans/
+2 GIVN Isabella Margaret
+2 SURN Evans
+1 SEX F
+1 _UID 2C4856F1AC5348F2AFC0625CB3B840AE7ACE
+1 _FSFTID KGMV-4QC
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 19 DEC 1840
+2 PLAC Harrisburg, Dauphin, Pennsylvania, United States
+1 DEAT
+2 DATE 14 APR 1927
+2 PLAC San Diego, San Diego, California, United States
+1 BURI
+2 PLAC Salt Lake City, Salt Lake, Utah, United States
+1 FAMC @F35@
+0 @I121@ INDI
+1 NAME James /Evans/
+2 GIVN James
+2 SURN Evans
+1 SEX M
+1 _UID 95F5A120B892404E8960D5A88FD88951CA92
+1 _FSFTID K2TQ-RHS
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 22 FEB 1838
+2 PLAC Pennsylvania, United States
+1 DEAT
+2 PLAC Nevada, United States
+1 FAMC @F35@
+0 @I122@ INDI
+1 NAME Elizabeth /Evans/
+2 GIVN Elizabeth
+2 SURN Evans
+1 SEX F
+1 _UID 24AB188278104FA8AB1DEB4E16DFCF8936C4
+1 _FSFTID KWJ8-LHP
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 9 MAY 1844
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 DEAT
+2 DATE 17 JUN 1898
+2 PLAC Mount Pleasant, Sanpete, Utah, United States
+1 BURI
+2 PLAC Mount Pleasant City Cemetery, Plot: A-96-2-7, Mount Pleasant, Sanpete, Utah, United States
+1 FAMC @F35@
+0 @I123@ INDI
+1 NAME William John /Evans/
+2 GIVN William John
+2 SURN Evans
+1 SEX M
+1 _UID D5BB84A71EDE41C3819C604EB60A24C22C61
+1 _FSFTID K2TQ-T83
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 29 AUG 1837
+2 PLAC Chester, Pennsylvania, United States
+1 DEAT
+2 DATE 3 SEP 1867
+2 PLAC Sanpete, Utah Territory, United States
+1 FAMC @F35@
+0 @I124@ INDI
+1 NAME Susanna Elizabeth /Evans/
+2 GIVN Susanna Elizabeth
+2 SURN Evans
+1 SEX F
+1 _UID ECF49BC0A20B4765AE75E18E8B7705FC29F0
+1 _FSFTID LKK8-847
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 12 DEC 1835
+2 PLAC Harrisburg, Dauphin, Pennsylvania, United States
+1 DEAT
+2 DATE 18 DEC 1893
+2 PLAC Sandy, Salt Lake, Utah, United States
+1 BURI
+2 DATE 20 DEC 1893
+2 PLAC Sandy City Cemetery, Plot: A-1-25-6, 9000 South 700 East, Sandy, Salt Lake, Utah, United States
+1 FAMC @F35@
+0 @I125@ INDI
+1 NAME William /Clark/
+2 GIVN William
+2 SURN Clark
+1 SEX M
+1 _UID F127AF48CC9C4B7AA91D765222F633F80D48
+1 _FSFTID LLQ4-HMS
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 13 NOV 1808
+2 PLAC Jefferson, Ashtabula, Ohio, United States
+1 DEAT
+2 DATE JUN 1873
+2 PLAC Fremont, Dodge, Nebraska, United States
+1 BURI
+2 DATE JUN 1873
+2 PLAC Fremont, Dodge, Nebraska, United States
+1 FAMS @F38@
+0 @I126@ INDI
+1 NAME Mary Ann /Clark/
+2 GIVN Mary Ann
+2 SURN Clark
+1 SEX F
+1 _UID FC0F64F8FC9941E28AAF9DA8E70FD617802B
+1 _FSFTID KWJ8-KC2
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 5 APR 1852
+2 PLAC Bethelhem, Wayne, Iowa, United States
+1 DEAT
+2 DATE 18 MAY 1936
+2 PLAC Rockland, Power, Idaho, United States
+1 BURI
+2 DATE 21 MAY 1936
+2 PLAC Rockland, Power, Idaho, United States
+1 FAMC @F38@
+0 @I127@ INDI
+1 NAME Lazetta /Clark/
+2 GIVN Lazetta
+2 SURN Clark
+1 SEX F
+1 _UID FBFAF5CAE387489F826BB30A645DE35DB001
+1 _FSFTID LL9F-5DT
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 1856
+2 PLAC Council Bluffs, Pottawattamie, Iowa, United States
+1 DEAT
+1 FAMC @F38@
+0 @I128@ INDI
+1 NAME Olive /Clark/
+2 GIVN Olive
+2 SURN Clark
+1 SEX F
+1 _UID B9EBAE89AA004AFEA5D8E7533260F4737DF4
+1 _FSFTID LKVY-CWX
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 7 MAY 1850
+2 PLAC Glenwood, Mills, Iowa
+1 DEAT
+1 FAMC @F38@
+0 @I129@ INDI
+1 NAME Lucetta Ketura /Clark/
+2 GIVN Lucetta Ketura
+2 SURN Clark
+1 SEX F
+1 _UID 021E346166D64EB18D0AFF00253491F161D1
+1 _FSFTID KWN2-984
+1 CHAN
+2 DATE 1 JUL 2016
+1 BIRT
+2 DATE 9 OCT 1848
+2 PLAC Kanesville, Pottawattamie, Iowa, United States
+1 DEAT
+2 DATE 26 MAY 1900
+2 PLAC Rockland, Power, Idaho, United States
+1 BURI
+2 PLAC Rockland, Power, Idaho, United States
+1 FAMC @F38@
+0 @I130@ INDI
+1 NAME Evan /Evans/
+2 GIVN Evan
+2 SURN Evans
+1 SEX M
+1 _UID 79A4890BFF43465E95AA6541250070EF006C
+1 _FSFTID L4BB-VFM
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 25 DEC 1758
+2 PLAC Vincent Twp, Chester, Pennsylvania, United States
+1 DEAT
+2 DATE AFT 1840
+2 PLAC , Chester, Pennsylvania
+1 FAMS @F39@
+0 @I131@ INDI
+1 NAME Susannah /Reaney/
+2 GIVN Susannah
+2 SURN Reaney
+1 SEX F
+1 _UID 47DCD67D9D744E96B298C4A46126C786F199
+1 _FSFTID L4BB-VFW
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 10 MAR 1765
+2 PLAC Chester, Pennsylvania, United States
+1 DEAT
+2 DATE 4 OCT 1848
+2 PLAC Vincent Twp, Chester, Pennsylvania, United States
+1 FAMS @F39@
+0 @I132@ INDI
+1 NAME Ruby Elnora /Stearns/
+2 GIVN Ruby Elnora
+2 SURN Stearns
+1 SEX F
+1 _UID 44D619EB1BBB434589BF65D53F848EEA3905
+1 _FSFTID LHFT-LVR
+1 CHAN
+2 DATE 2 JUL 2016
+1 NOTE Came West in an unknown company in 1849.
+1 BIRT
+2 DATE 18 MAR 1798
+2 PLAC Leyden, Franklin, Massachusetts, United States
+1 DEAT
+2 DATE 1875
+2 PLAC Farmington, Davis, Utah, United States
+1 FAMS @F41@
+1 FAMC @F40@
+0 @I133@ INDI
+1 NAME Charles /Stearns/
+2 GIVN Charles
+2 SURN Stearns
+1 SEX M
+1 _UID 5ED241DDDA18443C910C325F1B40818A5494
+1 _FSFTID L4QB-P3T
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 19 OCT 1758
+2 PLAC Lynn, Massachusetts, United States
+1 DEAT
+2 DATE 19 MAR 1829
+2 PLAC Henderson Harbor, Jefferson, New York, United States
+1 BURI
+2 PLAC ,Jefferson,New York
+1 FAMS @F40@
+0 @I134@ INDI
+1 NAME Sarah /Norris/
+2 GIVN Sarah
+2 SURN Norris
+1 SEX F
+1 _UID 1E1BAE3DEE4D4F52B8C5F8E34E67BF350103
+1 _FSFTID 2CY3-DCR
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 18 FEB 1766
+2 PLAC Wareham, Plymouth, Massachusetts, United States
+1 DEAT
+2 DATE 19 APR 1839
+2 PLAC Ashtabula, Ashtabula, Ohio, United States
+1 FAMS @F40@
+0 @I135@ INDI
+1 NAME Joseph /White/
+2 GIVN Joseph
+2 SURN White
+1 SEX M
+1 _UID B9C4A3DCE9E74B9D8BD80435679F3BFF90BD
+1 _FSFTID KWV9-BT3
+1 CHAN
+2 DATE 2 JUL 2016
+1 NOTE Served as a Private in Company A in the Mormon Battalion.
+1 BIRT
+2 DATE 30 MAY 1801
+2 PLAC Boston, Suffolk, Massachusetts, United States
+1 DEAT
+2 DATE 18 AUG 1851
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+1 BURI
+2 PLAC Salt Lake Cemetery, Plot: C_8_3_1E, 200 N. Street, Salt Lake City, Salt Lake, Utah Territory, United States
+1 FAMS @F41@
+1 FAMC @F42@
+0 @I136@ INDI
+1 NAME Irena /White/
+2 GIVN Irena
+2 SURN White
+1 SEX F
+1 _UID 76F098A000F54F0FB8A3DC52A29656171F08
+1 _FSFTID KZ64-HV5
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 26 JAN 1840
+2 PLAC Hartsgrove, Ashtabula, Ohio, United States
+1 DEAT
+2 DATE 22 MAY 1841
+2 PLAC Carthage, Hancock, Illinois, United States
+1 FAMC @F41@
+0 @I137@ INDI
+1 NAME Moses /White/
+2 GIVN Moses
+2 SURN White
+1 SEX M
+1 _UID 1CBF62445D0343868A246B4DEA77066DE467
+1 _FSFTID K2Q6-1YT
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 14 JUL 1841
+2 PLAC Carthage, Hancock, Illinois, United States
+1 DEAT
+2 DATE 22 JUL 1841
+2 PLAC Carthage, Hancock, Illinois, United States
+1 FAMC @F41@
+0 @I138@ INDI
+1 NAME Ira Banks /White/
+2 GIVN Ira Banks
+2 SURN White
+1 SEX M
+1 _UID 347003CC7DB14976A8A05BAEA6B9B0E4A4FC
+1 _FSFTID K2Q6-1MM
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 18 FEB 1839
+2 PLAC Hartsgrove, Ashtabula, Ohio, United States
+1 DEAT
+2 DATE 7 SEP 1854
+2 PLAC Farmington, Davis, Utah Territory, United States
+1 BURI
+2 PLAC Farmington City Cemetery, Plot: F-4-11, Farmington, Davis, Utah Territory, United States
+1 FAMC @F41@
+0 @I139@ INDI
+1 NAME Joseph /White/
+2 GIVN Joseph
+2 SURN White
+1 SEX M
+1 _UID 4BEBAB57921342B0AA8BF2020D842B00B490
+1 _FSFTID L7BX-XSP
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 22 DEC 1843
+2 PLAC Carthage, Hancock, Illinois, United States
+1 DEAT
+2 DATE 2 APR 1844
+2 PLAC Carthage, Hancock, Illinois, United States
+1 FAMC @F41@
+0 @I140@ INDI
+1 NAME Robert /White/
+2 GIVN Robert
+2 SURN White
+1 SEX M
+1 _UID D09181C061904FC2A63852E15F791CA851C1
+1 _FSFTID KWZM-RHQ
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 21 NOV 1835
+2 PLAC Hartsgrove, Ashtabula, Ohio, United States
+1 DEAT
+2 DATE 15 DEC 1912
+2 PLAC Indianola, Sanpete, Utah, United States
+1 BURI
+2 DATE 18 DEC 1912
+2 PLAC Spencer Cemetery, Indianola, Sanpete, Utah, United States
+1 FAMC @F41@
+0 @I141@ INDI
+1 NAME Sarah Elnora /White/
+2 GIVN Sarah Elnora
+2 SURN White
+1 SEX F
+1 _UID ECE09386217C4452B6FB4360DDC3320F4D51
+1 _FSFTID KWJ6-HYH
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 18 NOV 1831
+2 PLAC Pamelia, Jefferson, New York, United States
+1 DEAT
+2 DATE 12 JAN 1915
+2 PLAC Farmington, Davis, Utah, United States
+1 BURI
+2 DATE 14 JAN 1915
+2 PLAC Farmington City Cemetery, Plot: F-5-3, 500 South 200 East, Farmington, Davis, Utah, United States
+1 FAMC @F41@
+0 @I142@ INDI
+1 NAME Robert /White/
+2 GIVN Robert
+2 SURN White
+1 SEX M
+1 _UID 79C951943B4D4BAC9377D42DCA7D8D70F531
+1 _FSFTID KF74-1CL
+1 CHAN
+2 DATE 2 JUL 2016
+1 BIRT
+2 DATE 26 MAY 1774
+2 PLAC Western, Worcester, Massachusetts, United States
+1 CHR
+2 DATE 26 MAY 1774
+2 PLAC Warren, Worcester, Massachusetts, United States
+1 DEAT
+2 DATE 11 MAY 1851
+2 PLAC Pamelia, Jefferson, New York, United States
+1 FAMS @F42@
+0 @I143@ INDI
+1 NAME Betsey /Russell/
+2 GIVN Betsey
+2 SURN Russell
+1 SEX F
+1 _UID 581944B8730D4CF6A686DA7FAE16E081D944
+1 _FSFTID L441-XY4
+1 CHAN
+2 DATE 2 JUL 2016
+1 CHR
+2 DATE 17 SEP 1773
+2 PLAC Middleton, Essex, Massachusetts, United States
+1 BIRT
+2 DATE 18 SEP 1773
+2 PLAC of Watertown, Jefferson, New York, United States
+1 DEAT
+2 DATE 31 MAY 1873
+2 PLAC Pamelia, Jefferson, New York, United States
+1 FAMS @F42@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I14@
+1 CHIL @I13@
+1 CHIL @I11@
+1 CHIL @I9@
+1 CHIL @I8@
+1 CHIL @I7@
+1 CHIL @I5@
+1 CHIL @I6@
+1 CHIL @I10@
+1 CHIL @I12@
+1 MARR
+2 DATE 7 MAR 1824
+2 PLAC Bolton le Moors St Peter, Lancashire, England
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I2@
+0 @F3@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I1@
+0 @F4@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I29@
+1 CHIL @I28@
+1 CHIL @I26@
+1 CHIL @I24@
+1 CHIL @I23@
+1 CHIL @I22@
+1 CHIL @I21@
+1 CHIL @I25@
+1 CHIL @I27@
+1 MARR
+2 DATE 21 NOV 1826
+2 PLAC Hillsborough, Hillsborough, New Hampshire, United States
+0 @F5@ FAM
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I17@
+0 @F6@ FAM
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I18@
+0 @F7@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 MARR
+2 DATE 21 JUN 1827
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+0 @F8@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I33@
+0 @F9@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I32@
+0 @F10@ FAM
+1 HUSB @I32@
+1 WIFE @I38@
+1 CHIL @I39@
+1 MARR
+2 DATE ABT 1833
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+0 @F11@ FAM
+1 HUSB @I32@
+1 WIFE @I40@
+1 CHIL @I42@
+1 CHIL @I54@
+1 CHIL @I53@
+1 CHIL @I51@
+1 CHIL @I43@
+1 CHIL @I52@
+0 @F12@ FAM
+1 HUSB @I44@
+1 WIFE @I33@
+1 CHIL @I46@
+1 CHIL @I45@
+1 MARR
+2 DATE 21 JUN 1827
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, United States
+0 @F13@ FAM
+1 HUSB @I47@
+1 WIFE @I48@
+1 CHIL @I44@
+0 @F14@ FAM
+1 HUSB @I49@
+1 WIFE @I50@
+1 CHIL @I40@
+0 @F15@ FAM
+1 HUSB @I55@
+1 WIFE @I56@
+1 CHIL @I64@
+1 CHIL @I63@
+1 CHIL @I61@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I62@
+1 MARR
+2 DATE 22 MAR 1832
+2 PLAC Kirtland, Geauga, Ohio, United States
+0 @F16@ FAM
+1 HUSB @I57@
+1 WIFE @I58@
+1 CHIL @I55@
+0 @F17@ FAM
+1 HUSB @I55@
+1 WIFE @I65@
+1 MARR
+2 DATE 19 NOV 1847
+2 PLAC Winter Quarters, Douglas, NE
+0 @F18@ FAM
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I56@
+0 @F19@ FAM
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I72@
+1 CHIL @I71@
+1 CHIL @I70@
+1 MARR
+2 DATE 6 FEB 1846
+2 PLAC Nauvoo, Hancock, Illinois, United States
+0 @F20@ FAM
+1 HUSB @I73@
+1 WIFE @I74@
+1 CHIL @I79@
+1 CHIL @I69@
+0 @F21@ FAM
+1 HUSB @I75@
+1 CHIL @I68@
+0 @F22@ FAM
+1 HUSB @I72@
+1 WIFE @I76@
+0 @F23@ FAM
+1 HUSB @I71@
+1 WIFE @I77@
+1 MARR
+2 DATE 26 JUL 1878
+2 PLAC Franklin, Onieda, Idaho
+0 @F24@ FAM
+1 HUSB @I79@
+1 WIFE @I80@
+1 CHIL @I78@
+1 MARR
+2 DATE 1 SEP 1845
+0 @F25@ FAM
+1 HUSB @I81@
+1 WIFE @I82@
+1 CHIL @I80@
+0 @F26@ FAM
+1 HUSB @I83@
+1 WIFE @I80@
+1 CHIL @I84@
+1 CHIL @I85@
+0 @F27@ FAM
+1 HUSB @I87@
+1 WIFE @I86@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I97@
+1 CHIL @I98@
+1 CHIL @I99@
+1 CHIL @I100@
+1 CHIL @I101@
+1 CHIL @I102@
+1 CHIL @I103@
+1 MARR
+2 DATE 1802
+0 @F28@ FAM
+1 HUSB @I88@
+1 WIFE @I94@
+1 CHIL @I87@
+0 @F29@ FAM
+1 HUSB @I89@
+1 WIFE @I86@
+1 MARR
+2 DATE 1863
+2 PLAC Salt Lake City, Salt Lake, Utah Territory, United States
+0 @F30@ FAM
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I89@
+0 @F31@ FAM
+1 HUSB @I92@
+1 WIFE @I93@
+1 CHIL @I86@
+0 @F32@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I104@
+0 @F33@ FAM
+1 HUSB @I104@
+1 WIFE @I107@
+1 CHIL @I109@
+1 CHIL @I110@
+1 CHIL @I108@
+1 MARR
+2 DATE 18 FEB 1847
+2 PLAC Winter Quarters, Douglas, Nebraska Territory, United States
+0 @F34@ FAM
+1 HUSB @I111@
+1 WIFE @I112@
+1 CHIL @I107@
+0 @F35@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I124@
+1 CHIL @I123@
+1 CHIL @I121@
+1 CHIL @I120@
+1 CHIL @I122@
+1 MARR
+2 DATE 1833
+2 PLAC Pennsylvania, United States
+1 MARR
+2 DATE 30 JAN 1834
+2 PLAC , Chester, Pennsylvania
+0 @F36@ FAM
+1 HUSB @I115@
+1 WIFE @I116@
+1 CHIL @I114@
+0 @F37@ FAM
+1 HUSB @I117@
+1 WIFE @I114@
+1 CHIL @I119@
+1 CHIL @I118@
+1 MARR
+2 DATE 9 APR 1826
+2 PLAC East Nantmeal, Chester, Pennsylvania, United States
+0 @F38@ FAM
+1 HUSB @I125@
+1 WIFE @I114@
+1 CHIL @I129@
+1 CHIL @I128@
+1 CHIL @I126@
+1 CHIL @I127@
+1 MARR
+2 DATE ABT 1847
+2 PLAC Pottawattamie, Iowa, United States
+0 @F39@ FAM
+1 HUSB @I130@
+1 WIFE @I131@
+1 CHIL @I113@
+0 @F40@ FAM
+1 HUSB @I133@
+1 WIFE @I134@
+1 CHIL @I132@
+0 @F41@ FAM
+1 HUSB @I135@
+1 WIFE @I132@
+1 CHIL @I141@
+1 CHIL @I140@
+1 CHIL @I138@
+1 CHIL @I136@
+1 CHIL @I137@
+1 CHIL @I139@
+1 MARR
+2 DATE 5 JUL 1829
+2 PLAC Kensington, Hartford, Connecticut,USA
+0 @F42@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+1 CHIL @I135@
+0 TRLR

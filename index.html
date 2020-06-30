@@ -1,35 +1,63 @@
-
 <!DOCTYPE html>
 
 <html lang="en" id="html">
+
 <head>
     <script async src="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.css" media="all">
+    <link rel="stylesheet" href="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.css"
+        media="all">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/site.css" rel="stylesheet">
     <title>Winter Quarters</title>
+    <style>
+        .quote-overlay {
+            position: absolute;
+            width: 125px;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 15px;
+            margin: 15px;
+            top: 0px;
+            font: italic 13px/18px Georgia, "Times New Roman", Times, serif;
+            color: #4d5259;
+        }
+    </style>
 </head>
-<body>
-<div class="containing-element">
-    <byu-header>
-        <span slot="site-title">Winter Quarters</span>
-        
-        <byu-menu slot="nav">
-            <a href="index.html" class="active">Home</a>
-            <a href="/about/">About</a>
-            <a href="/deaths/">Deaths</a>
-            <a href="/cemeteries/">Cemeteries</a>
-            <a href="/settlements/">Settlements</a>
-            <a href="/links/">Links</a>
-            <a href="/maps/">Maps</a>
-            <a href="/contact/"></a>
 
-        </byu-menu>
-    </byu-header>
-    <div class="page-content">
-        This site is maintained by students and faculty at Brigham Young University in Provo, Utah. The Winter Quarters Project, an independent research venture, has no official affiliation with Brigham Young University or The Church of Jesus Christ of Latter-day Saints. For questions or comments please contact the project lead. © The Winter Quarters Project, 2007
+<body>
+    <div class="containing-element">
+        <byu-header>
+            <span slot="site-title">Winter Quarters</span>
+
+            <byu-menu slot="nav">
+                <a href="/index.html" class="active">Home</a>
+                <a href="/about/">About</a>
+                <a href="/deaths/">Deaths</a>
+                <a href="/cemeteries/">Cemeteries</a>
+                <a href="/settlements/">Settlements</a>
+                <a href="/links/index.html">Links</a>
+                <a href="/maps/index.html">Maps</a>
+                <a href="/videos/index.html">Videos</a>
+            </byu-menu>
+        </byu-header>
+        <div class="page-content">
+            <p>&nbsp;</p>
+            <h1>Welcome to Winter Quarters</h1>
+            <div style="position: relative;">
+                <img alt="temple" src="/images/about/temple.jpg">
+                <div class="quote-overlay">
+                    <p>That the struggles, the sacrifices, and the sufferings of the faithful pioneers and the cause
+                        they represented shall never be forgotten.</p>
+                    <p>~Winter Quarters Monument</p>
+                </div>
+            </div>
+            <p> This site is maintained by students and faculty at Brigham Young University in Provo, Utah. The Winter
+                Quarters Project, an independent research venture, has no official affiliation with Brigham Young
+                University or The Church of Jesus Christ of Latter-day Saints. For questions or comments please contact
+                the project lead. © The Winter Quarters Project, 2007</p>
+        </div>
+        <p>&nbsp;</p>
+        <byu-footer></byu-footer>
     </div>
-    <byu-footer></byu-footer>
-</div>
 </body>
+
 </html>

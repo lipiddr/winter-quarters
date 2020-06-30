@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+
+<html lang="en" id="html">
+<head>
+    <script async src="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.css" media="all">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/site.css" rel="stylesheet">
+    <title>Winter Quarters</title>
+    <style>
+        .expansion-box:hover {
+            cursor: pointer;
+        }
+
+        .expansion-box {
+            box-sizing: border-box;
+            padding: 8px;
+            transition: .2s;
+            border-bottom: 1px solid lightgray;
+        }
+
+        .expansion-box p {
+            margin: 0;
+            padding: 8px;
+            /* padding-left: px; */
+        }
+
+        .expansion-box-content {
+            max-height: 0px;
+            transition: .2s;
+            overflow: hidden;
+            padding-left: 8px;
+        }
+
+        .expansion-box.open .expansion-box-content {
+            max-height: 800px !important;
+        }
+
+        #centering-container {
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+        }
+
+        #locations-list {
+            box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+            border-radius: 4px;
+        }
+
+        
+        .styled-input {
+            border: 1px solid grey;
+            margin-bottom: 8px;
+            position: relative;
+            border-radius: 4px;
+            padding-top: 8px;
+            box-sizing: border-box;
+            width: 240px;
+        }
+
+        .styled-input input {
+            border: none;
+            width: 100%;
+            font-size: 14px;
+            padding-left: 10px;
+            box-sizing: border-box;
+        }
+
+        .styled-input span {
+            position: absolute;
+            left: 6px;
+            top: -8px;
+            background-color: white;
+            padding: 0 4px;
+            font-size: 12px;
+            color: grey;
+        }
+    </style>
+</head>
+<body>
+<div class="containing-element">
+    <byu-header>
+        <span slot="site-title">Winter Quarters</span>
+        
+        <byu-menu slot="nav">
+            <a href="/index.html">Home</a>
+            <a href="/about/">About</a>
+            <a href="/deaths/">Deaths</a>
+            <a href="/cemeteries/" class="active">Cemeteries</a>
+            <a href="/settlements/">Settlements</a>
+            <a href="/links/index.html">Links</a>
+            <a href="/maps/index.html">Maps</a>
+            <a href="/videos/index.html">Videos</a>
+        </byu-menu>
+    </byu-header>
+    <div id="centering-container" > 
+        <div class="page-content">
+            <h1>Cemetery Locations</h1>
+
+            <div class="styled-input" >
+                <input id="search-box">
+                <span>Search Cemetery Name</span>
+            </div>
+
+            <div id="locations-list">
+
+            </div>
+        </div>
+    </div>
+    <byu-footer></byu-footer>
+</div>
+</body>
+<script>
+    const getData = () => {
+        const url = '../cemetery-locations.json'
+        const head = {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        }
+        return fetch(url, head)
+        .then(b => b.json())
+    }
+
+    const searchData = word => {
+        const data = JSON.parse(localStorage['cemeteryLocationData'])
+
+        const filtered = data.filter(cemetery => {
+            return cemetery['Cemetery Name'].toLowerCase().includes(word.toLowerCase())
+        })
+
+        fillData(filtered)
+    }
+
+    const fillData = data => {
+
+        const parent = document.getElementById('locations-list')
+
+        parent.innerHTML = ''
+
+        data.forEach(cemetery => {
+          const toAdd = 
+          `<div class='expansion-box'>`
+            + `<a name="${cemetery['Cemetery Name']}" id="${cemetery['Cemetery Name']}">`
+            + `<p>${cemetery['Cemetery Name']}</p>` 
+            + `<div class='expansion-box-content' >`
+                + `<div>Location: ${cemetery['Location']}</div>`
+                + `<div>Coordinates: ${cemetery['Coordinates']} </div>`
+                + '<br>'
+                + `<div>${cemetery['About']}</div>`
+                + '<br>'
+                + `<a href="${cemetery['More Information']}" target="_blank" >More Information</a>`
+            + `</div>` 
+          +`<div>`
+
+          parent.innerHTML += toAdd
+        })
+
+        document.querySelectorAll('.expansion-box').forEach(div => {
+            div.addEventListener('click', e => {
+                e.currentTarget.classList.toggle('open')
+            })
+        })
+    }
+
+    window.onload = () => {
+        getData()
+        .then(data => {
+            const sorted = data.sort((a, b) => {
+                if(a['Cemetery Name'] > b['Cemetery Name']) return 1
+                return -1
+            })
+            localStorage['cemeteryLocationData'] = JSON.stringify(sorted)
+            fillData(sorted)
+
+            const url = window.location.href
+            const URLsplit = url.split('#')
+            if(URLsplit.length > 1) {
+                const scrollToElement = document.getElementById(URLsplit[1].replace('%20', ' '))
+                scrollToElement.scrollIntoView()
+            } 
+        })
+
+        document.getElementById('search-box').addEventListener('keyup', e => searchData(e.target.value))
+    }
+</script>
+</html>
